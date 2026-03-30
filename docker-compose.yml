@@ -3,6 +3,7 @@ version: '3.9'
 services:
   db:
     image: pgvector/pgvector:pg16
+    container_name: garimpogov_db
     environment:
       POSTGRES_USER: garimpogov
       POSTGRES_PASSWORD: garimpogov
@@ -10,19 +11,47 @@ services:
     ports:
       - '5432:5432'
     volumes:
-      - pgdata:/var/lib/postgresql/data
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U garimpogov']
+      interval: 5s
+      timeout: 5s
+      retries: 5
 
   backend:
-    build: ./backend
-    depends_on:
-      - db
-    env_file:
-      - ./backend/.env
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: garimpogov_backend
+    environment:
+      DATABASE_URL: postgresql+asyncpg://garimpogov:garimpogov@db:5432/garimpogov
+      GEMINI_API_KEY: ${GEMINI_API_KEY}
+      R2_ACCESS_KEY_ID: ${R2_ACCESS_KEY_ID:-}
+      R2_SECRET_ACCESS_KEY: ${R2_SECRET_ACCESS_KEY:-}
+      R2_ENDPOINT_URL: ${R2_ENDPOINT_URL:-}
+      R2_BUCKET_NAME: ${R2_BUCKET_NAME:-garimpogov-editais}
+      FRONTEND_ORIGIN: http://localhost:5173
     ports:
       - '8000:8000'
+    depends_on:
+      db:
+        condition: service_healthy
     volumes:
       - ./backend:/app
-    command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+
+  frontend:
+    image: node:18-alpine
+    container_name: garimpogov_frontend
+    working_dir: /app
+    command: sh -c 'npm install && npm run dev -- --host'
+    environment:
+      VITE_API_URL: http://localhost:8000
+    ports:
+      - '5173:5173'
+    volumes:
+      - ./frontend:/app
+    depends_on:
+      - backend
 
 volumes:
-  pgdata:
+  postgres_data:

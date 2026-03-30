@@ -1,106 +1,202 @@
-# GarimpoGov 🔍
+# GarimpoGov
 
-Plataforma de monitoramento de editais de concursos públicos com IA.
+> Plataforma de monitoramento de editais de concursos publicos com Inteligencia Artificial
 
-Realiza ETL diário via web scraping, processa PDFs em um pipeline RAG, armazena dados no PostgreSQL com pgvector e oferece uma interface React com chat inteligente.
+GarimpoGov realiza scraping diario de sites de concursos, processa os PDFs dos editais em um pipeline RAG (Retrieval-Augmented Generation), armazena vetores no PostgreSQL com pgvector e oferece uma interface React com chat por IA para consultar os editais.
+
+## Arquitetura
+
+```
+[GitHub Actions (cron diario)]
+        |
+        v
+[Scraper (PCI Concursos + Gemini)]
+        |
+        v
+[PDF Processor -> Cloudflare R2]
+        |
+        v
+[Embeddings (text-embedding-004) -> PostgreSQL + pgvector]
+        |
+        v
+[FastAPI Backend (RAG + SSE Chat)] <-- [React Frontend]
+```
 
 ## Stack
 
-- **Backend**: FastAPI + SQLAlchemy (async) + PostgreSQL + pgvector
-- **AI**: Google Gemini Flash (chat) + text-embedding-004 (embeddings)
-- **Storage**: Cloudflare R2 (PDFs)
-- **Frontend**: React + TypeScript + Vite + TailwindCSS
-- **CI/CD**: GitHub Actions (ingestion diária + deploy)
+| Camada | Tecnologia |
+|---|---|
+| Backend | FastAPI + Python 3.11 |
+| Banco de dados | PostgreSQL 16 + pgvector |
+| Embeddings / LLM | Google Gemini (text-embedding-004 + gemini-1.5-flash) |
+| Armazenamento PDFs | Cloudflare R2 |
+| Frontend | React 18 + TypeScript + Vite + TailwindCSS |
+| Deploy | Railway |
+| CI/CD | GitHub Actions |
 
-## Pré-requisitos
+## Pre-requisitos
 
 - Python 3.11+
 - Node.js 18+
-- PostgreSQL 15+ com extensão `pgvector`
-- Conta Cloudflare R2 (ou compatível S3)
-- Chave de API Google Gemini
+- PostgreSQL 16 com extensao `pgvector` (ou Docker)
+- Conta Google AI Studio (Gemini API Key)
+- Conta Cloudflare R2 (opcional para armazenar PDFs)
 
-## Configuração Local
+## Rodando Localmente
 
-### Backend
+### 1. Clone e configure o banco
+
+```bash
+git clone https://github.com/ElioNeto/garimpogov.git
+cd garimpogov
+
+# Subir PostgreSQL com pgvector via Docker
+docker run -d \
+  --name garimpogov_db \
+  -e POSTGRES_USER=garimpogov \
+  -e POSTGRES_PASSWORD=garimpogov \
+  -e POSTGRES_DB=garimpogov \
+  -p 5432:5432 \
+  pgvector/pgvector:pg16
+```
+
+### 2. Backend
 
 ```bash
 cd backend
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
+
 pip install -r requirements.txt
+
+# Configurar variaveis de ambiente
 cp .env.example .env
-# Edite .env com suas credenciais
-uvicorn app.main:app --reload
-```
+# Editar .env com suas credenciais
 
-O backend estará disponível em: http://localhost:8000
-
-Documentação interativa (Swagger): http://localhost:8000/docs
-
-### Banco de Dados (Migrations)
-
-```bash
-cd backend
+# Rodar migrations
 alembic upgrade head
+
+# Iniciar servidor
+uvicorn app.main:app --reload
+# API disponivel em http://localhost:8000
+# Docs em http://localhost:8000/docs
 ```
 
-### Frontend
+### 3. Frontend
 
 ```bash
 cd frontend
+cp .env.example .env
+# Ajustar VITE_API_URL se necessario
+
 npm install
-cp .env.example .env.local
-# Edite .env.local com VITE_API_URL=http://localhost:8000
 npm run dev
+# Frontend disponivel em http://localhost:5173
 ```
 
-O frontend estará disponível em: http://localhost:5173
+### 4. Docker Compose (alternativa)
 
-### Executar Ingestion Manualmente
+```bash
+# Na raiz do projeto
+cp backend/.env.example backend/.env
+# Editar backend/.env
+
+docker compose up --build
+```
+
+## Rodando a Ingestao Manualmente
 
 ```bash
 cd backend
-python scripts/scraper.py
-python scripts/pdf_processor.py
-python scripts/vector_store.py
+source .venv/bin/activate
+
+# Certifique-se que as variaveis de ambiente estao setadas
+export DATABASE_URL=postgresql+asyncpg://garimpogov:garimpogov@localhost:5432/garimpogov
+export GEMINI_API_KEY=sua_chave_aqui
+export R2_ACCESS_KEY_ID=...
+export R2_SECRET_ACCESS_KEY=...
+export R2_ENDPOINT_URL=...
+export R2_BUCKET_NAME=garimpogov-editais
+
+python scripts/run_ingestion.py
 ```
 
-## Variáveis de Ambiente
+## Configurando GitHub Secrets
 
-Veja `backend/.env.example` para a lista completa de variáveis necessárias.
+Para o workflow de ingestao automatica funcionar, adicione os seguintes secrets no repositorio GitHub:
 
-## Deploy (Railway)
+**Settings > Secrets and variables > Actions > New repository secret**
 
-1. Faça push para `main`.
-2. O GitHub Actions acionará o deploy automático no Railway (configure os secrets abaixo).
-
-## Secrets do GitHub (obrigatórios)
-
-Adicione os seguintes secrets em **Settings → Secrets and variables → Actions**:
-
-| Secret | Descrição |
+| Secret | Descricao |
 |---|---|
-| `DATABASE_URL` | URL de conexão PostgreSQL |
-| `GEMINI_API_KEY` | Chave de API Google Gemini |
-| `R2_ACCESS_KEY_ID` | Cloudflare R2 Access Key |
-| `R2_SECRET_ACCESS_KEY` | Cloudflare R2 Secret Key |
-| `R2_ENDPOINT_URL` | Endpoint R2 (ex: https://xxx.r2.cloudflarestorage.com) |
+| `DATABASE_URL` | URL de conexao PostgreSQL (ex: Railway) |
+| `GEMINI_API_KEY` | Chave da API Gemini (Google AI Studio) |
+| `R2_ACCESS_KEY_ID` | Access Key do Cloudflare R2 |
+| `R2_SECRET_ACCESS_KEY` | Secret Key do Cloudflare R2 |
+| `R2_ENDPOINT_URL` | Endpoint do bucket R2 |
 | `R2_BUCKET_NAME` | Nome do bucket R2 |
-| `FRONTEND_ORIGIN` | URL do frontend (ex: https://garimpogov.up.railway.app) |
+| `RAILWAY_TOKEN` | Token do Railway (para deploy automatico) |
+| `VITE_API_URL` | URL da API em producao |
 
-## Arquitetura
+## Deploy no Railway
+
+### Backend
+
+1. Crie um novo projeto no [Railway](https://railway.app)
+2. Adicione um servico PostgreSQL
+3. Adicione um servico a partir do repositorio GitHub (pasta `backend`)
+4. Configure as variaveis de ambiente (copie do `.env.example`)
+5. O Railway detecta automaticamente o `Dockerfile`
+
+### Frontend
+
+1. Adicione outro servico no mesmo projeto Railway
+2. Aponte para a pasta `frontend`
+3. Configure `VITE_API_URL` com a URL do backend
+
+## Estrutura do Projeto
 
 ```
-[GitHub Actions (Cron)]
-       |
-       v
-[Scraper] → [PDF Processor] → [Vector Store]
-                  |                  |
-                  v                  v
-           [Cloudflare R2]    [PostgreSQL + pgvector]
-                                     |
-                              [FastAPI Backend]
-                                     |
-                              [React Frontend]
+garimpogov/
+├── backend/
+│   ├── app/
+│   │   ├── api/           # Endpoints FastAPI
+│   │   ├── core/          # Config e database
+│   │   ├── models/        # SQLAlchemy models
+│   │   ├── schemas/       # Pydantic schemas
+│   │   ├── services/      # Logica RAG
+│   │   └── main.py
+│   ├── scripts/           # Pipeline de ingestao
+│   ├── alembic/           # Migrations
+│   └── requirements.txt
+├── frontend/
+│   └── src/
+│       ├── components/    # React components
+│       ├── pages/         # Paginas
+│       ├── services/      # API client
+│       └── hooks/         # Custom hooks
+└── .github/
+    └── workflows/         # GitHub Actions
 ```
+
+## API Endpoints
+
+| Metodo | Endpoint | Descricao |
+|---|---|---|
+| GET | `/health` | Health check |
+| GET | `/concursos` | Listar concursos (paginado, filtros) |
+| GET | `/concursos/{id}` | Detalhes de um concurso |
+| POST | `/chat/{concurso_id}` | Chat com edital via SSE |
+
+### Filtros em GET /concursos
+
+- `orgao` - Filtrar por orgao (busca parcial)
+- `status` - `aberto` | `encerrado` | `suspenso`
+- `salario_min` - Salario minimo
+- `salario_max` - Salario maximo
+- `page` - Numero da pagina (default: 1)
+- `page_size` - Resultados por pagina (default: 20, max: 100)
+
+## Licenca
+
+MIT
