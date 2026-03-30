@@ -21,6 +21,9 @@ logger = logging.getLogger(__name__)
 
 genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 
+# gemini-2.5-flash-lite: melhor free tier (15 RPM, 1000 RPD)
+GEMINI_MODEL = "gemini-2.5-flash-lite"
+
 SOURCES = [
     {
         "name": "PCI Concursos",
@@ -69,11 +72,10 @@ HTML:
 {html_snippet[:8000]}
 """
 
-    model = genai.GenerativeModel("gemini-2.0-flash")
+    model = genai.GenerativeModel(GEMINI_MODEL)
     response = model.generate_content(prompt)
     text = response.text.strip()
 
-    # Clean possible markdown code fences
     if text.startswith("```"):
         text = text.split("```")[1]
         if text.startswith("json"):
