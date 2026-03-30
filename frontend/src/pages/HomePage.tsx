@@ -1,46 +1,29 @@
-import { useEffect, useState } from 'react'
-import { Search, Sparkles } from 'lucide-react'
+import { useState } from 'react'
+import { Sparkles } from 'lucide-react'
 import FiltersPanel from '../components/FiltersPanel'
 import ConcursoList from '../components/ConcursoList'
 import ChatModal from '../components/ChatModal'
-import { getConcursos } from '../services/api'
-import type { Concurso, ConcursoFilters, PaginatedConcursos } from '../services/api'
+import type { Concurso, ConcursoFilters } from '../services/api'
+import { useConcursos } from '../hooks/useConcursos'
 
 export default function HomePage() {
-  const [data, setData] = useState<PaginatedConcursos | null>(null)
-  const [loading, setLoading] = useState(false)
-  const [error, setError] = useState<string | null>(null)
-  const [filters, setFilters] = useState<ConcursoFilters>({ page: 1 })
+  const [filters, setFilters] = useState<ConcursoFilters>({})
   const [selectedConcurso, setSelectedConcurso] = useState<Concurso | null>(null)
   const [chatOpen, setChatOpen] = useState(false)
 
-  async function fetchConcursos(newFilters: ConcursoFilters) {
-    setLoading(true)
-    setError(null)
-    try {
-      const result = await getConcursos(newFilters)
-      setData(result)
-    } catch (err) {
-      setError('Erro ao carregar concursos. Verifique a conexao com a API.')
-    } finally {
-      setLoading(false)
-    }
-  }
-
-  useEffect(() => {
-    fetchConcursos(filters)
-  }, [])
+  const {
+    concursos,
+    total,
+    page,
+    pageSize,
+    totalPages,
+    loading,
+    error,
+    goToPage,
+  } = useConcursos(filters)
 
   function handleFilter(newFilters: ConcursoFilters) {
-    const merged = { ...filters, ...newFilters, page: 1 }
-    setFilters(merged)
-    fetchConcursos(merged)
-  }
-
-  function handlePageChange(page: number) {
-    const merged = { ...filters, page }
-    setFilters(merged)
-    fetchConcursos(merged)
+    setFilters(newFilters)
   }
 
   function handleChat(concurso: Concurso) {
@@ -59,7 +42,7 @@ export default function HomePage() {
           <h1 className="text-3xl font-bold text-gray-900">GarimpoGov</h1>
         </div>
         <p className="text-gray-600 max-w-xl mx-auto">
-          Monitore editais de concursos publicos com inteligencia artificial.
+          Monitore editais de concursos públicos com inteligência artificial.
           Busque, filtre e converse diretamente com os editais.
         </p>
       </header>
@@ -71,11 +54,16 @@ export default function HomePage() {
       )}
 
       <FiltersPanel onFilter={handleFilter} loading={loading} />
+
       <ConcursoList
-        data={data}
+        concursos={concursos}
+        total={total}
+        page={page}
+        pageSize={pageSize}
+        totalPages={totalPages}
         loading={loading}
         onChat={handleChat}
-        onPageChange={handlePageChange}
+        onPageChange={goToPage}
       />
 
       <ChatModal

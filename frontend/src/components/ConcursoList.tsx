@@ -1,71 +1,82 @@
-import { FileSearch } from 'lucide-react'
 import ConcursoCard from './ConcursoCard'
-import type { Concurso, PaginatedConcursos } from '../services/api'
+import type { Concurso } from '../services/api'
 
 interface ConcursoListProps {
-  data: PaginatedConcursos | null
+  concursos: Concurso[]
+  total: number
+  page: number
+  pageSize: number
+  totalPages: number
   loading: boolean
   onChat: (concurso: Concurso) => void
   onPageChange: (page: number) => void
 }
 
-export default function ConcursoList({ data, loading, onChat, onPageChange }: ConcursoListProps) {
+export default function ConcursoList({
+  concursos,
+  total,
+  page,
+  pageSize,
+  totalPages,
+  loading,
+  onChat,
+  onPageChange,
+}: ConcursoListProps) {
   if (loading) {
     return (
-      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
-        {[...Array(6)].map((_, i) => (
-          <div key={i} className="card p-5 animate-pulse">
-            <div className="h-4 bg-gray-200 rounded w-3/4 mb-3"></div>
-            <div className="h-3 bg-gray-200 rounded w-1/2 mb-2"></div>
-            <div className="h-3 bg-gray-200 rounded w-2/3"></div>
+      <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        {Array.from({ length: 6 }).map((_, i) => (
+          <div key={i} className="card animate-pulse">
+            <div className="h-5 bg-gray-200 rounded w-3/4 mb-3" />
+            <div className="h-4 bg-gray-200 rounded w-1/2 mb-2" />
+            <div className="h-4 bg-gray-200 rounded w-1/3" />
           </div>
         ))}
       </div>
     )
   }
 
-  if (!data || data.items.length === 0) {
+  if (!loading && concursos.length === 0) {
     return (
-      <div className="text-center py-16 text-gray-500">
-        <FileSearch className="w-12 h-12 mx-auto mb-3 opacity-40" />
-        <p className="font-medium">Nenhum concurso encontrado</p>
-        <p className="text-sm mt-1">Tente ajustar os filtros</p>
+      <div className="mt-12 text-center text-gray-500">
+        <p className="text-lg font-medium">Nenhum concurso encontrado.</p>
+        <p className="text-sm mt-1">Tente ajustar os filtros.</p>
       </div>
     )
   }
 
-  const totalPages = Math.ceil(data.total / data.page_size)
-
   return (
-    <div>
+    <div className="mt-6">
       <p className="text-sm text-gray-500 mb-4">
-        {data.total} concurso{data.total !== 1 ? 's' : ''} encontrado{data.total !== 1 ? 's' : ''}
+        {total} concurso{total !== 1 ? 's' : ''} encontrado{total !== 1 ? 's' : ''}
+        {totalPages > 1 && ` — página ${page} de ${totalPages}`}
       </p>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
-        {data.items.map((concurso) => (
-          <ConcursoCard key={concurso.id} concurso={concurso} onChat={onChat} />
+      <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        {concursos.map((c) => (
+          <ConcursoCard key={c.id} concurso={c} onChat={onChat} />
         ))}
       </div>
 
+      {/* Pagination */}
       {totalPages > 1 && (
-        <div className="flex justify-center gap-2 mt-8">
+        <div className="mt-8 flex items-center justify-center gap-2">
           <button
-            onClick={() => onPageChange(data.page - 1)}
-            disabled={data.page <= 1}
-            className="btn-secondary text-sm disabled:opacity-40 disabled:cursor-not-allowed"
+            onClick={() => onPageChange(page - 1)}
+            disabled={page <= 1}
+            className="px-4 py-2 rounded-lg border border-gray-300 text-sm font-medium disabled:opacity-40 hover:bg-gray-50 transition-colors"
           >
             Anterior
           </button>
           <span className="px-4 py-2 text-sm text-gray-600">
-            Pagina {data.page} de {totalPages}
+            {page} / {totalPages}
           </span>
           <button
-            onClick={() => onPageChange(data.page + 1)}
-            disabled={data.page >= totalPages}
-            className="btn-secondary text-sm disabled:opacity-40 disabled:cursor-not-allowed"
+            onClick={() => onPageChange(page + 1)}
+            disabled={page >= totalPages}
+            className="px-4 py-2 rounded-lg border border-gray-300 text-sm font-medium disabled:opacity-40 hover:bg-gray-50 transition-colors"
           >
-            Proxima
+            Próxima
           </button>
         </div>
       )}
