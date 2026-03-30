@@ -1,17 +1,16 @@
 """Scraper module for GarimpoGov.
 
-Currently targets PCI Concursos (https://www.pciconcursos.com.br) as a starting point.
-Extends by adding more sources in the SOURCES list.
-
-Extracts links directly from HTML, then uses Gemini only to parse structured data.
+PCI Concursos retorna texto puro (sem links HTML) via requests.
+Estrategia: parsear o texto estruturado diretamente com regex.
+Link do edital: URL de busca no PCI baseada no nome da instituicao.
 """
 import json
 import logging
 import os
 import re
 import time
+from urllib.parse import quote_plus
 
-import google.generativeai as genai
 import requests
 from bs4 import BeautifulSoup
 from tenacity import retry, stop_after_attempt, wait_exponential
@@ -19,15 +18,13 @@ from tenacity import retry, stop_after_attempt, wait_exponential
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-
-GEMINI_MODEL = "gemini-2.5-flash-lite"
 BASE_URL = "https://www.pciconcursos.com.br"
+SEARCH_URL = BASE_URL + "/concursos/?q="
 
 SOURCES = [
     {
         "name": "PCI Concursos",
-        "url": "https://www.pciconcursos.com.br/concursos/",
+        "url": BASE_URL + "/concursos/",
     },
 ]
 
@@ -39,6 +36,11 @@ HEADERS = {
     )
 }
 
+STATES = (
+    "AC|AL|AP|AM|BA|CE|DF|ES|GO|MA|MT|MS|MG"
+    "|PA|PB|PR|PE|PI|RJ|RN|RS|RO|RR|SC|SP|SE|TO"
+)
+
 
 @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=2, max=10))
 def fetch_page(url: str) -> str:
@@ -48,83 +50,124 @@ def fetch_page(url: str) -> str:
     return response.text
 
 
-def parse_pci_concursos(html: str) -> list[dict]:
+def parse_pci_text(html: str) -> list[dict]:
     """
-    Parse PCI Concursos HTML directly.
-    Each concurso entry is a <a> tag linking to /concurso/<slug>/
-    with surrounding text containing institution, cargo, salary, deadline.
+    Parseia o texto da pagina PCI Concursos.
+    Cada bloco de concurso tem o padrao:
+      Nome da Instituicao
+      [UF]  (opcional, para concursos estaduais)
+      [X vagas] [ate R$ Y,YY]
+      Cargos
+      Nivel
+      DD/MM/YYYY  (data encerramento)
     """
     soup = BeautifulSoup(html, "lxml")
+    # Remove scripts e estilos
+    for tag in soup(["script", "style", "nav", "footer", "header"]):
+        tag.decompose()
+
+    text = soup.get_text(separator="\n", strip=True)
+    lines = [l.strip() for l in text.splitlines() if l.strip()]
+
     concursos = []
+    i = 0
+    date_pattern = re.compile(r"^\d{2}/\d{2}/\d{4}")
+    salary_pattern = re.compile(r"R\$\s?[\d\.]+,\d{2}")
+    vagas_pattern = re.compile(r"(\d+)\s+vaga")
+    state_pattern = re.compile(rf"^({STATES})$")
 
-    # PCI Concursos: each entry is a table row or div containing an anchor
-    # to /concurso/ paths. We find all anchors pointing to concurso pages.
-    links = soup.find_all("a", href=re.compile(r"/concurso/"))
-    logger.info(f"Found {len(links)} anchor links to concurso pages")
+    while i < len(lines):
+        line = lines[i]
 
-    for a_tag in links:
-        href = a_tag.get("href", "")
-        if not href:
-            continue
+        # Linha de data indica fim de um bloco de concurso
+        # Tentamos capturar o bloco das linhas anteriores
+        if date_pattern.match(line):
+            # Retroage para montar o bloco: pega ate 6 linhas anteriores
+            start = max(0, i - 6)
+            block = lines[start:i + 1]
 
-        # Build full URL
-        if href.startswith("http"):
-            full_url = href
-        else:
-            full_url = BASE_URL + href
+            # Instituicao: primeira linha do bloco que nao seja UF, vaga, salario ou nivel
+            instituicao = None
+            orgao = None
+            cargos = []
+            salario = None
+            vagas_count = None
 
-        # The institution name is usually the anchor text
-        instituicao = a_tag.get_text(separator=" ", strip=True)
-        if not instituicao:
-            continue
+            nivel_keywords = {"Fundamental", "Médio", "Técnico", "Superior", "Ensino"}
 
-        # Walk up to find the parent container with more details
-        parent = a_tag.find_parent(["tr", "li", "div", "p", "td"])
-        context_text = parent.get_text(separator=" ", strip=True) if parent else instituicao
+            for b_line in block:
+                # Estado
+                if state_pattern.match(b_line):
+                    orgao = b_line
+                    continue
+                # Data de encerramento
+                if date_pattern.match(b_line):
+                    data_enc = re.search(r"\d{2}/\d{2}/\d{4}", b_line)
+                    data_encerramento = data_enc.group(0) if data_enc else None
+                    continue
+                # Salario
+                sal = salary_pattern.search(b_line)
+                if sal:
+                    salario = sal.group(0)
+                # Vagas
+                vag = vagas_pattern.search(b_line)
+                if vag:
+                    vagas_count = int(vag.group(1))
+                # Nivel de escolaridade -> nao e instituicao nem cargo util
+                if any(k in b_line for k in nivel_keywords):
+                    continue
+                # Linha com cargo (geralmente apos instituicao)
+                if instituicao and not orgao and len(b_line) > 3 and not sal and not vag:
+                    cargos.append(b_line)
+                # Primeira linha relevante = instituicao
+                if not instituicao and len(b_line) > 5 and not sal and not vag:
+                    instituicao = b_line
 
-        # Extract deadline (DD/MM/YYYY pattern)
-        date_match = re.search(r"(\d{2}/\d{2}/\d{4})", context_text)
-        data_encerramento = date_match.group(1) if date_match else None
+            if not instituicao:
+                i += 1
+                continue
 
-        # Extract salary (R$ pattern)
-        salary_match = re.search(r"R\$\s?[\d\.]+(?:,\d{2})?", context_text)
-        salario_maximo = salary_match.group(0) if salary_match else None
+            # Monta URL de busca no PCI para este concurso
+            search_term = instituicao.split(" - ")[0].strip()
+            link_edital = SEARCH_URL + quote_plus(search_term)
 
-        # Extract state (2-letter abbreviation)
-        state_match = re.search(
-            r"\b(AC|AL|AP|AM|BA|CE|DF|ES|GO|MA|MT|MS|MG|PA|PB|PR|PE|PI|RJ|RN|RS|RO|RR|SC|SP|SE|TO)\b",
-            context_text
-        )
-        orgao = state_match.group(1) if state_match else None
+            concursos.append({
+                "instituicao": instituicao,
+                "orgao": orgao,
+                "cargos": cargos[:3],  # limita a 3 cargos
+                "salario_maximo": salario,
+                "link_edital": link_edital,
+                "data_encerramento": data_encerramento if 'data_encerramento' in dir() else None,
+                "status": "aberto",
+            })
 
-        concursos.append({
-            "instituicao": instituicao,
-            "orgao": orgao,
-            "cargos": [],
-            "salario_maximo": salario_maximo,
-            "link_edital": full_url,
-            "data_encerramento": data_encerramento,
-            "status": "aberto",
-        })
+        i += 1
 
-    return concursos
+    # Remove duplicatas por instituicao+data
+    seen = set()
+    unique = []
+    for c in concursos:
+        key = (c["instituicao"], c.get("data_encerramento"))
+        if key not in seen:
+            seen.add(key)
+            unique.append(c)
+
+    logger.info(f"Parsed {len(unique)} unique concursos")
+    return unique
 
 
 def scrape_all_sources() -> list[dict]:
-    """Scrape all configured sources and return list of concurso dicts."""
     all_concursos = []
-
     for source in SOURCES:
         try:
             html = fetch_page(source["url"])
-            concursos = parse_pci_concursos(html)
+            concursos = parse_pci_text(html)
             logger.info(f"Found {len(concursos)} concursos from {source['name']}")
             all_concursos.extend(concursos)
             time.sleep(2)
         except Exception as e:
             logger.error(f"Error scraping {source['name']}: {e}")
             continue
-
     return all_concursos
 
 
