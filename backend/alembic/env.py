@@ -7,7 +7,7 @@ from sqlalchemy.ext.asyncio import async_engine_from_config
 
 from app.core.config import get_settings
 from app.core.database import Base
-import app.models  # noqa: F401 - ensure models are imported
+import app.models  # noqa: F401 - ensure all models are registered
 
 config = context.config
 
@@ -17,7 +17,15 @@ if config.config_file_name is not None:
 target_metadata = Base.metadata
 
 settings = get_settings()
-config.set_main_option("sqlalchemy.url", settings.DATABASE_URL)
+
+# Alembic needs asyncpg URL for async migrations.
+# Convert any sync prefix (postgresql://, postgresql+psycopg2://) to asyncpg.
+db_url = settings.DATABASE_URL
+if db_url.startswith("postgresql://") or db_url.startswith("postgresql+psycopg2://"):
+    db_url = db_url.replace("postgresql://", "postgresql+asyncpg://", 1)
+    db_url = db_url.replace("postgresql+psycopg2://", "postgresql+asyncpg://", 1)
+
+config.set_main_option("sqlalchemy.url", db_url)
 
 
 def run_migrations_offline() -> None:
