@@ -2,12 +2,12 @@ name: Daily Ingestion Pipeline
 
 on:
   schedule:
-    # Runs every day at 08:00 AM UTC (05:00 BRT)
+    # Roda todo dia às 08:00 UTC (05:00 BRT)
     - cron: '0 8 * * *'
   workflow_dispatch:
     inputs:
       dry_run:
-        description: 'Dry run (no DB writes)'
+        description: 'Dry run (sem escrita no banco)'
         required: false
         default: 'false'
 
@@ -18,7 +18,7 @@ jobs:
       contents: write
     defaults:
       run:
-        working-directory: backend
+        working-directory: automacao
 
     steps:
       - name: Checkout repository
@@ -32,12 +32,12 @@ jobs:
         with:
           python-version: '3.11'
           cache: 'pip'
-          cache-dependency-path: backend/requirements.txt
+          cache-dependency-path: automacao/requirements.txt
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Configure git for backup commit
+      - name: Configure git para backup
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -52,4 +52,4 @@ jobs:
           R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
           DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/run_ingestion.py
+        run: python run_ingestion.py
