@@ -5,7 +5,7 @@
 # =============================================================================
 
 # ---- Build Stage ----
-FROM node:18-alpine AS builder
+FROM node:20-alpine AS builder
 
 WORKDIR /app
 
@@ -23,10 +23,7 @@ RUN npm run build
 # ---- Serve Stage ----
 FROM nginx:alpine
 
-# Copia o build gerado
 COPY --from=builder /app/dist /usr/share/nginx/html
-
-# Configuracao do Nginx para SPA (React Router)
 COPY nginx.conf /etc/nginx/conf.d/default.conf
 
 EXPOSE 80
