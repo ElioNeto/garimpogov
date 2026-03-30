@@ -9,7 +9,6 @@ import json
 import logging
 import os
 import time
-from typing import Optional
 
 import google.generativeai as genai
 import requests
@@ -24,11 +23,12 @@ genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 # gemini-2.5-flash-lite: melhor free tier (15 RPM, 1000 RPD)
 GEMINI_MODEL = "gemini-2.5-flash-lite"
 
+# PCI Concursos: cada concurso fica dentro de <nv> ou <na> (aberto/encerrado)
 SOURCES = [
     {
         "name": "PCI Concursos",
         "url": "https://www.pciconcursos.com.br/concursos/",
-        "selector": "div.cc",
+        "selector": "nv, na",
     },
 ]
 
@@ -40,6 +40,9 @@ HEADERS = {
     )
 }
 
+# Tamanho máximo de cada lote enviado ao Gemini (em caracteres)
+BATCH_SIZE = 30_000
+
 
 @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=2, max=10))
 def fetch_page(url: str) -> str:
@@ -50,9 +53,9 @@ def fetch_page(url: str) -> str:
     return response.text
 
 
-def extract_concursos_with_gemini(html_snippet: str, source_name: str) -> list[dict]:
-    """Use Gemini to extract structured concurso data from HTML."""
-    prompt = f"""Analise o seguinte HTML de um site de concursos publicos brasileiros ({source_name})
+def extract_concursos_with_gemini(text_snippet: str, source_name: str) -> list[dict]:
+    """Use Gemini to extract structured concurso data from plain text."""
+    prompt = f"""Analise o seguinte texto de um site de concursos publicos brasileiros ({source_name})
 e extraia informacoes sobre os concursos listados.
 
 Retorne um JSON array com objetos no formato:
@@ -60,7 +63,7 @@ Retorne um JSON array com objetos no formato:
   "instituicao": "nome do orgao/instituicao",
   "cargos": ["cargo1", "cargo2"],
   "salario_maximo": "valor em R$ ou null",
-  "link_edital": "URL completa do edital ou pagina do concurso",
+  "link_edital": "URL completa do edital ou pagina do concurso ou null",
   "data_encerramento": "DD/MM/YYYY ou null",
   "status": "aberto"
 }}
@@ -68,8 +71,8 @@ Retorne um JSON array com objetos no formato:
 Se nao encontrar informacao, use null.
 Retorne APENAS o JSON array, sem markdown, sem texto adicional.
 
-HTML:
-{html_snippet[:8000]}
+TEXTO:
+{text_snippet}
 """
 
     model = genai.GenerativeModel(GEMINI_MODEL)
@@ -100,13 +103,25 @@ def scrape_all_sources() -> list[dict]:
 
             elements = soup.select(source["selector"])
             if elements:
-                snippet = "\n".join(str(el) for el in elements[:50])
+                logger.info(f"Found {len(elements)} raw elements from {source['name']}")
+                # Extrai texto limpo de cada elemento e agrupa em lotes
+                texts = [el.get_text(separator=" ", strip=True) for el in elements]
+                full_text = "\n---\n".join(texts)
             else:
-                snippet = soup.get_text(separator="\n", strip=True)[:8000]
+                logger.warning(f"Selector '{source['selector']}' matched nothing, falling back to body text")
+                full_text = soup.get_text(separator="\n", strip=True)
 
-            concursos = extract_concursos_with_gemini(snippet, source["name"])
-            logger.info(f"Found {len(concursos)} concursos from {source['name']}")
-            all_concursos.extend(concursos)
+            # Processa em lotes para não estourar o contexto do modelo
+            batches = [full_text[i:i + BATCH_SIZE] for i in range(0, len(full_text), BATCH_SIZE)]
+            logger.info(f"Processing {len(batches)} batch(es) for {source['name']}")
+
+            for idx, batch in enumerate(batches):
+                logger.info(f"Batch {idx + 1}/{len(batches)} ({len(batch)} chars)")
+                concursos = extract_concursos_with_gemini(batch, source["name"])
+                logger.info(f"Extracted {len(concursos)} concursos from batch {idx + 1}")
+                all_concursos.extend(concursos)
+                if idx < len(batches) - 1:
+                    time.sleep(4)  # respeita rate limit free tier
 
             time.sleep(2)
 
