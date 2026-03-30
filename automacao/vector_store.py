@@ -4,15 +4,16 @@ import os
 import uuid
 from typing import Optional
 
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 import psycopg2
 from tenacity import retry, stop_after_attempt, wait_exponential
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-EMBEDDING_MODEL = "models/text-embedding-004"
+client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+EMBEDDING_MODEL = "text-embedding-004"
 
 
 def _normalize_db_url(url: str) -> str:
@@ -29,12 +30,12 @@ def get_db_connection():
 
 @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=2, max=10))
 def embed_chunk(text: str) -> list[float]:
-    result = genai.embed_content(
+    result = client.models.embed_content(
         model=EMBEDDING_MODEL,
-        content=text,
-        task_type="retrieval_document",
+        contents=text,
+        config=types.EmbedContentConfig(task_type="RETRIEVAL_DOCUMENT"),
     )
-    return result["embedding"]
+    return result.embeddings[0].values
 
 
 def concurso_exists(conn, link_edital: str) -> Optional[str]:

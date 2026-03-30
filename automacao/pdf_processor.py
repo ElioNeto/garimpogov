@@ -8,8 +8,8 @@ from typing import Optional
 import boto3
 from botocore.client import Config
 import fitz
-from langchain.text_splitter import RecursiveCharacterTextSplitter
 import requests
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from tenacity import retry, stop_after_attempt, wait_exponential
 
 logging.basicConfig(level=logging.INFO)
@@ -87,8 +87,8 @@ def process_pdf(pdf_url: str) -> tuple[Optional[str], list[str]]:
             separators=["\n\n", "\n", ". ", " ", ""],
         )
         chunks = splitter.split_text(text)
-        logger.info(f"Extraídos {len(chunks)} chunks")
+        logger.info(f"Extraidos {len(chunks)} chunks")
         return r2_url, chunks
     except Exception as e:
-        logger.error(f"Extração PDF falhou: {e}")
+        logger.error(f"Extracao PDF falhou: {e}")
         return r2_url, []
