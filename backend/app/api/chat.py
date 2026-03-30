@@ -9,7 +9,7 @@ from sqlalchemy.ext.asyncio import AsyncSession
 
 from app.core.database import get_db
 from app.models.concurso import Concurso
-from app.schemas.concurso import ChatRequest
+from app.schemas.chat import ChatRequest
 from app.services.rag import stream_chat_response
 
 router = APIRouter(prefix="/chat", tags=["chat"])
