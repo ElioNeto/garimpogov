@@ -1,3 +1,7 @@
+"""FGV Conhecimento - atuante em SC e PR (TCE SC, TJ SC, etc.).
+
+URL: https://conhecimento.fgv.br
+"""
 from automacao.bancas.base import scrape_banca
 
 BASE_URL = "https://conhecimento.fgv.br"

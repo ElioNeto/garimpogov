@@ -1,3 +1,7 @@
+"""CEBRASPE - concursos federais com atuacao no Sul (TRFs, PRFs, etc.).
+
+URL: https://www.cebraspe.org.br
+"""
 from automacao.bancas.base import scrape_banca
 
 BASE_URL = "https://www.cebraspe.org.br"
