@@ -1,7 +1,12 @@
-"""Extrator inteligente via Gemini 2.0 Flash.
+"""Extrator inteligente via Gemini 2.0 Flash-Lite.
 
-Recebe HTML de qualquer portal e retorna lista padronizada de concursos.
-Implementa rate limiting para evitar 429.
+Modelo: gemini-2.0-flash-lite
+  - Free tier: 30 RPM / 1500 RPD
+  - Suficiente para 24 fontes com margem confortavel
+
+Rate limiting: token bucket com intervalo minimo forcado entre chamadas.
+Estrategia: 1 chamada a cada 2.5s = 24 RPM, bem abaixo do limite de 30 RPM.
+O retry (tenacity) aguarda 30-120s em caso de 429 residual.
 """
 import json
 import logging
@@ -20,26 +25,26 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
-MODEL = "gemini-2.0-flash"
 
-# Rate limiter: max 8 chamadas/minuto (free tier = 15 RPM, usamos 8 para margem)
+# gemini-2.0-flash-lite: 30 RPM free tier
+MODEL = "gemini-2.0-flash-lite"
+
+# Hard interval: minimo 2.5s entre chamadas = max 24 RPM (margem de 20%)
 _rate_lock = threading.Lock()
-_call_times: list[float] = []
-MAX_CALLS_PER_MINUTE = 8
-MIN_INTERVAL = 60.0 / MAX_CALLS_PER_MINUTE  # ~7.5s entre chamadas
+_last_call: float = 0.0
+MIN_INTERVAL = 2.5  # segundos
 
 
 def _rate_limit():
+    """Garante intervalo minimo entre chamadas ao Gemini."""
     with _rate_lock:
-        now = time.monotonic()
-        # Remove chamadas mais antigas que 60s
-        while _call_times and now - _call_times[0] > 60.0:
-            _call_times.pop(0)
-        if len(_call_times) >= MAX_CALLS_PER_MINUTE:
-            sleep_for = 60.0 - (now - _call_times[0]) + 1.0
-            logger.info(f"Rate limit: aguardando {sleep_for:.1f}s")
-            time.sleep(sleep_for)
-        _call_times.append(time.monotonic())
+        global _last_call
+        elapsed = time.monotonic() - _last_call
+        if elapsed < MIN_INTERVAL:
+            wait = MIN_INTERVAL - elapsed
+            logger.debug(f"Rate limit: aguardando {wait:.2f}s")
+            time.sleep(wait)
+        _last_call = time.monotonic()
 
 
 SCOPE_DESCRIPTION = textwrap.dedent("""
@@ -92,7 +97,7 @@ def _html_to_clean_text(html: str, max_chars: int = 12000) -> str:
     return text[:max_chars]
 
 
-@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=3, min=10, max=60))
+@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=2, min=30, max=120))
 def _call_gemini(prompt: str) -> str:
     _rate_limit()
     response = client.models.generate_content(
