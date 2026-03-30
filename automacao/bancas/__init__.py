@@ -6,14 +6,44 @@ from automacao.bancas.legalle import scrape_legalle
 from automacao.bancas.fafipa import scrape_fafipa
 from automacao.bancas.cs_ufg import scrape_cs_ufg
 from automacao.bancas.aocp import scrape_aocp
+from automacao.bancas.fcc import scrape_fcc
+from automacao.bancas.faurgs import scrape_faurgs
+from automacao.bancas.lasalle import scrape_lasalle
+from automacao.bancas.furb import scrape_furb
+from automacao.bancas.objetiva import scrape_objetiva
+from automacao.bancas.acafe import scrape_acafe
+from automacao.bancas.ieses import scrape_ieses
+from automacao.bancas.ameosc import scrape_ameosc
+from automacao.bancas.amauc import scrape_amauc
+from automacao.bancas.vunesp import scrape_vunesp
+from automacao.bancas.quadrix import scrape_quadrix
+from automacao.bancas.idecan import scrape_idecan
+from automacao.bancas.ippec import scrape_ippec
 
 ALL_BANCAS = [
-    scrape_fundatec,    # maior banca do RS
-    scrape_fepese,      # maior banca de SC
-    scrape_fgv,         # atuante em SC e PR (TCE SC, etc.)
-    scrape_cebraspe,    # federal, forte no Sul
-    scrape_legalle,     # RS (Badesul, municipios)
-    scrape_fafipa,      # PR (Foz do Iguacu, municipios)
-    scrape_cs_ufg,      # RS/SC (universidades federais)
-    scrape_aocp,        # PR/SC/RS (federais e estaduais)
+    # RS
+    scrape_fundatec,
+    scrape_faurgs,
+    scrape_lasalle,
+    scrape_legalle,
+    scrape_objetiva,
+    # SC
+    scrape_fepese,
+    scrape_furb,
+    scrape_acafe,
+    scrape_ameosc,
+    scrape_amauc,
+    scrape_ieses,
+    scrape_ippec,
+    # PR
+    scrape_fafipa,
+    # RS/SC/PR
+    scrape_aocp,
+    scrape_cs_ufg,
+    scrape_fcc,
+    scrape_fgv,
+    scrape_cebraspe,
+    scrape_vunesp,
+    scrape_quadrix,
+    scrape_idecan,
 ]
