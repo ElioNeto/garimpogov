@@ -1,29 +1,29 @@
-"""Endpoints for listing and retrieving concursos."""
-
 import uuid
 from typing import Optional
 
-from fastapi import APIRouter, HTTPException, Query
+from fastapi import APIRouter, Depends, HTTPException, Query
 from sqlalchemy import func, select
+from sqlalchemy.ext.asyncio import AsyncSession
+from sqlalchemy.orm import selectinload
 
-from app.core.deps import DbSession
-from app.models.concurso import Cargo, Concurso
-from app.schemas.concurso import ConcursoDetail, ConcursoListResponse, ConcursoRead
+from app.core.database import get_db
+from app.models.concurso import Concurso
+from app.schemas.concurso import ConcursoSchema, PaginatedConcursos, ConcursoListSchema
 
 router = APIRouter(prefix="/concursos", tags=["concursos"])
 
 
-@router.get("", response_model=ConcursoListResponse)
+@router.get("", response_model=PaginatedConcursos)
 async def list_concursos(
-    db: DbSession,
-    orgao: Optional[str] = Query(None, description="Filtrar por órgão"),
-    status: Optional[str] = Query(None, description="Filtrar por status (aberto/encerrado)"),
-    salario_min: Optional[float] = Query(None, description="Salário mínimo"),
-    salario_max: Optional[float] = Query(None, description="Salário máximo"),
-    data_encerramento_ate: Optional[str] = Query(None, description="Data de encerramento até (YYYY-MM-DD)"),
+    orgao: Optional[str] = Query(None),
+    status: Optional[str] = Query(None),
+    salario_min: Optional[float] = Query(None),
+    salario_max: Optional[float] = Query(None),
+    data_encerramento_antes: Optional[str] = Query(None),
     page: int = Query(1, ge=1),
     page_size: int = Query(20, ge=1, le=100),
-) -> ConcursoListResponse:
+    db: AsyncSession = Depends(get_db),
+):
     stmt = select(Concurso)
 
     if orgao:
@@ -34,42 +34,39 @@ async def list_concursos(
         stmt = stmt.where(Concurso.salario_maximo >= salario_min)
     if salario_max is not None:
         stmt = stmt.where(Concurso.salario_maximo <= salario_max)
-    if data_encerramento_ate:
-        stmt = stmt.where(Concurso.data_encerramento <= data_encerramento_ate)
 
-    # Count total
     count_stmt = select(func.count()).select_from(stmt.subquery())
     total_result = await db.execute(count_stmt)
     total = total_result.scalar_one()
 
-    # Paginate
-    offset = (page - 1) * page_size
-    stmt = stmt.order_by(Concurso.created_at.desc()).offset(offset).limit(page_size)
-    result = await db.execute(stmt)
-    items = result.scalars().all()
+    stmt = stmt.order_by(Concurso.created_at.desc())
+    stmt = stmt.offset((page - 1) * page_size).limit(page_size)
 
-    import math
-    return ConcursoListResponse(
-        items=[ConcursoRead.model_validate(c) for c in items],
+    result = await db.execute(stmt)
+    concursos = result.scalars().all()
+
+    return PaginatedConcursos(
         total=total,
         page=page,
         page_size=page_size,
-        pages=math.ceil(total / page_size) if page_size > 0 else 0,
+        items=[ConcursoListSchema.model_validate(c) for c in concursos],
     )
 
 
-@router.get("/{concurso_id}", response_model=ConcursoDetail)
-async def get_concurso(concurso_id: uuid.UUID, db: DbSession) -> ConcursoDetail:
-    stmt = select(Concurso).where(Concurso.id == concurso_id)
+@router.get("/{concurso_id}", response_model=ConcursoSchema)
+async def get_concurso(
+    concurso_id: uuid.UUID,
+    db: AsyncSession = Depends(get_db),
+):
+    stmt = (
+        select(Concurso)
+        .options(selectinload(Concurso.cargos))
+        .where(Concurso.id == concurso_id)
+    )
     result = await db.execute(stmt)
     concurso = result.scalar_one_or_none()
 
-    if concurso is None:
-        raise HTTPException(status_code=404, detail="Concurso não encontrado")
+    if not concurso:
+        raise HTTPException(status_code=404, detail="Concurso nao encontrado")
 
-    # Load cargos
-    cargos_stmt = select(Cargo).where(Cargo.concurso_id == concurso_id)
-    cargos_result = await db.execute(cargos_stmt)
-    concurso.cargos = list(cargos_result.scalars().all())
-
-    return ConcursoDetail.model_validate(concurso)
+    return ConcursoSchema.model_validate(concurso)
