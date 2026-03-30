@@ -2,7 +2,6 @@
 import logging
 import os
 import uuid
-from datetime import datetime
 from typing import Optional
 
 import google.generativeai as genai
@@ -17,11 +16,17 @@ genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 EMBEDDING_MODEL = "models/text-embedding-004"
 
 
+def _normalize_db_url(url: str) -> str:
+    """Normalize DATABASE_URL to plain postgresql:// for psycopg2."""
+    for prefix in ("postgresql+asyncpg://", "postgresql+psycopg2://"):
+        if url.startswith(prefix):
+            return "postgresql://" + url[len(prefix):]
+    return url
+
+
 def get_db_connection():
     """Create synchronous psycopg2 connection for scripts."""
-    db_url = os.environ["DATABASE_URL"]
-    # Convert asyncpg URL to psycopg2 format if needed
-    db_url = db_url.replace("postgresql+asyncpg://", "postgresql://")
+    db_url = _normalize_db_url(os.environ["DATABASE_URL"])
     return psycopg2.connect(db_url)
 
 
@@ -69,17 +74,11 @@ def insert_concurso(conn, data: dict) -> str:
                 data.get("data_encerramento_dt"),
             ),
         )
-
-        # Insert cargos
         for cargo_nome in data.get("cargos", []):
             cur.execute(
-                """
-                INSERT INTO cargos (id, concurso_id, nome)
-                VALUES (%s, %s, %s)
-                """,
+                "INSERT INTO cargos (id, concurso_id, nome) VALUES (%s, %s, %s)",
                 (str(uuid.uuid4()), concurso_id, cargo_nome),
             )
-
     conn.commit()
     return concurso_id
 
@@ -113,6 +112,5 @@ def insert_chunks(conn, concurso_id: str, chunks: list[str]) -> int:
             except Exception as e:
                 logger.error(f"Error embedding chunk {i}: {e}")
                 continue
-
     conn.commit()
     return inserted

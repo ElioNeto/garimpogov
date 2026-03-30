@@ -69,7 +69,7 @@ HTML:
 {html_snippet[:8000]}
 """
 
-    model = genai.GenerativeModel("gemini-1.5-flash")
+    model = genai.GenerativeModel("gemini-2.0-flash")
     response = model.generate_content(prompt)
     text = response.text.strip()
 
@@ -96,19 +96,17 @@ def scrape_all_sources() -> list[dict]:
             html = fetch_page(source["url"])
             soup = BeautifulSoup(html, "lxml")
 
-            # Extract relevant section
             elements = soup.select(source["selector"])
             if elements:
                 snippet = "\n".join(str(el) for el in elements[:50])
             else:
-                # Fallback: use body text
                 snippet = soup.get_text(separator="\n", strip=True)[:8000]
 
             concursos = extract_concursos_with_gemini(snippet, source["name"])
             logger.info(f"Found {len(concursos)} concursos from {source['name']}")
             all_concursos.extend(concursos)
 
-            time.sleep(2)  # Be polite to the server
+            time.sleep(2)
 
         except Exception as e:
             logger.error(f"Error scraping {source['name']}: {e}")
