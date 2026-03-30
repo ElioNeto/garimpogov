@@ -1,29 +1,39 @@
-"""Scraper Diario Oficial da Uniao (DOU) - API publica + Gemini para filtragem.
+"""Scraper DOU - usa endpoint de pesquisa correto do IN.gov.br.
 
-A API do DOU retorna JSON estruturado; usamos Gemini apenas para validar
-se o ato e realmente um edital de concurso no escopo, evitando falsos positivos.
+O endpoint real usado pelo portal eh via POST no SOLR interno.
+Fallback: scraping da pagina de busca HTML + Gemini para extrair.
 """
-import json
 import logging
-import os
 import time
 from datetime import date, timedelta
 
 import requests
+from bs4 import BeautifulSoup
 from tenacity import retry, stop_after_attempt, wait_exponential
 
-from automacao.ai_extractor import extract_concursos_from_text
+from automacao.ai_extractor import extract_concursos_from_html
 from automacao.config import DOU_SEARCH_TERMS
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-DOU_API = "https://www.in.gov.br/consulta/-/buscar/dou"
-HEADERS = {"User-Agent": "Mozilla/5.0 GarimpoGov/1.0", "Accept": "application/json"}
+# URL correta da pesquisa do DOU (retorna HTML, nao JSON)
+DOU_SEARCH_URL = "https://www.in.gov.br/consulta/-/buscar/dou"
+BASE_URL = "https://www.in.gov.br"
+
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/120.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml",
+    "Accept-Language": "pt-BR,pt;q=0.9",
+}
 
 
 @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=2, min=5, max=30))
-def _search_dou(term: str, data_inicio: str, data_fim: str) -> list:
+def _fetch_dou(term: str, data_inicio: str, data_fim: str) -> str:
     params = {
         "q": term,
         "exactDate": "personalizado",
@@ -32,48 +42,32 @@ def _search_dou(term: str, data_inicio: str, data_fim: str) -> list:
         "s": "todos",
         "p": 1,
     }
-    r = requests.get(DOU_API, params=params, headers=HEADERS, timeout=30)
+    r = requests.get(DOU_SEARCH_URL, params=params, headers=HEADERS, timeout=30)
     r.raise_for_status()
-    data = r.json()
-    return data.get("items", []) or data.get("results", [])
+    return r.text
 
 
-def scrape_dou(days_back: int = 7) -> list[dict]:
+def scrape_dou(days_back: int = 30) -> list[dict]:
     hoje = date.today()
     data_fim = hoje.strftime("%d/%m/%Y")
     data_inicio = (hoje - timedelta(days=days_back)).strftime("%d/%m/%Y")
 
-    all_items = []
-    seen_links = set()
+    all_concursos = []
+    seen = set()
 
     for term in DOU_SEARCH_TERMS:
         logger.info(f"DOU buscando: '{term}'")
         try:
-            items = _search_dou(term, data_inicio, data_fim)
-            # Monta texto estruturado para o Gemini analisar
-            text_block = "\n\n".join(
-                f"Titulo: {i.get('title','')}\n"
-                f"Orgao: {i.get('pubName','')}\n"
-                f"Data: {i.get('pubDate','')}\n"
-                f"URL: {i.get('urlTitle','') or i.get('link','')}\n"
-                f"Resumo: {str(i.get('content',''))[:400]}"
-                for i in items
-                if i.get("title")
-            )
-            if not text_block:
-                continue
-
-            results = extract_concursos_from_text(
-                text_block, base_url="https://www.in.gov.br", fonte="DOU"
-            )
+            html = _fetch_dou(term, data_inicio, data_fim)
+            results = extract_concursos_from_html(html, base_url=BASE_URL, fonte="DOU")
             for c in results:
-                if c["link_edital"] not in seen_links:
-                    seen_links.add(c["link_edital"])
-                    all_items.append(c)
-
-            time.sleep(3)
+                if c["link_edital"] not in seen:
+                    seen.add(c["link_edital"])
+                    all_concursos.append(c)
+            logger.info(f"DOU '{term}': {len(results)} no escopo")
+            time.sleep(5)
         except Exception as e:
             logger.error(f"Erro DOU '{term}': {e}")
 
-    logger.info(f"DOU total no escopo: {len(all_items)}")
-    return all_items
+    logger.info(f"DOU total no escopo: {len(all_concursos)}")
+    return all_concursos

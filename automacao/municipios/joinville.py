@@ -1,4 +1,7 @@
-"""Scraper Joinville - portal de concursos."""
+"""Scraper Joinville.
+
+Portal: https://www.joinville.sc.gov.br/concurso-publico/
+"""
 from automacao.municipios.base import DiarioMunicipal
 
 
@@ -7,5 +10,6 @@ class Joinville(DiarioMunicipal):
     fonte = "PMJ-SC"
     base_url = "https://www.joinville.sc.gov.br"
     pages = [
-        "https://www.joinville.sc.gov.br/servicos/concursos-publicos/",
+        # URL correta
+        "https://www.joinville.sc.gov.br/concurso-publico/",
     ]

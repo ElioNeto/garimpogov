@@ -1,9 +1,15 @@
-"""Extrator inteligente via Gemini (google-genai SDK)."""
+"""Extrator inteligente via Gemini 2.0 Flash.
+
+Recebe HTML de qualquer portal e retorna lista padronizada de concursos.
+Implementa rate limiting para evitar 429.
+"""
 import json
 import logging
 import os
 import re
 import textwrap
+import time
+import threading
 
 from bs4 import BeautifulSoup
 from google import genai
@@ -16,6 +22,26 @@ logger = logging.getLogger(__name__)
 client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 MODEL = "gemini-2.0-flash"
 
+# Rate limiter: max 8 chamadas/minuto (free tier = 15 RPM, usamos 8 para margem)
+_rate_lock = threading.Lock()
+_call_times: list[float] = []
+MAX_CALLS_PER_MINUTE = 8
+MIN_INTERVAL = 60.0 / MAX_CALLS_PER_MINUTE  # ~7.5s entre chamadas
+
+
+def _rate_limit():
+    with _rate_lock:
+        now = time.monotonic()
+        # Remove chamadas mais antigas que 60s
+        while _call_times and now - _call_times[0] > 60.0:
+            _call_times.pop(0)
+        if len(_call_times) >= MAX_CALLS_PER_MINUTE:
+            sleep_for = 60.0 - (now - _call_times[0]) + 1.0
+            logger.info(f"Rate limit: aguardando {sleep_for:.1f}s")
+            time.sleep(sleep_for)
+        _call_times.append(time.monotonic())
+
+
 SCOPE_DESCRIPTION = textwrap.dedent("""
     Perfis de interesse:
     1. Cargos de TI com nivel superior: analista de TI, analista de sistemas,
@@ -23,40 +49,36 @@ SCOPE_DESCRIPTION = textwrap.dedent("""
        infraestrutura, banco de dados, redes, ciencia da computacao, etc.
     2. Professor de Ingles (qualquer nivel).
 
-    Ignore concursos que exijam apenas ensino medio/fundamental para cargos de TI.
-    Ignore concursos sem relacao com TI ou professor de ingles.
+    Ignore: cargos de TI apenas com ensino medio/fundamental.
+    Ignore: concursos sem relacao com TI ou professor de ingles.
 """)
 
 EXTRACT_PROMPT = textwrap.dedent("""
     Voce e um extrator de dados de concursos publicos brasileiros.
-
-    Analise o texto abaixo extraido de um portal oficial e retorne SOMENTE um
-    JSON valido (sem markdown, sem explicacoes) com a seguinte estrutura:
+    Analise o texto abaixo e retorne SOMENTE JSON valido (sem markdown):
 
     {{"concursos": [
       {{
-        "instituicao": "Nome do orgao/prefeitura/estado",
-        "orgao": "Sigla ou local (ex: RS, SC, Porto Alegre - RS)",
-        "cargos": ["cargo 1", "cargo 2"],
+        "instituicao": "Nome do orgao",
+        "orgao": "Local (ex: RS, Porto Alegre - RS)",
+        "cargos": ["cargo 1"],
         "salario_maximo": "R$ X.XXX,XX ou null",
-        "link_edital": "URL completa do edital ou pagina do concurso",
+        "link_edital": "URL completa",
         "data_encerramento": "DD/MM/YYYY ou null",
         "data_publicacao": "DD/MM/YYYY ou null",
         "status": "aberto"
       }}
     ]}}
 
-    Regras:
-    - Inclua APENAS concursos dentro deste escopo:
+    Escopo (inclua APENAS):
     {scope}
-    - Se nao houver concursos no escopo, retorne {{"concursos": []}}.
-    - Nao invente dados. Se um campo nao existir no texto, use null.
-    - Links relativos: complete com a base_url fornecida.
-    - Retorne no maximo 30 concursos por chamada.
 
-    base_url: {base_url}
+    - Se nenhum concurso no escopo: {{"concursos": []}}
+    - Nao invente dados ausentes: use null
+    - Links relativos: prefixe com {base_url}
+    - Max 30 concursos
 
-    TEXTO DO PORTAL:
+    TEXTO:
     {text}
 """).strip()
 
@@ -70,8 +92,9 @@ def _html_to_clean_text(html: str, max_chars: int = 12000) -> str:
     return text[:max_chars]
 
 
-@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=2, min=5, max=30))
+@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=3, min=10, max=60))
 def _call_gemini(prompt: str) -> str:
+    _rate_limit()
     response = client.models.generate_content(
         model=MODEL,
         contents=prompt,
@@ -104,7 +127,7 @@ def extract_concursos_from_html(html: str, base_url: str, fonte: str, max_chars:
         data = json.loads(raw)
         concursos = data.get("concursos", [])
     except json.JSONDecodeError as e:
-        logger.error(f"[{fonte}] JSON invalido do Gemini: {e}\nResposta: {raw[:300]}")
+        logger.error(f"[{fonte}] JSON invalido: {e} | Resposta: {raw[:300]}")
         return []
 
     result = []

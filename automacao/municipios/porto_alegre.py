@@ -1,4 +1,8 @@
-"""Scraper Porto Alegre - portal de concursos da PMPA."""
+"""Scraper Porto Alegre.
+
+Portal de concursos da PMPA:
+https://prefeitura.poa.br/smgae/concursos-publicos
+"""
 from automacao.municipios.base import DiarioMunicipal
 
 
@@ -7,6 +11,6 @@ class PortoAlegre(DiarioMunicipal):
     fonte = "DOPA-POA"
     base_url = "https://prefeitura.poa.br"
     pages = [
-        "https://prefeitura.poa.br/sma/concursos-e-selecoes",
-        "https://prefeitura.poa.br/sma/concursos-e-selecoes?page=1",
+        # URL correta do portal de concursos da PMPA
+        "https://prefeitura.poa.br/smgae/concursos-publicos",
     ]

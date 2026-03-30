@@ -1,59 +1,76 @@
-"""Classe base para scrapers municipais com extracao via Gemini."""
-from abc import ABC, abstractmethod
+"""Classe base para scrapers municipais com extracao via Gemini.
+
+Usa session com headers de browser real e retry com backoff.
+"""
+from abc import ABC
 import logging
 import time
-from datetime import date, timedelta
 
 import requests
-from tenacity import retry, stop_after_attempt, wait_exponential
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 from automacao.ai_extractor import extract_concursos_from_html
 
 logger = logging.getLogger(__name__)
 
-HEADERS = {"User-Agent": "Mozilla/5.0 GarimpoGov/1.0"}
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/120.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+}
 
-# Termos de busca genericos (usados por portais com campo de busca)
-SEARCH_TERMS = [
-    "concurso publico tecnologia informacao",
-    "concurso publico analista TI",
-    "concurso publico professor ingles",
-    "edital concurso superior",
-]
+
+def _make_session(verify_ssl: bool = True) -> requests.Session:
+    session = requests.Session()
+    session.headers.update(HEADERS)
+    retry_cfg = Retry(
+        total=3,
+        backoff_factor=3,
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=["GET"],
+    )
+    adapter = HTTPAdapter(max_retries=retry_cfg)
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
+    if not verify_ssl:
+        session.verify = False
+    return session
 
 
 class DiarioMunicipal(ABC):
     nome: str = ""
     base_url: str = ""
     fonte: str = ""
-
-    # URLs a serem visitadas (pode ser lista de paginas estaticas ou busca)
-    # Subclasses definem isso
     pages: list[str] = []
-
-    @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=4, max=20))
-    def _fetch(self, url: str, params: dict = None) -> str:
-        r = requests.get(url, params=params or {}, headers=HEADERS, timeout=30)
-        r.raise_for_status()
-        return r.text
+    verify_ssl: bool = True
+    timeout: int = 30
 
     def scrape(self) -> list[dict]:
         logger.info(f"Scraping {self.fonte} ({self.nome})...")
+        session = _make_session(self.verify_ssl)
         all_results = []
         seen = set()
 
         for url in self.pages:
             try:
-                html = self._fetch(url)
+                r = session.get(url, timeout=self.timeout)
+                r.raise_for_status()
                 results = extract_concursos_from_html(
-                    html, base_url=self.base_url, fonte=self.fonte
+                    r.text, base_url=self.base_url, fonte=self.fonte
                 )
                 for c in results:
                     if c["link_edital"] not in seen:
                         seen.add(c["link_edital"])
                         all_results.append(c)
                 logger.info(f"{self.fonte} [{url}]: {len(results)} no escopo")
-                time.sleep(4)  # respeita rate limit
+                time.sleep(5)  # espaco generoso entre chamadas ao Gemini
             except Exception as e:
                 logger.error(f"Erro {self.fonte} [{url}]: {e}")
 
