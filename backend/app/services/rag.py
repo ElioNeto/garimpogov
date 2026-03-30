@@ -1,151 +1,81 @@
-"""RAG service: embedding generation and vector similarity search."""
-
 import logging
-from typing import Any
+from typing import AsyncIterator
 
 import google.generativeai as genai
 from sqlalchemy import text
 from sqlalchemy.ext.asyncio import AsyncSession
-from tenacity import retry, stop_after_attempt, wait_exponential
 
 from app.core.config import get_settings
 
 logger = logging.getLogger(__name__)
 
+settings = get_settings()
+genai.configure(api_key=settings.GEMINI_API_KEY)
+
 EMBEDDING_MODEL = "models/text-embedding-004"
-CHAT_MODEL = "gemini-1.5-flash"
-EMBEDDING_DIM = 768
+GENERATION_MODEL = "gemini-1.5-flash"
+TOP_K = 5
 
 
-def _configure_genai() -> None:
-    settings = get_settings()
-    genai.configure(api_key=settings.gemini_api_key)
-
-
-@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=2, max=10))
-def generate_embedding(text_input: str) -> list[float]:
-    """Generate a 768-dimensional embedding using text-embedding-004."""
-    _configure_genai()
+def embed_text(text_input: str) -> list[float]:
+    """Generate embedding using Google text-embedding-004 (768 dims)."""
     result = genai.embed_content(
         model=EMBEDDING_MODEL,
         content=text_input,
-        task_type="RETRIEVAL_QUERY",
+        task_type="retrieval_query",
     )
     return result["embedding"]
 
 
-@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=2, max=10))
-def generate_document_embedding(text_input: str) -> list[float]:
-    """Generate embedding for document chunks (RETRIEVAL_DOCUMENT task)."""
-    _configure_genai()
-    result = genai.embed_content(
-        model=EMBEDDING_MODEL,
-        content=text_input,
-        task_type="RETRIEVAL_DOCUMENT",
-    )
-    return result["embedding"]
-
-
-async def vector_search(
-    db: AsyncSession,
-    concurso_id: str,
-    query_embedding: list[float],
-    limit: int = 5,
-) -> list[dict[str, Any]]:
-    """Perform cosine similarity search on edital_chunks filtered by concurso_id."""
+async def similarity_search(
+    db: AsyncSession, concurso_id: str, query_embedding: list[float], top_k: int = TOP_K
+) -> list[str]:
+    """Find most similar chunks using cosine distance (<=>)."""
     embedding_str = "[" + ",".join(str(v) for v in query_embedding) + "]"
-    query = text(
+    stmt = text(
         """
-        SELECT id, content, chunk_index,
-               1 - (embedding <=> :embedding::vector) AS similarity
+        SELECT content
         FROM edital_chunks
         WHERE concurso_id = :concurso_id
-        ORDER BY embedding <=> :embedding::vector
-        LIMIT :limit
+        ORDER BY embedding <=> CAST(:embedding AS vector)
+        LIMIT :top_k
         """
     )
     result = await db.execute(
-        query,
-        {
-            "embedding": embedding_str,
-            "concurso_id": concurso_id,
-            "limit": limit,
-        },
+        stmt,
+        {"concurso_id": concurso_id, "embedding": embedding_str, "top_k": top_k},
     )
     rows = result.fetchall()
-    return [
-        {
-            "id": str(row.id),
-            "content": row.content,
-            "chunk_index": row.chunk_index,
-            "similarity": float(row.similarity),
-        }
-        for row in rows
-    ]
+    return [row[0] for row in rows]
 
 
-def build_rag_prompt(question: str, context_chunks: list[dict[str, Any]]) -> str:
-    """Build a RAG prompt from the question and retrieved context chunks."""
-    context = "\n\n---\n\n".join(
-        f"Trecho {i+1}:\n{chunk['content']}"
-        for i, chunk in enumerate(context_chunks)
-    )
-    return f"""Você é um assistente especializado em concursos públicos brasileiros.
-Responda à pergunta do usuário com base APENAS nos trechos do edital fornecidos abaixo.
-Se a informação não estiver nos trechos, diga que não encontrou essa informação no edital.
+async def stream_chat_response(
+    db: AsyncSession, concurso_id: str, question: str
+) -> AsyncIterator[str]:
+    """RAG pipeline: embed question -> retrieve chunks -> stream Gemini answer."""
+    query_embedding = embed_text(question)
+    chunks = await similarity_search(db, concurso_id, query_embedding)
 
-TRECHOS DO EDITAL:
+    if not chunks:
+        context = "Nenhum trecho do edital encontrado."
+    else:
+        context = "\n\n---\n\n".join(chunks)
+
+    prompt = f"""Voce e um assistente especialista em concursos publicos brasileiros.
+Responda a pergunta do candidato com base apenas no contexto do edital fornecido abaixo.
+Se a resposta nao estiver no contexto, diga que nao encontrou essa informacao no edital.
+
+CONTEXTO DO EDITAL:
 {context}
 
-PERGUNTA DO USUÁRIO:
+PERGUNTA DO CANDIDATO:
 {question}
 
 RESPOSTA:"""
 
+    model = genai.GenerativeModel(GENERATION_MODEL)
+    response = model.generate_content(prompt, stream=True)
 
-async def stream_chat_response(
-    db: AsyncSession,
-    concurso_id: str,
-    question: str,
-):
-    """Async generator that yields SSE-formatted text chunks from Gemini."""
-    _configure_genai()
-
-    # 1. Embed the question
-    try:
-        query_embedding = generate_embedding(question)
-    except Exception as e:
-        logger.error("Embedding generation failed: %s", e)
-        yield f'data: {{"type": "error", "content": "Falha ao gerar embedding."}}\'\n\n'
-        return
-
-    # 2. Vector search
-    try:
-        chunks = await vector_search(db, concurso_id, query_embedding)
-    except Exception as e:
-        logger.error("Vector search failed: %s", e)
-        yield 'data: {"type": "error", "content": "Falha na busca vetorial."}\n\n'
-        return
-
-    if not chunks:
-        yield 'data: {"type": "text", "content": "N\\u00e3o encontrei trechos relevantes neste edital para responder sua pergunta."}\n\n'
-        yield 'data: {"type": "done", "content": ""}\n\n'
-        return
-
-    # 3. Build prompt and stream Gemini response
-    prompt = build_rag_prompt(question, chunks)
-    model = genai.GenerativeModel(CHAT_MODEL)
-
-    try:
-        response = model.generate_content(prompt, stream=True)
-        for chunk in response:
-            if chunk.text:
-                import json
-                text_escaped = json.dumps(chunk.text)
-                yield f'data: {{"type": "text", "content": {text_escaped}}}\n\n'
-    except Exception as e:
-        logger.error("Gemini streaming failed: %s", e)
-        yield 'data: {"type": "error", "content": "Falha ao gerar resposta."}\n\n'
-        return
-
-    yield 'data: {"type": "done", "content": ""}\n\n'
+    for chunk in response:
+        if chunk.text:
+            yield chunk.text

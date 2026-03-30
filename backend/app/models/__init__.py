@@ -1,4 +1,3 @@
-from app.models.concurso import Cargo, Concurso
-from app.models.edital_chunk import EditalChunk
+from app.models.concurso import Concurso, Cargo, EditalChunk
 
 __all__ = ["Concurso", "Cargo", "EditalChunk"]

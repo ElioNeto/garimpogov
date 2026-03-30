@@ -1,32 +1,20 @@
 from functools import lru_cache
+
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
 class Settings(BaseSettings):
-    model_config = SettingsConfigDict(
-        env_file=".env",
-        env_file_encoding="utf-8",
-        case_sensitive=False,
-    )
+    model_config = SettingsConfigDict(env_file=".env", extra="ignore")
 
-    # Database
-    database_url: str = "postgresql+asyncpg://user:password@localhost:5432/garimpogov"
+    DATABASE_URL: str
+    GEMINI_API_KEY: str
 
-    # Google Gemini
-    gemini_api_key: str = ""
+    R2_ACCESS_KEY_ID: str = ""
+    R2_SECRET_ACCESS_KEY: str = ""
+    R2_ENDPOINT_URL: str = ""
+    R2_BUCKET_NAME: str = "garimpogov-editais"
 
-    # Cloudflare R2
-    r2_access_key_id: str = ""
-    r2_secret_access_key: str = ""
-    r2_endpoint_url: str = ""
-    r2_bucket_name: str = "garimpogov-editais"
-
-    # CORS
-    frontend_origin: str = "http://localhost:5173"
-
-    # App
-    app_name: str = "GarimpoGov API"
-    debug: bool = False
+    FRONTEND_ORIGIN: str = "http://localhost:5173"
 
 
 @lru_cache

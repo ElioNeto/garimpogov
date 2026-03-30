@@ -1,21 +1,18 @@
 import uuid
-from datetime import date, datetime
+from datetime import datetime
 from typing import Optional
 
 from pydantic import BaseModel, ConfigDict
 
 
-class CargoBase(BaseModel):
+class CargoSchema(BaseModel):
+    model_config = ConfigDict(from_attributes=True)
+
+    id: uuid.UUID
     nome: str
     vagas: Optional[int] = None
     salario: Optional[float] = None
-    escolaridade: Optional[str] = None
-
-
-class CargoRead(CargoBase):
-    model_config = ConfigDict(from_attributes=True)
-    id: uuid.UUID
-    concurso_id: uuid.UUID
+    requisitos: Optional[str] = None
 
 
 class ConcursoBase(BaseModel):
@@ -23,27 +20,42 @@ class ConcursoBase(BaseModel):
     orgao: Optional[str] = None
     status: str = "aberto"
     link_edital: str
+    pdf_url: Optional[str] = None
     salario_maximo: Optional[float] = None
-    salario_minimo: Optional[float] = None
-    data_encerramento: Optional[date] = None
-    descricao: Optional[str] = None
+    data_encerramento: Optional[datetime] = None
 
 
-class ConcursoRead(ConcursoBase):
+class ConcursoCreate(ConcursoBase):
+    pass
+
+
+class ConcursoSchema(ConcursoBase):
     model_config = ConfigDict(from_attributes=True)
+
     id: uuid.UUID
-    link_pdf_r2: Optional[str] = None
     created_at: datetime
     updated_at: datetime
+    cargos: list[CargoSchema] = []
 
 
-class ConcursoDetail(ConcursoRead):
-    cargos: list[CargoRead] = []
+class ConcursoListSchema(ConcursoBase):
+    model_config = ConfigDict(from_attributes=True)
+
+    id: uuid.UUID
+    created_at: datetime
 
 
-class ConcursoListResponse(BaseModel):
-    items: list[ConcursoRead]
+class PaginatedConcursos(BaseModel):
     total: int
     page: int
     page_size: int
-    pages: int
+    items: list[ConcursoListSchema]
+
+
+class ChatRequest(BaseModel):
+    question: str
+
+
+class ChatChunk(BaseModel):
+    text: str
+    done: bool = False
