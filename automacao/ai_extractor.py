@@ -1,10 +1,10 @@
-"""Extrator inteligente via LLM (OpenRouter primário, Gemini fallback).
+"""Extrator inteligente via OpenRouter.
 
-Modelos recomendados (OpenRouter - free tier):
-  - Extração: google/gemini-2.0-flash-lite  (30 RPM, gratuito)
-  - Chat:     google/gemini-2.0-flash        (qualidade superior, gratuito)
+Modelos recomendados (gratuitos no OpenRouter):
+  - Extração: google/gemini-2.0-flash-lite  (30 RPM)
+  - Chat:     google/gemini-2.0-flash
 
-Se OPENROUTER_API_KEY não estiver definida, cai para GEMINI_API_KEY.
+Requer OPENROUTER_API_KEY no ambiente.
 """
 from __future__ import annotations
 
@@ -79,12 +79,7 @@ def extract_concursos_from_html(html: str, base_url: str, fonte: str, max_chars:
 
     prompt = EXTRACT_PROMPT.format(scope=SCOPE_DESCRIPTION, base_url=base_url, text=text)
 
-    # Modelo: usa OPENROUTER_EXTRACTION_MODEL ou fallback GEMINI_EXTRACTION_MODEL
-    model = (
-        os.environ.get("OPENROUTER_EXTRACTION_MODEL")
-        or os.environ.get("GEMINI_EXTRACTION_MODEL")
-        or "google/gemini-2.0-flash-lite"
-    )
+    model = os.environ.get("OPENROUTER_EXTRACTION_MODEL", "google/gemini-2.0-flash-lite")
 
     try:
         raw = generate(prompt, model=model, response_format={"type": "json_object"})

@@ -109,23 +109,9 @@ TARGET_PROFILES = [
 FILTER_USE_REGEX: bool = True
 
 # ---------------------------------------------------------------------------
-# B7: Configuração de modelos LLM
-# A diferença entre os modelos é INTENCIONAL:
-# - OPENROUTER_EXTRACTION_MODEL (ou fallback GEMINI_EXTRACTION_MODEL):
-#   usado na ingestão (automacao/ai_extractor.py) para extrair dados de HTML.
-#   Precisa ser rápido e barato -> google/gemini-2.0-flash-lite
-# - OPENROUTER_CHAT_MODEL (ou fallback GEMINI_CHAT_MODEL):
-#   usado no chat RAG (backend/app/services/rag.py) para responder perguntas.
-#   Precisa de melhor qualidade -> google/gemini-2.0-flash
-# Ambos usam o mesmo modelo de embedding: text-embedding-004 (Google, gratuito)
-#
-# Provedor: OpenRouter (se OPENROUTER_API_KEY estiver definida)
-# Fallback:  Google Gemini (via GEMINI_API_KEY)
+# Configuração de modelos no OpenRouter
+# Formato: "provedor/modelo" (ex: google/gemini-2.0-flash-lite)
 # ---------------------------------------------------------------------------
-GEMINI_EXTRACTION_MODEL: str = os.environ.get("GEMINI_EXTRACTION_MODEL", "gemini-2.0-flash-lite")
-GEMINI_CHAT_MODEL: str = os.environ.get("GEMINI_CHAT_MODEL", "gemini-1.5-flash")
-
-# Nomes de modelo no OpenRouter (usam formato "provedor/modelo")
 OPENROUTER_EXTRACTION_MODEL: str = os.environ.get("OPENROUTER_EXTRACTION_MODEL", "google/gemini-2.0-flash-lite")
 OPENROUTER_CHAT_MODEL: str = os.environ.get("OPENROUTER_CHAT_MODEL", "google/gemini-2.0-flash")
 
