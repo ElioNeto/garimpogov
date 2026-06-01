@@ -24,21 +24,26 @@ def _get_client():
     return _client_instance
 
 
-# B20: usa função centralizada do backend para conversão de URL
-# (evita duplicação de lógica entre os dois pipelines)
-import sys
-import os as _os
-sys.path.insert(0, _os.path.join(_os.path.dirname(__file__), "..", "backend"))
-from app.core.database import make_sync_url
-
 # B30: cache de conexão para evitar reconectar a cada chamada
 _db_connection = None
+
+
+def _normalize_db_url(url: str) -> str:
+    """Converte URL async (postgresql+asyncpg://) para síncrona (postgresql://).
+
+    Mantida local para evitar dependência de sqlalchemy no ambiente de ingestão.
+    """
+    if url.startswith("postgresql+asyncpg://"):
+        return url.replace("postgresql+asyncpg://", "postgresql://", 1)
+    if url.startswith("postgresql+psycopg2://"):
+        return url.replace("postgresql+psycopg2://", "postgresql://", 1)
+    return url
 
 
 def get_db_connection():
     global _db_connection
     if _db_connection is None or _db_connection.closed:
-        db_url = make_sync_url(os.environ["DATABASE_URL"])
+        db_url = _normalize_db_url(os.environ["DATABASE_URL"])
         _db_connection = psycopg2.connect(db_url)
     return _db_connection
 
