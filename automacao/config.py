@@ -109,16 +109,11 @@ TARGET_PROFILES = [
 FILTER_USE_REGEX: bool = True
 
 # ---------------------------------------------------------------------------
-# Modelos OpenRouter — APENAS GRATUITOS, com fallback automático
+# Modelos OpenRouter — APENAS GRATUITOS, com fallback dinâmico
 # ---------------------------------------------------------------------------
-# O modelo configurado abaixo é tentado primeiro. Se falhar (erro 4xx não
-# retryável), o pipeline tenta automaticamente os demais modelos free na
-# lista definida em automacao/llm_client.py / backend/app/services/rag.py.
-#
-# Modelos free (jun/2026):
-#   Extração: google/gemini-2.0-flash-lite  ← rápido, 30 RPM
-#   Chat:     google/gemini-2.0-flash        ← melhor qualidade
-#   Fallbacks: meta-llama/llama-3.2-3b-instruct, phi-3-medium
+# O modelo configurado abaixo é tentado primeiro. Se falhar, o pipeline
+# consulta automaticamente a API do OpenRouter (com cache de 1h) para
+# descobrir quais modelos estão gratuitos no momento e tenta cada um.
 #
 # ⚠️ NÃO use modelos pagos. O pipeline pode gerar custos inesperados.
 #    Consulte https://openrouter.ai/models antes de alterar.

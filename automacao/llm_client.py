@@ -1,14 +1,10 @@
-"""Cliente LLM via OpenRouter — apenas modelos gratuitos, com fallback automático.
+"""Cliente LLM via OpenRouter — apenas modelos gratuitos, com fallback dinâmico.
 
-Se um modelo retornar erro (exceto 429 rate-limit), tenta o próximo da lista
-de modelos gratuitos. Isso garante resiliência mesmo que um modelo específico
-esteja fora do ar ou com limite excedido.
+A lista de modelos gratuitos é obtida automaticamente da API do OpenRouter
+(https://openrouter.ai/api/v1/models) e filtrada por preço zero.
 
-Modelos free confirmados no OpenRouter (jun/2026):
-  - google/gemini-2.0-flash-lite  ← rápido, 30 RPM
-  - google/gemini-2.0-flash        ← melhor qualidade
-  - meta-llama/llama-3.2-3b-instruct   ← leve, gratuito
-  - microsoft/phi-3-medium-4k-instruct  ← gratuito
+Se um modelo retornar erro (exceto 429 rate-limit), tenta o próximo.
+O cache é atualizado a cada hora.
 
 Uso:
     from automacao.llm_client import generate, generate_stream
@@ -24,29 +20,131 @@ import threading
 import time
 from typing import AsyncIterator, Optional
 
-from tenacity import retry, stop_after_attempt, wait_exponential
-
 logger = logging.getLogger(__name__)
 
-# ---------------------------------------------------------------------------
-# Listas de modelos gratuitos (ordem = preferência)
-# ---------------------------------------------------------------------------
-# A primeira posição pode ser sobrescrita via variável de ambiente.
-# As demais são fallbacks caso o modelo principal falhe.
+# ===================================================================
+# Descoberta dinâmica de modelos gratuitos via API OpenRouter
+# ===================================================================
 
-FREE_EXTRACTION_MODELS: list[str] = [
-    "google/gemini-2.0-flash-lite",   # padrão — rápido, 30 RPM, gratuito
-    "google/gemini-2.0-flash",        # fallback 1 — mesma família
-    "meta-llama/llama-3.2-3b-instruct",  # fallback 2 — leve
-    "microsoft/phi-3-medium-4k-instruct",  # fallback 3
+_FREE_MODELS_CACHE: list[str] | None = None
+_FREE_MODELS_CACHE_TIME: float = 0
+_CACHE_TTL = 3600  # 1 hora
+_cache_lock = threading.Lock()
+
+# Fallback hardcoded caso a API não responda
+_FALLBACK_FREE_MODELS = [
+    "google/gemini-2.0-flash-lite",
+    "google/gemini-2.0-flash",
+    "meta-llama/llama-3.2-3b-instruct",
+    "microsoft/phi-3-medium-4k-instruct",
 ]
 
-FREE_CHAT_MODELS: list[str] = [
-    "google/gemini-2.0-flash",        # padrão — melhor qualidade, gratuito
-    "google/gemini-2.0-flash-lite",   # fallback 1 — rápido
-    "meta-llama/llama-3.2-3b-instruct",  # fallback 2
-    "microsoft/phi-3-medium-4k-instruct",  # fallback 3
-]
+
+def _fetch_free_models() -> list[str]:
+    """Consulta a API do OpenRouter e retorna lista de modelos com preço zero."""
+    import httpx
+
+    try:
+        resp = httpx.get(
+            "https://openrouter.ai/api/v1/models",
+            headers={"User-Agent": "GarimpoGov/1.0"},
+            timeout=15,
+        )
+        resp.raise_for_status()
+        data = resp.json()
+
+        free_models = []
+        for model in data.get("data", []):
+            pricing = model.get("pricing", {})
+            prompt_price = pricing.get("prompt", "0")
+            completion_price = pricing.get("completion", "0")
+            if prompt_price == "0" and completion_price == "0":
+                free_models.append(model["id"])
+
+        if not free_models:
+            logger.warning("API retornou lista vazia de modelos free — usando fallback")
+            return _FALLBACK_FREE_MODELS.copy()
+
+        # Ordena: prefere Google, depois Llama/Mistral/Phi, depois resto
+        def sort_key(m: str) -> tuple:
+            low = m.lower()
+            if "google" in low:
+                return (0, m)
+            if "llama" in low or "mistral" in low or "phi" in low:
+                return (1, m)
+            return (2, m)
+
+        free_models.sort(key=sort_key)
+        logger.info(
+            "Modelos free carregados da API (%d): %s ...",
+            len(free_models), free_models[:6],
+        )
+        return free_models
+
+    except Exception as e:
+        logger.warning("Falha ao buscar modelos free da API (%s) — usando fallback", e)
+        return _FALLBACK_FREE_MODELS.copy()
+
+
+def _get_free_models() -> list[str]:
+    """Retorna lista de modelos free (cache com TTL de 1 hora)."""
+    global _FREE_MODELS_CACHE, _FREE_MODELS_CACHE_TIME
+
+    now = time.monotonic()
+    if _FREE_MODELS_CACHE is not None and (now - _FREE_MODELS_CACHE_TIME) < _CACHE_TTL:
+        return _FREE_MODELS_CACHE
+
+    with _cache_lock:
+        # Double-check dentro do lock
+        if _FREE_MODELS_CACHE is not None and (now - _FREE_MODELS_CACHE_TIME) < _CACHE_TTL:
+            return _FREE_MODELS_CACHE
+
+        _FREE_MODELS_CACHE = _fetch_free_models()
+        _FREE_MODELS_CACHE_TIME = time.monotonic()
+        return _FREE_MODELS_CACHE
+
+
+def _build_model_list(
+    configured: str | None,
+    preferred_first: str,
+) -> list[str]:
+    """Monta lista priorizada: configurado → preferido → free sorted.
+
+    O modelo configurado (env var) vem primeiro.
+    Depois o preferred_first (default para o propósito) se diferente.
+    Depois os demais free models.
+    """
+    all_free = _get_free_models()
+
+    # Se configured veio de parâmetro explícito, usa ele; senão lê da env
+    effective = configured or os.environ.get(
+        "OPENROUTER_EXTRACTION_MODEL"
+    ) or os.environ.get(
+        "OPENROUTER_CHAT_MODEL"
+    )
+
+    ordered: list[str] = []
+    seen: set[str] = set()
+
+    if effective and effective not in seen:
+        ordered.append(effective)
+        seen.add(effective)
+
+    if preferred_first not in seen:
+        ordered.append(preferred_first)
+        seen.add(preferred_first)
+
+    for m in all_free:
+        if m not in seen:
+            ordered.append(m)
+            seen.add(m)
+
+    # Se por algum motivo a lista ficou vazia
+    if not ordered:
+        ordered = _FALLBACK_FREE_MODELS.copy()
+
+    return ordered
+
 
 # ---------------------------------------------------------------------------
 # Rate limiting
@@ -86,15 +184,8 @@ def _api_key() -> str:
     return key
 
 
-# ---------------------------------------------------------------------------
-# Utilitário HTTP
-# ---------------------------------------------------------------------------
-
 def _call_openrouter(body: dict) -> tuple[int, str]:
-    """Faz a chamada HTTP e retorna (status_code, response_text).
-
-    Não levanta exceção para erros HTTP — quem chama decide o que fazer.
-    """
+    """Faz chamada HTTP POST e retorna (status_code, response_text)."""
     import httpx
 
     resp = httpx.post(
@@ -107,7 +198,6 @@ def _call_openrouter(body: dict) -> tuple[int, str]:
 
 
 def _is_retryable(status: int) -> bool:
-    """Erros 429 (rate-limit) e 5xx (servidor) são retryáveis."""
     return status == 429 or status >= 500
 
 
@@ -123,17 +213,15 @@ def generate(
     temperature: float = 0.0,
     max_tokens: int = 4096,
 ) -> str:
-    """Chamada síncrona de completion com fallback entre modelos free.
+    """Chamada síncrona de completion com fallback dinâmico.
 
-    Tenta cada modelo da lista em ordem até um responder com sucesso.
-    Erros rate-limit (429) e de servidor (5xx) são retryáveis com backoff.
-    Erros 4xx (exceto 429) pulam para o próximo modelo imediatamente.
+    Tenta o modelo configurado primeiro. Se falhar, percorre a lista de
+    modelos gratuitos obtida da API do OpenRouter.
     """
-    # Monta a lista de modelos: configurado via env + fallbacks
-    configured = model or os.environ.get("OPENROUTER_EXTRACTION_MODEL")
-    models = FREE_EXTRACTION_MODELS.copy()
-    if configured and configured != models[0]:
-        models.insert(0, configured)
+    models = _build_model_list(
+        configured=model or os.environ.get("OPENROUTER_EXTRACTION_MODEL"),
+        preferred_first="google/gemini-2.0-flash-lite",
+    )
 
     last_error: Exception | None = None
 
@@ -148,7 +236,6 @@ def generate(
             "max_tokens": max_tokens,
         }
 
-        # Tenta até 3 vezes com backoff para erros retryáveis
         for attempt in range(3):
             try:
                 _rate_limit()
@@ -158,19 +245,16 @@ def generate(
                     data = json.loads(text)
                     return data["choices"][0]["message"]["content"]
 
-                # Log do erro
                 logger.error(
                     "OpenRouter HTTP %d no modelo %s (attempt %d): %.300s",
                     status, candidate, attempt + 1, text,
                 )
 
-                # Se não for retryável, pula para o próximo modelo
                 if not _is_retryable(status):
                     break
 
-                # Se é retryável, espera e tenta de novo
                 if attempt < 2:
-                    wait = (2 ** attempt) * 15  # 15s, 30s
+                    wait = (2 ** attempt) * 15
                     logger.info("Aguardando %ds antes de retentar %s...", wait, candidate)
                     time.sleep(wait)
 
@@ -182,7 +266,6 @@ def generate(
                 if attempt < 2:
                     time.sleep((2 ** attempt) * 15)
 
-    # Se chegou aqui, todos os modelos falharam
     raise RuntimeError(
         f"Todos os modelos gratuitos falharam. Último erro: {last_error}"
     ) from last_error
@@ -200,21 +283,19 @@ async def generate_stream(
     temperature: float = 0.0,
     max_tokens: int = 2048,
 ) -> AsyncIterator[str]:
-    """Stream de tokens com fallback entre modelos free.
+    """Stream de tokens com fallback dinâmico entre modelos free.
 
     Uso:
         async for chunk in generate_stream("minha pergunta"):
             acumula(chunk)
-
-    Se o modelo atual falhar com erro 4xx (não retryável), pula para o
-    próximo da lista de modelos gratuitos.
     """
-    configured = model or os.environ.get("OPENROUTER_CHAT_MODEL")
-    models = FREE_CHAT_MODELS.copy()
-    if configured and configured != models[0]:
-        models.insert(0, configured)
+    models = _build_model_list(
+        configured=model or os.environ.get("OPENROUTER_CHAT_MODEL"),
+        preferred_first="google/gemini-2.0-flash",
+    )
 
     import httpx
+    import asyncio
 
     last_error: Exception | None = None
 
@@ -253,9 +334,8 @@ async def generate_stream(
                                     yield content
                             except json.JSONDecodeError:
                                 continue
-                        return  # streaming completo com sucesso
+                        return
 
-                    # Erro — loga e tenta próximo modelo
                     try:
                         err_body = await resp.aread()
                     except Exception:
@@ -266,21 +346,18 @@ async def generate_stream(
                         err_body[:500].decode(errors="replace"),
                     )
 
-                    # Se é retryável (429/5xx), tenta de novo com o mesmo modelo
                     if resp.status_code == 429 or resp.status_code >= 500:
-                        logger.warning("Rate limit/servidor — re-tentando modelo %s em 30s...", candidate)
-                        import asyncio
+                        logger.warning(
+                            "Rate limit/servidor — re-tentando modelo %s em 30s...", candidate
+                        )
                         await asyncio.sleep(30)
-                        continue  # tenta o mesmo modelo de novo
+                        continue
 
-                    # 4xx não retryável → pula para o próximo modelo
                     break
 
         except Exception as e:
             last_error = e
             logger.error("Exceção no streaming com %s: %s", candidate, e)
-            # Tenta o próximo modelo
             continue
 
-    # Se chegou aqui, todos falharam
     yield f"Desculpe, ocorreu um erro ao gerar a resposta. Último erro: {last_error}"

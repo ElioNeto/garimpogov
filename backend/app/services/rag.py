@@ -9,6 +9,7 @@ import json
 import logging
 import math
 import os
+import time
 from typing import AsyncIterator
 
 from sqlalchemy import text
@@ -128,9 +129,92 @@ RESPOSTA:"""
         yield chunk
 
 
-async def _stream_openrouter(prompt: str) -> AsyncIterator[str]:
-    """Stream resposta do OpenRouter com fallback entre modelos free."""
+# ---------------------------------------------------------------------------
+# Cache de modelos gratuitos (backend)
+# ---------------------------------------------------------------------------
+_FREE_MODELS_CACHE: list[str] | None = None
+_FREE_MODELS_CACHE_TIME: float = 0
+_CACHE_TTL = 3600  # 1 hora
+
+_FALLBACK_FREE_MODELS = [
+    "google/gemini-2.0-flash",
+    "google/gemini-2.0-flash-lite",
+    "meta-llama/llama-3.2-3b-instruct",
+    "microsoft/phi-3-medium-4k-instruct",
+]
+
+
+def _fetch_free_models() -> list[str]:
+    """Consulta API do OpenRouter e retorna modelos gratuitos."""
     import httpx
+
+    try:
+        resp = httpx.get(
+            "https://openrouter.ai/api/v1/models",
+            headers={"User-Agent": "GarimpoGov/1.0"},
+            timeout=15,
+        )
+        resp.raise_for_status()
+        data = resp.json()
+
+        free = []
+        for model in data.get("data", []):
+            pricing = model.get("pricing", {})
+            if pricing.get("prompt") == "0" and pricing.get("completion") == "0":
+                free.append(model["id"])
+
+        if free:
+            def sort_key(m: str) -> tuple:
+                low = m.lower()
+                if "google" in low:
+                    return (0, m)
+                if "llama" in low or "mistral" in low or "phi" in low:
+                    return (1, m)
+                return (2, m)
+            free.sort(key=sort_key)
+            logger.info("Modelos free carregados pela API (%d)", len(free))
+            return free
+
+        logger.warning("API retornou lista vazia — usando fallback")
+    except Exception as e:
+        logger.warning("Falha ao buscar modelos free (%s) — usando fallback", e)
+
+    return _FALLBACK_FREE_MODELS.copy()
+
+
+def _get_free_models() -> list[str]:
+    global _FREE_MODELS_CACHE, _FREE_MODELS_CACHE_TIME
+    now = time.monotonic()
+    if _FREE_MODELS_CACHE is None or (now - _FREE_MODELS_CACHE_TIME) > _CACHE_TTL:
+        _FREE_MODELS_CACHE = _fetch_free_models()
+        _FREE_MODELS_CACHE_TIME = time.monotonic()
+    return _FREE_MODELS_CACHE
+
+
+def _build_chat_model_list() -> list[str]:
+    """Monta lista priorizada para chat."""
+    configured = os.environ.get("OPENROUTER_CHAT_MODEL", "google/gemini-2.0-flash")
+    all_free = _get_free_models()
+
+    ordered: list[str] = []
+    seen: set[str] = set()
+
+    if configured not in seen:
+        ordered.append(configured)
+        seen.add(configured)
+
+    for m in all_free:
+        if m not in seen:
+            ordered.append(m)
+            seen.add(m)
+
+    return ordered or _FALLBACK_FREE_MODELS.copy()
+
+
+async def _stream_openrouter(prompt: str) -> AsyncIterator[str]:
+    """Stream resposta do OpenRouter com fallback dinâmico entre modelos free."""
+    import httpx
+    import asyncio
 
     api_key = os.environ.get("OPENROUTER_API_KEY")
     if not api_key:
@@ -138,14 +222,7 @@ async def _stream_openrouter(prompt: str) -> AsyncIterator[str]:
         yield "Desculpe, o chat não está configurado. Defina OPENROUTER_API_KEY no ambiente."
         return
 
-    # Modelos gratuitos em ordem de preferência
-    FREE_CHAT_MODELS = [
-        os.environ.get("OPENROUTER_CHAT_MODEL", "google/gemini-2.0-flash"),
-        "google/gemini-2.0-flash-lite",
-        "meta-llama/llama-3.2-3b-instruct",
-        "microsoft/phi-3-medium-4k-instruct",
-    ]
-
+    models = _build_chat_model_list()
     headers = {
         "User-Agent": "GarimpoGov/1.0",
         "Content-Type": "application/json",
@@ -154,7 +231,7 @@ async def _stream_openrouter(prompt: str) -> AsyncIterator[str]:
 
     last_error: Exception | None = None
 
-    for i, model in enumerate(FREE_CHAT_MODELS):
+    for i, model in enumerate(models):
         if i > 0:
             logger.warning("Fallback chat para modelo: %s", model)
 
@@ -189,9 +266,8 @@ async def _stream_openrouter(prompt: str) -> AsyncIterator[str]:
                                     yield content
                             except json.JSONDecodeError:
                                 continue
-                        return  # sucesso
+                        return
 
-                    # Log do erro
                     try:
                         err_body = await resp.aread()
                     except Exception:
@@ -202,13 +278,10 @@ async def _stream_openrouter(prompt: str) -> AsyncIterator[str]:
                         err_body[:500].decode(errors="replace"),
                     )
 
-                    # 429/5xx → tenta de novo o mesmo modelo após pausa
                     if resp.status_code == 429 or resp.status_code >= 500:
-                        import asyncio
                         await asyncio.sleep(30)
                         continue
 
-                    # 4xx → pula para o próximo modelo
                     break
 
         except Exception as e:
