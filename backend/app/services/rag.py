@@ -1,7 +1,7 @@
-"""RAG pipeline: embedding local + vector search + OpenRouter streaming.
+"""RAG pipeline: embedding local + vector search + OpenRouter streaming (free).
 
-Embedding: sentence-transformers (multilingual, local, sem API).
-Chat:     OpenRouter (modelo configurável via OPENROUTER_CHAT_MODEL).
+Embedding: sentence-transformers (multilingual, local, sem API, sem custo).
+Chat:     OpenRouter com modelo gratuito (google/gemini-2.0-flash).
 """
 from __future__ import annotations
 

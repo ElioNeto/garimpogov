@@ -109,11 +109,22 @@ TARGET_PROFILES = [
 FILTER_USE_REGEX: bool = True
 
 # ---------------------------------------------------------------------------
-# Configuração de modelos no OpenRouter
-# Formato: "provedor/modelo" (ex: google/gemini-2.0-flash-lite)
+# Configuração de modelos no OpenRouter — APENAS MODELOS FREE
 # ---------------------------------------------------------------------------
-OPENROUTER_EXTRACTION_MODEL: str = os.environ.get("OPENROUTER_EXTRACTION_MODEL", "google/gemini-2.0-flash-lite")
-OPENROUTER_CHAT_MODEL: str = os.environ.get("OPENROUTER_CHAT_MODEL", "google/gemini-2.0-flash")
+# Modelos gratuitos confirmados no OpenRouter (jun/2026):
+#   Extração: google/gemini-2.0-flash-lite  ← rápido, 30 RPM, 1500 RPD
+#   Chat:     google/gemini-2.0-flash        ← melhor qualidade, gratuito
+#   Alternativa: meta-llama/llama-3.2-3b-instruct (free, leve)
+#
+# NÃO use modelos pagos sem verificar o pricing em https://openrouter.ai/models
+# O pipeline pode gerar custos inesperados se o modelo mudar.
+# ---------------------------------------------------------------------------
+OPENROUTER_EXTRACTION_MODEL: str = os.environ.get(
+    "OPENROUTER_EXTRACTION_MODEL", "google/gemini-2.0-flash-lite"
+)
+OPENROUTER_CHAT_MODEL: str = os.environ.get(
+    "OPENROUTER_CHAT_MODEL", "google/gemini-2.0-flash"
+)
 
 # Palavras-chave para busca no DOU e outros diários oficiais
 DOU_SEARCH_TERMS = [

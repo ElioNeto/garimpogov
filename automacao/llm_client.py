@@ -1,4 +1,9 @@
-"""Cliente LLM via OpenRouter (API compatível com OpenAI).
+"""Cliente LLM via OpenRouter — apenas modelos gratuitos.
+
+Modelos free confirmados no OpenRouter:
+  - google/gemini-2.0-flash-lite  (extração, 30 RPM)
+  - google/gemini-2.0-flash        (chat, qualidade superior)
+  - meta-llama/llama-3.2-3b-instruct (alternativa leve)
 
 Uso no pipeline de ingestão (síncrono):
     from automacao.llm_client import generate
