@@ -109,15 +109,19 @@ TARGET_PROFILES = [
 FILTER_USE_REGEX: bool = True
 
 # ---------------------------------------------------------------------------
-# Configuração de modelos no OpenRouter — APENAS MODELOS FREE
+# Modelos OpenRouter — APENAS GRATUITOS, com fallback automático
 # ---------------------------------------------------------------------------
-# Modelos gratuitos confirmados no OpenRouter (jun/2026):
-#   Extração: google/gemini-2.0-flash-lite  ← rápido, 30 RPM, 1500 RPD
-#   Chat:     google/gemini-2.0-flash        ← melhor qualidade, gratuito
-#   Alternativa: meta-llama/llama-3.2-3b-instruct (free, leve)
+# O modelo configurado abaixo é tentado primeiro. Se falhar (erro 4xx não
+# retryável), o pipeline tenta automaticamente os demais modelos free na
+# lista definida em automacao/llm_client.py / backend/app/services/rag.py.
 #
-# NÃO use modelos pagos sem verificar o pricing em https://openrouter.ai/models
-# O pipeline pode gerar custos inesperados se o modelo mudar.
+# Modelos free (jun/2026):
+#   Extração: google/gemini-2.0-flash-lite  ← rápido, 30 RPM
+#   Chat:     google/gemini-2.0-flash        ← melhor qualidade
+#   Fallbacks: meta-llama/llama-3.2-3b-instruct, phi-3-medium
+#
+# ⚠️ NÃO use modelos pagos. O pipeline pode gerar custos inesperados.
+#    Consulte https://openrouter.ai/models antes de alterar.
 # ---------------------------------------------------------------------------
 OPENROUTER_EXTRACTION_MODEL: str = os.environ.get(
     "OPENROUTER_EXTRACTION_MODEL", "google/gemini-2.0-flash-lite"
