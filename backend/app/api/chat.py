@@ -2,17 +2,18 @@ import json
 import uuid
 from typing import AsyncIterator
 
-from fastapi import APIRouter, Depends, HTTPException
+from fastapi import APIRouter, Depends, HTTPException, Request
 from fastapi.responses import StreamingResponse
 from sqlalchemy import select
 from sqlalchemy.ext.asyncio import AsyncSession
 
 from app.core.database import get_db
+from app.core.deps import chat_rate_limit, verify_api_key
 from app.models.concurso import Concurso
 from app.schemas.chat import ChatRequest
 from app.services.rag import stream_chat_response
 
-router = APIRouter(prefix="/chat", tags=["chat"])
+router = APIRouter(prefix="/chat", tags=["chat"], dependencies=[Depends(verify_api_key)])
 
 
 async def event_generator(
@@ -32,7 +33,9 @@ async def event_generator(
 async def chat_with_edital(
     concurso_id: uuid.UUID,
     request: ChatRequest,
+    request_obj: Request,
     db: AsyncSession = Depends(get_db),
+    _: None = Depends(chat_rate_limit),
 ):
     stmt = select(Concurso).where(Concurso.id == concurso_id)
     result = await db.execute(stmt)

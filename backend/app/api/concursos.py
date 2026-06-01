@@ -1,4 +1,5 @@
 import uuid
+from datetime import datetime
 from typing import Optional
 
 from fastapi import APIRouter, Depends, HTTPException, Query
@@ -7,10 +8,21 @@ from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy.orm import selectinload
 
 from app.core.database import get_db
+from app.core.deps import verify_api_key
 from app.models.concurso import Concurso
 from app.schemas.concurso import ConcursoSchema, PaginatedConcursos, ConcursoListSchema
 
-router = APIRouter(prefix="/concursos", tags=["concursos"])
+router = APIRouter(prefix="/concursos", tags=["concursos"], dependencies=[Depends(verify_api_key)])
+
+
+def _parse_date_or_none(value: Optional[str]) -> Optional[datetime]:
+    """Tenta converter string ISO para datetime, retorna None se inválido."""
+    if not value:
+        return None
+    try:
+        return datetime.fromisoformat(value)
+    except (ValueError, TypeError):
+        return None
 
 
 @router.get("", response_model=PaginatedConcursos)
@@ -31,9 +43,20 @@ async def list_concursos(
     if status:
         stmt = stmt.where(Concurso.status == status)
     if salario_min is not None:
-        stmt = stmt.where(Concurso.salario_maximo >= salario_min)
+        stmt = stmt.where(
+            (Concurso.salario_maximo >= salario_min) | (Concurso.salario_maximo.is_(None))
+        )
     if salario_max is not None:
-        stmt = stmt.where(Concurso.salario_maximo <= salario_max)
+        stmt = stmt.where(
+            (Concurso.salario_maximo <= salario_max) | (Concurso.salario_maximo.is_(None))
+        )
+
+    # B4: Aplica filtro de data de encerramento (que antes era ignorado)
+    data_fim = _parse_date_or_none(data_encerramento_antes)
+    if data_fim is not None:
+        stmt = stmt.where(
+            (Concurso.data_encerramento <= data_fim) | (Concurso.data_encerramento.is_(None))
+        )
 
     count_stmt = select(func.count()).select_from(stmt.subquery())
     total_result = await db.execute(count_stmt)

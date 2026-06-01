@@ -1,34 +1,61 @@
-"""Estrategia Concursos - coleta HTML, sem Gemini."""
+"""Scraper Estrategia Concursos - concursos com inscricoes abertas.
+
+URL: https://www.estrategiaconcursos.com.br/concursos/abertos/
+Lista concursos com titulo, orgao, banca, inscricoes e link do edital.
+
+Usa Playwright para renderizar JS e obter o HTML completo.
+Requer: ``playwright install chromium`` (executar uma vez apos instalar a lib).
+"""
+import asyncio
 import logging
-import time
-import requests
+
+from playwright.async_api import async_playwright
+from tenacity import retry, stop_after_attempt, wait_exponential
+
+from automacao.scraper_base import BaseScraper
 
 logger = logging.getLogger(__name__)
 
 BASE_URL = "https://www.estrategiaconcursos.com.br"
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36",
-    "Accept-Language": "pt-BR,pt;q=0.9",
-    "Referer": "https://www.estrategiaconcursos.com.br/",
-}
-PAGES = [
-    BASE_URL + "/concursos/abertos/",
-    BASE_URL + "/concursos/abertos/?area=ti",
-    BASE_URL + "/concursos/abertos/?area=professor",
-]
 
 
-def scrape_estrategia() -> list[tuple[str, str, str]]:
-    session = requests.Session()
-    session.headers.update(HEADERS)
-    results = []
-    for url in PAGES:
-        try:
-            r = session.get(url, timeout=30)
-            r.raise_for_status()
-            results.append((r.text, BASE_URL, "Estrategia"))
-            logger.info(f"Estrategia [{url}]: HTML coletado")
-            time.sleep(1)
-        except Exception as e:
-            logger.warning(f"Estrategia [{url}]: {e}")
-    return results
+class EstrategiaScraper(BaseScraper):
+    nome = "Estrategia"
+    base_url = BASE_URL
+    pages = [
+        BASE_URL + "/concursos/abertos/",
+        BASE_URL + "/concursos/abertos/?area=ti",
+        BASE_URL + "/concursos/abertos/?area=professor",
+    ]
+
+    @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=2, min=5, max=30))
+    def _fetch_page(self, url: str) -> str:
+        """Busca o HTML renderizado via Playwright.
+
+        O metodo base (requests) nao funciona porque o Estrategia
+        carrega o conteudo dinamicamente com JavaScript.
+
+        Nota: Se chamado de dentro de um loop de eventos existente,
+        ``asyncio.run()`` falhara. Nesse caso, refatore ``scrape()``
+        para ser async ou use ``asyncio.get_event_loop().run_until_complete()``.
+        """
+        async def _inner() -> str:
+            async with async_playwright() as p:
+                browser = await p.chromium.launch(
+                    headless=True,
+                    args=["--no-sandbox"],
+                )
+                context = await browser.new_context(
+                    viewport={"width": 1280, "height": 800},
+                )
+                page = await context.new_page()
+                await page.goto(url, wait_until="networkidle", timeout=30000)
+                html = await page.content()
+                await browser.close()
+                return html
+
+        return asyncio.run(_inner())
+
+
+def scrape_estrategia() -> list[dict]:
+    return EstrategiaScraper().scrape()

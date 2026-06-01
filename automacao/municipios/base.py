@@ -11,15 +11,13 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 from automacao.ai_extractor import extract_concursos_from_html
+from automacao.config import DEFAULT_HEADERS, SCRAPER_SLEEP_SECONDS
 
 logger = logging.getLogger(__name__)
 
+# Headers enriquecidos para municipios (inclui Accept/Language extras)
 HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0.0.0 Safari/537.36"
-    ),
+    **DEFAULT_HEADERS,
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
     "Accept-Encoding": "gzip, deflate, br",
@@ -70,7 +68,7 @@ class DiarioMunicipal(ABC):
                         seen.add(c["link_edital"])
                         all_results.append(c)
                 logger.info(f"{self.fonte} [{url}]: {len(results)} no escopo")
-                time.sleep(5)  # espaco generoso entre chamadas ao Gemini
+                time.sleep(SCRAPER_SLEEP_SECONDS)
             except Exception as e:
                 logger.error(f"Erro {self.fonte} [{url}]: {e}")
 

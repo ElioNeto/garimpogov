@@ -1,5 +1,6 @@
 import uuid
 from datetime import datetime
+from decimal import Decimal
 from typing import Optional
 
 from pgvector.sqlalchemy import Vector
@@ -22,7 +23,7 @@ class Concurso(Base):
     status: Mapped[str] = mapped_column(String(50), nullable=False, default="aberto")
     link_edital: Mapped[str] = mapped_column(String(2000), unique=True, nullable=False)
     pdf_url: Mapped[Optional[str]] = mapped_column(String(2000), nullable=True)
-    salario_maximo: Mapped[Optional[float]] = mapped_column(Numeric(12, 2), nullable=True)
+    salario_maximo: Mapped[Optional[Decimal]] = mapped_column(Numeric(12, 2), nullable=True)
     data_encerramento: Mapped[Optional[datetime]] = mapped_column(DateTime, nullable=True)
     created_at: Mapped[datetime] = mapped_column(
         DateTime, server_default=func.now(), nullable=False
@@ -50,7 +51,7 @@ class Cargo(Base):
     )
     nome: Mapped[str] = mapped_column(String(500), nullable=False)
     vagas: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
-    salario: Mapped[Optional[float]] = mapped_column(Numeric(12, 2), nullable=True)
+    salario: Mapped[Optional[Decimal]] = mapped_column(Numeric(12, 2), nullable=True)
     requisitos: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
 
     concurso: Mapped["Concurso"] = relationship("Concurso", back_populates="cargos")
@@ -63,11 +64,17 @@ class EditalChunk(Base):
         UUID(as_uuid=True), primary_key=True, default=uuid.uuid4
     )
     concurso_id: Mapped[uuid.UUID] = mapped_column(
-        UUID(as_uuid=True), ForeignKey("concursos.id", ondelete="CASCADE"), nullable=False
+        UUID(as_uuid=True),
+        ForeignKey("concursos.id", ondelete="CASCADE"),
+        nullable=False,
+        index=True,
     )
     content: Mapped[str] = mapped_column(Text, nullable=False)
     chunk_index: Mapped[int] = mapped_column(Integer, nullable=False)
     # 768 dimensions for text-embedding-004
-    embedding: Mapped[list[float]] = mapped_column(Vector(768), nullable=True)
+    embedding: Mapped[list[float]] = mapped_column(Vector(768), nullable=False)
+    created_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True), server_default=func.now()
+    )
 
     concurso: Mapped["Concurso"] = relationship("Concurso", back_populates="chunks")

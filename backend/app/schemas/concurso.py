@@ -50,12 +50,3 @@ class PaginatedConcursos(BaseModel):
     page: int
     page_size: int
     items: list[ConcursoListSchema]
-
-
-class ChatRequest(BaseModel):
-    question: str
-
-
-class ChatChunk(BaseModel):
-    text: str
-    done: bool = False

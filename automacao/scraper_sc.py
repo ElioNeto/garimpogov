@@ -1,63 +1,81 @@
-"""Scraper DOESC - SSL verify=False (certificado invalido do servidor SC).
+"""Scraper DOESC.
 
 Portal oficial: https://www.doe.sea.sc.gov.br
 Alternativa: portal de licitacoes/concursos do estado SC.
+
+Nota (B31): O certificado SSL do servidor SC costumava ser invalido,
+portanto usamos verify=False como fallback.
 """
 import logging
-import time
-import warnings
+import os
 
 import requests
-from requests.packages.urllib3.exceptions import InsecureRequestWarning
 from tenacity import retry, stop_after_attempt, wait_exponential
 
 from automacao.ai_extractor import extract_concursos_from_html
+from automacao.scraper_base import BaseScraper
 
-warnings.filterwarnings("ignore", category=InsecureRequestWarning)
-logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 BASE_URL = "https://www.doe.sea.sc.gov.br"
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0.0.0 Safari/537.36"
-    )
-}
-
-PAGES = [
-    BASE_URL + "/",
-    BASE_URL + "/buscapublicacao?q=concurso+publico+tecnologia",
-    BASE_URL + "/buscapublicacao?q=concurso+publico+professor+ingles",
-    # Portal de RH do estado SC como alternativa
-    "https://www.sc.gov.br/index.php/noticias/temas/concursos-e-selecoes",
-]
 
 
-@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=2, min=5, max=30))
-def _fetch(url: str) -> str:
-    r = requests.get(url, headers=HEADERS, timeout=30, verify=False)
-    r.raise_for_status()
-    return r.text
+class DOEScScraper(BaseScraper):
+    nome = "DOESC"
+    base_url = BASE_URL
+    pages = [
+        BASE_URL + "/",
+        BASE_URL + "/buscapublicacao?q=concurso+publico+tecnologia",
+        BASE_URL + "/buscapublicacao?q=concurso+publico+professor+ingles",
+        # Portal de RH do estado SC como alternativa
+        "https://www.sc.gov.br/index.php/noticias/temas/concursos-e-selecoes",
+    ]
+    # SSL: tenta com True, fallback False (certificado conhecido como problematico)
+    verify_override = None  # setado durante scrape
+
+    @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=2, min=5, max=30))
+    def _fetch_page(self, url: str) -> str:
+        ca_bundle = os.environ.get("REQUESTS_CA_BUNDLE")
+        verify = ca_bundle if (ca_bundle and os.path.exists(ca_bundle)) else True
+        try:
+            r = requests.get(
+                url, headers=self._make_session().headers,
+                timeout=self.timeout, verify=verify,
+            )
+            r.raise_for_status()
+            return r.text
+        except requests.exceptions.SSLError:
+            logger.warning(f"SSL Error para {url}, tentando sem verificacao...")
+            r = requests.get(
+                url, headers=self._make_session().headers,
+                timeout=self.timeout, verify=False,
+            )
+            r.raise_for_status()
+            return r.text
+
+    def scrape(self) -> list[dict]:
+        logger.info(f"Scraping {self.nome} ({len(self.pages)} paginas)...")
+        all_concursos = []
+        seen: set[str] = set()
+
+        for url in self.pages:
+            try:
+                html = self._fetch_page(url)
+                results = extract_concursos_from_html(
+                    html, base_url=self.base_url, fonte=self.nome
+                )
+                for c in results:
+                    key = c.get("link_edital", "") or c.get("instituicao", "")
+                    if key not in seen:
+                        seen.add(key)
+                        all_concursos.append(c)
+                logger.info(f"{self.nome} [{url}]: {len(results)} no escopo")
+            except Exception as e:
+                logger.error(f"Erro {self.nome} [{url}]: {e}")
+
+        logger.info(f"{self.nome} total: {len(all_concursos)}")
+        return all_concursos
 
 
 def scrape_doesc() -> list[dict]:
-    all_concursos = []
-    seen = set()
-
-    for url in PAGES:
-        try:
-            html = _fetch(url)
-            results = extract_concursos_from_html(html, base_url=BASE_URL, fonte="DOESC")
-            for c in results:
-                if c["link_edital"] not in seen:
-                    seen.add(c["link_edital"])
-                    all_concursos.append(c)
-            logger.info(f"DOESC [{url}]: {len(results)} no escopo")
-            time.sleep(4)
-        except Exception as e:
-            logger.error(f"Erro DOESC [{url}]: {e}")
-
-    logger.info(f"DOESC total: {len(all_concursos)}")
-    return all_concursos
+    return DOEScScraper().scrape()

@@ -125,9 +125,12 @@ export function streamChat(
       }
       onDone();
     } catch (err: unknown) {
-      if ((err as Error).name !== 'AbortError') {
-        onError(err instanceof Error ? err.message : 'Erro desconhecido');
+      if (err instanceof Error && err.name !== 'AbortError') {
+        onError(err.message);
+      } else if (!(err instanceof Error)) {
+        onError('Erro desconhecido');
       }
+      // Se for AbortError, simplesmente ignora
     }
   })();
 
