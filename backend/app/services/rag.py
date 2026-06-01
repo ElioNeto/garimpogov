@@ -1,7 +1,10 @@
-"""RAG pipeline: embedding, vector search, and Gemini streaming.
+"""RAG pipeline: embedding (Google), vector search, and LLM streaming (OpenRouter/Gemini).
 
-B6: Migrado de google.generativeai para google.genai (SDK unificado).
+Embedding mantido no Google text-embedding-004 (gratuito, sem concorrente free no OpenRouter).
+Geração de texto usa OpenRouter (primário) com fallback para Google Gemini.
 """
+from __future__ import annotations
+
 import logging
 import math
 from typing import AsyncIterator
@@ -16,7 +19,9 @@ logger = logging.getLogger(__name__)
 
 settings = get_settings()
 
-# B36: lazy loading da API key (não configura no import do módulo)
+# ---------------------------------------------------------------------------
+# Embedding (sempre Google — melhor opção free disponível)
+# ---------------------------------------------------------------------------
 _client: genai.Client | None = None
 
 
@@ -27,9 +32,7 @@ def _get_client() -> genai.Client:
     return _client
 
 
-# Usa valores do config centralizado (B26)
 EMBEDDING_MODEL = settings.EMBEDDING_MODEL
-GENERATION_MODEL = settings.GENERATION_MODEL
 TOP_K = settings.RAG_TOP_K
 
 
@@ -55,6 +58,11 @@ def embed_text(text_input: str) -> list[float]:
     return result.embeddings[0].values
 
 
+# ---------------------------------------------------------------------------
+# Similarity search (pgvector)
+# ---------------------------------------------------------------------------
+
+
 async def similarity_search(
     db: AsyncSession, concurso_id: str, query_embedding: list[float], top_k: int = TOP_K
 ) -> list[str]:
@@ -77,10 +85,15 @@ async def similarity_search(
     return [row[0] for row in rows]
 
 
+# ---------------------------------------------------------------------------
+# Chat streaming (OpenRouter → Gemini fallback)
+# ---------------------------------------------------------------------------
+
+
 async def stream_chat_response(
     db: AsyncSession, concurso_id: str, question: str
 ) -> AsyncIterator[str]:
-    """RAG pipeline: embed question -> retrieve chunks -> stream Gemini answer."""
+    """RAG pipeline: embed question → retrieve chunks → stream LLM answer."""
     try:
         query_embedding = embed_text(question)
     except Exception as e:
@@ -112,10 +125,77 @@ PERGUNTA DO CANDIDATO:
 
 RESPOSTA:"""
 
+    # Tenta OpenRouter primeiro; se não configurado, usa Gemini direto
+    import os
+
+    openrouter_key = os.environ.get("OPENROUTER_API_KEY")
+    if openrouter_key:
+        async for chunk in _stream_openrouter(prompt):
+            yield chunk
+    else:
+        async for chunk in _stream_gemini(prompt):
+            yield chunk
+
+
+async def _stream_openrouter(prompt: str) -> AsyncIterator[str]:
+    """Stream resposta do OpenRouter via chat completions."""
+    import os
+
+    import httpx
+
+    model = os.environ.get("OPENROUTER_CHAT_MODEL", "google/gemini-2.0-flash")
+
+    body = {
+        "model": model,
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": 0.0,
+        "max_tokens": 2048,
+        "stream": True,
+    }
+
+    headers = {
+        "User-Agent": "GarimpoGov/1.0",
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {os.environ['OPENROUTER_API_KEY']}",
+    }
+
+    try:
+        async with httpx.AsyncClient(timeout=120) as client:
+            async with client.stream(
+                "POST",
+                "https://openrouter.ai/api/v1/chat/completions",
+                headers=headers,
+                json=body,
+            ) as resp:
+                resp.raise_for_status()
+                async for line in resp.aiter_lines():
+                    if not line.startswith("data: "):
+                        continue
+                    data_str = line[6:].strip()
+                    if not data_str or data_str == "[DONE]":
+                        break
+                    try:
+                        import json
+
+                        chunk = json.loads(data_str)
+                        delta = chunk.get("choices", [{}])[0].get("delta", {})
+                        content = delta.get("content")
+                        if content:
+                            yield content
+                    except json.JSONDecodeError:
+                        continue
+    except Exception as e:
+        logger.error(f"Erro no streaming OpenRouter: {e}")
+        yield "Desculpe, ocorreu um erro ao gerar a resposta. Verifique se a API do OpenRouter esta configurada corretamente."
+
+
+async def _stream_gemini(prompt: str) -> AsyncIterator[str]:
+    """Fallback: stream resposta do Google Gemini."""
     try:
         client = _get_client()
+        model = os.environ.get("GEMINI_CHAT_MODEL", settings.GENERATION_MODEL)
         response = client.models.generate_content_stream(
-            model=GENERATION_MODEL,
+            model=model,
             contents=prompt,
         )
 

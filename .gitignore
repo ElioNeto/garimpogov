@@ -61,3 +61,7 @@ alembic/versions/__pycache__/
 # Temp
 *.tmp
 *.temp
+
+# Teamcode / opencode local config
+.teamcode/
+.opencode/

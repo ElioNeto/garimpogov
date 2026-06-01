@@ -8,7 +8,7 @@ class Settings(BaseSettings):
     model_config = SettingsConfigDict(env_file=".env", extra="ignore")
 
     DATABASE_URL: str
-    GEMINI_API_KEY: str
+    GEMINI_API_KEY: str = ""  # fallback se OpenRouter não configurado
 
     R2_ACCESS_KEY_ID: str = ""
     R2_SECRET_ACCESS_KEY: str = ""
@@ -18,9 +18,11 @@ class Settings(BaseSettings):
     # B24: suporta múltiplas origens separadas por vírgula
     FRONTEND_ORIGIN: str = "http://localhost:5173"
 
-    # B26: parâmetros do RAG
+    # B26/B7': parâmetros do RAG
     RAG_TOP_K: int = 5
     EMBEDDING_MODEL: str = "models/text-embedding-004"
+    # Modelo de chat — OpenRouter (primário) ou Gemini (fallback)
+    OPENROUTER_CHAT_MODEL: str = "google/gemini-2.0-flash"
     GENERATION_MODEL: str = "gemini-1.5-flash"
 
     # B34: limite de caracteres na pergunta do chat

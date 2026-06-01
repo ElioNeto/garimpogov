@@ -1,56 +1,24 @@
-"""Extrator inteligente via Gemini 2.0 Flash-Lite.
+"""Extrator inteligente via LLM (OpenRouter primário, Gemini fallback).
 
-Modelo: gemini-2.0-flash-lite
-  - Free tier: 30 RPM / 1500 RPD
-  - Suficiente para 24 fontes com margem confortavel
+Modelos recomendados (OpenRouter - free tier):
+  - Extração: google/gemini-2.0-flash-lite  (30 RPM, gratuito)
+  - Chat:     google/gemini-2.0-flash        (qualidade superior, gratuito)
 
-Rate limiting: token bucket com intervalo minimo forcado entre chamadas.
-Estrategia: 1 chamada a cada 2.5s = 24 RPM, bem abaixo do limite de 30 RPM.
-O retry (tenacity) aguarda 30-120s em caso de 429 residual.
+Se OPENROUTER_API_KEY não estiver definida, cai para GEMINI_API_KEY.
 """
+from __future__ import annotations
+
 import json
 import logging
 import os
 import re
 import textwrap
-import time
-import threading
 
 from bs4 import BeautifulSoup
-from google import genai
-from google.genai import types
-from tenacity import retry, stop_after_attempt, wait_exponential
+
+from automacao.llm_client import generate
 
 logger = logging.getLogger(__name__)
-
-# B36: lazy loading do cliente Gemini (não cria no import)
-_client_instance = None
-MODEL = "gemini-2.0-flash-lite"
-
-
-def _get_client():
-    """Retorna cliente Gemini, inicializando sob demanda (lazy)."""
-    global _client_instance
-    if _client_instance is None:
-        _client_instance = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
-    return _client_instance
-
-# Hard interval: minimo 2.5s entre chamadas = max 24 RPM (margem de 20%)
-_rate_lock = threading.Lock()
-_last_call: float = 0.0
-MIN_INTERVAL = 2.5  # segundos
-
-
-def _rate_limit():
-    """Garante intervalo minimo entre chamadas ao Gemini."""
-    with _rate_lock:
-        global _last_call
-        elapsed = time.monotonic() - _last_call
-        if elapsed < MIN_INTERVAL:
-            wait = MIN_INTERVAL - elapsed
-            logger.debug(f"Rate limit: aguardando {wait:.2f}s")
-            time.sleep(wait)
-        _last_call = time.monotonic()
 
 
 SCOPE_DESCRIPTION = textwrap.dedent("""
@@ -103,33 +71,25 @@ def _html_to_clean_text(html: str, max_chars: int = 12000) -> str:
     return text[:max_chars]
 
 
-@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=2, min=30, max=120))
-def _call_gemini(prompt: str) -> str:
-    _rate_limit()
-    client = _get_client()
-    response = client.models.generate_content(
-        model=MODEL,
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            temperature=0.0,
-            max_output_tokens=4096,
-        ),
-    )
-    return response.text
-
-
 def extract_concursos_from_html(html: str, base_url: str, fonte: str, max_chars: int = 12000) -> list[dict]:
     text = _html_to_clean_text(html, max_chars)
     if len(text.strip()) < 100:
-        logger.warning(f"[{fonte}] Texto muito curto, pulando AI extraction")
+        logger.warning(f"[{fonte}] Texto muito curto, pulando extração")
         return []
 
     prompt = EXTRACT_PROMPT.format(scope=SCOPE_DESCRIPTION, base_url=base_url, text=text)
 
+    # Modelo: usa OPENROUTER_EXTRACTION_MODEL ou fallback GEMINI_EXTRACTION_MODEL
+    model = (
+        os.environ.get("OPENROUTER_EXTRACTION_MODEL")
+        or os.environ.get("GEMINI_EXTRACTION_MODEL")
+        or "google/gemini-2.0-flash-lite"
+    )
+
     try:
-        raw = _call_gemini(prompt)
+        raw = generate(prompt, model=model, response_format={"type": "json_object"})
     except Exception as e:
-        logger.error(f"[{fonte}] Gemini API error: {e}")
+        logger.error(f"[{fonte}] LLM API error: {e}")
         return []
 
     raw = re.sub(r"^```(?:json)?\s*", "", raw.strip())
@@ -138,9 +98,8 @@ def extract_concursos_from_html(html: str, base_url: str, fonte: str, max_chars:
     try:
         data = json.loads(raw)
         concursos = data.get("concursos", [])
-        # B23: validação runtime do tipo retornado pelo Gemini
         if not isinstance(concursos, list):
-            logger.error(f"[{fonte}] Gemini retornou 'concursos' como {type(concursos).__name__}, esperado list. Resposta: {raw[:300]}")
+            logger.error(f"[{fonte}] LLM retornou 'concursos' como {type(concursos).__name__}, esperado list. Resposta: {raw[:300]}")
             return []
     except json.JSONDecodeError as e:
         logger.error(f"[{fonte}] JSON invalido: {e} | Resposta: {raw[:300]}")
@@ -155,7 +114,7 @@ def extract_concursos_from_html(html: str, base_url: str, fonte: str, max_chars:
         c["cargos"] = c.get("cargos") or []
         result.append(c)
 
-    logger.info(f"[{fonte}] Gemini extraiu {len(result)} concursos no escopo")
+    logger.info(f"[{fonte}] LLM extraiu {len(result)} concursos no escopo")
     return result
 
 
