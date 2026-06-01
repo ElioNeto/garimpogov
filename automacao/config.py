@@ -119,10 +119,10 @@ FILTER_USE_REGEX: bool = True
 #    Consulte https://openrouter.ai/models antes de alterar.
 # ---------------------------------------------------------------------------
 OPENROUTER_EXTRACTION_MODEL: str = os.environ.get(
-    "OPENROUTER_EXTRACTION_MODEL", "google/gemini-2.0-flash-lite"
+    "OPENROUTER_EXTRACTION_MODEL", "openrouter/free"
 )
 OPENROUTER_CHAT_MODEL: str = os.environ.get(
-    "OPENROUTER_CHAT_MODEL", "google/gemini-2.0-flash"
+    "OPENROUTER_CHAT_MODEL", "openrouter/free"
 )
 
 # Palavras-chave para busca no DOU e outros diários oficiais

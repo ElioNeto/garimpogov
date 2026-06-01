@@ -1,10 +1,8 @@
 """Cliente LLM via OpenRouter — apenas modelos gratuitos, com fallback dinâmico.
 
-A lista de modelos gratuitos é obtida automaticamente da API do OpenRouter
-(https://openrouter.ai/api/v1/models) e filtrada por preço zero.
-
-Se um modelo retornar erro (exceto 429 rate-limit), tenta o próximo.
-O cache é atualizado a cada hora.
+O modelo padrão é ``openrouter/free`` (auto-routing para o melhor free).
+Se falhar, busca modelos gratuitos via API do OpenRouter (cache 1h) e
+tenta cada um em ordem até um responder com sucesso.
 
 Uso:
     from automacao.llm_client import generate, generate_stream
@@ -32,11 +30,16 @@ _CACHE_TTL = 3600  # 1 hora
 _cache_lock = threading.Lock()
 
 # Fallback hardcoded caso a API não responda
+# Modelos confirmados gratuitos no OpenRouter (jun/2026):
+#   openrouter/free  → auto-routing para o melhor modelo free disponível
+#   meta-llama/llama-3.2-3b-instruct:free  → leve e rápido
+#   google/gemma-4-26b-a4b-it:free  → Google, bom para extração
+#   qwen/qwen3-coder:free  → bom para tarefas estruturadas
 _FALLBACK_FREE_MODELS = [
-    "google/gemini-2.0-flash-lite",
-    "google/gemini-2.0-flash",
-    "meta-llama/llama-3.2-3b-instruct",
-    "microsoft/phi-3-medium-4k-instruct",
+    "openrouter/free",
+    "meta-llama/llama-3.2-3b-instruct:free",
+    "google/gemma-4-26b-a4b-it:free",
+    "qwen/qwen3-coder:free",
 ]
 
 
@@ -220,7 +223,7 @@ def generate(
     """
     models = _build_model_list(
         configured=model or os.environ.get("OPENROUTER_EXTRACTION_MODEL"),
-        preferred_first="google/gemini-2.0-flash-lite",
+        preferred_first="openrouter/free",
     )
 
     last_error: Exception | None = None
@@ -291,7 +294,7 @@ async def generate_stream(
     """
     models = _build_model_list(
         configured=model or os.environ.get("OPENROUTER_CHAT_MODEL"),
-        preferred_first="google/gemini-2.0-flash",
+        preferred_first="openrouter/free",
     )
 
     import httpx

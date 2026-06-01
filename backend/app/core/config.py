@@ -20,8 +20,8 @@ class Settings(BaseSettings):
 
     # B26: parâmetros do RAG
     RAG_TOP_K: int = 5
-    # Modelo gratuito no OpenRouter: google/gemini-2.0-flash
-    OPENROUTER_CHAT_MODEL: str = "google/gemini-2.0-flash"
+    # Modelo gratuito no OpenRouter (auto-routing para o melhor free)
+    OPENROUTER_CHAT_MODEL: str = "openrouter/free"
 
     # B34: limite de caracteres na pergunta do chat
     CHAT_MAX_QUESTION_LENGTH: int = 2000

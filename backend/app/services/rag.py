@@ -1,7 +1,7 @@
 """RAG pipeline: embedding local + vector search + OpenRouter streaming (free).
 
 Embedding: sentence-transformers (multilingual, local, sem API, sem custo).
-Chat:     OpenRouter com modelo gratuito (google/gemini-2.0-flash).
+Chat:     OpenRouter com modelo gratuito (openrouter/free → auto-routing).
 """
 from __future__ import annotations
 
@@ -137,10 +137,10 @@ _FREE_MODELS_CACHE_TIME: float = 0
 _CACHE_TTL = 3600  # 1 hora
 
 _FALLBACK_FREE_MODELS = [
-    "google/gemini-2.0-flash",
-    "google/gemini-2.0-flash-lite",
-    "meta-llama/llama-3.2-3b-instruct",
-    "microsoft/phi-3-medium-4k-instruct",
+    "openrouter/free",
+    "meta-llama/llama-3.2-3b-instruct:free",
+    "google/gemma-4-26b-a4b-it:free",
+    "qwen/qwen3-coder:free",
 ]
 
 
@@ -193,7 +193,7 @@ def _get_free_models() -> list[str]:
 
 def _build_chat_model_list() -> list[str]:
     """Monta lista priorizada para chat."""
-    configured = os.environ.get("OPENROUTER_CHAT_MODEL", "google/gemini-2.0-flash")
+    configured = os.environ.get("OPENROUTER_CHAT_MODEL", "openrouter/free")
     all_free = _get_free_models()
 
     ordered: list[str] = []

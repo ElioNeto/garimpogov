@@ -79,7 +79,7 @@ def extract_concursos_from_html(html: str, base_url: str, fonte: str, max_chars:
 
     prompt = EXTRACT_PROMPT.format(scope=SCOPE_DESCRIPTION, base_url=base_url, text=text)
 
-    model = os.environ.get("OPENROUTER_EXTRACTION_MODEL", "google/gemini-2.0-flash-lite")
+    model = os.environ.get("OPENROUTER_EXTRACTION_MODEL", "openrouter/free")
 
     try:
         raw = generate(prompt, model=model)
