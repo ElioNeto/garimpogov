@@ -77,11 +77,14 @@ def generate(
     prompt: str,
     *,
     model: str | None = None,
-    response_format: dict | None = None,
     temperature: float = 0.0,
     max_tokens: int = 4096,
 ) -> str:
     """Chamada síncrona de completion via OpenRouter.
+
+    Nota: não usamos ``response_format`` porque modelos free do OpenRouter
+    (como google/gemini-2.0-flash-lite) não o suportam. A validação JSON
+    é feita pelo chamador (ai_extractor.py).
 
     Parâmetros
     ----------
@@ -90,8 +93,6 @@ def generate(
     model
         Nome do modelo OpenRouter (ex: ``"google/gemini-2.0-flash-lite"``).
         Se omitido, lê ``OPENROUTER_EXTRACTION_MODEL`` env ou usa default.
-    response_format
-        Opcional. Ex: ``{"type": "json_object"}`` para garantir JSON.
     """
     _rate_limit()
 
@@ -105,8 +106,6 @@ def generate(
         "temperature": temperature,
         "max_tokens": max_tokens,
     }
-    if response_format:
-        body["response_format"] = response_format
 
     import httpx
 
@@ -116,7 +115,20 @@ def generate(
         json=body,
         timeout=120,
     )
+
+    if resp.status_code >= 400:
+        try:
+            err_body = resp.text
+        except Exception:
+            err_body = "(could not read response)"
+        logger.error(
+            "OpenRouter HTTP %d no modelo %s. Resposta: %s",
+            resp.status_code,
+            model,
+            err_body[:500],
+        )
     resp.raise_for_status()
+
     data = resp.json()
     return data["choices"][0]["message"]["content"]
 
@@ -160,6 +172,17 @@ async def generate_stream(
             headers={**_HEADERS, "Authorization": f"Bearer {_api_key()}"},
             json=body,
         ) as resp:
+            if resp.status_code >= 400:
+                try:
+                    err_body = await resp.aread()
+                except Exception:
+                    err_body = b"(could not read response)"
+                logger.error(
+                    "OpenRouter HTTP %d no modelo %s. Resposta: %s",
+                    resp.status_code,
+                    model,
+                    err_body[:500].decode(errors="replace"),
+                )
             resp.raise_for_status()
             async for line in resp.aiter_lines():
                 if not line.startswith("data: "):

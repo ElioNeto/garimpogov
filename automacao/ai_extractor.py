@@ -82,7 +82,7 @@ def extract_concursos_from_html(html: str, base_url: str, fonte: str, max_chars:
     model = os.environ.get("OPENROUTER_EXTRACTION_MODEL", "google/gemini-2.0-flash-lite")
 
     try:
-        raw = generate(prompt, model=model, response_format={"type": "json_object"})
+        raw = generate(prompt, model=model)
     except Exception as e:
         logger.error(f"[{fonte}] LLM API error: {e}")
         return []
