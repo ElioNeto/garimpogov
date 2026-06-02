@@ -15,8 +15,8 @@ from urllib.parse import urlparse
 import cloudscraper
 import requests
 from requests.adapters import HTTPAdapter
-from tenacity import retry, stop_after_attempt, wait_exponential
-from urllib3.util.retry import Retry
+from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
+from requests.exceptions import HTTPError, ConnectionError, Timeout
 
 from automacao.ai_extractor import extract_concursos_from_html
 from automacao.config import DEFAULT_HEADERS, USER_AGENTS, random_delay
@@ -24,18 +24,22 @@ from automacao.config import DEFAULT_HEADERS, USER_AGENTS, random_delay
 logger = logging.getLogger(__name__)
 
 
-def _hostname_resolves(hostname: str) -> bool:
-    """Verifica se um hostname resolve via DNS (3s timeout)."""
+def _hostname_resolves(hostname: str, timeout: float = 2.0, retries: int = 2) -> bool:
+    """Verifica se um hostname resolve via DNS. Sem cache — cada chamada refaz a consulta."""
     if not hostname:
         return False
-    try:
-        socket.setdefaulttimeout(3.0)
-        socket.getaddrinfo(hostname, 443)
-        return True
-    except (socket.gaierror, OSError):
-        return False
-    finally:
-        socket.setdefaulttimeout(None)
+    for attempt in range(retries):
+        try:
+            socket.setdefaulttimeout(timeout)
+            socket.getaddrinfo(hostname, 443)
+            return True
+        except (socket.gaierror, OSError):
+            if attempt == retries - 1:
+                return False
+            time.sleep(0.5)
+        finally:
+            socket.setdefaulttimeout(None)
+    return False
 
 # Suprime warnings de SSL para sites com certificado problemático
 warnings.filterwarnings("ignore", message="Unverified HTTPS request")
@@ -69,20 +73,20 @@ class BaseScraper(ABC):
         headers = dict(DEFAULT_HEADERS)  # copia para não modificar o original
         headers["User-Agent"] = random.choice(USER_AGENTS)
         session.headers.update(headers)
-        retry_cfg = Retry(
-            total=3,
-            backoff_factor=2,
-            status_forcelist=[429, 500, 502, 503, 504],
-            allowed_methods=["GET"],
-        )
-        adapter = HTTPAdapter(max_retries=retry_cfg)
+        # NÃO usar urllib3.Retry aqui — o tenacity já cuida das retentativas
+        # e o Retry duplicado causa timeout excessivo em domínios mortos
+        adapter = HTTPAdapter(max_retries=0)
         session.mount("https://", adapter)
         session.mount("http://", adapter)
         if not self.verify_ssl:
             session.verify = False
         return session
 
-    @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=2, min=5, max=30))
+    @retry(
+        stop=stop_after_attempt(2),
+        wait=wait_exponential(multiplier=1, min=1, max=10),
+        retry=retry_if_exception_type((HTTPError, ConnectionError, Timeout)),
+    )
     def _fetch_page(self, url: str) -> str:
         session = self._make_session()
         r = session.get(url, timeout=self.timeout)
@@ -100,7 +104,8 @@ class BaseScraper(ABC):
         seen: set[str] = set()
 
         for url in self.pages:
-            # DNS pre-check: pula rapidamente se o domínio não resolver
+            # DNS pre-check rápido: pula imediatamente se o domínio não resolver.
+            # Sem cache — cada URL verifica de novo (o DNS pode ficar bom entre tentativas).
             hostname = urlparse(url).hostname
             if hostname and not _hostname_resolves(hostname):
                 logger.warning(f"{self.nome} DNS não resolve para {hostname}, pulando {url}")

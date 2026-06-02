@@ -13,7 +13,6 @@ from urllib.parse import urlparse
 import cloudscraper
 import requests
 from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
 
 from automacao.ai_extractor import extract_concursos_from_html
 from automacao.config import DEFAULT_HEADERS, USER_AGENTS, random_delay
@@ -21,18 +20,22 @@ from automacao.config import DEFAULT_HEADERS, USER_AGENTS, random_delay
 logger = logging.getLogger(__name__)
 
 
-def _hostname_resolves(hostname: str) -> bool:
-    """Verifica se um hostname resolve via DNS (3s timeout)."""
+def _hostname_resolves(hostname: str, timeout: float = 2.0, retries: int = 2) -> bool:
+    """Verifica se um hostname resolve via DNS. Sem cache — cada chamada refaz a consulta."""
     if not hostname:
         return False
-    try:
-        socket.setdefaulttimeout(3.0)
-        socket.getaddrinfo(hostname, 443)
-        return True
-    except (socket.gaierror, OSError):
-        return False
-    finally:
-        socket.setdefaulttimeout(None)
+    for attempt in range(retries):
+        try:
+            socket.setdefaulttimeout(timeout)
+            socket.getaddrinfo(hostname, 443)
+            return True
+        except (socket.gaierror, OSError):
+            if attempt == retries - 1:
+                return False
+            time.sleep(0.5)
+        finally:
+            socket.setdefaulttimeout(None)
+    return False
 
 # Suprime warnings de SSL para sites com certificado problemático
 warnings.filterwarnings("ignore", message="Unverified HTTPS request")
@@ -48,13 +51,8 @@ def _make_session(verify_ssl: bool = True) -> requests.Session:
     headers["User-Agent"] = random.choice(USER_AGENTS)
     headers["Connection"] = "keep-alive"
     session.headers.update(headers)
-    retry_cfg = Retry(
-        total=3,
-        backoff_factor=3,
-        status_forcelist=[429, 500, 502, 503, 504],
-        allowed_methods=["GET"],
-    )
-    adapter = HTTPAdapter(max_retries=retry_cfg)
+    # Sem urllib3.Retry — evita timeout excessivo em domínios mortos
+    adapter = HTTPAdapter(max_retries=0)
     session.mount("https://", adapter)
     session.mount("http://", adapter)
     if not verify_ssl:
@@ -77,7 +75,7 @@ class DiarioMunicipal(ABC):
         seen = set()
 
         for url in self.pages:
-            # DNS pre-check: pula rapidamente se o domínio não resolver
+            # DNS pre-check rápido: pula imediatamente se o domínio não resolver
             hostname = urlparse(url).hostname
             if hostname and not _hostname_resolves(hostname):
                 logger.warning(f"{self.fonte} DNS não resolve para {hostname}, pulando {url}")

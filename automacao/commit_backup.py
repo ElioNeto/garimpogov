@@ -115,9 +115,9 @@ def save_and_commit_artifacts(report_content: str) -> None:
 
     # Lista de artefatos sempre commitados
     files_to_add = [
-        "data/concursos_abertos.md",
-        "data/concursos_filtrados.md",
-        "data/concursos.json",
+        "automacao/data/concursos_abertos.md",
+        "automacao/data/concursos_filtrados.md",
+        "automacao/data/concursos.json",
     ]
 
     for fpath in files_to_add:
