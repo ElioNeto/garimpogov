@@ -12,6 +12,7 @@ from abc import ABC
 from typing import Optional
 from urllib.parse import urlparse
 
+import cloudscraper
 import requests
 from requests.adapters import HTTPAdapter
 from tenacity import retry, stop_after_attempt, wait_exponential
@@ -60,7 +61,11 @@ class BaseScraper(ABC):
     verify_ssl: bool = True
 
     def _make_session(self) -> requests.Session:
-        session = requests.Session()
+        # cloudscraper bypassa Cloudflare; fallback para requests puro
+        try:
+            session = cloudscraper.create_scraper()
+        except Exception:
+            session = requests.Session()
         headers = dict(DEFAULT_HEADERS)  # copia para não modificar o original
         headers["User-Agent"] = random.choice(USER_AGENTS)
         session.headers.update(headers)

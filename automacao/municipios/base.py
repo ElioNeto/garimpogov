@@ -10,6 +10,7 @@ import time
 import warnings
 from urllib.parse import urlparse
 
+import cloudscraper
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
@@ -38,7 +39,11 @@ warnings.filterwarnings("ignore", message="Unverified HTTPS request")
 
 
 def _make_session(verify_ssl: bool = True) -> requests.Session:
-    session = requests.Session()
+    # cloudscraper bypassa Cloudflare; fallback para requests puro
+    try:
+        session = cloudscraper.create_scraper()
+    except Exception:
+        session = requests.Session()
     headers = dict(DEFAULT_HEADERS)  # copia para não modificar o original
     headers["User-Agent"] = random.choice(USER_AGENTS)
     headers["Connection"] = "keep-alive"
