@@ -60,6 +60,8 @@ class DOUScraper(BaseScraper):
                         seen.add(key)
                         all_concursos.append(c)
                 logger.info(f"DOU '{term}': {len(results)} extraidos")
+            except Exception as e:
+                logger.error(f"Erro DOU [{term}]: {e}")
 
         logger.info(f"DOU total extraido: {len(all_concursos)}")
         return all_concursos
