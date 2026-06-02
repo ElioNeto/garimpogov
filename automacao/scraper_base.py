@@ -5,10 +5,12 @@ que antes estava replicada em cada scraper individual.
 """
 import logging
 import random
+import socket
 import time
 import warnings
 from abc import ABC
 from typing import Optional
+from urllib.parse import urlparse
 
 import requests
 from requests.adapters import HTTPAdapter
@@ -19,6 +21,20 @@ from automacao.ai_extractor import extract_concursos_from_html
 from automacao.config import DEFAULT_HEADERS, USER_AGENTS, random_delay
 
 logger = logging.getLogger(__name__)
+
+
+def _hostname_resolves(hostname: str) -> bool:
+    """Verifica se um hostname resolve via DNS (3s timeout)."""
+    if not hostname:
+        return False
+    try:
+        socket.setdefaulttimeout(3.0)
+        socket.getaddrinfo(hostname, 443)
+        return True
+    except (socket.gaierror, OSError):
+        return False
+    finally:
+        socket.setdefaulttimeout(None)
 
 # Suprime warnings de SSL para sites com certificado problemático
 warnings.filterwarnings("ignore", message="Unverified HTTPS request")
@@ -79,6 +95,12 @@ class BaseScraper(ABC):
         seen: set[str] = set()
 
         for url in self.pages:
+            # DNS pre-check: pula rapidamente se o domínio não resolver
+            hostname = urlparse(url).hostname
+            if hostname and not _hostname_resolves(hostname):
+                logger.warning(f"{self.nome} DNS não resolve para {hostname}, pulando {url}")
+                continue
+
             try:
                 html = self._fetch_page(url)
                 results = extract_concursos_from_html(
