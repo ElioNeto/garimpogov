@@ -2,7 +2,7 @@
 
 _Atualizado em 02/06/2026_
 
-Total: **4** concursos encontrados.
+Total: **5** concursos encontrados.
 
 ---
 
@@ -41,6 +41,17 @@ Total: **4** concursos encontrados.
 [🔗 Edital](https://www.estrategiaconcursos.com.br/cursos/?p=concurso)
 - **Cargos:** Analista de Sistemas, Professor de Ingles
 - **Órgão/Local:** https://www.estrategiaconcursos.com.br/cursos/?p=concurso
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+---
+
+## IPPEC (1)
+
+### Prefeitura de São Paulo
+[🔗 Edital](https://ippec.org.br)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** Prefeitura de São Paulo
 - **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
 

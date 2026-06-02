@@ -2,7 +2,7 @@
 
 _Atualizado em 02/06/2026_
 
-Total: **47** concursos encontrados.
+Total: **79** concursos encontrados.
 
 ---
 
@@ -60,7 +60,18 @@ Total: **47** concursos encontrados.
 
 ---
 
-## PCI (41)
+## IPPEC (1)
+
+### Prefeitura de São Paulo
+[🔗 Edital](https://ippec.org.br)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** Prefeitura de São Paulo
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+---
+
+## PCI (47)
 
 ### Prefeitura de Bragança Paulista
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-braganca-paulista-sp-publica-cinco-editais-de-concursos-publicos)
@@ -233,5 +244,164 @@ Total: **47** concursos encontrados.
 ### Câmara de Salesópolis
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/camar)
 - **Órgão/Local:** SP
+
+### EFOMM - Escolas de Formação de Oficiais da Marinha Mercante
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-processo-seletivo-com-vagas-para-a-escolas-de-formacao-de-oficiais-da-marinha-mercante)
+- **Cargos:** Aluno da EFOMM
+- **Órgão/Local:** Marinha do Brasil
+- **Salário máx.:** R$ 1.719,26
+- **Encerramento:** 02/06/2026
+
+### Prefeitura de Pouso Alegre - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-pouso-alegre-mg-abre-concurso-com-50-vagas-p)
+- **Órgão/Local:** Minas Gerais - MG
+
+### Prefeitura de Cambé - PR
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-cambe-pr-abre-concurso-publico-com-remuneracoes-de-ate-14088)
+- **Salário máx.:** R$ 14.088,45
+
+### SEDES - DF
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/sedes-df-publica-retificacao-de-edital-de-concurso-publico)
+
+### ALECE - CE
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/alece-ce-publica-edital-de-concurso-com-vagas-para-analista-e-tecnico-legislativo)
+- **Cargos:** Analista, Técnico Legislativo
+
+### CRA - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cra-mg-publica-retificacao-em-concurso-publico-com-salarios-de-ate-9-mil)
+- **Órgão/Local:** MG
+- **Salário máx.:** R$ 9 mil
+
+---
+
+## TecConcursos (25)
+
+### Advocacia Geral da União
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/estagiario-de-posgraduacao-em-direito-agu-2026)
+- **Cargos:** Estagiário de Pós-Graduação em Direito
+- **Órgão/Local:** Advocacia Geral da União
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-administrativo-2026-cargo-22)
+- **Cargos:** Administrativo, Cotação de Preços, Cotação de Preços em Obras e Serviços de Engenharia, Dados, Elaboração Contratual, Licitações e Serviços Terceirizados, Sem Área, Direito, Administração, Recursos Humanos ou áreas afins, Cotação de Preços, Cotação de Preços em Obras e Serviços de Engenharia, Dados, Enfermagem do Trabalho, Enfermeiro do Trabalho, I
+- **Órgão/Local:** AgSUS
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-cotacao-de-precos-2026-cargo-23)
+- **Cargos:** Administrativo, Cotação de Preços, Cotação de Preços em Obras e Serviços de Engenharia, Dados, Elaboração Contratual, Licitações e Serviços Terceirizados, Sem Área, Direito, Administração, Recursos Humanos ou áreas afins, Cotação de Preços, Cotação de Preços em Obras e Serviços de Engenharia, Dados, Enfermagem do Trabalho, Enfermeiro do Trabalho, I
+- **Órgão/Local:** AgSUS
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-cotacao-de-precos-em-obras-e-servicos-de-engenharia-2026-cargo-24)
+- **Cargos:** Administrativo, Cotação de Preços, Cotação de Preços em Obras e Serviços de Engenharia, Dados, Elaboração Contratual, Licitações e Serviços Terceirizados, Sem Área, Direito, Administração, Recursos Humanos ou áreas afins, Cotação de Preços, Cotação de Preços em Obras e Serviços de Engenharia, Dados, Enfermagem do Trabalho, Enfermeiro do Trabalho, I
+- **Órgão/Local:** AgSUS
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-dados-2026-cargo-25)
+- **Cargos:** Administrativo, Cotação de Preços, Cotação de Preços em Obras e Serviços de Engenharia, Dados, Elaboração Contratual, Licitações e Serviços Terceirizados, Sem Área, Direito, Administração, Recursos Humanos ou áreas afins, Cotação de Preços, Cotação de Preços em Obras e Serviços de Engenharia, Dados, Enfermagem do Trabalho, Enfermeiro do Trabalho, I
+- **Órgão/Local:** AgSUS
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-elaboracao-contratual-2026-cargo-26)
+- **Cargos:** Administrativo, Cotação de Preços, Cotação de Preços em Obras e Serviços de Engenharia, Dados, Elaboração Contratual, Licitações e Serviços Terceirizados, Sem Área, Direito, Administração, Recursos Humanos ou áreas afins, Cotação de Preços, Cotação de Preços em Obras e Serviços de Engenharia, Dados, Enfermagem do Trabalho, Enfermeiro do Trabalho, I
+- **Órgão/Local:** AgSUS
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-licitacoes-e-servicos-terceirizados-2026-cargo-27)
+- **Cargos:** Administrativo, Cotação de Preços, Cotação de Preços em Obras e Serviços de Engenharia, Dados, Elaboração Contratual, Licitações e Serviços Terceirizados, Sem Área, Direito, Administração, Recursos Humanos ou áreas afins, Cotação de Preços, Cotação de Preços em Obras e Serviços de Engenharia, Dados, Enfermagem do Trabalho, Enfermeiro do Trabalho, I
+- **Órgão/Local:** AgSUS
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-sem-area-2026-cargo-18)
+- **Cargos:** Sem Área
+- **Órgão/Local:** AgSUS
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-sem-area-2026-cargo-19)
+- **Cargos:** Sem Área
+- **Órgão/Local:** AgSUS
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-sem-area-2026-cargo-20)
+- **Cargos:** Sem Área
+- **Órgão/Local:** AgSUS
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-sem-area-2026-cargo-21)
+- **Cargos:** Sem Área
+- **Órgão/Local:** AgSUS
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-administracao-recursos-humanos-ou-areas-afins-2026-cargo-11)
+- **Cargos:** Administração, Recursos Humanos ou áreas afins
+- **Órgão/Local:** AgSUS
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-cotacao-de-precos-2026-cargo-13)
+- **Cargos:** Cotação de Preços
+- **Órgão/Local:** AgSUS
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-cotacao-de-precos-em-obras-e-servicos-de-engenharia-2026-cargo-14)
+- **Cargos:** Cotação de Preços em Obras e Serviços de Engenharia
+- **Órgão/Local:** AgSUS
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-dados-2026-cargo-15)
+- **Cargos:** Dados
+- **Órgão/Local:** AgSUS
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-direito-2026-cargo-3)
+- **Cargos:** Direito
+- **Órgão/Local:** AgSUS
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-elaboracao-contratual-2026-cargo-16)
+- **Cargos:** Elaboração Contratual
+- **Órgão/Local:** AgSUS
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-enfermagem-do-trabalho-2026-cargo-12)
+- **Cargos:** Enfermagem do Trabalho
+- **Órgão/Local:** AgSUS
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-enfermeiro-do-trabalho-2026-cargo-10)
+- **Cargos:** Enfermeiro do Trabalho
+- **Órgão/Local:** AgSUS
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-i-2026-cargo-7)
+- **Cargos:** I
+- **Órgão/Local:** AgSUS
+
+### Advocacia Geral da União
+[🔗 Edital](https://www.cebraspe.org.br/concursos/agu_26_estagiario)
+- **Cargos:** Estagiário de Pós-Graduação em Direito (AGU)/2026
+- **Encerramento:** 17/05/2026
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde (AGSUS)
+[🔗 Edital](https://www.cebraspe.org.br/concursos/AGSUS_26_UGP_UAC)
+- **Cargos:** Administrativo, Cotação de Preços, Cotação de Preços em Obras e Serviços de Engenharia, Dados, Elaboração Contratual, Licitações e Serviços Terceirizados, Sem Área, Sem Área, Sem Área, Sem Área, Administração, Recursos Humanos ou áreas afins, Cotação de Preços, Cotação de Preços em Obras e Serviços de Engenharia, Dados, Direito, Elaboração Contratual, Enfermagem do Trabalho, Enfermeiro do Trabalho, I, II
+- **Encerramento:** 18/03/2026
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.cebraspe.org.br/concursos/agsus_2026_ugp)
+- **Órgão/Local:** CEBRASPE (CESPE)
+- **Encerramento:** 18/03/2026
+
+### CEBRASPE
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/)
+- **Cargos:** Assistente de Projeto, Cotação de Preços, Elaboração Contratual, Dados, Direito, Enfermagem do Trabalho, Enfermeiro do Trabalho, I - Administração
+- **Órgão/Local:** https://www.tecconcursos.com.br/concursos/
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 17/05/2026
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/AGSUS_26_UGP_UAC)
+- **Cargos:** Administrativo, Cotação de Preços, Cotação de Preços em Obras e Serviços de Engenharia, Dados, Elaboração Contratual, Licitações e Serviços Terceirizados, Sem Área, Administração, Recursos Humanos ou áreas afins, Direito, Enfermagem do Trabalho, Enfermeiro do Trabalho, I, II, Indígena
+- **Órgão/Local:** Federal
+- **Encerramento:** 18/03/2026
 
 ---
