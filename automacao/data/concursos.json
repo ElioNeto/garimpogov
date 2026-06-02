@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-02T09:11:28.464890+00:00",
-    "total_concursos": 9
+    "ultima_coleta": "2026-06-02T12:48:25.149692+00:00",
+    "total_concursos": 11
   },
   "concursos": [
     {
@@ -143,6 +143,36 @@
       "fonte": "Estrategia",
       "id": "4aff83a2-992d-4c53-a411-01726016f57c",
       "data_coleta": "2026-06-02T09:11:28.464864+00:00"
+    },
+    {
+      "instituicao": "Universidade de São Paulo",
+      "orgao": "Universidade de São Paulo",
+      "cargos": [
+        "Professor de Ingles"
+      ],
+      "salario_maximo": "R$ 100.00,00",
+      "link_edital": "https://www.pciconcursos.com.br/concurso",
+      "data_encerramento": "DD/MM/YYYY",
+      "data_publicacao": "DD/MM/YYYY",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "8a7b8f2d-995d-4428-ab80-2edbcf285041",
+      "data_coleta": "2026-06-02T12:48:25.149604+00:00"
+    },
+    {
+      "instituicao": "HOSPITAL DE CLÍNICAS DE PORTO ALEGRE",
+      "orgao": "Porto Alegre - RS",
+      "cargos": [
+        "Analista de TI I (Cibersegurança)"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/edital/01-2026",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-02",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "0aa653fc-00ae-4d04-927f-246af9f7a60d",
+      "data_coleta": "2026-06-02T12:48:25.149654+00:00"
     }
   ]
 }
