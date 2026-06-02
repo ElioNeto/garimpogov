@@ -7,4 +7,5 @@ langchain-text-splitters>=0.2.0
 tenacity>=8.2.0
 playwright>=1.40.0
 httpx>=0.28.0
+cloudscraper>=1.2.71
 sentence-transformers>=3.0.0
