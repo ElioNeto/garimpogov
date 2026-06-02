@@ -1,7 +1,7 @@
 """Orquestrador principal da ingestão - chamado pelo GitHub Actions.
 
 Processa todas as fontes registradas (portais, bancas, diários oficiais,
-municípios) e salva os resultados em JSON no repositório.
+municípios) em paralelo e salva os resultados em JSON no repositório.
 
 Ao final, gera relatório markdown, commita JSON + relatório no repositório e
 envia notificação multicanal (Slack + Telegram).
@@ -12,6 +12,7 @@ import logging
 import os
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import Callable
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
@@ -78,6 +79,11 @@ logger = logging.getLogger(__name__)
 
 DRY_RUN = os.environ.get("DRY_RUN", "false").lower() == "true"
 
+# Número de scrapers rodando simultaneamente
+# O rate limiter do OpenRouter (2.5s entre chamadas) é global com lock,
+# então múltiplas threads competem pela mesma cota — o que é desejado.
+PARALLEL_WORKERS = int(os.environ.get("PARALLEL_WORKERS", "6"))
+
 # ---------------------------------------------------------------------------
 # Registro de fontes: cada entrada é (nome, callable)
 # O callable deve retornar list[dict]
@@ -127,47 +133,69 @@ FONTES: list[tuple[str, Callable[[], list[dict]]]] = [
 ]
 
 # ── Diários municipais ──
-MUNICIPIOS = [
-    ("Porto Alegre", PortoAlegre()),
-    ("Florianópolis", Florianopolis()),
-    ("Joinville", Joinville()),
-    ("Caxias do Sul", CaxiasDoSul()),
-    ("Blumenau", Blumenau()),
+MUNICIPIOS: list[tuple[str, Callable[[], list[dict]]]] = [
+    ("Porto Alegre", PortoAlegre().scrape),
+    ("Florianópolis", Florianopolis().scrape),
+    ("Joinville", Joinville().scrape),
+    ("Caxias do Sul", CaxiasDoSul().scrape),
+    ("Blumenau", Blumenau().scrape),
 ]
 
 
+def _scrape_source(nome: str, func: Callable[[], list[dict]]) -> tuple[str, list[dict], str | None]:
+    """Executa um scraper individual e retorna (nome, resultados, erro).
+
+    Usado como alvo do ThreadPoolExecutor para paralelismo.
+    """
+    logger.info(f"[{nome}] Iniciando...")
+    try:
+        dados = func()
+        logger.info(f"[{nome}] OK — {len(dados)} no escopo")
+        return nome, dados, None
+    except Exception as e:
+        msg = f"[{nome}] Falha: {e}"
+        logger.error(msg)
+        return nome, [], msg
+
+
 def scrape_fontes() -> tuple[list[dict], list[str]]:
-    """Executa scraping de todas as fontes registradas.
+    """Executa scraping de todas as fontes registradas em paralelo.
 
     Returns:
         (resultados, erros) — resultados é a lista de concursos no escopo,
         erros é a lista de mensagens de erro por fonte.
     """
+    todas_as_fontes = FONTES + MUNICIPIOS
+    n_total = len(todas_as_fontes)
+
+    logger.info(f"Processando {n_total} fontes com {PARALLEL_WORKERS} workers paralelos...")
+
     resultados = []
     erros = []
+    concluidas = 0
 
-    for nome, func in FONTES:
-        logger.info(f"[{nome}] Iniciando scraping...")
-        try:
-            dados = func()
-            resultados.extend(dados)
-            logger.info(f"[{nome}] OK — {len(dados)} no escopo")
-        except Exception as e:
-            msg = f"[{nome}] Falha: {e}"
-            logger.error(msg)
-            erros.append(msg)
+    with ThreadPoolExecutor(max_workers=PARALLEL_WORKERS) as executor:
+        futures = {
+            executor.submit(_scrape_source, nome, func): nome
+            for nome, func in todas_as_fontes
+        }
 
-    for nome, municipio in MUNICIPIOS:
-        logger.info(f"[Municipio: {nome}] Iniciando scraping...")
-        try:
-            dados = municipio.scrape()
-            resultados.extend(dados)
-            logger.info(f"[Municipio: {nome}] OK — {len(dados)} no escopo")
-        except Exception as e:
-            msg = f"[{nome}] Falha: {e}"
-            logger.error(msg)
-            erros.append(msg)
+        for future in as_completed(futures):
+            nome = futures[future]
+            try:
+                _, dados, erro = future.result()
+                resultados.extend(dados)
+                if erro:
+                    erros.append(erro)
+            except Exception as e:
+                msg = f"[{nome}] Erro inesperado na thread: {e}"
+                logger.error(msg)
+                erros.append(msg)
 
+            concluidas += 1
+            logger.info(f"Progresso: {concluidas}/{n_total} fontes concluídas")
+
+    logger.info(f"Scraping concluído: {len(resultados)} concursos no escopo, {len(erros)} fontes com erro")
     return resultados, erros
 
 
