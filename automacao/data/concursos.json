@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "ultima_coleta": "2026-06-02T14:36:46.670921+00:00",
+    "total_concursos": 2
+  },
+  "concursos": [
+    {
+      "instituicao": "Nome do orgao",
+      "orgao": "Local (ex: RS, Porto Alegre - RS)",
+      "cargos": [
+        "cargo 1"
+      ],
+      "salario_maximo": "R$ X.XXX,XX ou null",
+      "link_edital": "URL completa",
+      "data_encerramento": "DD/MM/YYYY ou null",
+      "data_publicacao": "DD/MM/YYYY ou null",
+      "status": "aberto",
+      "fonte": "Estrategia",
+      "id": "0c28532c-0adf-4eef-955a-2effbe128905",
+      "data_coleta": "2026-06-02T14:36:46.670833+00:00"
+    },
+    {
+      "instituicao": "CAU/SP",
+      "orgao": "SP",
+      "cargos": [
+        "Analista Técnico"
+      ],
+      "salario_maximo": "R$ 15.600,00",
+      "link_edital": "https://www.pciconcursos.com.br",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-02",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "5d4775bb-f4fc-4c61-94f0-69f73ed273ce",
+      "data_coleta": "2026-06-02T14:36:46.670877+00:00"
+    }
+  ]
+}
