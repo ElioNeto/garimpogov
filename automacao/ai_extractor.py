@@ -30,23 +30,26 @@ EXTRACT_PROMPT = textwrap.dedent("""
        NUNCA use null, a URL inicial ou a URL de listagem como link_edital.
     2. Extraia os CARGOS ESPECIFICOS de cada concurso.
        NUNCA use "Varios Cargos" ou "Vários Cargos" — liste todos os cargos
-       individuais mencionados (ex: ["Analista de TI", "Professor de Ingles"]).
-    3. NUNCA copie os textos de exemplo do JSON abaixo para os valores.
-       "Nome do orgao", "cargo 1", "R$ X.XXX,XX ou null", "DD/MM/YYYY ou null",
-       "URL completa", "Local (ex: ...)" sao EXEMPLOS — nao os use como dados reais.
+       individuais mencionados.
+    3. NUNCA use "ex:" antes dos valores dos campos.
+       Os valores abaixo com "ex:" sao APENAS ilustrativos.
+       Preencha com dados REAIS extraidos do texto, sem prefixo "ex:".
+    4. NUNCA copie os textos de exemplo para os valores.
+       "Nome do orgao", "cargo 1", "R$ X.XXX,XX", "DD/MM/YYYY",
+       "URL completa", "Local (ex: ...)" sao EXEMPLOS — nao os use.
        Se um dado nao for encontrado, use null (mas tente extrair de verdade).
-    4. Links relativos (que comecam com /): prefixe com {base_url}
+    5. Links relativos (que comecam com /): prefixe com {base_url}
 
-    Formato da resposta (use dados REAIS, nao os exemplos):
+    Formato da resposta:
     {{"concursos": [
       {{
-        "instituicao": "ex: Prefeitura de Sao Paulo",
-        "orgao": "ex: SP, Sao Paulo - SP",
-        "cargos": ["ex: Analista de Sistemas", "Professor de Ingles"],
-        "salario_maximo": "ex: R$ 5.000,00 ou null",
-        "link_edital": "URL completa e unica do concurso",
-        "data_encerramento": "ex: 30/06/2026 ou null",
-        "data_publicacao": "ex: 01/06/2026 ou null",
+        "instituicao": "Prefeitura de Sao Paulo",
+        "orgao": "SP, Sao Paulo - SP",
+        "cargos": ["Analista de Sistemas", "Professor de Ingles"],
+        "salario_maximo": "R$ 5.000,00",
+        "link_edital": "https://www.exemplo.com/concurso/edital",
+        "data_encerramento": "30/06/2026",
+        "data_publicacao": "01/06/2026",
         "status": "aberto"
       }}
     ]}}
@@ -76,6 +79,7 @@ def _html_to_clean_text(html: str, max_chars: int = 12000) -> str:
 
 
 PLACEHOLDER_PATTERNS = [
+    r"^ex:\s*",                            # ex: Prefeitura de Sao Paulo
     r"nome\s+do\s+[oó]rg[aã]o",          # Nome do orgao / Órgão
     r"cargo\s*[0-9]",                      # cargo 1, cargo2
     r"r\$\s*x\.xxx,xx",                    # R$ X.XXX,XX ou null
