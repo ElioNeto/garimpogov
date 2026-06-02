@@ -2,17 +2,56 @@
 
 _Atualizado em 02/06/2026_
 
-Total: **28** concursos encontrados.
+Total: **43** concursos encontrados.
 
 ---
 
-## DOU (1)
+## DOE-BA (3)
+
+### EGBA - Empresa Gráfica da Bahia
+[🔗 Edital](https://www.ba.gov.br/servico/sefaz/fazer-cadastramento-na-campanha-nota-premiada-bahia-npb?bacid=6a0487cea8cea56492edbc56)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+### Diário Oficial On-Line
+[🔗 Edital](https://www.ba.gov.br/egba/noticias/2025-01/331/diario-oficial-online)
+- **Cargos:** Contador Público, Gerente de Projeto
+- **Órgão/Local:** Bahia
+- **Salário máx.:** R$ 4.500,00
+- **Encerramento:** 31/12/2025
+
+### EGBA - Empresa Gráfica da Bahia
+[🔗 Edital](https://www.ba.gov.br/egba/noticias/2026-05/364/egba-destaca-funcionarios-em-certificacoes-iso)
+- **Cargos:** Gerente de Marketing, Especialista em Comunicação
+- **Órgão/Local:** Bahia
+- **Salário máx.:** R$ 6.000,00
+- **Encerramento:** 15/03/2026
+
+---
+
+## DOU (3)
 
 ### ex: Prefeitura de Sao Paulo
 [🔗 Edital](https://www.gov.br/)
 - **Cargos:** ex: Analista de Sistemas, Professor de Ingles
 - **Órgão/Local:** ex: SP, Sao Paulo - SP
 - **Salário máx.:** R$ 5.000,00 ou null
+- **Encerramento:** 30/06/2026
+
+### Prefeitura de Sao Paulo
+[🔗 Edital](http://www.acessoainformacao.gov.br)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+### Prefeitura de Sao Paulo
+[🔗 Edital](https://www.exemplo.com/concurso/edital)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
 
 ---
@@ -28,7 +67,7 @@ Total: **28** concursos encontrados.
 
 ---
 
-## PCI (26)
+## PCI (36)
 
 ### Prefeitura de Bragança Paulista
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-braganca-paulista-sp-publica-cinco-editais-de-concursos-publicos)
@@ -133,5 +172,43 @@ Total: **28** concursos encontrados.
 ### Prefeitura de Campina Grande
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-campina-grande-pb-divulga-edital-retificado-de-concurso-publico)
 - **Órgão/Local:** Prefeitura de Campina Grande - PB
+
+### EEAR - Escola de Especialistas de Aeronáutica
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
+
+### ESFCEx - Escola de Saúde e Formação Complementar do Exército
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/esfcex-ba-selecao-para-oficiais-oferece-vagas-em-diversas-especialidades-de-nivel-superior)
+
+### EsPCEx - Escola Preparatória de Cadetes do Exército
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/espcex-sp-abre-concurso-com-440-vagas-para-curso-de-formacao-de-oficiais-de-carreira)
+- **Cargos:** Cadete
+
+### ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/icmbio-abre-selecao-para-agentes-temporarios-ambientais-nos-estados-de-sao-paulo-e-do-rio-de-janeiro)
+- **Cargos:** Agente Temporário Ambiental Nível I, Agente Temporário Ambiental Nível II
+
+### IME - Instituto Militar de Engenharia
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ime-abre-concursos-para-cursos-de-formacao-com-100-vagas)
+- **Salário máx.:** R$ 1.457,00
+
+### IME - Instituto Militar de Engenharia
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/instituto-militar-de-engenharia-abre-concurso-com-vagas-de-nivel-superior)
+- **Salário máx.:** R$ 9.004,00
+
+### ITA - Instituto Tecnológico de Aeronáutica
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ita-disponibiliza-centenas-de-vagas-para-curso-de-engenharia-em-diversas-especialidades)
+- **Cargos:** Aluno do Curso de Graduação em Engenharia do ITA
+
+### Marinha - Marinha do Brasil
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-concurso-com-vagas-para-o-corpo-auxiliar-de-pracas)
+
+### NAV BRASIL - Serviços de Navegação Aérea S.A.
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/nav-brasil-retifica-concurso-publico-com-salarios-de-ate-10868)
+- **Salário máx.:** R$ 10.868,68
+
+### SSPM - Marinha do Brasil
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-concurso-para-o-quadro-tecnico-de-pracas-da-armada)
+- **Cargos:** Quadro Técnico do Corpo de Praças da Armada
+- **Salário máx.:** R$ 1.544,62
 
 ---
