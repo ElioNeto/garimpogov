@@ -59,13 +59,35 @@ def save_all(concursos: list[dict]) -> None:
 
 
 def concurso_exists(link_edital: str) -> bool:
-    """Verifica se um concurso com o link já existe no JSON."""
+    """Verifica se um concurso com o link já existe no JSON (busca exata por link_edital)."""
     concursos = load_all()
     return any(c.get("link_edital") == link_edital for c in concursos)
 
 
+def get_by_dedup_key(c: dict) -> dict | None:
+    """Busca concurso existente pela chave de dedup."""
+    key = _dedup_key(c)
+    for existing in load_all():
+        if _dedup_key(existing) == key:
+            return existing
+    return None
+
+
+def _dedup_key(c: dict) -> str:
+    """Gera chave única para deduplicação.
+
+    Usa link_edital se disponível, senão compõe (fonte + instituicao).
+    """
+    link = c.get("link_edital") or ""
+    if link:
+        return f"link:{link}"
+    fonte = c.get("fonte") or ""
+    inst = c.get("instituicao") or ""
+    return f"fallback:{fonte}|{inst}"
+
+
 def merge_new(new_concursos: list[dict]) -> list[dict]:
-    """Faz merge dos novos concursos com os existentes, deduplicando por link_edital.
+    """Faz merge dos novos concursos com os existentes, deduplicando.
 
     Args:
         new_concursos: Lista de concursos recem-coletados.
@@ -74,15 +96,13 @@ def merge_new(new_concursos: list[dict]) -> list[dict]:
         Lista de concursos que foram realmente adicionados (não duplicatas).
     """
     existing = load_all()
-    existing_links = {c.get("link_edital") for c in existing if c.get("link_edital")}
+    existing_keys = {_dedup_key(c) for c in existing}
 
     newly_added = []
     for c in new_concursos:
-        link = c.get("link_edital")
-        if not link:
-            continue
-        if link in existing_links:
-            logger.debug(f"Já existe: {link}")
+        key = _dedup_key(c)
+        if key in existing_keys:
+            logger.debug(f"Já existe: {key}")
             continue
 
         # Garante que tem ID e timestamp
@@ -91,7 +111,7 @@ def merge_new(new_concursos: list[dict]) -> list[dict]:
         c["data_publicacao"] = c.get("data_publicacao") or datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
         existing.append(c)
-        existing_links.add(link)
+        existing_keys.add(key)
         newly_added.append(c)
 
     if newly_added:

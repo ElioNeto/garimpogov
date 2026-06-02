@@ -301,8 +301,9 @@ def run():
         return
 
     # ── Fase 3: Merge no JSON + geração dos .md ──────────────────
-    # Carrega links existentes ANTES do merge, para detectar novos
-    existing_before = {c.get("link_edital") for c in load_all() if c.get("link_edital")}
+    # Carrega chaves existentes ANTES do merge, para detectar novos
+    from automacao.json_store import _dedup_key as _json_key
+    existing_before = {_json_key(c) for c in load_all()}
 
     # Salva TODOS os concursos no JSON (dedup por link_edital)
     merge_new(concursos_raw)
@@ -324,7 +325,7 @@ def run():
     # Apenas concursos filtrados que são realmente novos
     newly_ingested_filtered = [
         c for c in concursos_filtrados
-        if c.get("link_edital") and c["link_edital"] not in existing_before
+        if _json_key(c) not in existing_before
     ]
     logger.info(
         f"Novos no filtro: {len(newly_ingested_filtered)} "

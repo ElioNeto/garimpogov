@@ -85,7 +85,11 @@ class BaseScraper(ABC):
                     html, base_url=self.base_url, fonte=self.nome
                 )
                 for c in results:
-                    key = c.get("link_edital", "") or c.get("instituicao", "")
+                    # Chave composta: fonte + link_edital + instituicao
+                    # Evita colapsar 20 concursos diferentes que tenham mesmo link generico
+                    link = c.get("link_edital", "") or ""
+                    inst = c.get("instituicao", "") or ""
+                    key = f"{self.nome}|{link}|{inst}"
                     if key not in seen:
                         seen.add(key)
                         all_concursos.append(c)
