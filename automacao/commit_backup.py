@@ -41,7 +41,7 @@ def generate_report(
     ]
 
     if dry_run:
-        lines.append("⚠️ *Modo DRY RUN* — nada foi gravado no banco.")
+        lines.append("⚠️ *Modo DRY RUN* — nada foi gravado em disco.")
         lines.append("")
 
     # Estatísticas gerais
@@ -109,8 +109,8 @@ def generate_report(
     return "\n".join(lines)
 
 
-def save_and_commit_report(report_content: str) -> None:
-    """Salva o relatório em reports/ e faz commit + push."""
+def save_and_commit_artifacts(report_content: str) -> None:
+    """Salva o relatório em reports/ e o JSON em data/, depois faz commit + push."""
     today = date.today().strftime("%Y-%m-%d")
     report_path = f"reports/{today}.md"
     os.makedirs("reports", exist_ok=True)
@@ -118,12 +118,21 @@ def save_and_commit_report(report_content: str) -> None:
         f.write(report_content)
     logger.info(f"Relatório salvo em {report_path}")
 
-    subprocess.run(["git", "add", report_path], check=True)
+    # Lista de arquivos para commitar
+    files_to_add = [report_path, "data/concursos.json"]
+
+    for fpath in files_to_add:
+        if os.path.exists(fpath):
+            subprocess.run(["git", "add", fpath], check=True)
+
     result = subprocess.run(["git", "diff", "--cached", "--quiet"], capture_output=True)
     if result.returncode != 0:
-        subprocess.run(["git", "commit", "-m", f"chore: ingestion report {today}"], check=True)
+        subprocess.run(
+            ["git", "commit", "-m", f"chore: ingestion artifacts {today}"],
+            check=True,
+        )
         subprocess.run(["git", "push"], check=True)
-        logger.info("Relatório commitado e enviado")
+        logger.info("Relatório + JSON commitados e enviados")
     else:
         logger.info("Sem mudanças para commitar")
 
@@ -149,7 +158,7 @@ def save_and_notify(
     )
 
     if not dry_run:
-        save_and_commit_report(report)
+        save_and_commit_artifacts(report)
 
     # Monta resultado para notificação
     result = IngestionResult(
@@ -161,7 +170,6 @@ def save_and_notify(
     )
 
     # Preenche fontes
-    from collections import Counter
     for c in newly_ingested:
         fonte = c.get("fonte", "?")
         result.fontes[fonte] = result.fontes.get(fonte, 0) + 1

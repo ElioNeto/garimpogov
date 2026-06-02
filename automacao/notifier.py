@@ -55,7 +55,7 @@ def _build_message_text(result: IngestionResult) -> str:
     ]
 
     if result.dry_run:
-        lines.append("⚠️ *Modo: DRY RUN* (nada foi gravado no banco)")
+        lines.append("⚠️ *Modo: DRY RUN* (nada foi gravado em disco)")
         lines.append("")
 
     if result.erros:
@@ -117,7 +117,7 @@ def _build_slack_blocks(result: IngestionResult) -> list[dict]:
     if result.dry_run:
         blocks.append({
             "type": "section",
-            "text": {"type": "mrkdwn", "text": "⚠️ *Modo DRY RUN* — nada foi gravado no banco"}
+            "text": {"type": "mrkdwn", "text": "⚠️ *Modo DRY RUN* — nada foi gravado em disco"}
         })
 
     # Erros

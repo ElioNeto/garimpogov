@@ -1,10 +1,12 @@
 """Orquestrador principal da ingestão - chamado pelo GitHub Actions.
 
 Processa todas as fontes registradas (portais, bancas, diários oficiais,
-municípios) e grava no banco PostgreSQL.
+municípios) e salva os resultados em JSON no repositório.
 
-No final, gera relatório markdown, commita no repositório e envia
-notificação multicanal (Slack + Telegram).
+Ao final, gera relatório markdown, commita JSON + relatório no repositório e
+envia notificação multicanal (Slack + Telegram).
+
+NÃO depende de banco de dados PostgreSQL — tudo vai para data/concursos.json.
 """
 import logging
 import os
@@ -65,18 +67,8 @@ from automacao.municipios.caxias_do_sul import CaxiasDoSul
 from automacao.municipios.blumenau import Blumenau
 
 # ── Pipeline comum ─────────────────────────────────────────────────
-from automacao.pdf_processor import process_pdf
-from automacao.vector_store import (
-    get_db_connection,
-    close_db_connection,
-    concurso_exists,
-    insert_concurso,
-    insert_chunks,
-)
+from automacao.json_store import merge_new, load_all, save_all
 from automacao.commit_backup import save_and_notify
-
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "backend"))
-from app.utils.helpers import parse_salary, parse_date
 
 logging.basicConfig(
     level=logging.INFO,
@@ -194,7 +186,7 @@ def run():
     logger.info(f"Total bruto no escopo: {len(concursos_raw)}")
 
     if DRY_RUN:
-        logger.info("[DRY RUN] Pulando gravação no banco.")
+        logger.info("[DRY RUN] Pulando gravação em disco.")
         for c in concursos_raw[:20]:
             logger.info(
                 f"  [{c.get('fonte','?')}] {c.get('instituicao','?')} "
@@ -210,47 +202,8 @@ def run():
         )
         return
 
-    # ── Fase 2: Ingestão no banco ─────────────────────────────────
-    conn = get_db_connection()
-    newly_ingested = []
-
-    try:
-        for raw in concursos_raw:
-            link = raw.get("link_edital")
-            if not link:
-                continue
-
-            if concurso_exists(conn, link):
-                logger.debug(f"Já existe: {link}")
-                continue
-
-            raw["salario_maximo_float"] = parse_salary(str(raw.get("salario_maximo") or ""))
-            raw["data_encerramento_dt"] = parse_date(str(raw.get("data_encerramento") or ""))
-
-            pdf_url = link if link.lower().endswith(".pdf") else None
-            if pdf_url:
-                r2_url, chunks = process_pdf(pdf_url)
-                raw["pdf_url"] = r2_url
-            else:
-                chunks = []
-                raw["pdf_url"] = None
-
-            concurso_id = insert_concurso(conn, raw)
-            fonte = raw.get("fonte", "?")
-            inst = raw.get("instituicao", "?")
-            logger.info(f"Inserido: {concurso_id} — [{fonte}] {inst}")
-
-            if chunks:
-                n = insert_chunks(conn, concurso_id, chunks)
-                logger.info(f"  → {n} chunks inseridos")
-
-            newly_ingested.append(raw)
-    except Exception as e:
-        logger.error(f"Erro na ingestão, fazendo rollback: {e}")
-        conn.rollback()
-        erros_scraping.append(f"[BANCO] Falha na ingestão: {e}")
-    finally:
-        close_db_connection()
+    # ── Fase 2: Merge no JSON ─────────────────────────────────────
+    newly_ingested = merge_new(concursos_raw)
 
     # ── Fase 3: Relatório + Notificação ───────────────────────────
     duracao = time.monotonic() - inicio

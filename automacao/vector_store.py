@@ -6,6 +6,7 @@ import math
 import os
 import uuid
 from typing import Optional
+from urllib.parse import parse_qs, urlencode, urlparse, urlunparse
 
 import psycopg2
 
@@ -23,11 +24,21 @@ def _normalize_db_url(url: str) -> str:
     """Converte URL async (postgresql+asyncpg://) para síncrona (postgresql://).
 
     Mantida local para evitar dependência de sqlalchemy no ambiente de ingestão.
+    Adiciona sslmode=require se não especificado (Railway exige SSL).
     """
     if url.startswith("postgresql+asyncpg://"):
-        return url.replace("postgresql+asyncpg://", "postgresql://", 1)
-    if url.startswith("postgresql+psycopg2://"):
-        return url.replace("postgresql+psycopg2://", "postgresql://", 1)
+        url = url.replace("postgresql+asyncpg://", "postgresql://", 1)
+    elif url.startswith("postgresql+psycopg2://"):
+        url = url.replace("postgresql+psycopg2://", "postgresql://", 1)
+
+    # Garantir sslmode=require se não estiver especificado
+    parsed = urlparse(url)
+    qs = parse_qs(parsed.query, keep_blank_values=True)
+    if "sslmode" not in qs:
+        qs["sslmode"] = ["require"]
+        new_query = urlencode(qs, doseq=True)
+        url = urlunparse(parsed._replace(query=new_query))
+
     return url
 
 
@@ -35,7 +46,22 @@ def get_db_connection():
     global _db_connection
     if _db_connection is None or _db_connection.closed:
         db_url = _normalize_db_url(os.environ["DATABASE_URL"])
-        _db_connection = psycopg2.connect(db_url)
+        # Log seguro (sem password)
+        p = urlparse(db_url)
+        masked_netloc = f"{p.username}:****@{p.hostname}"
+        if p.port:
+            masked_netloc += f":{p.port}"
+        safe_url = urlunparse(p._replace(netloc=masked_netloc))
+        logger.info(f"Conectando ao banco: {safe_url}")
+        try:
+            _db_connection = psycopg2.connect(db_url)
+        except psycopg2.OperationalError as e:
+            logger.error(f"Falha ao conectar no banco: {e}")
+            logger.error(
+                "Verifique se o banco está acessível e se DATABASE_URL está correta. "
+                "Railway requer SSL — sslmode=require será adicionado automaticamente."
+            )
+            raise
     return _db_connection
 
 
