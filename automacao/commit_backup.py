@@ -127,12 +127,18 @@ def save_and_commit_artifacts(report_content: str) -> None:
 
     result = subprocess.run(["git", "diff", "--cached", "--quiet"], capture_output=True)
     if result.returncode != 0:
-        subprocess.run(
-            ["git", "commit", "-m", f"chore: ingestion artifacts {today}"],
-            check=True,
-        )
-        subprocess.run(["git", "push"], check=True)
-        logger.info("Relatório + JSON commitados e enviados")
+        try:
+            subprocess.run(
+                ["git", "commit", "-m", f"chore: ingestion artifacts {today}"],
+                check=True,
+                capture_output=True,
+                text=True,
+            )
+            subprocess.run(["git", "push"], check=True, capture_output=True, text=True)
+            logger.info("Relatório + JSON commitados e enviados ao repositório")
+        except subprocess.CalledProcessError as e:
+            logger.warning(f"Falha ao commitar/push: {e.stderr or e}")
+            logger.warning("Os artefatos estão salvos em disco localmente.")
     else:
         logger.info("Sem mudanças para commitar")
 
@@ -147,7 +153,7 @@ def save_and_notify(
     """Gera relatório, commita e notifica.
 
     Returns:
-        Resultados da notificação por canal.
+        Resultados da notificação por canal (pode ser vazio se nada configurado).
     """
     report = generate_report(
         concursos=newly_ingested,
@@ -158,7 +164,10 @@ def save_and_notify(
     )
 
     if not dry_run:
-        save_and_commit_artifacts(report)
+        try:
+            save_and_commit_artifacts(report)
+        except Exception as e:
+            logger.error(f"Erro ao salvar/commitar artefatos: {e}")
 
     # Monta resultado para notificação
     result = IngestionResult(

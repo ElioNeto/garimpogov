@@ -219,9 +219,22 @@ def run():
     logger.info("=" * 60)
     logger.info(f"Pipeline DONE: {len(newly_ingested)} novos concursos")
     logger.info(f"Duração: {duracao:.0f}s")
-    for canal, ok in resultados_notificacao.items():
-        status = "✅" if ok else "❌"
-        logger.info(f"Notificação {canal}: {status}")
+    logger.info(f"Total bruto no escopo: {len(concursos_raw)}")
+    if erros_scraping:
+        logger.info(f"Erros: {len(erros_scraping)}")
+    if resultados_notificacao:
+        for canal, ok in resultados_notificacao.items():
+            status = "✅" if ok else "❌"
+            logger.info(f"Notificação {canal}: {status}")
+    else:
+        logger.info(
+            "Nenhum canal de notificação configurado. "
+            "Para ativar, defina no repositório (Settings → Secrets):\n"
+            "  • SLACK_BOT_TOKEN + SLACK_CHANNEL\n"
+            "  • ou SLACK_WEBHOOK_URL\n"
+            "  • ou TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID\n"
+            "As notificações são opcionais — o pipeline funciona sem elas."
+        )
     logger.info("=" * 60)
 
 
