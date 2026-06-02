@@ -2,7 +2,7 @@
 
 _Atualizado em 02/06/2026_
 
-Total: **3** concursos encontrados.
+Total: **4** concursos encontrados.
 
 ---
 
@@ -30,6 +30,17 @@ Total: **3** concursos encontrados.
 [🔗 Edital](https://www.exemplo.com/concurso/edital)
 - **Cargos:** Analista de Sistemas, Professor de Ingles
 - **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+---
+
+## Estrategia (1)
+
+### Por Concursos
+[🔗 Edital](https://www.estrategiaconcursos.com.br/cursos/?p=concurso)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** https://www.estrategiaconcursos.com.br/cursos/?p=concurso
 - **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
 

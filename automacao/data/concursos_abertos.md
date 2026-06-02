@@ -2,7 +2,7 @@
 
 _Atualizado em 02/06/2026_
 
-Total: **41** concursos encontrados.
+Total: **47** concursos encontrados.
 
 ---
 
@@ -49,7 +49,18 @@ Total: **41** concursos encontrados.
 
 ---
 
-## PCI (36)
+## Estrategia (1)
+
+### Por Concursos
+[🔗 Edital](https://www.estrategiaconcursos.com.br/cursos/?p=concurso)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** https://www.estrategiaconcursos.com.br/cursos/?p=concurso
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+---
+
+## PCI (41)
 
 ### Prefeitura de Bragança Paulista
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-braganca-paulista-sp-publica-cinco-editais-de-concursos-publicos)
@@ -192,5 +203,35 @@ Total: **41** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-concurso-para-o-quadro-tecnico-de-pracas-da-armada)
 - **Cargos:** Quadro Técnico do Corpo de Praças da Armada
 - **Salário máx.:** R$ 1.544,62
+
+### CRT - Conselho Regional dos Técnicos Industriais do Estado de São Paulo
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/crt-sp-abre-processo-seletivo-com-salarios-de-ate-10600)
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 10.600,01
+- **Encerramento:** 06/07/2026
+
+### SEDUC - Secretaria da Educação do Estado de São Paulo
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/seduc-sp-aberta-selecao-para-professores-da-rede-estadual-com-salario-de-5565)
+- **Cargos:** Professor de Ensino Fundamental, Professor de Ensino Médio
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 5.565,00
+- **Encerramento:** 18/06/2026
+
+### Câmara de Holambra
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-holambra-sp-abre-concurso-publico-com-salarios-de-ate-7430)
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 7.430,61
+- **Encerramento:** 15/06/2026
+
+### Câmara de Presidente Prudente
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-presidente-prudente-sp-retifica-edital-de-concurso-publico)
+- **Cargos:** Assistente Legislativo de Contabilidade, Técnico Legislativo, Controlador Interno
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 22.010,63
+- **Encerramento:** 24/05/2026
+
+### Câmara de Salesópolis
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camar)
+- **Órgão/Local:** SP
 
 ---

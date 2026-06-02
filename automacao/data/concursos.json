@@ -1,41 +1,9 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-02T18:04:46.027558+00:00",
-    "total_concursos": 43
+    "ultima_coleta": "2026-06-02T19:37:26.022649+00:00",
+    "total_concursos": 47
   },
   "concursos": [
-    {
-      "instituicao": "ex: Prefeitura de Sao Paulo",
-      "orgao": "ex: SP, Sao Paulo - SP",
-      "cargos": [
-        "ex: Analista de Sistemas",
-        "Professor de Ingles"
-      ],
-      "salario_maximo": "R$ 5.000,00 ou null",
-      "link_edital": "https://www.gov.br/",
-      "data_encerramento": "30/06/2026",
-      "data_publicacao": "01/06/2026",
-      "status": "aberto",
-      "fonte": "DOU",
-      "id": "dc9c27e6-094f-4c5e-91f8-b8e33e134144",
-      "data_coleta": "2026-06-02T17:38:33.855774+00:00"
-    },
-    {
-      "instituicao": "ex: Prefeitura de Sao Paulo",
-      "orgao": "ex: SP, Sao Paulo - SP",
-      "cargos": [
-        "ex: Analista de Sistemas",
-        "Professor de Ingles"
-      ],
-      "salario_maximo": "R$ 5.000,00 ou null",
-      "link_edital": "https://ippec.org.br/concurso/analista-de-sistemas",
-      "data_encerramento": "30/06/2026",
-      "data_publicacao": "01/06/2026",
-      "status": "aberto",
-      "fonte": "IPPEC",
-      "id": "fd60270f-c6cf-469d-9810-79f620f7e57a",
-      "data_coleta": "2026-06-02T17:38:33.855806+00:00"
-    },
     {
       "instituicao": "Prefeitura de Bragança Paulista",
       "orgao": "Prefeitura de Bragança Paulista - SP",
@@ -592,6 +560,94 @@
       "fonte": "PCI",
       "id": "d73f9a06-2f83-47f6-a9df-f872db955cdf",
       "data_coleta": "2026-06-02T18:04:46.027524+00:00"
+    },
+    {
+      "instituicao": "Por Concursos",
+      "orgao": "https://www.estrategiaconcursos.com.br/cursos/?p=concurso",
+      "cargos": [
+        "Analista de Sistemas",
+        "Professor de Ingles"
+      ],
+      "salario_maximo": "R$ 5.000,00",
+      "link_edital": "https://www.estrategiaconcursos.com.br/cursos/?p=concurso",
+      "data_encerramento": "30/06/2026",
+      "data_publicacao": "01/06/2026",
+      "status": "aberto",
+      "fonte": "Estrategia",
+      "id": "8e3f8f46-2923-4940-9dc4-ec7a1653628b",
+      "data_coleta": "2026-06-02T19:37:26.022520+00:00"
+    },
+    {
+      "instituicao": "CRT - Conselho Regional dos Técnicos Industriais do Estado de São Paulo",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": "R$ 10.600,01",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/crt-sp-abre-processo-seletivo-com-salarios-de-ate-10600",
+      "data_encerramento": "06/07/2026",
+      "data_publicacao": "06/07/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "038c9ed3-5598-499b-845f-30d3176245b6",
+      "data_coleta": "2026-06-02T19:37:26.022564+00:00"
+    },
+    {
+      "instituicao": "SEDUC - Secretaria da Educação do Estado de São Paulo",
+      "orgao": "SP",
+      "cargos": [
+        "Professor de Ensino Fundamental",
+        "Professor de Ensino Médio"
+      ],
+      "salario_maximo": "R$ 5.565,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/seduc-sp-aberta-selecao-para-professores-da-rede-estadual-com-salario-de-5565",
+      "data_encerramento": "18/06/2026",
+      "data_publicacao": "18/06/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "53a0683c-91ee-46de-98f5-4917a97007c6",
+      "data_coleta": "2026-06-02T19:37:26.022581+00:00"
+    },
+    {
+      "instituicao": "Câmara de Holambra",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": "R$ 7.430,61",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-holambra-sp-abre-concurso-publico-com-salarios-de-ate-7430",
+      "data_encerramento": "15/06/2026",
+      "data_publicacao": "15/06/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "9b9e6fbf-ced4-4ec4-ad73-a18f3b35b01c",
+      "data_coleta": "2026-06-02T19:37:26.022590+00:00"
+    },
+    {
+      "instituicao": "Câmara de Presidente Prudente",
+      "orgao": "SP",
+      "cargos": [
+        "Assistente Legislativo de Contabilidade",
+        "Técnico Legislativo",
+        "Controlador Interno"
+      ],
+      "salario_maximo": "R$ 22.010,63",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-presidente-prudente-sp-retifica-edital-de-concurso-publico",
+      "data_encerramento": "24/05/2026",
+      "data_publicacao": "24/05/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "892f729e-1e55-4eb9-adfa-2ab584d37ed9",
+      "data_coleta": "2026-06-02T19:37:26.022599+00:00"
+    },
+    {
+      "instituicao": "Câmara de Salesópolis",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camar",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-02",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "2600f94a-728e-4e24-98df-c8f616c47066",
+      "data_coleta": "2026-06-02T19:37:26.022607+00:00"
     }
   ]
 }
