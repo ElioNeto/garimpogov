@@ -302,8 +302,11 @@ def run():
 
     # ── Fase 3: Merge no JSON + geração dos .md ──────────────────
     # Carrega chaves existentes ANTES do merge, para detectar novos
-    from automacao.json_store import _dedup_key as _json_key
+    from automacao.json_store import _dedup_key as _json_key, purge_stale
     existing_before = {_json_key(c) for c in load_all()}
+
+    # Limpa entradas antigas com placeholder (ex: prefix, etc.)
+    purge_stale()
 
     # Salva TODOS os concursos no JSON (dedup por link_edital)
     merge_new(concursos_raw)

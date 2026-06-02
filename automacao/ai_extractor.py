@@ -90,6 +90,68 @@ PLACEHOLDER_PATTERNS = [
 ]
 
 
+def _repair_truncated_json(raw: str) -> str:
+    """Tenta reparar JSON truncado (unterminated string, falta de colchetes/chaves)."""
+    # Se o JSON já é válido, retorna como está
+    try:
+        json.loads(raw)
+        return raw
+    except json.JSONDecodeError:
+        pass
+
+    # Fecha strings não terminadas no final
+    # Se a última aspa está aberta, adiciona aspas de fechamento
+    in_string = False
+    escape = False
+    for ch in raw:
+        if escape:
+            escape = False
+            continue
+        if ch == "\\":
+            escape = True
+            continue
+        if ch == '"':
+            in_string = not in_string
+
+    if in_string:
+        raw += '"'
+
+    # Fecha colchetes e chaves pendentes
+    # Conta quantos de cada abriram mas não fecharam
+    stack = []
+    in_str = False
+    esc = False
+    for ch in raw:
+        if esc:
+            esc = False
+            continue
+        if ch == "\\":
+            esc = True
+            continue
+        if ch == '"':
+            in_str = not in_str
+            continue
+        if in_str:
+            continue
+        if ch in "[{":
+            stack.append(ch)
+        elif ch == "]" and stack and stack[-1] == "[":
+            stack.pop()
+        elif ch == "}" and stack and stack[-1] == "{":
+            stack.pop()
+
+    # Fecha na ordem inversa
+    closer = {"[": "]", "{": "}"}
+    for opener in reversed(stack):
+        raw += closer[opener]
+
+    try:
+        json.loads(raw)
+        return raw
+    except json.JSONDecodeError:
+        return raw  # Devolve original se não conseguiu reparar
+
+
 def _is_placeholder(value: str) -> bool:
     """Verifica se um valor corresponde a padroes de placeholder."""
     if not value:
@@ -97,7 +159,7 @@ def _is_placeholder(value: str) -> bool:
     return any(re.search(p, value, re.IGNORECASE) for p in PLACEHOLDER_PATTERNS)
 
 
-def extract_concursos_from_html(html: str, base_url: str, fonte: str, max_chars: int = 12000) -> list[dict]:
+def extract_concursos_from_html(html: str, base_url: str, fonte: str, max_chars: int = 8000) -> list[dict]:
     text = _html_to_clean_text(html, max_chars)
     if len(text.strip()) < 100:
         logger.warning(f"[{fonte}] Texto muito curto, pulando extração")
@@ -108,13 +170,18 @@ def extract_concursos_from_html(html: str, base_url: str, fonte: str, max_chars:
     model = os.environ.get("OPENROUTER_EXTRACTION_MODEL", "openrouter/free")
 
     try:
-        raw = generate(prompt, model=model)
+        raw = generate(prompt, model=model, max_tokens=8192) or ""
     except Exception as e:
         logger.error(f"[{fonte}] LLM API error: {e}")
         return []
 
     raw = re.sub(r"^```(?:json)?\s*", "", raw.strip())
     raw = re.sub(r"\s*```$", "", raw.strip())
+
+    raw_repaired = _repair_truncated_json(raw)
+    if raw_repaired != raw:
+        logger.info(f"[{fonte}] JSON truncado reparado ({len(raw)} → {len(raw_repaired)} chars)")
+        raw = raw_repaired
 
     try:
         data = json.loads(raw)

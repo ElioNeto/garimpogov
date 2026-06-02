@@ -16,6 +16,7 @@ from __future__ import annotations
 import json
 import logging
 import os
+import re
 import uuid
 from datetime import datetime, timezone
 from typing import Optional
@@ -84,6 +85,38 @@ def _dedup_key(c: dict) -> str:
     fonte = c.get("fonte") or ""
     inst = c.get("instituicao") or ""
     return f"fallback:{fonte}|{inst}"
+
+
+def _is_stale(c: dict) -> bool:
+    """Verifica se um concurso contém valores placeholder que deveriam ter sido rejeitados."""
+    inst = c.get("instituicao", "") or ""
+    link = c.get("link_edital", "") or ""
+    cargos = c.get("cargos") or []
+    # Checa "ex:" prefix
+    if re.search(r"^ex:\s*", inst, re.IGNORECASE):
+        return True
+    if re.search(r"^ex:\s*", link, re.IGNORECASE):
+        return True
+    for cg in cargos:
+        if re.search(r"^ex:\s*", str(cg), re.IGNORECASE):
+            return True
+    # Checa placeholders clássicos
+    if re.search(r"nome\s+do\s+[oó]rg[aã]o", inst, re.IGNORECASE):
+        return True
+    if re.search(r"url\s+completa", link, re.IGNORECASE):
+        return True
+    return False
+
+
+def purge_stale() -> int:
+    """Remove entradas antigas com dados placeholder do JSON store."""
+    existing = load_all()
+    before = len(existing)
+    existing = [c for c in existing if not _is_stale(c)]
+    if len(existing) < before:
+        save_all(existing)
+        logger.info(f"Limpadas {before - len(existing)} entradas com placeholder")
+    return before - len(existing)
 
 
 def merge_new(new_concursos: list[dict]) -> list[dict]:
