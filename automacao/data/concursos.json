@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "ultima_coleta": "2026-06-02T09:11:28.464890+00:00",
+    "total_concursos": 9
+  },
+  "concursos": [
+    {
+      "instituicao": "Prefeitura de Bragança Paulista - SP",
+      "orgao": "Local (ex: RS, Porto Alegre - RS)",
+      "cargos": [
+        "cargo 1"
+      ],
+      "salario_maximo": "R$ 1.457,00 ou null",
+      "link_edital": "https://www.pciconcursos.com.br",
+      "data_encerramento": "DD/MM/YYYY ou null",
+      "data_publicacao": "DD/MM/YYYY ou null",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "a4c70107-0ff7-43a8-9963-00659faf91c2",
+      "data_coleta": "2026-06-02T09:11:28.464753+00:00"
+    },
+    {
+      "instituicao": "CAU/SP",
+      "orgao": "SP",
+      "cargos": [
+        "Analista Técnico"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/cau-sp",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-02",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "99f54602-f941-48cc-aac8-47dff8bbe94e",
+      "data_coleta": "2026-06-02T09:11:28.464779+00:00"
+    },
+    {
+      "instituicao": "SEDES - DF",
+      "orgao": "DF",
+      "cargos": [
+        "Especialista em Desenvolvimento"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/sedes-df",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-02",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "ce4ebdf8-e278-468d-be9b-a501f421338d",
+      "data_coleta": "2026-06-02T09:11:28.464800+00:00"
+    },
+    {
+      "instituicao": "Nome do orgao",
+      "orgao": "Local (ex: RS, Porto Alegre - RS)",
+      "cargos": [
+        "cargo 1"
+      ],
+      "salario_maximo": "R$ X.XXX,XX ou null",
+      "link_edital": "URL completa",
+      "data_encerramento": "DD/MM/YYYY ou null",
+      "data_publicacao": "DD/MM/YYYY ou null",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "ed6e2069-10e3-48ad-bf7e-d7feb41db43f",
+      "data_coleta": "2026-06-02T09:11:28.464817+00:00"
+    },
+    {
+      "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
+      "orgao": "Federal",
+      "cargos": [
+        "Assistente de Projeto (Tecnologia da Informação e afins)"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.tecconcursos.com.br/concursos/agSUS/processo-seletivo-simplificado-n-04-2026",
+      "data_encerramento": "17/02/2026",
+      "data_publicacao": "2026-06-02",
+      "status": "aberto",
+      "fonte": "TecConcursos",
+      "id": "90f7ff58-8d88-405b-a28b-edf70edee1a4",
+      "data_coleta": "2026-06-02T09:11:28.464825+00:00"
+    },
+    {
+      "instituicao": "Universidade Federal",
+      "orgao": "Instituto de Estudos",
+      "cargos": [
+        "cargo 1",
+        "cargo 2"
+      ],
+      "salario_maximo": "R$ 12.000",
+      "link_edital": "https://exemplo.com",
+      "data_encerramento": "DD/MM/YYYY",
+      "data_publicacao": "DD/MM/YYYY",
+      "status": "aberto",
+      "fonte": "TecConcursos",
+      "id": "499cc26f-b8bd-4604-b564-4581148f071d",
+      "data_coleta": "2026-06-02T09:11:28.464836+00:00"
+    },
+    {
+      "instituicao": "Nome do orgao",
+      "orgao": "Local (ex: RS, Porto Alegre - RS)",
+      "cargos": [
+        "cargo 1"
+      ],
+      "salario_maximo": "R$ X.XXX,XX ou null",
+      "link_edital": "https://www.tecconcursos.com.br",
+      "data_encerramento": "DD/MM/YYYY ou null",
+      "data_publicacao": "DD/MM/YYYY ou null",
+      "status": "aberto",
+      "fonte": "TecConcursos",
+      "id": "d0570292-8dbe-4feb-a00a-8b71582c6672",
+      "data_coleta": "2026-06-02T09:11:28.464844+00:00"
+    },
+    {
+      "instituicao": "Instituto de Gestão de Recursos Humanos",
+      "orgao": "Centro de Capacitação em Gestão",
+      "cargos": [
+        "Analista de TI",
+        "Gerente de Projetos"
+      ],
+      "salario_maximo": "R$ 120.000,00 ou null",
+      "link_edital": "https://www.exemplo.com",
+      "data_encerramento": "DD/MM/YYYY ou null",
+      "data_publicacao": "DD/MM/YYYY ou null",
+      "status": "aberto",
+      "fonte": "TecConcursos",
+      "id": "dc1701b4-291b-4f75-9629-62c5a02322af",
+      "data_coleta": "2026-06-02T09:11:28.464856+00:00"
+    },
+    {
+      "instituicao": "Instituto Tecnológico",
+      "orgao": "Local (ex: RS, São Paulo - RS)",
+      "cargos": [
+        "cargo 1",
+        "analista de TI",
+        "desenvolvedor",
+        "segurança da informação"
+      ],
+      "salario_maximo": "R$ 500.000,00 ou null",
+      "link_edital": "https://www.estrategiaconcursos.com.br",
+      "data_encerramento": "DD/MM/YYYY ou null",
+      "data_publicacao": "DD/MM/YYYY ou null",
+      "status": "aberto",
+      "fonte": "Estrategia",
+      "id": "4aff83a2-992d-4c53-a411-01726016f57c",
+      "data_coleta": "2026-06-02T09:11:28.464864+00:00"
+    }
+  ]
+}
