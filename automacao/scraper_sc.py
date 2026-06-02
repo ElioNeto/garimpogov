@@ -69,7 +69,7 @@ class DOEScScraper(BaseScraper):
                     if key not in seen:
                         seen.add(key)
                         all_concursos.append(c)
-                logger.info(f"{self.nome} [{url}]: {len(results)} no escopo")
+                logger.info(f"{self.nome} [{url}]: {len(results)} extraidos")
             except Exception as e:
                 logger.error(f"Erro {self.nome} [{url}]: {e}")
 

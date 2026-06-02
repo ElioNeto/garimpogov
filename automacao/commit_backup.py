@@ -110,20 +110,26 @@ def generate_report(
 
 
 def save_and_commit_artifacts(report_content: str) -> None:
-    """Salva o relatório em reports/ e o JSON em data/, depois faz commit + push."""
+    """Salva os .md em data/ e faz commit + push."""
     today = date.today().strftime("%Y-%m-%d")
-    report_path = f"reports/{today}.md"
-    os.makedirs("reports", exist_ok=True)
-    with open(report_path, "w", encoding="utf-8") as f:
-        f.write(report_content)
-    logger.info(f"Relatório salvo em {report_path}")
 
-    # Lista de arquivos para commitar
-    files_to_add = [report_path, "data/concursos.json"]
+    # Lista de artefatos sempre commitados
+    files_to_add = [
+        "data/concursos_abertos.md",
+        "data/concursos_filtrados.md",
+        "data/concursos.json",
+    ]
 
     for fpath in files_to_add:
         if os.path.exists(fpath):
             subprocess.run(["git", "add", fpath], check=True)
+        else:
+            logger.debug(f"Arquivo não encontrado (pode ser primeira execução): {fpath}")
+
+    # Relatório diário (opcional — pode não existir em dry-run)
+    report_path = f"reports/{today}.md"
+    if os.path.exists(report_path):
+        subprocess.run(["git", "add", report_path], check=True)
 
     result = subprocess.run(["git", "diff", "--cached", "--quiet"], capture_output=True)
     if result.returncode != 0:
@@ -142,7 +148,7 @@ def save_and_commit_artifacts(report_content: str) -> None:
                 text=True,
             )
             subprocess.run(["git", "push"], check=True, capture_output=True, text=True)
-            logger.info("Relatório + JSON commitados e enviados ao repositório")
+            logger.info("Artefatos (.md + .json) commitados e enviados ao repositório")
         except subprocess.CalledProcessError as e:
             logger.warning(f"Falha ao commitar/push: {e.stderr or e}")
             logger.warning("Os artefatos estão salvos em disco localmente.")

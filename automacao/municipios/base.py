@@ -1,33 +1,32 @@
-"""Classe base para scrapers municipais com extracao via Gemini.
+"""Classe base para scrapers municipais com extracao via LLM.
 
-Usa session com headers de browser real e retry com backoff.
+Usa session com headers de browser real, User-Agent rotativo e retry.
 """
 from abc import ABC
 import logging
+import random
 import time
+import warnings
 
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 from automacao.ai_extractor import extract_concursos_from_html
-from automacao.config import DEFAULT_HEADERS, SCRAPER_SLEEP_SECONDS
+from automacao.config import DEFAULT_HEADERS, USER_AGENTS, random_delay
 
 logger = logging.getLogger(__name__)
 
-# Headers enriquecidos para municipios (inclui Accept/Language extras)
-HEADERS = {
-    **DEFAULT_HEADERS,
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
-    "Accept-Encoding": "gzip, deflate, br",
-    "Connection": "keep-alive",
-}
+# Suprime warnings de SSL para sites com certificado problemático
+warnings.filterwarnings("ignore", message="Unverified HTTPS request")
 
 
 def _make_session(verify_ssl: bool = True) -> requests.Session:
     session = requests.Session()
-    session.headers.update(HEADERS)
+    headers = dict(DEFAULT_HEADERS)  # copia para não modificar o original
+    headers["User-Agent"] = random.choice(USER_AGENTS)
+    headers["Connection"] = "keep-alive"
+    session.headers.update(headers)
     retry_cfg = Retry(
         total=3,
         backoff_factor=3,
@@ -67,8 +66,12 @@ class DiarioMunicipal(ABC):
                     if c["link_edital"] not in seen:
                         seen.add(c["link_edital"])
                         all_results.append(c)
-                logger.info(f"{self.fonte} [{url}]: {len(results)} no escopo")
-                time.sleep(SCRAPER_SLEEP_SECONDS)
+                logger.info(f"{self.fonte} [{url}]: {len(results)} extraidos")
+
+                # Pausa aleatória entre requisições (anti-bot)
+                delay = random_delay()
+                logger.debug(f"{self.fonte} aguardando {delay:.1f}s...")
+                time.sleep(delay)
             except Exception as e:
                 logger.error(f"Erro {self.fonte} [{url}]: {e}")
 

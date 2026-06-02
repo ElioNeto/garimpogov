@@ -21,17 +21,6 @@ from automacao.llm_client import generate
 logger = logging.getLogger(__name__)
 
 
-SCOPE_DESCRIPTION = textwrap.dedent("""
-    Perfis de interesse:
-    1. Cargos de TI com nivel superior: analista de TI, analista de sistemas,
-       desenvolvedor, engenheiro de software, seguranca da informacao,
-       infraestrutura, banco de dados, redes, ciencia da computacao, etc.
-    2. Professor de Ingles (qualquer nivel).
-
-    Ignore: cargos de TI apenas com ensino medio/fundamental.
-    Ignore: concursos sem relacao com TI ou professor de ingles.
-""")
-
 EXTRACT_PROMPT = textwrap.dedent("""
     Voce e um extrator de dados de concursos publicos brasileiros.
     Analise o texto abaixo e retorne SOMENTE JSON valido (sem markdown):
@@ -49,10 +38,7 @@ EXTRACT_PROMPT = textwrap.dedent("""
       }}
     ]}}
 
-    Escopo (inclua APENAS):
-    {scope}
-
-    - Se nenhum concurso no escopo: {{"concursos": []}}
+    - Extraia TODOS os concursos publicos mencionados no texto.
     - Nao invente dados ausentes: use null
     - Links relativos: prefixe com {base_url}
     - Max 30 concursos
@@ -77,7 +63,7 @@ def extract_concursos_from_html(html: str, base_url: str, fonte: str, max_chars:
         logger.warning(f"[{fonte}] Texto muito curto, pulando extração")
         return []
 
-    prompt = EXTRACT_PROMPT.format(scope=SCOPE_DESCRIPTION, base_url=base_url, text=text)
+    prompt = EXTRACT_PROMPT.format(base_url=base_url, text=text)
 
     model = os.environ.get("OPENROUTER_EXTRACTION_MODEL", "openrouter/free")
 
@@ -109,7 +95,7 @@ def extract_concursos_from_html(html: str, base_url: str, fonte: str, max_chars:
         c["cargos"] = c.get("cargos") or []
         result.append(c)
 
-    logger.info(f"[{fonte}] LLM extraiu {len(result)} concursos no escopo")
+    logger.info(f"[{fonte}] LLM extraiu {len(result)} concursos")
     return result
 
 

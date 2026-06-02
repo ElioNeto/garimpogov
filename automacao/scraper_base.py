@@ -4,7 +4,9 @@ Elimina a duplicação de HEADERS, loop de páginas, dedup e sleep
 que antes estava replicada em cada scraper individual.
 """
 import logging
+import random
 import time
+import warnings
 from abc import ABC
 from typing import Optional
 
@@ -14,9 +16,12 @@ from tenacity import retry, stop_after_attempt, wait_exponential
 from urllib3.util.retry import Retry
 
 from automacao.ai_extractor import extract_concursos_from_html
-from automacao.config import DEFAULT_HEADERS, SCRAPER_SLEEP_SECONDS
+from automacao.config import DEFAULT_HEADERS, USER_AGENTS, random_delay
 
 logger = logging.getLogger(__name__)
+
+# Suprime warnings de SSL para sites com certificado problemático
+warnings.filterwarnings("ignore", message="Unverified HTTPS request")
 
 
 class BaseScraper(ABC):
@@ -40,7 +45,9 @@ class BaseScraper(ABC):
 
     def _make_session(self) -> requests.Session:
         session = requests.Session()
-        session.headers.update(DEFAULT_HEADERS)
+        headers = dict(DEFAULT_HEADERS)  # copia para não modificar o original
+        headers["User-Agent"] = random.choice(USER_AGENTS)
+        session.headers.update(headers)
         retry_cfg = Retry(
             total=3,
             backoff_factor=2,
@@ -65,7 +72,7 @@ class BaseScraper(ABC):
         """Executa o scraping de todas as páginas definidas.
 
         Returns:
-            Lista de concursos encontrados no escopo.
+            Lista de concursos encontrados (TODOS, sem filtro de escopo).
         """
         logger.info(f"Scraping {self.nome} ({len(self.pages)} paginas)...")
         all_concursos = []
@@ -82,12 +89,14 @@ class BaseScraper(ABC):
                     if key not in seen:
                         seen.add(key)
                         all_concursos.append(c)
-                logger.info(f"{self.nome} [{url}]: {len(results)} no escopo")
+                logger.info(f"{self.nome} [{url}]: {len(results)} extraidos")
             except Exception as e:
                 logger.error(f"Erro {self.nome} [{url}]: {e}")
 
-            # Pausa gentil entre páginas (rate limit do Gemini já controlado em ai_extractor)
-            time.sleep(SCRAPER_SLEEP_SECONDS)
+            # Pausa aleatória entre requisições (anti-bot)
+            delay = random_delay()
+            logger.debug(f"{self.nome} aguardando {delay:.1f}s...")
+            time.sleep(delay)
 
         logger.info(f"{self.nome} total: {len(all_concursos)}")
         return all_concursos

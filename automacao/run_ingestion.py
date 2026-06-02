@@ -1,12 +1,11 @@
 """Orquestrador principal da ingestão - chamado pelo GitHub Actions.
 
 Processa todas as fontes registradas (portais, bancas, diários oficiais,
-municípios) em paralelo e salva os resultados em JSON no repositório.
+municípios) em paralelo e gera dois arquivos markdown:
+  - data/concursos_abertos.md  → TODOS os concursos encontrados
+  - data/concursos_filtrados.md → apenas TI + Professor de Inglês
 
-Ao final, gera relatório markdown, commita JSON + relatório no repositório e
-envia notificação multicanal (Slack + Telegram).
-
-NÃO depende de banco de dados PostgreSQL — tudo vai para data/concursos.json.
+NÃO depende de banco de dados PostgreSQL — tudo vai para .md no repositório.
 """
 import logging
 import os
@@ -69,6 +68,7 @@ from automacao.municipios.blumenau import Blumenau
 
 # ── Pipeline comum ─────────────────────────────────────────────────
 from automacao.json_store import merge_new, load_all, save_all
+from automacao.filters import matches_scope
 from automacao.commit_backup import save_and_notify
 
 logging.basicConfig(
@@ -150,7 +150,7 @@ def _scrape_source(nome: str, func: Callable[[], list[dict]]) -> tuple[str, list
     logger.info(f"[{nome}] Iniciando...")
     try:
         dados = func()
-        logger.info(f"[{nome}] OK — {len(dados)} no escopo")
+        logger.info(f"[{nome}] OK — {len(dados)} extraidos")
         return nome, dados, None
     except Exception as e:
         msg = f"[{nome}] Falha: {e}"
@@ -195,8 +195,74 @@ def scrape_fontes() -> tuple[list[dict], list[str]]:
             concluidas += 1
             logger.info(f"Progresso: {concluidas}/{n_total} fontes concluídas")
 
-    logger.info(f"Scraping concluído: {len(resultados)} concursos no escopo, {len(erros)} fontes com erro")
+    logger.info(f"Scraping concluído: {len(resultados)} concursos extraidos, {len(erros)} fontes com erro")
     return resultados, erros
+
+
+def _generate_concursos_abertos_md(concursos: list[dict]) -> str:
+    """Gera markdown com TODOS os concursos abertos."""
+    from datetime import date
+    today = date.today().strftime("%d/%m/%Y")
+    lines = [
+        f"# GarimpoGov — Todos os Concursos Abertos",
+        f"",
+        f"_Atualizado em {today}_",
+        f"",
+        f"Total: **{len(concursos)}** concursos encontrados.",
+        f"",
+        "---",
+        "",
+    ]
+    if not concursos:
+        lines.append("_Nenhum concurso encontrado._")
+    else:
+        # Agrupa por fonte
+        from collections import defaultdict
+        por_fonte = defaultdict(list)
+        for c in concursos:
+            por_fonte[c.get("fonte", "Outros")].append(c)
+
+        for fonte in sorted(por_fonte.keys()):
+            items = por_fonte[fonte]
+            lines.append(f"## {fonte} ({len(items)})")
+            lines.append("")
+            for c in items:
+                inst = c.get("instituicao", "N/A")
+                link = c.get("link_edital", "")
+                cargos = ", ".join(c.get("cargos") or [])
+                orgao = c.get("orgao", "")
+                salario = c.get("salario_maximo", "")
+                encerra = c.get("data_encerramento", "")
+                lines.append(f"### {inst}")
+                if link:
+                    lines.append(f"[🔗 Edital]({link})")
+                if cargos:
+                    lines.append(f"- **Cargos:** {cargos}")
+                if orgao:
+                    lines.append(f"- **Órgão/Local:** {orgao}")
+                if salario:
+                    lines.append(f"- **Salário máx.:** {salario}")
+                if encerra:
+                    lines.append(f"- **Encerramento:** {encerra}")
+                lines.append("")
+            lines.append("---")
+            lines.append("")
+    return "\n".join(lines)
+
+
+def _generate_concursos_filtrados_md(concursos: list[dict]) -> str:
+    """Gera markdown com os concursos filtrados (TI + Professor de Inglês)."""
+    return _generate_concursos_abertos_md(concursos).replace(
+        "# GarimpoGov — Todos os Concursos Abertos",
+        "# GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)",
+    )
+
+
+def _save_md(filepath: str, content: str):
+    os.makedirs(os.path.dirname(filepath), exist_ok=True)
+    with open(filepath, "w", encoding="utf-8") as f:
+        f.write(content)
+    logger.info(f"Salvo {filepath} ({len(content)} bytes)")
 
 
 def run():
@@ -205,17 +271,21 @@ def run():
     logger.info("=" * 60)
     logger.info("GarimpoGov Ingestion Pipeline START")
     logger.info(f"Modo: {'DRY RUN' if DRY_RUN else 'PRODUÇÃO'}")
-    logger.info(f"Escopo: TI + Professor de Inglês")
+    logger.info(f"Escopo: TI + Professor de Inglês (filtro local)")
     logger.info(f"Fontes registradas: {len(FONTES)} + {len(MUNICIPIOS)} municipios")
     logger.info("=" * 60)
 
-    # ── Fase 1: Scraping ──────────────────────────────────────────
+    # ── Fase 1: Scraping (todos os concursos, sem filtro) ─────────
     concursos_raw, erros_scraping = scrape_fontes()
-    logger.info(f"Total bruto no escopo: {len(concursos_raw)}")
+    logger.info(f"Total extraído (todos os concursos): {len(concursos_raw)}")
+
+    # ── Fase 2: Filtro local ─────────────────────────────────────
+    concursos_filtrados = [c for c in concursos_raw if matches_scope(c)]
+    logger.info(f"Após filtro local (TI + Professor): {len(concursos_filtrados)}")
 
     if DRY_RUN:
         logger.info("[DRY RUN] Pulando gravação em disco.")
-        for c in concursos_raw[:20]:
+        for c in concursos_filtrados[:20]:
             logger.info(
                 f"  [{c.get('fonte','?')}] {c.get('instituicao','?')} "
                 f"| {c.get('cargos')} | {c.get('link_edital','')}"
@@ -223,31 +293,57 @@ def run():
         duracao = time.monotonic() - inicio
         save_and_notify(
             newly_ingested=[],
-            total_bruto=len(concursos_raw),
+            total_bruto=len(concursos_filtrados),
             erros=erros_scraping,
             duracao_segundos=duracao,
             dry_run=True,
         )
         return
 
-    # ── Fase 2: Merge no JSON ─────────────────────────────────────
-    newly_ingested = merge_new(concursos_raw)
+    # ── Fase 3: Merge no JSON + geração dos .md ──────────────────
+    # Carrega links existentes ANTES do merge, para detectar novos
+    existing_before = {c.get("link_edital") for c in load_all() if c.get("link_edital")}
 
-    # ── Fase 3: Relatório + Notificação ───────────────────────────
+    # Salva TODOS os concursos no JSON (dedup por link_edital)
+    merge_new(concursos_raw)
+
+    # Gera concursos_abertos.md a partir do acervo completo (já merged)
+    todos = load_all()
+    md_abertos = _generate_concursos_abertos_md(todos)
+    _save_md("data/concursos_abertos.md", md_abertos)
+
+    # Gera concursos_filtrados.md a partir do acervo completo filtrado
+    md_filtrados = _generate_concursos_filtrados_md(
+        [c for c in todos if matches_scope(c)]
+    )
+    _save_md("data/concursos_filtrados.md", md_filtrados)
+
+    # ── Fase 4: Relatório + Notificação (só novos filtrados) ────
     duracao = time.monotonic() - inicio
 
+    # Apenas concursos filtrados que são realmente novos
+    newly_ingested_filtered = [
+        c for c in concursos_filtrados
+        if c.get("link_edital") and c["link_edital"] not in existing_before
+    ]
+    logger.info(
+        f"Novos no filtro: {len(newly_ingested_filtered)} "
+        f"(de {len(concursos_filtrados)} totais no filtro)"
+    )
+
     resultados_notificacao = save_and_notify(
-        newly_ingested=newly_ingested,
-        total_bruto=len(concursos_raw),
+        newly_ingested=newly_ingested_filtered,
+        total_bruto=len(concursos_filtrados),
         erros=erros_scraping,
         duracao_segundos=duracao,
         dry_run=False,
     )
 
     logger.info("=" * 60)
-    logger.info(f"Pipeline DONE: {len(newly_ingested)} novos concursos")
+    logger.info(f"Pipeline DONE: {len(concursos_filtrados)} concursos no filtro")
+    logger.info(f"Arquivos: data/concursos_abertos.md + data/concursos_filtrados.md")
+    logger.info(f"Total bruto (todos): {len(concursos_raw)}")
     logger.info(f"Duração: {duracao:.0f}s")
-    logger.info(f"Total bruto no escopo: {len(concursos_raw)}")
     if erros_scraping:
         logger.info(f"Erros: {len(erros_scraping)}")
     if resultados_notificacao:

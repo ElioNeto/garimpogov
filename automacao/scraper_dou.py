@@ -59,11 +59,9 @@ class DOUScraper(BaseScraper):
                     if key not in seen:
                         seen.add(key)
                         all_concursos.append(c)
-                logger.info(f"DOU '{term}': {len(results)} no escopo")
-            except Exception as e:
-                logger.error(f"Erro DOU '{term}': {e}")
+                logger.info(f"DOU '{term}': {len(results)} extraidos")
 
-        logger.info(f"DOU total no escopo: {len(all_concursos)}")
+        logger.info(f"DOU total extraido: {len(all_concursos)}")
         return all_concursos
 
 

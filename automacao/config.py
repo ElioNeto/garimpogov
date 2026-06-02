@@ -150,11 +150,38 @@ CHUNK_OVERLAP: int = int(os.environ.get("CHUNK_OVERLAP", "200"))
 # chamadas à API, então o sleep do scraper é apenas para ser gentil com o site.
 SCRAPER_SLEEP_SECONDS: float = float(os.environ.get("SCRAPER_SLEEP_SECONDS", "0.5"))
 
-# User-Agent padrão para todos os scrapers
+# ── Anti-bot: User-Agent rotativo ───────────────────────────────────────
+USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 14.5; rv:126.0) Gecko/20100101 Firefox/126.0",
+]
+
+# Headers realistas de navegador (sem User-Agent fixo — será rotacionado)
 DEFAULT_HEADERS: dict = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0.0.0 Safari/537.36"
-    )
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+    "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Cache-Control": "no-cache",
+    "Pragma": "no-cache",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+    "Upgrade-Insecure-Requests": "1",
+    "Referer": "https://www.google.com/",
 }
+
+# Delay aleatório entre requisições (substitui SCRAPER_SLEEP_SECONDS fixo)
+import random
+MIN_DELAY: float = float(os.environ.get("SCRAPER_MIN_DELAY", "0.8"))
+MAX_DELAY: float = float(os.environ.get("SCRAPER_MAX_DELAY", "2.5"))
+
+
+def random_delay() -> float:
+    """Retorna delay aleatório entre MIN_DELAY e MAX_DELAY."""
+    return random.uniform(MIN_DELAY, MAX_DELAY)
