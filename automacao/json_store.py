@@ -23,7 +23,8 @@ from typing import Optional
 
 logger = logging.getLogger(__name__)
 
-DATA_DIR = "data"
+_MODULE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(_MODULE_DIR, "data")
 DATA_FILE = os.path.join(DATA_DIR, "concursos.json")
 
 

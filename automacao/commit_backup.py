@@ -134,16 +134,17 @@ def save_and_commit_artifacts(report_content: str) -> None:
     result = subprocess.run(["git", "diff", "--cached", "--quiet"], capture_output=True)
     if result.returncode != 0:
         try:
+            # Pull rebase ANTES do commit para evitar conflitos sem usar --autostash
+            # (--autostash corrompe dados ao stashear e reverter o JSON)
             subprocess.run(
-                ["git", "commit", "-m", f"chore: ingestion artifacts {today}"],
-                check=True,
+                ["git", "pull", "--rebase"],
+                check=False,
                 capture_output=True,
                 text=True,
             )
-            # Pull rebase antes do push para evitar conflito com commits concorrentes
             subprocess.run(
-                ["git", "pull", "--rebase", "--autostash"],
-                check=False,
+                ["git", "commit", "-m", f"chore: ingestion artifacts {today}"],
+                check=True,
                 capture_output=True,
                 text=True,
             )
