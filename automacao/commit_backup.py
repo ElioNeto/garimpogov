@@ -134,6 +134,13 @@ def save_and_commit_artifacts(report_content: str) -> None:
                 capture_output=True,
                 text=True,
             )
+            # Pull rebase antes do push para evitar conflito com commits concorrentes
+            subprocess.run(
+                ["git", "pull", "--rebase", "--autostash"],
+                check=False,
+                capture_output=True,
+                text=True,
+            )
             subprocess.run(["git", "push"], check=True, capture_output=True, text=True)
             logger.info("Relatório + JSON commitados e enviados ao repositório")
         except subprocess.CalledProcessError as e:
