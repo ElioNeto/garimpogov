@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-02T14:36:46.670921+00:00",
-    "total_concursos": 2
+    "ultima_coleta": "2026-06-02T15:04:14.012271+00:00",
+    "total_concursos": 3
   },
   "concursos": [
     {
@@ -33,6 +33,21 @@
       "fonte": "PCI",
       "id": "5d4775bb-f4fc-4c61-94f0-69f73ed273ce",
       "data_coleta": "2026-06-02T14:36:46.670877+00:00"
+    },
+    {
+      "instituicao": "Diário Oficial e Prodesp",
+      "orgao": "https://www.doe.sp.gov.br",
+      "cargos": [
+        "cargo 1"
+      ],
+      "salario_maximo": "R$ X.XXX,XX ou null",
+      "link_edital": "https://www.imprensaoficial.com.br",
+      "data_encerramento": "DD/MM/YYYY ou null",
+      "data_publicacao": "DD/MM/YYYY ou null",
+      "status": "aberto",
+      "fonte": "DOE-SP",
+      "id": "26bae984-39f3-4c01-a86a-054bad70a38b",
+      "data_coleta": "2026-06-02T15:04:14.012231+00:00"
     }
   ]
 }
