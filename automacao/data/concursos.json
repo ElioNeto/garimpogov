@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-02T21:53:50.370931+00:00",
-    "total_concursos": 89
+    "ultima_coleta": "2026-06-03T13:02:37.218810+00:00",
+    "total_concursos": 102
   },
   "concursos": [
     {
@@ -1248,6 +1248,224 @@
       "fonte": "PCI",
       "id": "9c45e923-86d3-4901-8c43-31b1a915794d",
       "data_coleta": "2026-06-02T21:53:50.370903+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de São Paulo",
+      "orgao": "SP, Sao Paulo - SP",
+      "cargos": [
+        "Analista de Sistemas",
+        "Professor de Ingles"
+      ],
+      "salario_maximo": "R$ 5.000,00",
+      "link_edital": "https://www.exemplo.com/concurso",
+      "data_encerramento": "30/06/2026",
+      "data_publicacao": "01/06/2026",
+      "status": "aberto",
+      "fonte": "TecConcursos",
+      "id": "0c674a54-1a00-47a6-aac8-b9c77e376296",
+      "data_coleta": "2026-06-03T13:02:37.218606+00:00"
+    },
+    {
+      "instituicao": "UFRGS",
+      "orgao": null,
+      "cargos": [
+        "ANALISTA DE TI I (Cibersegurança)",
+        "BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Análise de Metabólitos)",
+        "BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Citogenética)",
+        "BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Erros Inatos do Metabolismo)",
+        "ENFERMEIRO I (Enfermeiro do Trabalho)",
+        "ENFERMEIRO I (Internação Clínica Adulto)",
+        "ENFERMEIRO I (Internação Cirúrgica Adulto)",
+        "MÉDICO I (Emergência Adulto)",
+        "MÉDICO I (Geriatria)",
+        "MÉDICO I (Neurofisiologia Clínica)",
+        "MÉDICO I (Pediatria)",
+        "MÉDICO I (Pneumologia: Polissonografia)",
+        "MÉDICO I (Transplante Hepático)",
+        "NUTRICIONISTA I (Atenção Básica)",
+        "ASSISTENTE ADMINISTRATIVO I (Vigilante)",
+        "TÉCNICO DE ENFERMAGEM (Centro Obstétrico e Internação Obstétrica)",
+        "TÉCNICO DE LABORATÓRIO (Diagnóstico Laboratorial)",
+        "TÉCNICO EM SAÚDE BUCAL"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosFaurgs/emandamento/1274-062026ufrgs",
+      "data_encerramento": null,
+      "data_publicacao": "06/2026",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "e7145dae-a0a9-431a-8aac-1a14be360dcd",
+      "data_coleta": "2026-06-03T13:02:37.218635+00:00"
+    },
+    {
+      "instituicao": "UFRGS",
+      "orgao": null,
+      "cargos": [
+        "Auxiliar de Monitoramento – Imbé",
+        "Auxiliar de Monitoramento – Torres",
+        "Tratador Auxiliar de Animais Marinhos - Imbé"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosFaurgs/emandamento/1273-052026ufrgs",
+      "data_encerramento": null,
+      "data_publicacao": "05/2026",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "adf3900e-d6af-4fda-8950-709de330b389",
+      "data_coleta": "2026-06-03T13:02:37.218647+00:00"
+    },
+    {
+      "instituicao": "TELESSAÚDE DA UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL",
+      "orgao": null,
+      "cargos": [
+        "Teleconsultor Medicina - Medicina de Família e Comunidade - Presencial",
+        "Teleconsultor Medicina - Urologia - Presencial",
+        "Teleconsultor Medicina - Gastroenterologia - Presencial",
+        "Teleconsultor Medicina - Dermatologia - Presencial",
+        "Teleconsultor Medicina - Pneumologia - Presencial"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosFaurgs/emandamento/1272-042026telessaudedauniversidadefederaldoriograndedosul",
+      "data_encerramento": null,
+      "data_publicacao": "04/2026",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "7f15f592-2580-43cf-bb52-909caf738e0c",
+      "data_coleta": "2026-06-03T13:02:37.218659+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Pouso Alegre - MG",
+      "orgao": "MG, Minas Gerais - MG",
+      "cargos": [
+        "Guarda Civil Municipal"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pouso-alegre-mg-retifica-edital-de-concurso-para-guarda-civil-municipal",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-03",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "068e61f6-f913-4d38-90a6-ca9ab515189d",
+      "data_coleta": "2026-06-03T13:02:37.218685+00:00"
+    },
+    {
+      "instituicao": "Câmara de Arujá",
+      "orgao": "SP",
+      "cargos": [
+        "Superior"
+      ],
+      "salario_maximo": "R$ 9.004,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/inseguimento-na-selecao-de-oficiais-de-armada-na-graduação",
+      "data_encerramento": "12/06/2026",
+      "data_publicacao": "08/07/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "306a7d3b-ebfb-4993-b88a-d9361b8383b2",
+      "data_coleta": "2026-06-03T13:02:37.218711+00:00"
+    },
+    {
+      "instituicao": "Câmara de Paracatu",
+      "orgao": "MG",
+      "cargos": [
+        "Guarda Civil Municipal"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paracatu-mg-abre-concurso-publico-com-40-vagas",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "4d54fcad-e8ad-4552-b5c7-e096e83dadd8",
+      "data_coleta": "2026-06-03T13:02:37.218718+00:00"
+    },
+    {
+      "instituicao": "CBMMG",
+      "orgao": "SP",
+      "cargos": [
+        "Oficiais e Soldados"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cbmmg-abre-vagas-concurso",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "6b392bf5-da95-41b2-9dfc-15d33bf3c465",
+      "data_coleta": "2026-06-03T13:02:37.218727+00:00"
+    },
+    {
+      "instituicao": "CAMA - SP",
+      "orgao": "SP",
+      "cargos": [
+        "Assistentes",
+        "Analistas Técnicos"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-aruja-abre-concurso-publico-com-salarios-de-ate-15-6-mil",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-03",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "fdbcb3e0-0a9f-4352-b1c9-0ce4839d687f",
+      "data_coleta": "2026-06-03T13:02:37.218736+00:00"
+    },
+    {
+      "instituicao": "CAMS - MG",
+      "orgao": "MG",
+      "cargos": [
+        "Concurso Público",
+        "Processo Seletivo"
+      ],
+      "salario_maximo": "R$ 9 mil",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-juiz-de-fora-mg-abre-concurso-publico-com-salarios-de-ate-9-mil",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-03",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "59bbcc79-6c3f-4e06-b6b4-38a20960c510",
+      "data_coleta": "2026-06-03T13:02:37.218748+00:00"
+    },
+    {
+      "instituicao": "TJ-CE",
+      "orgao": "TJ-CE",
+      "cargos": [
+        "Nível Médio",
+        "Nível Superior"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/tj-ce-retifica-concurso-publico-para-cargos-de-nivel-medio-e-superior",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-03",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "7dac404f-79da-4058-977d-9be622590c48",
+      "data_coleta": "2026-06-03T13:02:37.218765+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Campina Grande - PB",
+      "orgao": "Prefeitura de Campina Grande - PB",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campina-grande-pb-divulga-edital-retificado-de-concurso-publico",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-03",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "abaae939-63f7-4363-9979-8566b1630685",
+      "data_coleta": "2026-06-03T13:02:37.218775+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Altos - PI",
+      "orgao": "Prefeitura de Altos - PI",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-altos-pi-publica-edital-de-concurso-publico-com-diversas-vagas",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-03",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "99fc7de8-4896-40a4-b154-66796678bc8a",
+      "data_coleta": "2026-06-03T13:02:37.218784+00:00"
     }
   ]
 }

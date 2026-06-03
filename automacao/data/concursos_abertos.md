@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 02/06/2026_
+_Atualizado em 03/06/2026_
 
-Total: **89** concursos encontrados.
+Total: **102** concursos encontrados.
 
 ---
 
@@ -17,7 +17,7 @@ Total: **89** concursos encontrados.
 
 ---
 
-## FAURGS (5)
+## FAURGS (8)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -47,6 +47,18 @@ Total: **89** concursos encontrados.
 - **Órgão/Local:** https://faurgs.any3.com.br/Portal/Coordenador
 - **Salário máx.:** R$ 2.200,00
 - **Encerramento:** 05/09/2024
+
+### UFRGS
+[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1274-062026ufrgs)
+- **Cargos:** ANALISTA DE TI I (Cibersegurança), BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Análise de Metabólitos), BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Citogenética), BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Erros Inatos do Metabolismo), ENFERMEIRO I (Enfermeiro do Trabalho), ENFERMEIRO I (Internação Clínica Adulto), ENFERMEIRO I (Internação Cirúrgica Adulto), MÉDICO I (Emergência Adulto), MÉDICO I (Geriatria), MÉDICO I (Neurofisiologia Clínica), MÉDICO I (Pediatria), MÉDICO I (Pneumologia: Polissonografia), MÉDICO I (Transplante Hepático), NUTRICIONISTA I (Atenção Básica), ASSISTENTE ADMINISTRATIVO I (Vigilante), TÉCNICO DE ENFERMAGEM (Centro Obstétrico e Internação Obstétrica), TÉCNICO DE LABORATÓRIO (Diagnóstico Laboratorial), TÉCNICO EM SAÚDE BUCAL
+
+### UFRGS
+[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1273-052026ufrgs)
+- **Cargos:** Auxiliar de Monitoramento – Imbé, Auxiliar de Monitoramento – Torres, Tratador Auxiliar de Animais Marinhos - Imbé
+
+### TELESSAÚDE DA UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1272-042026telessaudedauniversidadefederaldoriograndedosul)
+- **Cargos:** Teleconsultor Medicina - Medicina de Família e Comunidade - Presencial, Teleconsultor Medicina - Urologia - Presencial, Teleconsultor Medicina - Gastroenterologia - Presencial, Teleconsultor Medicina - Dermatologia - Presencial, Teleconsultor Medicina - Pneumologia - Presencial
 
 ---
 
@@ -174,7 +186,7 @@ Total: **89** concursos encontrados.
 
 ---
 
-## PCI (43)
+## PCI (52)
 
 ### Escolas de Formação de Oficiais da Marinha Mercante
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-processo-seletivo-com-vagas-para-a-escolas-de-formacao-de-oficiais-da-marinha-mercante)
@@ -390,5 +402,66 @@ Total: **89** concursos encontrados.
 ### TJ-CE
 [🔗 Edital](https://www.pciconcursos.com.b)
 - **Órgão/Local:** CE, TJ-CE - CE
+
+### Prefeitura de Pouso Alegre - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-pouso-alegre-mg-retifica-edital-de-concurso-para-guarda-civil-municipal)
+- **Cargos:** Guarda Civil Municipal
+- **Órgão/Local:** MG, Minas Gerais - MG
+
+### Câmara de Arujá
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/inseguimento-na-selecao-de-oficiais-de-armada-na-graduação)
+- **Cargos:** Superior
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 9.004,00
+- **Encerramento:** 12/06/2026
+
+### Câmara de Paracatu
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-paracatu-mg-abre-concurso-publico-com-40-vagas)
+- **Cargos:** Guarda Civil Municipal
+- **Órgão/Local:** MG
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### CBMMG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cbmmg-abre-vagas-concurso)
+- **Cargos:** Oficiais e Soldados
+- **Órgão/Local:** SP
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### CAMA - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-aruja-abre-concurso-publico-com-salarios-de-ate-15-6-mil)
+- **Cargos:** Assistentes, Analistas Técnicos
+- **Órgão/Local:** SP
+
+### CAMS - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-juiz-de-fora-mg-abre-concurso-publico-com-salarios-de-ate-9-mil)
+- **Cargos:** Concurso Público, Processo Seletivo
+- **Órgão/Local:** MG
+- **Salário máx.:** R$ 9 mil
+
+### TJ-CE
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/tj-ce-retifica-concurso-publico-para-cargos-de-nivel-medio-e-superior)
+- **Cargos:** Nível Médio, Nível Superior
+- **Órgão/Local:** TJ-CE
+
+### Prefeitura de Campina Grande - PB
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-campina-grande-pb-divulga-edital-retificado-de-concurso-publico)
+- **Órgão/Local:** Prefeitura de Campina Grande - PB
+
+### Prefeitura de Altos - PI
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-altos-pi-publica-edital-de-concurso-publico-com-diversas-vagas)
+- **Órgão/Local:** Prefeitura de Altos - PI
+
+---
+
+## TecConcursos (1)
+
+### Prefeitura de São Paulo
+[🔗 Edital](https://www.exemplo.com/concurso)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
 
 ---
