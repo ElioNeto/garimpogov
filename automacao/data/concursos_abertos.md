@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 03/06/2026_
+_Atualizado em 04/06/2026_
 
-Total: **102** concursos encontrados.
+Total: **107** concursos encontrados.
 
 ---
 
@@ -186,7 +186,7 @@ Total: **102** concursos encontrados.
 
 ---
 
-## PCI (52)
+## PCI (57)
 
 ### Escolas de Formação de Oficiais da Marinha Mercante
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-processo-seletivo-com-vagas-para-a-escolas-de-formacao-de-oficiais-da-marinha-mercante)
@@ -452,6 +452,39 @@ Total: **102** concursos encontrados.
 ### Prefeitura de Altos - PI
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-altos-pi-publica-edital-de-concurso-publico-com-diversas-vagas)
 - **Órgão/Local:** Prefeitura de Altos - PI
+
+### Ambulatório Médico de Especialidades de Limeira
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-o-cargo-de-telefonista-pcd-no-ame-de-limeira)
+- **Cargos:** Telefonista
+- **Órgão/Local:** São Paulo
+- **Salário máx.:** R$ 2.018,54
+- **Encerramento:** 19/06/2026
+
+### Câmara de Holambra
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-holambra-sp-abre-concurso-publico-com-salarios-de-ate-7430)
+- **Cargos:** Analista Administrativo, Técnico em Informática
+- **Órgão/Local:** São Paulo
+- **Salário máx.:** R$ 7.430,61
+- **Encerramento:** 15/06/2026
+
+### Câmara de Presidente Prudente
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-presidente-prudente-sp-retifica-edital-de-concurso-publico)
+- **Cargos:** Assistente Legislativo de Contabilidade, Técnico Legislativo, Controlador Interno
+- **Órgão/Local:** São Paulo
+- **Salário máx.:** R$ 22.010,63
+- **Encerramento:** 24/05/2026
+
+### Câmara de Salesópolis
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-salesopolis-sp-abre-concurso-publico-com-salarios-de-ate-7847)
+- **Cargos:** Assistente Administrativo, Técnico em Informática
+- **Órgão/Local:** São Paulo
+- **Salário máx.:** R$ 7.847,87
+- **Encerramento:** 29/06/2026
+
+### Câmara de Seropédica - RJ
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-seropedica-rj-reabre-inscricoes-para-concursos-publicos)
+- **Cargos:** Vereador, Secretário, Tesoureiro
+- **Órgão/Local:** RJ, Seropédica - RJ
 
 ---
 

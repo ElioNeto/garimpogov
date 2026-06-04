@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-03T13:02:37.218810+00:00",
-    "total_concursos": 102
+    "ultima_coleta": "2026-06-04T11:16:54.830842+00:00",
+    "total_concursos": 107
   },
   "concursos": [
     {
@@ -1466,6 +1466,87 @@
       "fonte": "PCI",
       "id": "99fc7de8-4896-40a4-b154-66796678bc8a",
       "data_coleta": "2026-06-03T13:02:37.218784+00:00"
+    },
+    {
+      "instituicao": "Ambulatório Médico de Especialidades de Limeira",
+      "orgao": "São Paulo",
+      "cargos": [
+        "Telefonista"
+      ],
+      "salario_maximo": "R$ 2.018,54",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-o-cargo-de-telefonista-pcd-no-ame-de-limeira",
+      "data_encerramento": "19/06/2026",
+      "data_publicacao": "2026-06-04",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "972abf53-b76c-4d60-84aa-6a670f90ffe2",
+      "data_coleta": "2026-06-04T11:16:54.830712+00:00"
+    },
+    {
+      "instituicao": "Câmara de Holambra",
+      "orgao": "São Paulo",
+      "cargos": [
+        "Analista Administrativo",
+        "Técnico em Informática"
+      ],
+      "salario_maximo": "R$ 7.430,61",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-holambra-sp-abre-concurso-publico-com-salarios-de-ate-7430",
+      "data_encerramento": "15/06/2026",
+      "data_publicacao": "2026-06-04",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "f8e8a719-8eff-480a-90c3-99fd3ed57b35",
+      "data_coleta": "2026-06-04T11:16:54.830751+00:00"
+    },
+    {
+      "instituicao": "Câmara de Presidente Prudente",
+      "orgao": "São Paulo",
+      "cargos": [
+        "Assistente Legislativo de Contabilidade",
+        "Técnico Legislativo",
+        "Controlador Interno"
+      ],
+      "salario_maximo": "R$ 22.010,63",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-presidente-prudente-sp-retifica-edital-de-concurso-publico",
+      "data_encerramento": "24/05/2026",
+      "data_publicacao": "2026-06-04",
+      "status": "prorrogado",
+      "fonte": "PCI",
+      "id": "b60512f4-ce1c-450e-87e4-d23f3a06c863",
+      "data_coleta": "2026-06-04T11:16:54.830764+00:00"
+    },
+    {
+      "instituicao": "Câmara de Salesópolis",
+      "orgao": "São Paulo",
+      "cargos": [
+        "Assistente Administrativo",
+        "Técnico em Informática"
+      ],
+      "salario_maximo": "R$ 7.847,87",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-salesopolis-sp-abre-concurso-publico-com-salarios-de-ate-7847",
+      "data_encerramento": "29/06/2026",
+      "data_publicacao": "2026-06-04",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "9bd6273c-2cae-4b15-8bc2-7ee73fb62883",
+      "data_coleta": "2026-06-04T11:16:54.830779+00:00"
+    },
+    {
+      "instituicao": "Câmara de Seropédica - RJ",
+      "orgao": "RJ, Seropédica - RJ",
+      "cargos": [
+        "Vereador",
+        "Secretário",
+        "Tesoureiro"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-seropedica-rj-reabre-inscricoes-para-concursos-publicos",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-04",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "2fb0ab52-9523-4f2e-bdb6-2b762cefcf35",
+      "data_coleta": "2026-06-04T11:16:54.830798+00:00"
     }
   ]
 }

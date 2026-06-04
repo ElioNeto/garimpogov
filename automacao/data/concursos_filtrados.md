@@ -1,8 +1,8 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 03/06/2026_
+_Atualizado em 04/06/2026_
 
-Total: **5** concursos encontrados.
+Total: **7** concursos encontrados.
 
 ---
 
@@ -33,6 +33,24 @@ Total: **5** concursos encontrados.
 ### UFRGS
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1274-062026ufrgs)
 - **Cargos:** ANALISTA DE TI I (Cibersegurança), BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Análise de Metabólitos), BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Citogenética), BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Erros Inatos do Metabolismo), ENFERMEIRO I (Enfermeiro do Trabalho), ENFERMEIRO I (Internação Clínica Adulto), ENFERMEIRO I (Internação Cirúrgica Adulto), MÉDICO I (Emergência Adulto), MÉDICO I (Geriatria), MÉDICO I (Neurofisiologia Clínica), MÉDICO I (Pediatria), MÉDICO I (Pneumologia: Polissonografia), MÉDICO I (Transplante Hepático), NUTRICIONISTA I (Atenção Básica), ASSISTENTE ADMINISTRATIVO I (Vigilante), TÉCNICO DE ENFERMAGEM (Centro Obstétrico e Internação Obstétrica), TÉCNICO DE LABORATÓRIO (Diagnóstico Laboratorial), TÉCNICO EM SAÚDE BUCAL
+
+---
+
+## PCI (2)
+
+### Câmara de Holambra
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-holambra-sp-abre-concurso-publico-com-salarios-de-ate-7430)
+- **Cargos:** Analista Administrativo, Técnico em Informática
+- **Órgão/Local:** São Paulo
+- **Salário máx.:** R$ 7.430,61
+- **Encerramento:** 15/06/2026
+
+### Câmara de Salesópolis
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-salesopolis-sp-abre-concurso-publico-com-salarios-de-ate-7847)
+- **Cargos:** Assistente Administrativo, Técnico em Informática
+- **Órgão/Local:** São Paulo
+- **Salário máx.:** R$ 7.847,87
+- **Encerramento:** 29/06/2026
 
 ---
 
