@@ -1,15 +1,22 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 04/06/2026_
+_Atualizado em 05/06/2026_
 
-Total: **7** concursos encontrados.
+Total: **9** concursos encontrados.
 
 ---
 
-## Estrategia (1)
+## Estrategia (2)
 
 ### Prefeitura de Sao Paulo
 [🔗 Edital](https://www.exemplo.com/concurso/edital)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+### Prefeitura de Sao Paulo
+[🔗 Edital](https://www.estrategiaconcursos.com.br/por-concursos)
 - **Cargos:** Analista de Sistemas, Professor de Ingles
 - **Órgão/Local:** SP, Sao Paulo - SP
 - **Salário máx.:** R$ 5.000,00
@@ -33,6 +40,17 @@ Total: **7** concursos encontrados.
 ### UFRGS
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1274-062026ufrgs)
 - **Cargos:** ANALISTA DE TI I (Cibersegurança), BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Análise de Metabólitos), BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Citogenética), BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Erros Inatos do Metabolismo), ENFERMEIRO I (Enfermeiro do Trabalho), ENFERMEIRO I (Internação Clínica Adulto), ENFERMEIRO I (Internação Cirúrgica Adulto), MÉDICO I (Emergência Adulto), MÉDICO I (Geriatria), MÉDICO I (Neurofisiologia Clínica), MÉDICO I (Pediatria), MÉDICO I (Pneumologia: Polissonografia), MÉDICO I (Transplante Hepático), NUTRICIONISTA I (Atenção Básica), ASSISTENTE ADMINISTRATIVO I (Vigilante), TÉCNICO DE ENFERMAGEM (Centro Obstétrico e Internação Obstétrica), TÉCNICO DE LABORATÓRIO (Diagnóstico Laboratorial), TÉCNICO EM SAÚDE BUCAL
+
+---
+
+## IPPEC (1)
+
+### Prefeitura de Sao Paulo
+[🔗 Edital](https://ippec.org.br/concurso/edital)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
 
 ---
 

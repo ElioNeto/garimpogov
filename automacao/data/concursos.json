@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-04T11:16:54.830842+00:00",
-    "total_concursos": 107
+    "ultima_coleta": "2026-06-05T11:40:50.301133+00:00",
+    "total_concursos": 115
   },
   "concursos": [
     {
@@ -1547,6 +1547,126 @@
       "fonte": "PCI",
       "id": "2fb0ab52-9523-4f2e-bdb6-2b762cefcf35",
       "data_coleta": "2026-06-04T11:16:54.830798+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Sao Paulo",
+      "orgao": "SP, Sao Paulo - SP",
+      "cargos": [
+        "Analista de Sistemas",
+        "Professor de Ingles"
+      ],
+      "salario_maximo": "R$ 5.000,00",
+      "link_edital": "https://www.estrategiaconcursos.com.br/por-concursos",
+      "data_encerramento": "30/06/2026",
+      "data_publicacao": "01/06/2026",
+      "status": "aberto",
+      "fonte": "Estrategia",
+      "id": "e384c043-bb25-4cea-a07e-0956461f2d15",
+      "data_coleta": "2026-06-05T11:40:50.300954+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Sao Paulo",
+      "orgao": "SP, Sao Paulo - SP",
+      "cargos": [
+        "Analista de Sistemas",
+        "Professor de Ingles"
+      ],
+      "salario_maximo": "R$ 5.000,00",
+      "link_edital": "https://ippec.org.br/concurso/edital",
+      "data_encerramento": "30/06/2026",
+      "data_publicacao": "01/06/2026",
+      "status": "aberto",
+      "fonte": "IPPEC",
+      "id": "49b1c25b-de8c-4c2f-99b2-85bb832185ce",
+      "data_coleta": "2026-06-05T11:40:50.300997+00:00"
+    },
+    {
+      "instituicao": "Câmara Municipal de Governador Valadares",
+      "orgao": "Câmara Municipal de Governador Valadares",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br/concursos/govvaladares26",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-05",
+      "status": "aberto",
+      "fonte": "FGV",
+      "id": "46d8d99b-2e6c-4343-906c-d021ee80ca35",
+      "data_coleta": "2026-06-05T11:40:50.301009+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Jardinópolis",
+      "orgao": "SP",
+      "cargos": [
+        "Câmara de Arujá - SP"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jardinopolis-sp-abre-editais-de-concurso-publico-para-diversos-cargos",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "14c74d36-a88f-4e48-ab5a-1c79ee295e93",
+      "data_coleta": "2026-06-05T11:40:50.301063+00:00"
+    },
+    {
+      "instituicao": "Câmara de Seropédica",
+      "orgao": "MG",
+      "cargos": [
+        "Câmara de Seropédica"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cra-mg-publica-concurso-publico-com-salarios-de-ate-9-mil",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "cb100b2d-bd62-4f58-b1c9-a3d4c08f7e4e",
+      "data_coleta": "2026-06-05T11:40:50.301074+00:00"
+    },
+    {
+      "instituicao": "SECAEx",
+      "orgao": "CE",
+      "cargos": [
+        "Escola de Saúde e Formação Complementar do Exército"
+      ],
+      "salario_maximo": "180 vagas",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/efomm-marinha-mercante",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "5ef74383-258c-4f90-b7f2-ed9745d7f96a",
+      "data_coleta": "2026-06-05T11:40:50.301082+00:00"
+    },
+    {
+      "instituicao": "ITA",
+      "orgao": "ITA",
+      "cargos": [
+        "ITA"
+      ],
+      "salario_maximo": "200 vagas",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/ita-disponibiliza-centenas-de-vagas-para-curso-de-engenharia-em-diversas-especialidades-de-nivel-superior",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "047ce47f-0209-4d0d-a481-a7d9f0b0b47a",
+      "data_coleta": "2026-06-05T11:40:50.301090+00:00"
+    },
+    {
+      "instituicao": "Praça",
+      "orgao": "PB",
+      "cargos": [
+        "Praça"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-praça",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "aa02418d-a35e-497c-b658-99b1e1239e68",
+      "data_coleta": "2026-06-05T11:40:50.301099+00:00"
     }
   ]
 }

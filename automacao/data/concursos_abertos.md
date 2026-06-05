@@ -1,15 +1,22 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 04/06/2026_
+_Atualizado em 05/06/2026_
 
-Total: **107** concursos encontrados.
+Total: **115** concursos encontrados.
 
 ---
 
-## Estrategia (1)
+## Estrategia (2)
 
 ### Prefeitura de Sao Paulo
 [🔗 Edital](https://www.exemplo.com/concurso/edital)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+### Prefeitura de Sao Paulo
+[🔗 Edital](https://www.estrategiaconcursos.com.br/por-concursos)
 - **Cargos:** Analista de Sistemas, Professor de Ingles
 - **Órgão/Local:** SP, Sao Paulo - SP
 - **Salário máx.:** R$ 5.000,00
@@ -62,7 +69,7 @@ Total: **107** concursos encontrados.
 
 ---
 
-## FGV (40)
+## FGV (41)
 
 ### Concurso Público Nacional Unificado 2
 [🔗 Edital](https://conhecimento.fgv.br/cpnu2)
@@ -184,9 +191,24 @@ Total: **107** concursos encontrados.
 ### Concurso Público para o Corpo de Bombeiros Militar do Estado do Rio de Janeiro
 [🔗 Edital](https://conhecimento.fgv.br/concursos/cbmerj22)
 
+### Câmara Municipal de Governador Valadares
+[🔗 Edital](https://conhecimento.fgv.br/concursos/govvaladares26)
+- **Órgão/Local:** Câmara Municipal de Governador Valadares
+
 ---
 
-## PCI (57)
+## IPPEC (1)
+
+### Prefeitura de Sao Paulo
+[🔗 Edital](https://ippec.org.br/concurso/edital)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+---
+
+## PCI (62)
 
 ### Escolas de Formação de Oficiais da Marinha Mercante
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-processo-seletivo-com-vagas-para-a-escolas-de-formacao-de-oficiais-da-marinha-mercante)
@@ -485,6 +507,41 @@ Total: **107** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-seropedica-rj-reabre-inscricoes-para-concursos-publicos)
 - **Cargos:** Vereador, Secretário, Tesoureiro
 - **Órgão/Local:** RJ, Seropédica - RJ
+
+### Prefeitura de Jardinópolis
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-jardinopolis-sp-abre-editais-de-concurso-publico-para-diversos-cargos)
+- **Cargos:** Câmara de Arujá - SP
+- **Órgão/Local:** SP
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### Câmara de Seropédica
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cra-mg-publica-concurso-publico-com-salarios-de-ate-9-mil)
+- **Cargos:** Câmara de Seropédica
+- **Órgão/Local:** MG
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### SECAEx
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/efomm-marinha-mercante)
+- **Cargos:** Escola de Saúde e Formação Complementar do Exército
+- **Órgão/Local:** CE
+- **Salário máx.:** 180 vagas
+- **Encerramento:** N/A
+
+### ITA
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ita-disponibiliza-centenas-de-vagas-para-curso-de-engenharia-em-diversas-especialidades-de-nivel-superior)
+- **Cargos:** ITA
+- **Órgão/Local:** ITA
+- **Salário máx.:** 200 vagas
+- **Encerramento:** N/A
+
+### Praça
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-praça)
+- **Cargos:** Praça
+- **Órgão/Local:** PB
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
 
 ---
 
