@@ -1,8 +1,8 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 05/06/2026_
+_Atualizado em 06/06/2026_
 
-Total: **9** concursos encontrados.
+Total: **10** concursos encontrados.
 
 ---
 
@@ -54,7 +54,7 @@ Total: **9** concursos encontrados.
 
 ---
 
-## PCI (2)
+## PCI (3)
 
 ### Câmara de Holambra
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-holambra-sp-abre-concurso-publico-com-salarios-de-ate-7430)
@@ -69,6 +69,13 @@ Total: **9** concursos encontrados.
 - **Órgão/Local:** São Paulo
 - **Salário máx.:** R$ 7.847,87
 - **Encerramento:** 29/06/2026
+
+### Prefeitura de Sao Paulo
+[🔗 Edital](https://www.pciconcursos.com.br/)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
 
 ---
 

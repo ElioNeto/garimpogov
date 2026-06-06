@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-05T11:40:50.301133+00:00",
-    "total_concursos": 115
+    "ultima_coleta": "2026-06-06T10:24:26.698767+00:00",
+    "total_concursos": 117
   },
   "concursos": [
     {
@@ -1667,6 +1667,35 @@
       "fonte": "PCI",
       "id": "aa02418d-a35e-497c-b658-99b1e1239e68",
       "data_coleta": "2026-06-05T11:40:50.301099+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Sao Paulo",
+      "orgao": "SP",
+      "cargos": [
+        "Analista de Sistemas",
+        "Professor de Ingles"
+      ],
+      "salario_maximo": "R$ 5.000,00",
+      "link_edital": "https://www.pciconcursos.com.br/",
+      "data_encerramento": "30/06/2026",
+      "data_publicacao": "01/06/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "5d0cd12f-8851-412c-a03f-496f16bcdfa9",
+      "data_coleta": "2026-06-06T10:24:26.698703+00:00"
+    },
+    {
+      "instituicao": "CESAMA de Juiz de Fora - MG",
+      "orgao": "MG, Juiz de Fora - MG",
+      "cargos": [],
+      "salario_maximo": "R$ 9.000,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cesama-de-juiz-de-fora-mg-retifica-concurso-publico-com-salarios-de-ate-9-mil",
+      "data_encerramento": null,
+      "data_publicacao": "06/06/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "f722cc83-9d3c-430d-9ec5-4f6a4e68d16f",
+      "data_coleta": "2026-06-06T10:24:26.698740+00:00"
     }
   ]
 }

@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 05/06/2026_
+_Atualizado em 06/06/2026_
 
-Total: **115** concursos encontrados.
+Total: **117** concursos encontrados.
 
 ---
 
@@ -208,7 +208,7 @@ Total: **115** concursos encontrados.
 
 ---
 
-## PCI (62)
+## PCI (64)
 
 ### Escolas de Formação de Oficiais da Marinha Mercante
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-processo-seletivo-com-vagas-para-a-escolas-de-formacao-de-oficiais-da-marinha-mercante)
@@ -542,6 +542,18 @@ Total: **115** concursos encontrados.
 - **Órgão/Local:** PB
 - **Salário máx.:** N/A
 - **Encerramento:** N/A
+
+### Prefeitura de Sao Paulo
+[🔗 Edital](https://www.pciconcursos.com.br/)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+### CESAMA de Juiz de Fora - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cesama-de-juiz-de-fora-mg-retifica-concurso-publico-com-salarios-de-ate-9-mil)
+- **Órgão/Local:** MG, Juiz de Fora - MG
+- **Salário máx.:** R$ 9.000,00
 
 ---
 
