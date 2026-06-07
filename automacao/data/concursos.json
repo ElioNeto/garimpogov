@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-06T10:24:26.698767+00:00",
-    "total_concursos": 117
+    "ultima_coleta": "2026-06-07T10:39:51.542478+00:00",
+    "total_concursos": 124
   },
   "concursos": [
     {
@@ -1696,6 +1696,114 @@
       "fonte": "PCI",
       "id": "f722cc83-9d3c-430d-9ec5-4f6a4e68d16f",
       "data_coleta": "2026-06-06T10:24:26.698740+00:00"
+    },
+    {
+      "instituicao": "HOSPITAL DE CLÍNICAS DE PORTO ALEGRE",
+      "orgao": "HOSPITAL DE CLÍNICAS DE PORTO ALEGRE",
+      "cargos": [
+        "Analista de TI",
+        "Professor de Inglês",
+        "Especialista en Gestión"
+      ],
+      "salario_maximo": "R$ 5.000,00",
+      "link_edital": "https://portalfaurgs.com.br/concursos",
+      "data_publicacao": "01/2026",
+      "data_encerramento": "30/06/2026",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "100628c0-1180-4a14-a817-d6b92681365d",
+      "data_coleta": "2026-06-07T10:39:51.542354+00:00"
+    },
+    {
+      "instituicao": "Câmara de Seropédica",
+      "orgao": "RJ",
+      "cargos": [
+        "Câmara de Rio das Ostras"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-seropedica-rj-reabre-inscricoes-de-concurso-publico",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "643b5ce0-e6e1-46ee-b601-89dbc9619e61",
+      "data_coleta": "2026-06-07T10:39:51.542395+00:00"
+    },
+    {
+      "instituicao": "Câmara de Arujá",
+      "orgao": "RJ",
+      "cargos": [
+        "Câmara de Rio das Ostras"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-seropedica-rj-reabre-inscricoes-de-concurso-publico-com-salarios-de-ate-15-6-mil",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "966ee881-6d06-418e-917b-006c8db8648f",
+      "data_coleta": "2026-06-07T10:39:51.542405+00:00"
+    },
+    {
+      "instituicao": "Câmara de Rio das Ostras",
+      "orgao": "RJ",
+      "cargos": [
+        "Precita"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-das-ostras-rj-publica-retificacoes-de-concurso-publico",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "2b69ae7c-6634-45b2-8122-fb0e56cd19d5",
+      "data_coleta": "2026-06-07T10:39:51.542418+00:00"
+    },
+    {
+      "instituicao": "Câmara de Arujá",
+      "orgao": "SP",
+      "cargos": [
+        "SSPM",
+        "Marinha do Brasil"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/sspm-marinha-do-brasil-abre-concurso-com-440-vagas",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "178103cd-cd8f-4eda-9415-69e3cd875fe1",
+      "data_coleta": "2026-06-07T10:39:51.542425+00:00"
+    },
+    {
+      "instituicao": "Câmara de Rio das Ostras",
+      "orgao": "RJ",
+      "cargos": [
+        "Pirapora do Bom Jesus"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pouso-alegre-mg-retifica-concurso-publico-para-guarda-civil-municipal",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "def8dc49-44a3-44b2-bbac-b23b779f7b73",
+      "data_coleta": "2026-06-07T10:39:51.542433+00:00"
+    },
+    {
+      "instituicao": "MP-ES",
+      "orgao": "ES",
+      "cargos": [
+        "MP-ES"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/mp-es-publica-retificações-de-edital-de-co",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "13428d65-199e-4788-ab2b-71821bc3eb7d",
+      "data_coleta": "2026-06-07T10:39:51.542442+00:00"
     }
   ]
 }

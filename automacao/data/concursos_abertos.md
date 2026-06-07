@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 06/06/2026_
+_Atualizado em 07/06/2026_
 
-Total: **117** concursos encontrados.
+Total: **124** concursos encontrados.
 
 ---
 
@@ -24,7 +24,7 @@ Total: **117** concursos encontrados.
 
 ---
 
-## FAURGS (8)
+## FAURGS (9)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -66,6 +66,13 @@ Total: **117** concursos encontrados.
 ### TELESSAÚDE DA UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1272-042026telessaudedauniversidadefederaldoriograndedosul)
 - **Cargos:** Teleconsultor Medicina - Medicina de Família e Comunidade - Presencial, Teleconsultor Medicina - Urologia - Presencial, Teleconsultor Medicina - Gastroenterologia - Presencial, Teleconsultor Medicina - Dermatologia - Presencial, Teleconsultor Medicina - Pneumologia - Presencial
+
+### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
+[🔗 Edital](https://portalfaurgs.com.br/concursos)
+- **Cargos:** Analista de TI, Professor de Inglês, Especialista en Gestión
+- **Órgão/Local:** HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
 
 ---
 
@@ -208,7 +215,7 @@ Total: **117** concursos encontrados.
 
 ---
 
-## PCI (64)
+## PCI (70)
 
 ### Escolas de Formação de Oficiais da Marinha Mercante
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-processo-seletivo-com-vagas-para-a-escolas-de-formacao-de-oficiais-da-marinha-mercante)
@@ -554,6 +561,48 @@ Total: **117** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/cesama-de-juiz-de-fora-mg-retifica-concurso-publico-com-salarios-de-ate-9-mil)
 - **Órgão/Local:** MG, Juiz de Fora - MG
 - **Salário máx.:** R$ 9.000,00
+
+### Câmara de Seropédica
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-seropedica-rj-reabre-inscricoes-de-concurso-publico)
+- **Cargos:** Câmara de Rio das Ostras
+- **Órgão/Local:** RJ
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### Câmara de Arujá
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-seropedica-rj-reabre-inscricoes-de-concurso-publico-com-salarios-de-ate-15-6-mil)
+- **Cargos:** Câmara de Rio das Ostras
+- **Órgão/Local:** RJ
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### Câmara de Rio das Ostras
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-das-ostras-rj-publica-retificacoes-de-concurso-publico)
+- **Cargos:** Precita
+- **Órgão/Local:** RJ
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### Câmara de Arujá
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/sspm-marinha-do-brasil-abre-concurso-com-440-vagas)
+- **Cargos:** SSPM, Marinha do Brasil
+- **Órgão/Local:** SP
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### Câmara de Rio das Ostras
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-pouso-alegre-mg-retifica-concurso-publico-para-guarda-civil-municipal)
+- **Cargos:** Pirapora do Bom Jesus
+- **Órgão/Local:** RJ
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### MP-ES
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/mp-es-publica-retificações-de-edital-de-co)
+- **Cargos:** MP-ES
+- **Órgão/Local:** ES
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
 
 ---
 

@@ -1,8 +1,8 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 06/06/2026_
+_Atualizado em 07/06/2026_
 
-Total: **10** concursos encontrados.
+Total: **11** concursos encontrados.
 
 ---
 
@@ -24,7 +24,7 @@ Total: **10** concursos encontrados.
 
 ---
 
-## FAURGS (3)
+## FAURGS (4)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -40,6 +40,13 @@ Total: **10** concursos encontrados.
 ### UFRGS
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1274-062026ufrgs)
 - **Cargos:** ANALISTA DE TI I (Cibersegurança), BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Análise de Metabólitos), BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Citogenética), BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Erros Inatos do Metabolismo), ENFERMEIRO I (Enfermeiro do Trabalho), ENFERMEIRO I (Internação Clínica Adulto), ENFERMEIRO I (Internação Cirúrgica Adulto), MÉDICO I (Emergência Adulto), MÉDICO I (Geriatria), MÉDICO I (Neurofisiologia Clínica), MÉDICO I (Pediatria), MÉDICO I (Pneumologia: Polissonografia), MÉDICO I (Transplante Hepático), NUTRICIONISTA I (Atenção Básica), ASSISTENTE ADMINISTRATIVO I (Vigilante), TÉCNICO DE ENFERMAGEM (Centro Obstétrico e Internação Obstétrica), TÉCNICO DE LABORATÓRIO (Diagnóstico Laboratorial), TÉCNICO EM SAÚDE BUCAL
+
+### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
+[🔗 Edital](https://portalfaurgs.com.br/concursos)
+- **Cargos:** Analista de TI, Professor de Inglês, Especialista en Gestión
+- **Órgão/Local:** HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
 
 ---
 
