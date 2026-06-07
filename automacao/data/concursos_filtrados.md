@@ -2,7 +2,29 @@
 
 _Atualizado em 07/06/2026_
 
-Total: **11** concursos encontrados.
+Total: **14** concursos encontrados.
+
+---
+
+## AOCP (1)
+
+### Prefeitura de São Paulo
+[🔗 Edital](https://www.aocp.com.br/concurso)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+---
+
+## DOU (1)
+
+### Acessibilidade
+[🔗 Edital](https://www.gov.br/acessibilidade)
+- **Cargos:** Desenvolvedor de Acessibilidade
+- **Órgão/Local:** Acessibilidade
+- **Salário máx.:** R$ 8.000,00
+- **Encerramento:** 2023/06/30
 
 ---
 
@@ -86,12 +108,19 @@ Total: **11** concursos encontrados.
 
 ---
 
-## TecConcursos (1)
+## TecConcursos (2)
 
 ### Prefeitura de São Paulo
 [🔗 Edital](https://www.exemplo.com/concurso)
 - **Cargos:** Analista de Sistemas, Professor de Ingles
 - **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+### Prefeitura de São Paulo
+[🔗 Edital](https://www.tecconcursos.com.br/login?urlRetorno=aHR0cHM6Ly93d3cudGVjY29uY3Vyc29zLmNvbS5ici9jb25jdXJzb3M/cT1hbmFsaXN0YStkZStzaXN0ZW1hcw==)
+- **Cargos:** Analista de Sistemas, Professor de Inglês
+- **Órgão/Local:** SP, São Paulo - SP
 - **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
 
