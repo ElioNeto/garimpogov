@@ -87,6 +87,9 @@ PLACEHOLDER_PATTERNS = [
     r"url\s+completa",                     # URL completa
     r"local\s+\(ex:",                      # Local (ex: ...)
     r"v[áaã]rios\s+cargos",               # Vários / Varios / Vários Cargos
+    r"exemplo\.com",                       # https://www.exemplo.com/...
+    r"^https?://(www\.)?exemplo\.",        # URLs começando com exemplo.com
+    r"^(null|none|n/a|nao informado)$",    # Valores nulos/de texto vazio
 ]
 
 
