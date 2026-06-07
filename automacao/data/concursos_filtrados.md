@@ -2,7 +2,7 @@
 
 _Atualizado em 07/06/2026_
 
-Total: **14** concursos encontrados.
+Total: **13** concursos encontrados.
 
 ---
 
@@ -28,14 +28,7 @@ Total: **14** concursos encontrados.
 
 ---
 
-## Estrategia (2)
-
-### Prefeitura de Sao Paulo
-[🔗 Edital](https://www.exemplo.com/concurso/edital)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
+## Estrategia (1)
 
 ### Prefeitura de Sao Paulo
 [🔗 Edital](https://www.estrategiaconcursos.com.br/por-concursos)
@@ -111,16 +104,16 @@ Total: **14** concursos encontrados.
 ## TecConcursos (2)
 
 ### Prefeitura de São Paulo
-[🔗 Edital](https://www.exemplo.com/concurso)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
-### Prefeitura de São Paulo
 [🔗 Edital](https://www.tecconcursos.com.br/login?urlRetorno=aHR0cHM6Ly93d3cudGVjY29uY3Vyc29zLmNvbS5ici9jb25jdXJzb3M/cT1hbmFsaXN0YStkZStzaXN0ZW1hcw==)
 - **Cargos:** Analista de Sistemas, Professor de Inglês
 - **Órgão/Local:** SP, São Paulo - SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+### Prefeitura de Sao Paulo
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/estagiario-de-postgraduacao-agu/)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** SP, Sao Paulo - SP
 - **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
 

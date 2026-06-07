@@ -2,7 +2,7 @@
 
 _Atualizado em 07/06/2026_
 
-Total: **154** concursos encontrados.
+Total: **145** concursos encontrados.
 
 ---
 
@@ -35,14 +35,7 @@ Total: **154** concursos encontrados.
 
 ---
 
-## Estrategia (2)
-
-### Prefeitura de Sao Paulo
-[🔗 Edital](https://www.exemplo.com/concurso/edital)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
+## Estrategia (1)
 
 ### Prefeitura de Sao Paulo
 [🔗 Edital](https://www.estrategiaconcursos.com.br/por-concursos)
@@ -53,7 +46,7 @@ Total: **154** concursos encontrados.
 
 ---
 
-## FAURGS (9)
+## FAURGS (7)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -69,20 +62,6 @@ Total: **154** concursos encontrados.
 - **Órgão/Local:** SP, Sao Paulo - SP
 - **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
-
-### Portal do Bolsista
-[🔗 Edital](https://faurgs.any3.com.br/Portal/Aluno/Acesso)
-- **Cargos:** Concurso de Seleção, Processo Seletivo
-- **Órgão/Local:** https://faurgs.any3.com.br/Portal/Aluno/Acesso
-- **Salário máx.:** R$ 4.500,00
-- **Encerramento:** 15/04/2026
-
-### Portal do Coordenador
-[🔗 Edital](https://www.faurgs.com.br/Portal/Coordenador)
-- **Cargos:** Coordenador de Seleção, Assistente de Seleção
-- **Órgão/Local:** https://faurgs.any3.com.br/Portal/Coordenador
-- **Salário máx.:** R$ 2.200,00
-- **Encerramento:** 05/09/2024
 
 ### UFRGS
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1274-062026ufrgs)
@@ -244,14 +223,7 @@ Total: **154** concursos encontrados.
 
 ---
 
-## PCI (73)
-
-### Escolas de Formação de Oficiais da Marinha Mercante
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-processo-seletivo-com-vagas-para-a-escolas-de-formacao-de-oficiais-da-marinha-mercante)
-- **Cargos:** Aluno da EFOMM
-- **Órgão/Local:** Marinha do Brasil
-- **Salário máx.:** R$ 1.719,26
-- **Encerramento:** 02/06/2026
+## PCI (69)
 
 ### Associação das Pioneiras Sociais/Rede SARAH
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros)
@@ -266,12 +238,6 @@ Total: **154** concursos encontrados.
 - **Órgão/Local:** SP, São Paulo - SP
 - **Encerramento:** 02/07/2026
 
-### Instituto Chico Mendes de Conservação da Biodiversidade
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/icmbio-abre-selecao-para-agentes-temporarios-ambientais-nos-estados-de-sao-paulo-e-do-rio-de-janeiro)
-- **Cargos:** Agente Temporário Ambiental Nível I, Agente Temporário Ambiental Nível II
-- **Órgão/Local:** SP, São Paulo - SP
-- **Encerramento:** 03/06/2026
-
 ### Instituto Tecnológico de Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/ita-disponibiliza-centenas-de-vagas-para-curso-de-engenharia-em-diversas-especialidades)
 - **Cargos:** Aluno do Curso de Graduação em Engenharia do ITA
@@ -284,20 +250,6 @@ Total: **154** concursos encontrados.
 - **Órgão/Local:** SP, São Paulo - SP
 - **Salário máx.:** R$ 1.544,62
 - **Encerramento:** 12/06/2026
-
-### Conselho de Arquitetura e Urbanismo de São Paulo
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/cau-sp-abre-concurso-publico-com-vagas-para-assistentes-e-analistas-tecnicos)
-- **Cargos:** Assistente Técnico, Analista Técnico I, Analista Técnico II
-- **Órgão/Local:** SP, São Paulo - SP
-- **Salário máx.:** R$ 10.046,54
-- **Encerramento:** 03/06/2026
-
-### Prefeitura de Guarulhos
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-guarulhos-sp-abre-novos-concursos-para-cargos-de-nivel-superior)
-- **Cargos:** Agente de Fiscalização, Professor de Educação Infantil
-- **Órgão/Local:** SP, São Paulo - SP
-- **Salário máx.:** R$ 3.791,98
-- **Encerramento:** 02/06/2026
 
 ### Secretaria da Educação do Estado de São Paulo
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/seduc-sp-aberta-selecao-para-professores-da-rede-estadual-com-salario-de-5565)
@@ -525,13 +477,6 @@ Total: **154** concursos encontrados.
 - **Salário máx.:** R$ 7.430,61
 - **Encerramento:** 15/06/2026
 
-### Câmara de Presidente Prudente
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-presidente-prudente-sp-retifica-edital-de-concurso-publico)
-- **Cargos:** Assistente Legislativo de Contabilidade, Técnico Legislativo, Controlador Interno
-- **Órgão/Local:** São Paulo
-- **Salário máx.:** R$ 22.010,63
-- **Encerramento:** 24/05/2026
-
 ### Câmara de Salesópolis
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-salesopolis-sp-abre-concurso-publico-com-salarios-de-ate-7847)
 - **Cargos:** Assistente Administrativo, Técnico em Informática
@@ -648,28 +593,16 @@ Total: **154** concursos encontrados.
 - **Cargos:** Guarda Civil Municipal
 - **Órgão/Local:** MG, Minas Gerais - MG
 
+### CESAMA de Juiz de Fora
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cesama-de-juiz-de-fora-mg-retifica-concurso-publico-com-salarios-de-ate-15-mil)
+- **Cargos:** CEA de Juiz de Fora
+- **Órgão/Local:** MG
+- **Salário máx.:** R$ 9.000,00
+- **Encerramento:** N/A
+
 ---
 
-## TecConcursos (25)
-
-### Prefeitura de São Paulo
-[🔗 Edital](https://www.exemplo.com/concurso)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
-### Advocacia Geral da União
-[🔗 Edital](https://www.cebraspe.org.br/concursos/agu_26_estagiario)
-- **Cargos:** Estagiário de Pós-Graduação em Direito (AGU) /2026
-- **Órgão/Local:** Federal
-- **Encerramento:** 17/05/2026
-
-### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
-[🔗 Edital](https://www.cebraspe.org.br/concursos/AGSUS_26_UGP_UAC)
-- **Cargos:** Agente de Projeto (AgSUS)/2026 - Administrativo, Agente de Projeto (AgSUS)/2026 - Cotação de Preços, Agente de Projeto (AgSUS)/2026 - Cotação de Preços em Obras e Serviços de Engenharia, Agente de Projeto (AgSUS)/2026 - Dados, Agente de Projeto (AgSUS)/2026 - Elaboração Contratual, Agente de Projeto (AgSUS)/2026 - Licitações e Serviços Terceirizados, Agente de Projeto (AgSUS)/2026 - 'Sem Área', Agente de Projeto (AgSUS)/2026 - 'Sem Área', Agente de Projeto (AgSUS)/2026 - 'Sem Área', Agente de Projeto (AgSUS)/2026 - 'Sem Área', Assistente de Projeto (AgSUS)/2026 - 'Administração, Recursos Humanos ou áreas afins', Assistente de Projeto (AgSUS)/2026 - Cotação de Preços, Assistente de Projeto (AgSUS)/2026 - Cotação de Preços em Obras e Serviços de Engenharia, Assistente de Projeto (AgSUS)/2026 - Dados, Assistente de Projeto (AgSUS)/2026 - 'Direito', Assistente de Projeto (AgSUS)/2026 - Elaboração Contratual, Assistente de Projeto (AgSUS)/2026 - Enfermagem do Trabalho, Assistente de Projeto (AgSUS)/2026 - Enfermeiro do Trabalho, Assistente de Projeto (AgSUS)/2026 - I
-- **Órgão/Local:** Federal
-- **Encerramento:** 18/03/2026
+## TecConcursos (23)
 
 ### Prefeitura de São Paulo
 [🔗 Edital](https://www.tecconcursos.com.br/login?urlRetorno=aHR0cHM6Ly93d3cudGVjY29uY3Vyc29zLmNvbS5ici9jb25jdXJzb3M/cT1hbmFsaXN0YStkZStzaXN0ZW1hcw==)
@@ -678,110 +611,116 @@ Total: **154** concursos encontrados.
 - **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
 
-### Advocacia Geral da União
-[🔗 Edital](https://www.tecconcursos.com.br/concursos/estagiario-de-posgraduacao-em-direito-agu-2026)
-- **Cargos:** Estagiário de Pós-Graduação em Direito (AGU) /2026
-- **Órgão/Local:** Federal
-- **Encerramento:** 17/05/2026
-
-### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
-[🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-administrativo-2026-cargo-22)
-- **Órgão/Local:** Federal
-- **Encerramento:** 18/03/2026
-
 ### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-cotacao-de-precos-2026-cargo-23)
-- **Órgão/Local:** Federal
-- **Encerramento:** 18/03/2026
+- **Cargos:** Agente de Projeto, Assistente de Projeto
+- **Órgão/Local:** AgSUS
 
 ### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-cotacao-de-precos-em-obras-e-servicos-de-engenharia-2026-cargo-24)
-- **Órgão/Local:** Federal
-- **Encerramento:** 18/03/2026
+- **Cargos:** Agente de Projeto, Assistente de Projeto
+- **Órgão/Local:** AgSUS
 
 ### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-dados-2026-cargo-25)
-- **Órgão/Local:** Federal
-- **Encerramento:** 18/03/2026
+- **Cargos:** Agente de Projeto, Assistente de Projeto
+- **Órgão/Local:** AgSUS
 
 ### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-elaboracao-contratual-2026-cargo-26)
-- **Órgão/Local:** Federal
-- **Encerramento:** 18/03/2026
+- **Cargos:** Agente de Projeto, Assistente de Projeto
+- **Órgão/Local:** AgSUS
 
 ### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-licitacoes-e-servicos-terceirizados-2026-cargo-27)
-- **Órgão/Local:** Federal
-- **Encerramento:** 18/03/2026
+- **Cargos:** Agente de Projeto, Assistente de Projeto
+- **Órgão/Local:** AgSUS
 
 ### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-sem-area-2026-cargo-18)
-- **Órgão/Local:** Federal
-- **Encerramento:** 18/03/2026
+- **Cargos:** Agente de Projeto, Assistente de Projeto
+- **Órgão/Local:** AgSUS
 
 ### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-sem-area-2026-cargo-19)
-- **Órgão/Local:** Federal
-- **Encerramento:** 18/03/2026
+- **Cargos:** Agente de Projeto, Assistente de Projeto
+- **Órgão/Local:** AgSUS
 
 ### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-sem-area-2026-cargo-20)
-- **Órgão/Local:** Federal
-- **Encerramento:** 18/03/2026
+- **Cargos:** Agente de Projeto, Assistente de Projeto
+- **Órgão/Local:** AgSUS
 
 ### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-sem-area-2026-cargo-21)
-- **Órgão/Local:** Federal
-- **Encerramento:** 18/03/2026
+- **Cargos:** Agente de Projeto, Assistente de Projeto
+- **Órgão/Local:** AgSUS
 
 ### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-administracao-recursos-humanos-ou-areas-afins-2026-cargo-11)
-- **Órgão/Local:** Federal
-- **Encerramento:** 18/03/2026
+- **Cargos:** Agente de Projeto, Assistente de Projeto
+- **Órgão/Local:** AgSUS
 
 ### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-cotacao-de-precos-2026-cargo-13)
-- **Órgão/Local:** Federal
-- **Encerramento:** 18/03/2026
+- **Cargos:** Agente de Projeto, Assistente de Projeto
+- **Órgão/Local:** AgSUS
 
 ### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-cotacao-de-precos-em-obras-e-servicos-de-engenharia-2026-cargo-14)
-- **Órgão/Local:** Federal
-- **Encerramento:** 18/03/2026
+- **Cargos:** Agente de Projeto, Assistente de Projeto
+- **Órgão/Local:** AgSUS
 
 ### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-dados-2026-cargo-15)
-- **Órgão/Local:** Federal
-- **Encerramento:** 18/03/2026
+- **Cargos:** Agente de Projeto, Assistente de Projeto
+- **Órgão/Local:** AgSUS
 
 ### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-direito-2026-cargo-3)
-- **Órgão/Local:** Federal
-- **Encerramento:** 18/03/2026
+- **Cargos:** Agente de Projeto, Assistente de Projeto
+- **Órgão/Local:** AgSUS
 
 ### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-elaboracao-contratual-2026-cargo-16)
-- **Órgão/Local:** Federal
-- **Encerramento:** 18/03/2026
+- **Cargos:** Agente de Projeto, Assistente de Projeto
+- **Órgão/Local:** AgSUS
 
 ### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-enfermagem-do-trabalho-2026-cargo-12)
-- **Órgão/Local:** Federal
-- **Encerramento:** 18/03/2026
+- **Cargos:** Agente de Projeto, Assistente de Projeto
+- **Órgão/Local:** AgSUS
 
 ### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-enfermeiro-do-trabalho-2026-cargo-10)
-- **Órgão/Local:** Federal
-- **Encerramento:** 18/03/2026
+- **Cargos:** Agente de Projeto, Assistente de Projeto
+- **Órgão/Local:** AgSUS
 
 ### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-i-2026-cargo-7)
-- **Órgão/Local:** Federal
-- **Encerramento:** 18/03/2026
+- **Cargos:** Agente de Projeto, Assistente de Projeto
+- **Órgão/Local:** AgSUS
 
 ### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-ii-2026-cargo-8)
-- **Órgão/Local:** Federal
-- **Encerramento:** 18/03/2026
+- **Cargos:** Agente de Projeto, Assistente de Projeto
+- **Órgão/Local:** AgSUS
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-indigena-2026-cargo-4)
+- **Cargos:** Agente de Projeto, Assistente de Projeto
+- **Órgão/Local:** AgSUS
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-licitacoes-e-servicos-tercerizados-2026-cargo-17)
+- **Cargos:** Agente de Projeto, Assistente de Projeto
+- **Órgão/Local:** AgSUS
+
+### Prefeitura de Sao Paulo
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/estagiario-de-postgraduacao-agu/)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
 
 ---

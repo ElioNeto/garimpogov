@@ -1,25 +1,9 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-07T18:52:30.846719+00:00",
-    "total_concursos": 154
+    "ultima_coleta": "2026-06-07T19:28:52.161154+00:00",
+    "total_concursos": 145
   },
   "concursos": [
-    {
-      "instituicao": "Prefeitura de Sao Paulo",
-      "orgao": "SP, Sao Paulo - SP",
-      "cargos": [
-        "Analista de Sistemas",
-        "Professor de Ingles"
-      ],
-      "salario_maximo": "R$ 5.000,00",
-      "link_edital": "https://www.exemplo.com/concurso/edital",
-      "data_encerramento": "30/06/2026",
-      "data_publicacao": "01/06/2026",
-      "status": "aberto",
-      "fonte": "Estrategia",
-      "id": "b9c77404-4e55-44d8-b2a7-8bdcf36e6442",
-      "data_coleta": "2026-06-02T21:53:50.370090+00:00"
-    },
     {
       "instituicao": "Concurso Público Nacional Unificado 2",
       "orgao": null,
@@ -616,53 +600,6 @@
       "data_coleta": "2026-06-02T21:53:50.370513+00:00"
     },
     {
-      "instituicao": "Portal do Bolsista",
-      "orgao": "https://faurgs.any3.com.br/Portal/Aluno/Acesso",
-      "cargos": [
-        "Concurso de Seleção",
-        "Processo Seletivo"
-      ],
-      "salario_maximo": "R$ 4.500,00",
-      "link_edital": "https://faurgs.any3.com.br/Portal/Aluno/Acesso",
-      "data_encerramento": "15/04/2026",
-      "data_publicacao": "20/03/2026",
-      "status": "aberto",
-      "fonte": "FAURGS",
-      "id": "4de2e43f-8473-4397-824b-08bdd5257fb2",
-      "data_coleta": "2026-06-02T21:53:50.370519+00:00"
-    },
-    {
-      "instituicao": "Portal do Coordenador",
-      "orgao": "https://faurgs.any3.com.br/Portal/Coordenador",
-      "cargos": [
-        "Coordenador de Seleção",
-        "Assistente de Seleção"
-      ],
-      "salario_maximo": "R$ 2.200,00",
-      "link_edital": "https://www.faurgs.com.br/Portal/Coordenador",
-      "data_encerramento": "05/09/2024",
-      "data_publicacao": "18/09/2024",
-      "status": "fechado",
-      "fonte": "FAURGS",
-      "id": "83e5a249-2d4a-4da7-9707-aa62f9d60cc3",
-      "data_coleta": "2026-06-02T21:53:50.370531+00:00"
-    },
-    {
-      "instituicao": "Escolas de Formação de Oficiais da Marinha Mercante",
-      "orgao": "Marinha do Brasil",
-      "cargos": [
-        "Aluno da EFOMM"
-      ],
-      "salario_maximo": "R$ 1.719,26",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-processo-seletivo-com-vagas-para-a-escolas-de-formacao-de-oficiais-da-marinha-mercante",
-      "data_encerramento": "02/06/2026",
-      "data_publicacao": "2026-06-02",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "aced5f58-97fa-45d5-a274-0591d127564a",
-      "data_coleta": "2026-06-02T21:53:50.370540+00:00"
-    },
-    {
       "instituicao": "Associação das Pioneiras Sociais/Rede SARAH",
       "orgao": "SP, São Paulo - SP",
       "cargos": [
@@ -693,22 +630,6 @@
       "data_coleta": "2026-06-02T21:53:50.370555+00:00"
     },
     {
-      "instituicao": "Instituto Chico Mendes de Conservação da Biodiversidade",
-      "orgao": "SP, São Paulo - SP",
-      "cargos": [
-        "Agente Temporário Ambiental Nível I",
-        "Agente Temporário Ambiental Nível II"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://www.pciconcursos.com.br/noticias/icmbio-abre-selecao-para-agentes-temporarios-ambientais-nos-estados-de-sao-paulo-e-do-rio-de-janeiro",
-      "data_encerramento": "03/06/2026",
-      "data_publicacao": "2026-06-02",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "0dc8ed14-3f88-4284-940a-e06d536b6547",
-      "data_coleta": "2026-06-02T21:53:50.370561+00:00"
-    },
-    {
       "instituicao": "Instituto Tecnológico de Aeronáutica",
       "orgao": "SP, São Paulo - SP",
       "cargos": [
@@ -737,39 +658,6 @@
       "fonte": "PCI",
       "id": "a5241c78-9bb4-44c2-b10c-20416dbc3808",
       "data_coleta": "2026-06-02T21:53:50.370578+00:00"
-    },
-    {
-      "instituicao": "Conselho de Arquitetura e Urbanismo de São Paulo",
-      "orgao": "SP, São Paulo - SP",
-      "cargos": [
-        "Assistente Técnico",
-        "Analista Técnico I",
-        "Analista Técnico II"
-      ],
-      "salario_maximo": "R$ 10.046,54",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/cau-sp-abre-concurso-publico-com-vagas-para-assistentes-e-analistas-tecnicos",
-      "data_encerramento": "03/06/2026",
-      "data_publicacao": "2026-06-02",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "d2eada5d-aecc-4c6a-b3af-b5a521d563bd",
-      "data_coleta": "2026-06-02T21:53:50.370586+00:00"
-    },
-    {
-      "instituicao": "Prefeitura de Guarulhos",
-      "orgao": "SP, São Paulo - SP",
-      "cargos": [
-        "Agente de Fiscalização",
-        "Professor de Educação Infantil"
-      ],
-      "salario_maximo": "R$ 3.791,98",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guarulhos-sp-abre-novos-concursos-para-cargos-de-nivel-superior",
-      "data_encerramento": "02/06/2026",
-      "data_publicacao": "2026-06-02",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "23a619d1-da25-45b1-8509-625d126c45bc",
-      "data_coleta": "2026-06-02T21:53:50.370595+00:00"
     },
     {
       "instituicao": "Secretaria da Educação do Estado de São Paulo",
@@ -1250,22 +1138,6 @@
       "data_coleta": "2026-06-02T21:53:50.370903+00:00"
     },
     {
-      "instituicao": "Prefeitura de São Paulo",
-      "orgao": "SP, Sao Paulo - SP",
-      "cargos": [
-        "Analista de Sistemas",
-        "Professor de Ingles"
-      ],
-      "salario_maximo": "R$ 5.000,00",
-      "link_edital": "https://www.exemplo.com/concurso",
-      "data_encerramento": "30/06/2026",
-      "data_publicacao": "01/06/2026",
-      "status": "aberto",
-      "fonte": "TecConcursos",
-      "id": "0c674a54-1a00-47a6-aac8-b9c77e376296",
-      "data_coleta": "2026-06-03T13:02:37.218606+00:00"
-    },
-    {
       "instituicao": "UFRGS",
       "orgao": null,
       "cargos": [
@@ -1497,23 +1369,6 @@
       "fonte": "PCI",
       "id": "f8e8a719-8eff-480a-90c3-99fd3ed57b35",
       "data_coleta": "2026-06-04T11:16:54.830751+00:00"
-    },
-    {
-      "instituicao": "Câmara de Presidente Prudente",
-      "orgao": "São Paulo",
-      "cargos": [
-        "Assistente Legislativo de Contabilidade",
-        "Técnico Legislativo",
-        "Controlador Interno"
-      ],
-      "salario_maximo": "R$ 22.010,63",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-presidente-prudente-sp-retifica-edital-de-concurso-publico",
-      "data_encerramento": "24/05/2026",
-      "data_publicacao": "2026-06-04",
-      "status": "prorrogado",
-      "fonte": "PCI",
-      "id": "b60512f4-ce1c-450e-87e4-d23f3a06c863",
-      "data_coleta": "2026-06-04T11:16:54.830764+00:00"
     },
     {
       "instituicao": "Câmara de Salesópolis",
@@ -1897,54 +1752,6 @@
       "data_publicacao": "2026-06-07"
     },
     {
-      "instituicao": "Advocacia Geral da União",
-      "orgao": "Federal",
-      "cargos": [
-        "Estagiário de Pós-Graduação em Direito (AGU) /2026"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://www.cebraspe.org.br/concursos/agu_26_estagiario",
-      "data_encerramento": "17/05/2026",
-      "data_publicacao": "2026-06-07",
-      "status": "aberto",
-      "fonte": "TecConcursos",
-      "id": "f5f83f65-c0fe-4ae9-a445-8c5de6c628c4",
-      "data_coleta": "2026-06-07T18:52:30.846502+00:00"
-    },
-    {
-      "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
-      "orgao": "Federal",
-      "cargos": [
-        "Agente de Projeto (AgSUS)/2026 - Administrativo",
-        "Agente de Projeto (AgSUS)/2026 - Cotação de Preços",
-        "Agente de Projeto (AgSUS)/2026 - Cotação de Preços em Obras e Serviços de Engenharia",
-        "Agente de Projeto (AgSUS)/2026 - Dados",
-        "Agente de Projeto (AgSUS)/2026 - Elaboração Contratual",
-        "Agente de Projeto (AgSUS)/2026 - Licitações e Serviços Terceirizados",
-        "Agente de Projeto (AgSUS)/2026 - 'Sem Área'",
-        "Agente de Projeto (AgSUS)/2026 - 'Sem Área'",
-        "Agente de Projeto (AgSUS)/2026 - 'Sem Área'",
-        "Agente de Projeto (AgSUS)/2026 - 'Sem Área'",
-        "Assistente de Projeto (AgSUS)/2026 - 'Administração, Recursos Humanos ou áreas afins'",
-        "Assistente de Projeto (AgSUS)/2026 - Cotação de Preços",
-        "Assistente de Projeto (AgSUS)/2026 - Cotação de Preços em Obras e Serviços de Engenharia",
-        "Assistente de Projeto (AgSUS)/2026 - Dados",
-        "Assistente de Projeto (AgSUS)/2026 - 'Direito'",
-        "Assistente de Projeto (AgSUS)/2026 - Elaboração Contratual",
-        "Assistente de Projeto (AgSUS)/2026 - Enfermagem do Trabalho",
-        "Assistente de Projeto (AgSUS)/2026 - Enfermeiro do Trabalho",
-        "Assistente de Projeto (AgSUS)/2026 - I"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://www.cebraspe.org.br/concursos/AGSUS_26_UGP_UAC",
-      "data_encerramento": "18/03/2026",
-      "data_publicacao": "2026-06-07",
-      "status": "aberto",
-      "fonte": "TecConcursos",
-      "id": "aa3269bf-c47f-4946-aa4f-4e5d79a77683",
-      "data_coleta": "2026-06-07T18:52:30.846513+00:00"
-    },
-    {
       "instituicao": "Prefeitura de São Paulo",
       "orgao": "SP, São Paulo - SP",
       "cargos": [
@@ -1962,279 +1769,371 @@
       "data_coleta": "2026-06-07T18:52:30.846523+00:00"
     },
     {
-      "instituicao": "Advocacia Geral da União",
-      "orgao": "Federal",
+      "instituicao": "CESAMA de Juiz de Fora",
+      "orgao": "MG",
       "cargos": [
-        "Estagiário de Pós-Graduação em Direito (AGU) /2026"
+        "CEA de Juiz de Fora"
+      ],
+      "salario_maximo": "R$ 9.000,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cesama-de-juiz-de-fora-mg-retifica-concurso-publico-com-salarios-de-ate-15-mil",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "d1bc2d7c-636d-4ecd-acc4-2d253eeb17bf",
+      "data_coleta": "2026-06-07T19:28:52.160106+00:00"
+    },
+    {
+      "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
+      "orgao": "AgSUS",
+      "cargos": [
+        "Agente de Projeto",
+        "Assistente de Projeto"
       ],
       "salario_maximo": null,
-      "link_edital": "https://www.tecconcursos.com.br/concursos/estagiario-de-posgraduacao-em-direito-agu-2026",
-      "data_encerramento": "17/05/2026",
-      "data_publicacao": "2026-06-07",
-      "status": "aberto",
-      "fonte": "TecConcursos",
-      "id": "434d5c92-255d-42af-a2dc-81f24d115128",
-      "data_coleta": "2026-06-07T18:52:30.846529+00:00"
-    },
-    {
-      "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
-      "orgao": "Federal",
-      "cargos": [],
-      "salario_maximo": null,
-      "link_edital": "https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-administrativo-2026-cargo-22",
-      "data_encerramento": "18/03/2026",
-      "data_publicacao": "2026-06-07",
-      "status": "aberto",
-      "fonte": "TecConcursos",
-      "id": "fe63d1fd-ae6b-4bb1-9eb8-297912327f01",
-      "data_coleta": "2026-06-07T18:52:30.846538+00:00"
-    },
-    {
-      "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
-      "orgao": "Federal",
-      "cargos": [],
-      "salario_maximo": null,
       "link_edital": "https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-cotacao-de-precos-2026-cargo-23",
-      "data_encerramento": "18/03/2026",
+      "data_encerramento": null,
       "data_publicacao": "2026-06-07",
       "status": "aberto",
       "fonte": "TecConcursos",
-      "id": "0fbd26ff-667c-42a9-92d4-daa3d8407143",
-      "data_coleta": "2026-06-07T18:52:30.846548+00:00"
+      "id": "65e5e968-dc57-4ce8-b787-d96805c039d4",
+      "data_coleta": "2026-06-07T19:28:52.160643+00:00"
     },
     {
       "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
-      "orgao": "Federal",
-      "cargos": [],
+      "orgao": "AgSUS",
+      "cargos": [
+        "Agente de Projeto",
+        "Assistente de Projeto"
+      ],
       "salario_maximo": null,
       "link_edital": "https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-cotacao-de-precos-em-obras-e-servicos-de-engenharia-2026-cargo-24",
-      "data_encerramento": "18/03/2026",
+      "data_encerramento": null,
       "data_publicacao": "2026-06-07",
       "status": "aberto",
       "fonte": "TecConcursos",
-      "id": "60cf23a0-e9b6-463f-9639-86290044cc57",
-      "data_coleta": "2026-06-07T18:52:30.846557+00:00"
+      "id": "7b815923-8a1a-448b-8691-a5f118dfa382",
+      "data_coleta": "2026-06-07T19:28:52.160677+00:00"
     },
     {
       "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
-      "orgao": "Federal",
-      "cargos": [],
+      "orgao": "AgSUS",
+      "cargos": [
+        "Agente de Projeto",
+        "Assistente de Projeto"
+      ],
       "salario_maximo": null,
       "link_edital": "https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-dados-2026-cargo-25",
-      "data_encerramento": "18/03/2026",
+      "data_encerramento": null,
       "data_publicacao": "2026-06-07",
       "status": "aberto",
       "fonte": "TecConcursos",
-      "id": "67005b36-8fa8-4ea9-ae7b-ad28467bf9df",
-      "data_coleta": "2026-06-07T18:52:30.846565+00:00"
+      "id": "27013d80-5a5a-4cb1-b890-3022d9e51db6",
+      "data_coleta": "2026-06-07T19:28:52.160703+00:00"
     },
     {
       "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
-      "orgao": "Federal",
-      "cargos": [],
+      "orgao": "AgSUS",
+      "cargos": [
+        "Agente de Projeto",
+        "Assistente de Projeto"
+      ],
       "salario_maximo": null,
       "link_edital": "https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-elaboracao-contratual-2026-cargo-26",
-      "data_encerramento": "18/03/2026",
+      "data_encerramento": null,
       "data_publicacao": "2026-06-07",
       "status": "aberto",
       "fonte": "TecConcursos",
-      "id": "d88e0190-728f-48b4-bbbc-ddd50bc4869c",
-      "data_coleta": "2026-06-07T18:52:30.846573+00:00"
+      "id": "0293ffb5-3333-4ade-8587-cdf86e23de3a",
+      "data_coleta": "2026-06-07T19:28:52.160725+00:00"
     },
     {
       "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
-      "orgao": "Federal",
-      "cargos": [],
+      "orgao": "AgSUS",
+      "cargos": [
+        "Agente de Projeto",
+        "Assistente de Projeto"
+      ],
       "salario_maximo": null,
       "link_edital": "https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-licitacoes-e-servicos-terceirizados-2026-cargo-27",
-      "data_encerramento": "18/03/2026",
+      "data_encerramento": null,
       "data_publicacao": "2026-06-07",
       "status": "aberto",
       "fonte": "TecConcursos",
-      "id": "e6596cd4-1ccb-407f-ab35-84633a85e6fc",
-      "data_coleta": "2026-06-07T18:52:30.846581+00:00"
+      "id": "762c2290-e147-4cc4-aab0-b0a71feb1844",
+      "data_coleta": "2026-06-07T19:28:52.160747+00:00"
     },
     {
       "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
-      "orgao": "Federal",
-      "cargos": [],
+      "orgao": "AgSUS",
+      "cargos": [
+        "Agente de Projeto",
+        "Assistente de Projeto"
+      ],
       "salario_maximo": null,
       "link_edital": "https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-sem-area-2026-cargo-18",
-      "data_encerramento": "18/03/2026",
+      "data_encerramento": null,
       "data_publicacao": "2026-06-07",
       "status": "aberto",
       "fonte": "TecConcursos",
-      "id": "94466e9f-938a-483f-b7da-ca63b519de11",
-      "data_coleta": "2026-06-07T18:52:30.846589+00:00"
+      "id": "de11cc6b-8053-484d-af87-f4bc70269552",
+      "data_coleta": "2026-06-07T19:28:52.160768+00:00"
     },
     {
       "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
-      "orgao": "Federal",
-      "cargos": [],
+      "orgao": "AgSUS",
+      "cargos": [
+        "Agente de Projeto",
+        "Assistente de Projeto"
+      ],
       "salario_maximo": null,
       "link_edital": "https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-sem-area-2026-cargo-19",
-      "data_encerramento": "18/03/2026",
+      "data_encerramento": null,
       "data_publicacao": "2026-06-07",
       "status": "aberto",
       "fonte": "TecConcursos",
-      "id": "a133f7f4-708d-4919-8ed3-6d063070a275",
-      "data_coleta": "2026-06-07T18:52:30.846597+00:00"
+      "id": "53bd7eca-8a32-41ff-b4fd-9b973bb18ef4",
+      "data_coleta": "2026-06-07T19:28:52.160790+00:00"
     },
     {
       "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
-      "orgao": "Federal",
-      "cargos": [],
+      "orgao": "AgSUS",
+      "cargos": [
+        "Agente de Projeto",
+        "Assistente de Projeto"
+      ],
       "salario_maximo": null,
       "link_edital": "https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-sem-area-2026-cargo-20",
-      "data_encerramento": "18/03/2026",
+      "data_encerramento": null,
       "data_publicacao": "2026-06-07",
       "status": "aberto",
       "fonte": "TecConcursos",
-      "id": "31dcae83-86d4-4353-901f-4eb5d0e9686a",
-      "data_coleta": "2026-06-07T18:52:30.846605+00:00"
+      "id": "ee8723ec-9368-4eb1-86a9-f03ed71f2245",
+      "data_coleta": "2026-06-07T19:28:52.160810+00:00"
     },
     {
       "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
-      "orgao": "Federal",
-      "cargos": [],
+      "orgao": "AgSUS",
+      "cargos": [
+        "Agente de Projeto",
+        "Assistente de Projeto"
+      ],
       "salario_maximo": null,
       "link_edital": "https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-sem-area-2026-cargo-21",
-      "data_encerramento": "18/03/2026",
+      "data_encerramento": null,
       "data_publicacao": "2026-06-07",
       "status": "aberto",
       "fonte": "TecConcursos",
-      "id": "cff29cd6-0c74-45a7-81ef-69b24692abad",
-      "data_coleta": "2026-06-07T18:52:30.846612+00:00"
+      "id": "38f7239a-e8f6-455e-a9e1-0dc3e5cdbbbc",
+      "data_coleta": "2026-06-07T19:28:52.160830+00:00"
     },
     {
       "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
-      "orgao": "Federal",
-      "cargos": [],
+      "orgao": "AgSUS",
+      "cargos": [
+        "Agente de Projeto",
+        "Assistente de Projeto"
+      ],
       "salario_maximo": null,
       "link_edital": "https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-administracao-recursos-humanos-ou-areas-afins-2026-cargo-11",
-      "data_encerramento": "18/03/2026",
+      "data_encerramento": null,
       "data_publicacao": "2026-06-07",
       "status": "aberto",
       "fonte": "TecConcursos",
-      "id": "7b3f7e90-b1e9-4cdb-8a97-967cf9b77d89",
-      "data_coleta": "2026-06-07T18:52:30.846620+00:00"
+      "id": "258bf2fc-f1eb-4b8c-96b9-aaf7e474e5b5",
+      "data_coleta": "2026-06-07T19:28:52.160849+00:00"
     },
     {
       "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
-      "orgao": "Federal",
-      "cargos": [],
+      "orgao": "AgSUS",
+      "cargos": [
+        "Agente de Projeto",
+        "Assistente de Projeto"
+      ],
       "salario_maximo": null,
       "link_edital": "https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-cotacao-de-precos-2026-cargo-13",
-      "data_encerramento": "18/03/2026",
+      "data_encerramento": null,
       "data_publicacao": "2026-06-07",
       "status": "aberto",
       "fonte": "TecConcursos",
-      "id": "a9e7be1f-1100-4104-a61d-c4b1049beadf",
-      "data_coleta": "2026-06-07T18:52:30.846628+00:00"
+      "id": "5bf34a1c-d049-44d9-88b6-6bbb2a5d862b",
+      "data_coleta": "2026-06-07T19:28:52.160868+00:00"
     },
     {
       "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
-      "orgao": "Federal",
-      "cargos": [],
+      "orgao": "AgSUS",
+      "cargos": [
+        "Agente de Projeto",
+        "Assistente de Projeto"
+      ],
       "salario_maximo": null,
       "link_edital": "https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-cotacao-de-precos-em-obras-e-servicos-de-engenharia-2026-cargo-14",
-      "data_encerramento": "18/03/2026",
+      "data_encerramento": null,
       "data_publicacao": "2026-06-07",
       "status": "aberto",
       "fonte": "TecConcursos",
-      "id": "bf5216cf-c9d1-428b-ab1e-f5698fd77bf1",
-      "data_coleta": "2026-06-07T18:52:30.846636+00:00"
+      "id": "085332f9-4757-4c44-abff-e8c857a3a17f",
+      "data_coleta": "2026-06-07T19:28:52.160887+00:00"
     },
     {
       "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
-      "orgao": "Federal",
-      "cargos": [],
+      "orgao": "AgSUS",
+      "cargos": [
+        "Agente de Projeto",
+        "Assistente de Projeto"
+      ],
       "salario_maximo": null,
       "link_edital": "https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-dados-2026-cargo-15",
-      "data_encerramento": "18/03/2026",
+      "data_encerramento": null,
       "data_publicacao": "2026-06-07",
       "status": "aberto",
       "fonte": "TecConcursos",
-      "id": "2cda1f81-1548-48d2-8854-4acbcc76c378",
-      "data_coleta": "2026-06-07T18:52:30.846643+00:00"
+      "id": "5ad8e0af-4922-475c-8e44-8baa024f38e4",
+      "data_coleta": "2026-06-07T19:28:52.160905+00:00"
     },
     {
       "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
-      "orgao": "Federal",
-      "cargos": [],
+      "orgao": "AgSUS",
+      "cargos": [
+        "Agente de Projeto",
+        "Assistente de Projeto"
+      ],
       "salario_maximo": null,
       "link_edital": "https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-direito-2026-cargo-3",
-      "data_encerramento": "18/03/2026",
+      "data_encerramento": null,
       "data_publicacao": "2026-06-07",
       "status": "aberto",
       "fonte": "TecConcursos",
-      "id": "55ae8100-63f6-444a-9905-0d083aca523f",
-      "data_coleta": "2026-06-07T18:52:30.846651+00:00"
+      "id": "6da212cc-55ce-4aeb-8502-c2ac475f66e5",
+      "data_coleta": "2026-06-07T19:28:52.160923+00:00"
     },
     {
       "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
-      "orgao": "Federal",
-      "cargos": [],
+      "orgao": "AgSUS",
+      "cargos": [
+        "Agente de Projeto",
+        "Assistente de Projeto"
+      ],
       "salario_maximo": null,
       "link_edital": "https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-elaboracao-contratual-2026-cargo-16",
-      "data_encerramento": "18/03/2026",
+      "data_encerramento": null,
       "data_publicacao": "2026-06-07",
       "status": "aberto",
       "fonte": "TecConcursos",
-      "id": "00af1d31-a253-4f0d-b3f9-ce5958eeaecf",
-      "data_coleta": "2026-06-07T18:52:30.846661+00:00"
+      "id": "71647e36-6ce1-4d85-8c10-346cf45db80e",
+      "data_coleta": "2026-06-07T19:28:52.160941+00:00"
     },
     {
       "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
-      "orgao": "Federal",
-      "cargos": [],
+      "orgao": "AgSUS",
+      "cargos": [
+        "Agente de Projeto",
+        "Assistente de Projeto"
+      ],
       "salario_maximo": null,
       "link_edital": "https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-enfermagem-do-trabalho-2026-cargo-12",
-      "data_encerramento": "18/03/2026",
+      "data_encerramento": null,
       "data_publicacao": "2026-06-07",
       "status": "aberto",
       "fonte": "TecConcursos",
-      "id": "47773e2a-66d1-4fcd-881e-db3729cddcb4",
-      "data_coleta": "2026-06-07T18:52:30.846670+00:00"
+      "id": "797a7dbc-aa78-4304-8ff0-40aa9b937299",
+      "data_coleta": "2026-06-07T19:28:52.160959+00:00"
     },
     {
       "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
-      "orgao": "Federal",
-      "cargos": [],
+      "orgao": "AgSUS",
+      "cargos": [
+        "Agente de Projeto",
+        "Assistente de Projeto"
+      ],
       "salario_maximo": null,
       "link_edital": "https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-enfermeiro-do-trabalho-2026-cargo-10",
-      "data_encerramento": "18/03/2026",
+      "data_encerramento": null,
       "data_publicacao": "2026-06-07",
       "status": "aberto",
       "fonte": "TecConcursos",
-      "id": "0b989135-fccc-4215-a631-9474b4a74259",
-      "data_coleta": "2026-06-07T18:52:30.846679+00:00"
+      "id": "9df2d1b4-dd70-4026-bfdb-367b6fe2f79a",
+      "data_coleta": "2026-06-07T19:28:52.160976+00:00"
     },
     {
       "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
-      "orgao": "Federal",
-      "cargos": [],
+      "orgao": "AgSUS",
+      "cargos": [
+        "Agente de Projeto",
+        "Assistente de Projeto"
+      ],
       "salario_maximo": null,
       "link_edital": "https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-i-2026-cargo-7",
-      "data_encerramento": "18/03/2026",
+      "data_encerramento": null,
       "data_publicacao": "2026-06-07",
       "status": "aberto",
       "fonte": "TecConcursos",
-      "id": "a3ae31ac-b9c9-4534-b1e9-d362b777bafc",
-      "data_coleta": "2026-06-07T18:52:30.846687+00:00"
+      "id": "f9ce9c41-74d0-48d8-a460-43866f09b6a0",
+      "data_coleta": "2026-06-07T19:28:52.160994+00:00"
     },
     {
       "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
-      "orgao": "Federal",
-      "cargos": [],
+      "orgao": "AgSUS",
+      "cargos": [
+        "Agente de Projeto",
+        "Assistente de Projeto"
+      ],
       "salario_maximo": null,
       "link_edital": "https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-ii-2026-cargo-8",
-      "data_encerramento": "18/03/2026",
+      "data_encerramento": null,
       "data_publicacao": "2026-06-07",
       "status": "aberto",
       "fonte": "TecConcursos",
-      "id": "e392af3d-b7fb-4d80-8245-197097ccdc74",
-      "data_coleta": "2026-06-07T18:52:30.846695+00:00"
+      "id": "99198ab1-f7c0-488b-9be9-38772e37fa7c",
+      "data_coleta": "2026-06-07T19:28:52.161012+00:00"
+    },
+    {
+      "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
+      "orgao": "AgSUS",
+      "cargos": [
+        "Agente de Projeto",
+        "Assistente de Projeto"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-indigena-2026-cargo-4",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-07",
+      "status": "aberto",
+      "fonte": "TecConcursos",
+      "id": "e700b68e-05e2-493c-8943-6c6e68b57faf",
+      "data_coleta": "2026-06-07T19:28:52.161029+00:00"
+    },
+    {
+      "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
+      "orgao": "AgSUS",
+      "cargos": [
+        "Agente de Projeto",
+        "Assistente de Projeto"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-licitacoes-e-servicos-tercerizados-2026-cargo-17",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-07",
+      "status": "aberto",
+      "fonte": "TecConcursos",
+      "id": "cd61ae1e-fd03-4cb4-91df-18d090051294",
+      "data_coleta": "2026-06-07T19:28:52.161047+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Sao Paulo",
+      "orgao": "SP, Sao Paulo - SP",
+      "cargos": [
+        "Analista de Sistemas",
+        "Professor de Ingles"
+      ],
+      "salario_maximo": "R$ 5.000,00",
+      "link_edital": "https://www.tecconcursos.com.br/concursos/estagiario-de-postgraduacao-agu/",
+      "data_encerramento": "30/06/2026",
+      "data_publicacao": "01/06/2026",
+      "status": "aberto",
+      "fonte": "TecConcursos",
+      "id": "a6692517-3a27-4159-9adc-e29ae174b0aa",
+      "data_coleta": "2026-06-07T19:28:52.161124+00:00"
     }
   ]
 }
