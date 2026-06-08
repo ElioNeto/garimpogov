@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 07/06/2026_
+_Atualizado em 08/06/2026_
 
-Total: **145** concursos encontrados.
+Total: **168** concursos encontrados.
 
 ---
 
@@ -46,7 +46,7 @@ Total: **145** concursos encontrados.
 
 ---
 
-## FAURGS (7)
+## FAURGS (12)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -81,6 +81,31 @@ Total: **145** concursos encontrados.
 - **Órgão/Local:** HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 - **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
+
+### BANRISUL
+[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1274-062026ufrgs)
+- **Cargos:** C. 01 - Teleconsultor Medicina - Medicina de Família e Comunidade - Presencial, C. 02 - Teleconsultor Medicina - Urologia - Presencial, C. 03 - Teleconsultor Medicina - Gastroenterologia - Presencial, C. 04 - Teleconsultor Medicina - Dermatologia - Presencial, C. 05 - Teleconsultor Medicina - Pneumologia - Presencial
+- **Órgão/Local:** BANRISUL
+
+### UFRGS/CECLIMAR
+[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1273-052026ufrgs)
+- **Cargos:** C01. Auxiliar de Monitoramento – Imbé, C02. Auxiliar de Monitoramento – Torres, C03. Tratador Auxiliar de Animais Marinhos - Imbé
+- **Órgão/Local:** UFRGS/CECLIMAR
+
+### TELESSAÚDE DA UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1272-042026telessaudedauniversidadefederaldoriograndedosul)
+- **Cargos:** C. 01 - Teleconsultor Medicina - Medicina de Família e Comunidade - Presencial, C. 02 - Teleconsultor Medicina - Urologia - Presencial, C. 03 - Teleconsultor Medicina - Gastroenterologia - Presencial, C. 04 - Teleconsultor Medicina - Dermatologia - Presencial, C. 05 - Teleconsultor Medicina - Pneumologia - Presencial
+- **Órgão/Local:** TELESSAÚDE DA UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+
+### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
+[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
+- **Cargos:** PS 01 - ANALISTA DE TI I (Cibersegurança), PS 02 - BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Análise de Metabólitos), PS 03 - BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Citogenética), PS 04 - BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Erros Inatos do Metabolismo), PS 05 - ENFERMEIRO I (Enfermeiro do Trabalho), PS 06 - ENFERMEIRO I (Internação Clínica Adulto), PS 07 - ENFERMEIRO I (Internação Cirúrgica Adulto ), PS 08 - MÉDICO I (Emergência Adulto), PS 09 - MÉDICO I (Geriatria), PS 10 - MÉDICO I (Neurofisiologia Clínica), PS 11 - MÉDICO I (Pediatria), PS 12 - MÉDICO I (Pneumologia: Polissonografia), PS 13 - MÉDICO I (Transplante Hepático), PS 14 - NUTRICIONISTA I (Atenção Básica), PS 15 - ASSISTENTE ADMINISTRATIVO I (Vigilante), PS 16 - TÉCNICO DE ENFERMAGEM (Centro Obstétrico e Internação Obstétrica), PS 17 - TÉCNICO DE LABORATÓRIO (Diagnóstico Laboratorial), PS 18 - TÉCNICO EM SAÚDE BUCAL
+- **Órgão/Local:** HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
+
+### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
+[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/259-062025hospitaldeclinicasdeportoalegre)
+- **Cargos:** PS 63 - ANALISTA I (Coordenadoria de Gestão dos Negócios Assistenciais), PS 64 - BIÓLOGO I, BIOMÉDICO I OU FARMACÊUTICO-BIOQUÍMICO I (Hemoterapia), PS 65 - ENFERMEIRO I (Obstetrícia), PS 66 - FARMACÊUTICO-BIOQUÍMICO I (Farmácia Hospitalar), PS 67 - FÍSICO I (Medicina Nuclear), PS 68 - FÍSICO I (Radiodiagnóstico), PS 69 - MÉDICO I (Neurologia: Demências e Doenças Neurodegenerativas), PS 70 - MÉDICO I (Oncologia), PS 71 - TÉCNICO DE ENFERMAGEM (Internação Clínica Adulto), PS 72 - TÉCNICO DE ENFERMAGEM (Internação Cirúrgica Adulto), PS 73 - TÉCNICO DE ENFERMAGEM (Saúde Mental), PS 74 - TÉCNICO EM MANUTENÇÃO III (Equipamentos Eletromédicos), PS 75 - TÉCNICO EM RADIOLOGIA (Radioterapia)
+- **Órgão/Local:** HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 
 ---
 
@@ -223,7 +248,7 @@ Total: **145** concursos encontrados.
 
 ---
 
-## PCI (69)
+## PCI (85)
 
 ### Associação das Pioneiras Sociais/Rede SARAH
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros)
@@ -257,13 +282,6 @@ Total: **145** concursos encontrados.
 - **Órgão/Local:** SP, São Paulo - SP
 - **Salário máx.:** R$ 5.565,00
 - **Encerramento:** 18/06/2026
-
-### Caixa de Saúde e Pecúlio dos Servidores Municipais de São Vicente
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/caixa-de-saude-de-sao-vicente-sp-abre-concurso-para-cargos-de-nivel-superior)
-- **Cargos:** Assistente Social, Contador, Enfermeiro Auditor
-- **Órgão/Local:** SP, São Vicente - SP
-- **Salário máx.:** R$ 6.811,67
-- **Encerramento:** 08/06/2026
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -600,9 +618,126 @@ Total: **145** concursos encontrados.
 - **Salário máx.:** R$ 9.000,00
 - **Encerramento:** N/A
 
+### Prefeitura de Bragança Paulista
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-aruja-sp)
+- **Cargos:** Fundamental, Médio, Técnico, Superior
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 7.318,27
+- **Encerramento:** 13/07/2026
+
+### Prefeitura de Pirapora do Bom Jesus
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/pirapora-do-bom-jesus-sp)
+- **Cargos:** Fundamental, Médio, Superior
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 5.200,00
+- **Encerramento:** 06/07/2026
+
+### SEDUC - Secretaria da Educação do Estado de São Paulo
+[🔗 Edital](https://www.pciconcursos.com.br/apostilas/seduc-sp)
+- **Cargos:** Professora de Ensino Fundamental, Professora de Ensino Médio
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 5.565,00
+- **Encerramento:** 18/06/2026
+
+### AME - Ambulatório Médico de Especialidades de Limeira
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/caixa-de-saude-de-sao-vicente-sp)
+- **Cargos:** Telefonista
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 2.018,54
+- **Encerramento:** 19/06/2026
+
+### Câmara de Holambra
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-holambra-sp)
+- **Cargos:** Fundamental, Médio, Superior
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 7.430,61
+- **Encerramento:** 15/06/2026
+
+### Câmara de Salesópolis
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-salesopolis-sp)
+- **Cargos:** Fundamental, Médio, Superior
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 7.847,87
+- **Encerramento:** 29/06/2026
+
+### MP-ES
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/mp-es-publica-retificacoes-de-edital-de-concurs)
+- **Cargos:** Promotor de Justiça, Assessor Técnico, Contador
+- **Órgão/Local:** Ministério Público do Espírito Santo
+
+### Marinha do Brasil
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-concurso)
+- **Cargos:** Corpo Auxiliar de Praças
+- **Órgão/Local:** SP
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### Instituto Militar de Engenharia
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/instituto-militar-de-engenharia-abre-concurso)
+- **Cargos:** Engenheiros
+- **Órgão/Local:** MG
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### IME
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ime-abre-concursos)
+- **Cargos:** Cursos de formação com 100 vagas
+- **Órgão/Local:** MG
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### ESFCEx - BA
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/esfcex-ba-selecao-para-oficiais-oferece-vagas)
+- **Cargos:** Oficiais, Oficiais
+- **Órgão/Local:** BA: Seleção para Oficiais
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### Prefeitura de Jardinópolis - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-jardinopolis-abre-concurso)
+- **Cargos:** Cargos diversos
+- **Órgão/Local:** SP
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### Câmara de Arujá - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-aruja-abre-concurso)
+- **Cargos:** Cargos diversos
+- **Órgão/Local:** SP
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### Câmara de Rio das Ostras - RJ
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/rio-das-ostras-rj-publica-retificacoes-de-concurso-publico)
+- **Cargos:** Concurso para diversos cargos
+- **Órgão/Local:** RJ
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### Praça
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/pirapora-do-bom-jesus-abre-edais-de-concurso)
+- **Cargos:** Praças
+- **Órgão/Local:** SP
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### Prefeitura de Paracatu - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-paracatu-abre-concurso-publico-com-40-vagas)
+- **Cargos:** Guarda Civil Municipal
+- **Órgão/Local:** MG
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### Prefeitura de Pouso Alegre - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-pouso-alegre-mg-retifica-edital-de-concurso)
+- **Cargos:** Guarda Civil Municipal
+- **Órgão/Local:** MG
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
 ---
 
-## TecConcursos (23)
+## TecConcursos (25)
 
 ### Prefeitura de São Paulo
 [🔗 Edital](https://www.tecconcursos.com.br/login?urlRetorno=aHR0cHM6Ly93d3cudGVjY29uY3Vyc29zLmNvbS5ici9jb25jdXJzb3M/cT1hbmFsaXN0YStkZStzaXN0ZW1hcw==)
@@ -722,5 +857,13 @@ Total: **145** concursos encontrados.
 - **Órgão/Local:** SP, Sao Paulo - SP
 - **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-administrativo-2026-cargo-22)
+- **Órgão/Local:** AgSUS
+
+### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-ii-20)
+- **Órgão/Local:** AgSUS
 
 ---

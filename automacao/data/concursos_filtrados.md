@@ -1,8 +1,8 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 07/06/2026_
+_Atualizado em 08/06/2026_
 
-Total: **13** concursos encontrados.
+Total: **14** concursos encontrados.
 
 ---
 
@@ -39,7 +39,7 @@ Total: **13** concursos encontrados.
 
 ---
 
-## FAURGS (4)
+## FAURGS (5)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -62,6 +62,11 @@ Total: **13** concursos encontrados.
 - **Órgão/Local:** HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 - **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
+
+### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
+[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
+- **Cargos:** PS 01 - ANALISTA DE TI I (Cibersegurança), PS 02 - BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Análise de Metabólitos), PS 03 - BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Citogenética), PS 04 - BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Erros Inatos do Metabolismo), PS 05 - ENFERMEIRO I (Enfermeiro do Trabalho), PS 06 - ENFERMEIRO I (Internação Clínica Adulto), PS 07 - ENFERMEIRO I (Internação Cirúrgica Adulto ), PS 08 - MÉDICO I (Emergência Adulto), PS 09 - MÉDICO I (Geriatria), PS 10 - MÉDICO I (Neurofisiologia Clínica), PS 11 - MÉDICO I (Pediatria), PS 12 - MÉDICO I (Pneumologia: Polissonografia), PS 13 - MÉDICO I (Transplante Hepático), PS 14 - NUTRICIONISTA I (Atenção Básica), PS 15 - ASSISTENTE ADMINISTRATIVO I (Vigilante), PS 16 - TÉCNICO DE ENFERMAGEM (Centro Obstétrico e Internação Obstétrica), PS 17 - TÉCNICO DE LABORATÓRIO (Diagnóstico Laboratorial), PS 18 - TÉCNICO EM SAÚDE BUCAL
+- **Órgão/Local:** HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 
 ---
 

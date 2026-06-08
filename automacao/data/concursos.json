@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-07T19:28:52.161154+00:00",
-    "total_concursos": 145
+    "ultima_coleta": "2026-06-08T13:01:08.243694+00:00",
+    "total_concursos": 168
   },
   "concursos": [
     {
@@ -673,23 +673,6 @@
       "fonte": "PCI",
       "id": "0919bb74-097e-4251-abff-cc5f9c981909",
       "data_coleta": "2026-06-02T21:53:50.370604+00:00"
-    },
-    {
-      "instituicao": "Caixa de Saúde e Pecúlio dos Servidores Municipais de São Vicente",
-      "orgao": "SP, São Vicente - SP",
-      "cargos": [
-        "Assistente Social",
-        "Contador",
-        "Enfermeiro Auditor"
-      ],
-      "salario_maximo": "R$ 6.811,67",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/caixa-de-saude-de-sao-vicente-sp-abre-concurso-para-cargos-de-nivel-superior",
-      "data_encerramento": "08/06/2026",
-      "data_publicacao": "2026-06-02",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "f713e4e1-5ec2-44bf-b3b3-5375af43fbd3",
-      "data_coleta": "2026-06-02T21:53:50.370612+00:00"
     },
     {
       "instituicao": "Comando da Aeronáutica",
@@ -2134,6 +2117,420 @@
       "fonte": "TecConcursos",
       "id": "a6692517-3a27-4159-9adc-e29ae174b0aa",
       "data_coleta": "2026-06-07T19:28:52.161124+00:00"
+    },
+    {
+      "instituicao": "BANRISUL",
+      "orgao": "BANRISUL",
+      "cargos": [
+        "C. 01 - Teleconsultor Medicina - Medicina de Família e Comunidade - Presencial",
+        "C. 02 - Teleconsultor Medicina - Urologia - Presencial",
+        "C. 03 - Teleconsultor Medicina - Gastroenterologia - Presencial",
+        "C. 04 - Teleconsultor Medicina - Dermatologia - Presencial",
+        "C. 05 - Teleconsultor Medicina - Pneumologia - Presencial"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/1274-062026ufrgs",
+      "data_encerramento": null,
+      "data_publicacao": "01/2026",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "4e29a4bd-2f5b-473f-8126-c1370b323698",
+      "data_coleta": "2026-06-08T13:01:08.242225+00:00"
+    },
+    {
+      "instituicao": "UFRGS/CECLIMAR",
+      "orgao": "UFRGS/CECLIMAR",
+      "cargos": [
+        "C01. Auxiliar de Monitoramento – Imbé",
+        "C02. Auxiliar de Monitoramento – Torres",
+        "C03. Tratador Auxiliar de Animais Marinhos - Imbé"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/1273-052026ufrgs",
+      "data_encerramento": null,
+      "data_publicacao": "04/2026",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "3926e40d-674e-41d9-b6d6-53832679207b",
+      "data_coleta": "2026-06-08T13:01:08.242254+00:00"
+    },
+    {
+      "instituicao": "TELESSAÚDE DA UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL",
+      "orgao": "TELESSAÚDE DA UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL",
+      "cargos": [
+        "C. 01 - Teleconsultor Medicina - Medicina de Família e Comunidade - Presencial",
+        "C. 02 - Teleconsultor Medicina - Urologia - Presencial",
+        "C. 03 - Teleconsultor Medicina - Gastroenterologia - Presencial",
+        "C. 04 - Teleconsultor Medicina - Dermatologia - Presencial",
+        "C. 05 - Teleconsultor Medicina - Pneumologia - Presencial"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/1272-042026telessaudedauniversidadefederaldoriograndedosul",
+      "data_encerramento": null,
+      "data_publicacao": "05/2026",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "86a998e0-b2e9-4a5e-8ed9-13e863432372",
+      "data_coleta": "2026-06-08T13:01:08.242276+00:00"
+    },
+    {
+      "instituicao": "HOSPITAL DE CLÍNICAS DE PORTO ALEGRE",
+      "orgao": "HOSPITAL DE CLÍNICAS DE PORTO ALEGRE",
+      "cargos": [
+        "PS 01 - ANALISTA DE TI I (Cibersegurança)",
+        "PS 02 - BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Análise de Metabólitos)",
+        "PS 03 - BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Citogenética)",
+        "PS 04 - BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Erros Inatos do Metabolismo)",
+        "PS 05 - ENFERMEIRO I (Enfermeiro do Trabalho)",
+        "PS 06 - ENFERMEIRO I (Internação Clínica Adulto)",
+        "PS 07 - ENFERMEIRO I (Internação Cirúrgica Adulto )",
+        "PS 08 - MÉDICO I (Emergência Adulto)",
+        "PS 09 - MÉDICO I (Geriatria)",
+        "PS 10 - MÉDICO I (Neurofisiologia Clínica)",
+        "PS 11 - MÉDICO I (Pediatria)",
+        "PS 12 - MÉDICO I (Pneumologia: Polissonografia)",
+        "PS 13 - MÉDICO I (Transplante Hepático)",
+        "PS 14 - NUTRICIONISTA I (Atenção Básica)",
+        "PS 15 - ASSISTENTE ADMINISTRATIVO I (Vigilante)",
+        "PS 16 - TÉCNICO DE ENFERMAGEM (Centro Obstétrico e Internação Obstétrica)",
+        "PS 17 - TÉCNICO DE LABORATÓRIO (Diagnóstico Laboratorial)",
+        "PS 18 - TÉCNICO EM SAÚDE BUCAL"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre",
+      "data_encerramento": null,
+      "data_publicacao": "06/2025",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "2a7bb545-c2dc-42c7-9ded-5a32698c2519",
+      "data_coleta": "2026-06-08T13:01:08.242315+00:00"
+    },
+    {
+      "instituicao": "HOSPITAL DE CLÍNICAS DE PORTO ALEGRE",
+      "orgao": "HOSPITAL DE CLÍNICAS DE PORTO ALEGRE",
+      "cargos": [
+        "PS 63 - ANALISTA I (Coordenadoria de Gestão dos Negócios Assistenciais)",
+        "PS 64 - BIÓLOGO I, BIOMÉDICO I OU FARMACÊUTICO-BIOQUÍMICO I (Hemoterapia)",
+        "PS 65 - ENFERMEIRO I (Obstetrícia)",
+        "PS 66 - FARMACÊUTICO-BIOQUÍMICO I (Farmácia Hospitalar)",
+        "PS 67 - FÍSICO I (Medicina Nuclear)",
+        "PS 68 - FÍSICO I (Radiodiagnóstico)",
+        "PS 69 - MÉDICO I (Neurologia: Demências e Doenças Neurodegenerativas)",
+        "PS 70 - MÉDICO I (Oncologia)",
+        "PS 71 - TÉCNICO DE ENFERMAGEM (Internação Clínica Adulto)",
+        "PS 72 - TÉCNICO DE ENFERMAGEM (Internação Cirúrgica Adulto)",
+        "PS 73 - TÉCNICO DE ENFERMAGEM (Saúde Mental)",
+        "PS 74 - TÉCNICO EM MANUTENÇÃO III (Equipamentos Eletromédicos)",
+        "PS 75 - TÉCNICO EM RADIOLOGIA (Radioterapia)"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/259-062025hospitaldeclinicasdeportoalegre",
+      "data_encerramento": null,
+      "data_publicacao": "06/2026",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "b8582b3a-8cfe-4fa7-a3dc-98a0c2c134ae",
+      "data_coleta": "2026-06-08T13:01:08.242342+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Bragança Paulista",
+      "orgao": "SP",
+      "cargos": [
+        "Fundamental",
+        "Médio",
+        "Técnico",
+        "Superior"
+      ],
+      "salario_maximo": "R$ 7.318,27",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-aruja-sp",
+      "data_encerramento": "13/07/2026",
+      "data_publicacao": "11/06/2026",
+      "status": "aberto",
+      "local": "Brasília",
+      "fonte": "PCI",
+      "id": "4bc45553-8a7b-4023-bf60-7f4b1d464040",
+      "data_coleta": "2026-06-08T13:01:08.242383+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Pirapora do Bom Jesus",
+      "orgao": "SP",
+      "cargos": [
+        "Fundamental",
+        "Médio",
+        "Superior"
+      ],
+      "salario_maximo": "R$ 5.200,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/pirapora-do-bom-jesus-sp",
+      "data_encerramento": "06/07/2026",
+      "data_publicacao": "11/06/2026",
+      "status": "aberto",
+      "local": "Pirapora",
+      "fonte": "PCI",
+      "id": "de696330-d5ac-40d2-b587-f489616e01b1",
+      "data_coleta": "2026-06-08T13:01:08.242442+00:00"
+    },
+    {
+      "instituicao": "SEDUC - Secretaria da Educação do Estado de São Paulo",
+      "orgao": "SP",
+      "cargos": [
+        "Professora de Ensino Fundamental",
+        "Professora de Ensino Médio"
+      ],
+      "salario_maximo": "R$ 5.565,00",
+      "link_edital": "https://www.pciconcursos.com.br/apostilas/seduc-sp",
+      "data_encerramento": "18/06/2026",
+      "data_publicacao": "09/06/2026",
+      "status": "aberto",
+      "local": "São Paulo",
+      "fonte": "PCI",
+      "id": "7afe2bea-44ba-423b-b41d-a0cded523fa3",
+      "data_coleta": "2026-06-08T13:01:08.242466+00:00"
+    },
+    {
+      "instituicao": "AME - Ambulatório Médico de Especialidades de Limeira",
+      "orgao": "SP",
+      "cargos": [
+        "Telefonista"
+      ],
+      "salario_maximo": "R$ 2.018,54",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/caixa-de-saude-de-sao-vicente-sp",
+      "data_encerramento": "19/06/2026",
+      "data_publicacao": "19/06/2026",
+      "status": "aberto",
+      "local": "Limeira",
+      "fonte": "PCI",
+      "id": "bf401d75-fd46-40a3-96c2-762aff62fb74",
+      "data_coleta": "2026-06-08T13:01:08.242487+00:00"
+    },
+    {
+      "instituicao": "Câmara de Holambra",
+      "orgao": "SP",
+      "cargos": [
+        "Fundamental",
+        "Médio",
+        "Superior"
+      ],
+      "salario_maximo": "R$ 7.430,61",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-holambra-sp",
+      "data_encerramento": "15/06/2026",
+      "data_publicacao": "05/06/2026",
+      "status": "aberto",
+      "local": "Holambra",
+      "fonte": "PCI",
+      "id": "7eb710d1-6608-494c-9f09-45406587a179",
+      "data_coleta": "2026-06-08T13:01:08.242508+00:00"
+    },
+    {
+      "instituicao": "Câmara de Salesópolis",
+      "orgao": "SP",
+      "cargos": [
+        "Fundamental",
+        "Médio",
+        "Superior"
+      ],
+      "salario_maximo": "R$ 7.847,87",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-salesopolis-sp",
+      "data_encerramento": "29/06/2026",
+      "data_publicacao": "29/06/2026",
+      "status": "aberto",
+      "local": "Salesópolis",
+      "fonte": "PCI",
+      "id": "637488b9-ddf9-4586-a95b-374c23b51ebd",
+      "data_coleta": "2026-06-08T13:01:08.242549+00:00"
+    },
+    {
+      "instituicao": "MP-ES",
+      "orgao": "Ministério Público do Espírito Santo",
+      "cargos": [
+        "Promotor de Justiça",
+        "Assessor Técnico",
+        "Contador"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/mp-es-publica-retificacoes-de-edital-de-concurs",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-08",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "08731f38-19d9-4027-a154-331f43c49dd5",
+      "data_coleta": "2026-06-08T13:01:08.242858+00:00"
+    },
+    {
+      "instituicao": "Marinha do Brasil",
+      "orgao": "SP",
+      "cargos": [
+        "Corpo Auxiliar de Praças"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-concurso",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "09c5c5c6-9f49-4db7-835d-a1ddd4ed8f7b",
+      "data_coleta": "2026-06-08T13:01:08.243003+00:00"
+    },
+    {
+      "instituicao": "Instituto Militar de Engenharia",
+      "orgao": "MG",
+      "cargos": [
+        "Engenheiros"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/instituto-militar-de-engenharia-abre-concurso",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "bb5131b5-21e9-4b18-ac5c-ecdc2f820708",
+      "data_coleta": "2026-06-08T13:01:08.243048+00:00"
+    },
+    {
+      "instituicao": "IME",
+      "orgao": "MG",
+      "cargos": [
+        "Cursos de formação com 100 vagas"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/ime-abre-concursos",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "7d2af7c1-a092-4cea-8be1-821850fb1753",
+      "data_coleta": "2026-06-08T13:01:08.243070+00:00"
+    },
+    {
+      "instituicao": "ESFCEx - BA",
+      "orgao": "BA: Seleção para Oficiais",
+      "cargos": [
+        "Oficiais",
+        "Oficiais"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/esfcex-ba-selecao-para-oficiais-oferece-vagas",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "a3301a0e-55e5-46ad-b3f3-4c5ed489c845",
+      "data_coleta": "2026-06-08T13:01:08.243093+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Jardinópolis - SP",
+      "orgao": "SP",
+      "cargos": [
+        "Cargos diversos"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jardinopolis-abre-concurso",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "4b49b348-520f-4fbd-b029-d119fa0d1214",
+      "data_coleta": "2026-06-08T13:01:08.243130+00:00"
+    },
+    {
+      "instituicao": "Câmara de Arujá - SP",
+      "orgao": "SP",
+      "cargos": [
+        "Cargos diversos"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-aruja-abre-concurso",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "d0d2d0de-fbd0-41ad-bbc5-8da25ba5af90",
+      "data_coleta": "2026-06-08T13:01:08.243152+00:00"
+    },
+    {
+      "instituicao": "Câmara de Rio das Ostras - RJ",
+      "orgao": "RJ",
+      "cargos": [
+        "Concurso para diversos cargos"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/rio-das-ostras-rj-publica-retificacoes-de-concurso-publico",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "prorrogado",
+      "fonte": "PCI",
+      "id": "5d100ac4-adde-4d8f-97c6-115ff63fbfde",
+      "data_coleta": "2026-06-08T13:01:08.243173+00:00"
+    },
+    {
+      "instituicao": "Praça",
+      "orgao": "SP",
+      "cargos": [
+        "Praças"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/pirapora-do-bom-jesus-abre-edais-de-concurso",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "b42d4cca-d1c5-4825-bf6e-94d066670676",
+      "data_coleta": "2026-06-08T13:01:08.243195+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Paracatu - MG",
+      "orgao": "MG",
+      "cargos": [
+        "Guarda Civil Municipal"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paracatu-abre-concurso-publico-com-40-vagas",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "abre-concurso",
+      "fonte": "PCI",
+      "id": "37012ab2-9726-461b-b9e6-180686e48a9d",
+      "data_coleta": "2026-06-08T13:01:08.243216+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Pouso Alegre - MG",
+      "orgao": "MG",
+      "cargos": [
+        "Guarda Civil Municipal"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pouso-alegre-mg-retifica-edital-de-concurso",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "retifica-edital",
+      "fonte": "PCI",
+      "id": "b2164bef-ea42-48bd-98ad-b5e15cc5504f",
+      "data_coleta": "2026-06-08T13:01:08.243237+00:00"
+    },
+    {
+      "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
+      "orgao": "AgSUS",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-administrativo-2026-cargo-22",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-08",
+      "status": "aberto",
+      "fonte": "TecConcursos",
+      "id": "12b53476-90a1-4852-8a3d-61f3ca8bcc33",
+      "data_coleta": "2026-06-08T13:01:08.243464+00:00"
+    },
+    {
+      "instituicao": "Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
+      "orgao": "AgSUS",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-ii-20",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-08",
+      "status": "aberto",
+      "fonte": "TecConcursos",
+      "id": "6908342e-8933-460f-b1ee-b36d9c13b2b0",
+      "data_coleta": "2026-06-08T13:01:08.243592+00:00"
     }
   ]
 }
