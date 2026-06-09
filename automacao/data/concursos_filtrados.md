@@ -1,8 +1,8 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 08/06/2026_
+_Atualizado em 09/06/2026_
 
-Total: **14** concursos encontrados.
+Total: **15** concursos encontrados.
 
 ---
 
@@ -28,12 +28,19 @@ Total: **14** concursos encontrados.
 
 ---
 
-## Estrategia (1)
+## Estrategia (2)
 
 ### Prefeitura de Sao Paulo
 [🔗 Edital](https://www.estrategiaconcursos.com.br/por-concursos)
 - **Cargos:** Analista de Sistemas, Professor de Ingles
 - **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+### Estratégia Concursos
+[🔗 Edital](https://www.estrategiaconcursos.com.br)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** Estratégia Concursos
 - **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
 

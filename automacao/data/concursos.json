@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-08T13:01:08.243694+00:00",
-    "total_concursos": 168
+    "ultima_coleta": "2026-06-09T11:47:01.021514+00:00",
+    "total_concursos": 174
   },
   "concursos": [
     {
@@ -2531,6 +2531,91 @@
       "fonte": "TecConcursos",
       "id": "6908342e-8933-460f-b1ee-b36d9c13b2b0",
       "data_coleta": "2026-06-08T13:01:08.243592+00:00"
+    },
+    {
+      "instituicao": "Estratégia Concursos",
+      "orgao": "Estratégia Concursos",
+      "cargos": [
+        "Analista de Sistemas",
+        "Professor de Ingles"
+      ],
+      "salario_maximo": "R$ 5.000,00",
+      "link_edital": "https://www.estrategiaconcursos.com.br",
+      "data_publicacao": "01/06/2026",
+      "data_encerramento": "30/06/2026",
+      "status": "aberto",
+      "fonte": "Estrategia",
+      "id": "a9ef9833-6910-478e-8ca8-844c995e3d26",
+      "data_coleta": "2026-06-09T11:47:01.019970+00:00"
+    },
+    {
+      "instituicao": "EBSERH - Empresa Brasileira de Serviços Hospitalares",
+      "orgao": "Nacional",
+      "cargos": [
+        "Médico"
+      ],
+      "salario_maximo": "R$ 11.464,58",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/ebserh-abre-processo-seletivo-para-medicos-em-hospitais-da-rede-hu-brasil",
+      "data_encerramento": "11/06/2026",
+      "data_publicacao": "2026-06-09",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "e6b3f2d6-0f5f-4985-9911-866bead01f52",
+      "data_coleta": "2026-06-09T11:47:01.020577+00:00"
+    },
+    {
+      "instituicao": "ESFCEx - Escola de Saúde e Formação Complementar do Exército",
+      "orgao": "Nacional",
+      "cargos": [
+        "Médico",
+        "Farmacêutico",
+        "Dentista"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/esfcex-abre-concurso-para-admissao-ao-curso-de-formacao-de-oficiais-do-servico-de-saude-2027",
+      "data_encerramento": "12/06/2026",
+      "data_publicacao": "2026-06-09",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "ba2c7d35-e4dd-4338-beb9-8cc8769f14aa",
+      "data_coleta": "2026-06-09T11:47:01.020672+00:00"
+    },
+    {
+      "instituicao": "Câmara de Santa Isabel",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": "R$ 10.610,67",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-santa-isabel-sp-retifica-e-reabre-inscricoes-para-concurso-publico",
+      "data_encerramento": "15/06/2026",
+      "data_publicacao": "2026-06-09",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "9b8f4a34-edfb-41a3-b2cf-a0edcdbc2f02",
+      "data_coleta": "2026-06-09T11:47:01.020924+00:00"
+    },
+    {
+      "instituicao": "Câmara de Rio das Ostras - RJ",
+      "orgao": "Câmara de Rio das Ostras - RJ",
+      "cargos": [],
+      "salario_maximo": "R$ 15.600,00",
+      "link_edital": "https://www.pcicon",
+      "fonte": "PCI",
+      "status": "aberto",
+      "id": "e3dfc7ce-3059-4199-bb2b-b0ace14080fb",
+      "data_coleta": "2026-06-09T11:47:01.021220+00:00",
+      "data_publicacao": "2026-06-09"
+    },
+    {
+      "instituicao": "TJ-CE",
+      "orgao": "CE, Ceará - CE",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/tj-ce-retifica-concurso-publico-para-cargos-de-nivel-medio",
+      "fonte": "PCI",
+      "status": "aberto",
+      "id": "929d4872-eea6-4327-a62f-b0834330d899",
+      "data_coleta": "2026-06-09T11:47:01.021457+00:00",
+      "data_publicacao": "2026-06-09"
     }
   ]
 }

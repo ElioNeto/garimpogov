@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 08/06/2026_
+_Atualizado em 09/06/2026_
 
-Total: **168** concursos encontrados.
+Total: **174** concursos encontrados.
 
 ---
 
@@ -35,12 +35,19 @@ Total: **168** concursos encontrados.
 
 ---
 
-## Estrategia (1)
+## Estrategia (2)
 
 ### Prefeitura de Sao Paulo
 [🔗 Edital](https://www.estrategiaconcursos.com.br/por-concursos)
 - **Cargos:** Analista de Sistemas, Professor de Ingles
 - **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+### Estratégia Concursos
+[🔗 Edital](https://www.estrategiaconcursos.com.br)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** Estratégia Concursos
 - **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
 
@@ -248,7 +255,7 @@ Total: **168** concursos encontrados.
 
 ---
 
-## PCI (85)
+## PCI (90)
 
 ### Associação das Pioneiras Sociais/Rede SARAH
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros)
@@ -734,6 +741,34 @@ Total: **168** concursos encontrados.
 - **Órgão/Local:** MG
 - **Salário máx.:** N/A
 - **Encerramento:** N/A
+
+### EBSERH - Empresa Brasileira de Serviços Hospitalares
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ebserh-abre-processo-seletivo-para-medicos-em-hospitais-da-rede-hu-brasil)
+- **Cargos:** Médico
+- **Órgão/Local:** Nacional
+- **Salário máx.:** R$ 11.464,58
+- **Encerramento:** 11/06/2026
+
+### ESFCEx - Escola de Saúde e Formação Complementar do Exército
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/esfcex-abre-concurso-para-admissao-ao-curso-de-formacao-de-oficiais-do-servico-de-saude-2027)
+- **Cargos:** Médico, Farmacêutico, Dentista
+- **Órgão/Local:** Nacional
+- **Encerramento:** 12/06/2026
+
+### Câmara de Santa Isabel
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-santa-isabel-sp-retifica-e-reabre-inscricoes-para-concurso-publico)
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 10.610,67
+- **Encerramento:** 15/06/2026
+
+### Câmara de Rio das Ostras - RJ
+[🔗 Edital](https://www.pcicon)
+- **Órgão/Local:** Câmara de Rio das Ostras - RJ
+- **Salário máx.:** R$ 15.600,00
+
+### TJ-CE
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/tj-ce-retifica-concurso-publico-para-cargos-de-nivel-medio)
+- **Órgão/Local:** CE, Ceará - CE
 
 ---
 
