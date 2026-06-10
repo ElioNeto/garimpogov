@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-09T11:47:01.021514+00:00",
-    "total_concursos": 174
+    "ultima_coleta": "2026-06-10T11:52:58.812512+00:00",
+    "total_concursos": 178
   },
   "concursos": [
     {
@@ -2616,6 +2616,65 @@
       "id": "929d4872-eea6-4327-a62f-b0834330d899",
       "data_coleta": "2026-06-09T11:47:01.021457+00:00",
       "data_publicacao": "2026-06-09"
+    },
+    {
+      "instituicao": "Prefeitura de Sao Paulo",
+      "orgao": "Ministério da Educação",
+      "cargos": [
+        "Analista de Sistemas",
+        "Professor de Ingles"
+      ],
+      "salario_maximo": "R$ 5.000,00",
+      "link_edital": "https://www.in.gov.br",
+      "data_encerramento": "30/06/2026",
+      "data_publicacao": "01/06/2026",
+      "status": "aberto",
+      "fonte": "DOU",
+      "id": "783dd7b7-4387-4931-9acd-efd76152930d",
+      "data_coleta": "2026-06-10T11:52:58.811530+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de São Paulo",
+      "orgao": "Prefeitura de São Paulo",
+      "cargos": [
+        "Analista de Sistemas",
+        "Professor de Inglês"
+      ],
+      "salario_maximo": "R$ 5.000,00",
+      "link_edital": "https://www.gov.br/autenticidade.html",
+      "data_encerramento": "30/06/2026",
+      "data_publicacao": "01/06/2026",
+      "status": "aberto",
+      "fonte": "DOU",
+      "id": "64c9824f-a4f7-4b0c-bcaf-b0289a5bb8cc",
+      "data_coleta": "2026-06-10T11:52:58.811573+00:00"
+    },
+    {
+      "instituicao": "Corpo de Bombeiros Militar do Estado do Rio de Janeiro",
+      "orgao": "RJ, Rio de Janeiro - RJ",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br",
+      "fonte": "FGV",
+      "status": "aberto",
+      "id": "5f637c56-84f6-4220-8ce6-3ff565a03efd",
+      "data_coleta": "2026-06-10T11:52:58.811810+00:00",
+      "data_publicacao": "2026-06-10"
+    },
+    {
+      "instituicao": "CRA - MG",
+      "orgao": "MG",
+      "cargos": [
+        "CRT-SP"
+      ],
+      "salario_maximo": "R$ 10 mil",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cea-abre-processo-seletivo-com-salarios-de-ate-9-mil",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "retificação",
+      "fonte": "PCI",
+      "id": "528b85c3-b03a-4281-8033-3bccccd7ffca",
+      "data_coleta": "2026-06-10T11:52:58.812081+00:00"
     }
   ]
 }

@@ -1,8 +1,8 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 09/06/2026_
+_Atualizado em 10/06/2026_
 
-Total: **15** concursos encontrados.
+Total: **17** concursos encontrados.
 
 ---
 
@@ -17,7 +17,7 @@ Total: **15** concursos encontrados.
 
 ---
 
-## DOU (1)
+## DOU (3)
 
 ### Acessibilidade
 [🔗 Edital](https://www.gov.br/acessibilidade)
@@ -25,6 +25,20 @@ Total: **15** concursos encontrados.
 - **Órgão/Local:** Acessibilidade
 - **Salário máx.:** R$ 8.000,00
 - **Encerramento:** 2023/06/30
+
+### Prefeitura de Sao Paulo
+[🔗 Edital](https://www.in.gov.br)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** Ministério da Educação
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+### Prefeitura de São Paulo
+[🔗 Edital](https://www.gov.br/autenticidade.html)
+- **Cargos:** Analista de Sistemas, Professor de Inglês
+- **Órgão/Local:** Prefeitura de São Paulo
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
 
 ---
 

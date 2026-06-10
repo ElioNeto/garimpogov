@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 09/06/2026_
+_Atualizado em 10/06/2026_
 
-Total: **174** concursos encontrados.
+Total: **178** concursos encontrados.
 
 ---
 
@@ -17,7 +17,7 @@ Total: **174** concursos encontrados.
 
 ---
 
-## DOU (2)
+## DOU (4)
 
 ### Acesso à Informação
 [🔗 Edital](https://www.gov.br/acesso-informacao)
@@ -32,6 +32,20 @@ Total: **174** concursos encontrados.
 - **Órgão/Local:** Acessibilidade
 - **Salário máx.:** R$ 8.000,00
 - **Encerramento:** 2023/06/30
+
+### Prefeitura de Sao Paulo
+[🔗 Edital](https://www.in.gov.br)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** Ministério da Educação
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+### Prefeitura de São Paulo
+[🔗 Edital](https://www.gov.br/autenticidade.html)
+- **Cargos:** Analista de Sistemas, Professor de Inglês
+- **Órgão/Local:** Prefeitura de São Paulo
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
 
 ---
 
@@ -116,7 +130,7 @@ Total: **174** concursos encontrados.
 
 ---
 
-## FGV (41)
+## FGV (42)
 
 ### Concurso Público Nacional Unificado 2
 [🔗 Edital](https://conhecimento.fgv.br/cpnu2)
@@ -242,6 +256,10 @@ Total: **174** concursos encontrados.
 [🔗 Edital](https://conhecimento.fgv.br/concursos/govvaladares26)
 - **Órgão/Local:** Câmara Municipal de Governador Valadares
 
+### Corpo de Bombeiros Militar do Estado do Rio de Janeiro
+[🔗 Edital](https://conhecimento.fgv.br)
+- **Órgão/Local:** RJ, Rio de Janeiro - RJ
+
 ---
 
 ## IPPEC (1)
@@ -255,7 +273,7 @@ Total: **174** concursos encontrados.
 
 ---
 
-## PCI (90)
+## PCI (91)
 
 ### Associação das Pioneiras Sociais/Rede SARAH
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros)
@@ -769,6 +787,13 @@ Total: **174** concursos encontrados.
 ### TJ-CE
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/tj-ce-retifica-concurso-publico-para-cargos-de-nivel-medio)
 - **Órgão/Local:** CE, Ceará - CE
+
+### CRA - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cea-abre-processo-seletivo-com-salarios-de-ate-9-mil)
+- **Cargos:** CRT-SP
+- **Órgão/Local:** MG
+- **Salário máx.:** R$ 10 mil
+- **Encerramento:** N/A
 
 ---
 
