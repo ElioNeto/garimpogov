@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-10T11:52:58.812512+00:00",
-    "total_concursos": 178
+    "ultima_coleta": "2026-06-11T13:04:32.020327+00:00",
+    "total_concursos": 183
   },
   "concursos": [
     {
@@ -2549,21 +2549,6 @@
       "data_coleta": "2026-06-09T11:47:01.019970+00:00"
     },
     {
-      "instituicao": "EBSERH - Empresa Brasileira de Serviços Hospitalares",
-      "orgao": "Nacional",
-      "cargos": [
-        "Médico"
-      ],
-      "salario_maximo": "R$ 11.464,58",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/ebserh-abre-processo-seletivo-para-medicos-em-hospitais-da-rede-hu-brasil",
-      "data_encerramento": "11/06/2026",
-      "data_publicacao": "2026-06-09",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "e6b3f2d6-0f5f-4985-9911-866bead01f52",
-      "data_coleta": "2026-06-09T11:47:01.020577+00:00"
-    },
-    {
       "instituicao": "ESFCEx - Escola de Saúde e Formação Complementar do Exército",
       "orgao": "Nacional",
       "cargos": [
@@ -2675,6 +2660,97 @@
       "fonte": "PCI",
       "id": "528b85c3-b03a-4281-8033-3bccccd7ffca",
       "data_coleta": "2026-06-10T11:52:58.812081+00:00"
+    },
+    {
+      "instituicao": "LAMEF",
+      "orgao": "LAMEF",
+      "cargos": [
+        "Engenheiro Sênior I de Poços",
+        "Engenheiro Profissional Júnior"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosFaurgs/emandamento/1275-072026lamef",
+      "data_encerramento": null,
+      "data_publicacao": "07/2026",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "0c1e4005-a56a-4dab-ba1c-a3497bc3bf97",
+      "data_coleta": "2026-06-11T13:04:32.019397+00:00"
+    },
+    {
+      "instituicao": "Câmara de Juiz de Fora - MG",
+      "orgao": "MG",
+      "cargos": [],
+      "salario_maximo": "R$ 9 mil",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cesama-de-juiz-de-fora-mg-retifica-concurso-publico",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "c418c35c-80d7-4c52-802b-e2e9dcd50e9e",
+      "data_coleta": "2026-06-11T13:04:32.019681+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Cambé - PR",
+      "orgao": "PR",
+      "cargos": [],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campe-de-praças-da-armada",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "08e3782f-2db8-45eb-add1-b87e888ed5af",
+      "data_coleta": "2026-06-11T13:04:32.019769+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Cambé - PR",
+      "orgao": "Prefeitura de Cambé - PR",
+      "cargos": [
+        "Professor"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cambe-pr-abre-concurso-para-professores",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-11",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "ce7f9414-515a-407d-9857-b7407113716b",
+      "data_coleta": "2026-06-11T13:04:32.020003+00:00"
+    },
+    {
+      "instituicao": "EBSERH",
+      "orgao": "Rede HU Brasil - Nacional",
+      "cargos": [
+        "Médico"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/ebserh-abre-processo-seletivo-para-medicos-em-hospitais-da-rede-hu-brasil",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-11",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "45adf2f1-8908-475e-9482-8f2bd8692ed9",
+      "data_coleta": "2026-06-11T13:04:32.020036+00:00"
+    },
+    {
+      "instituicao": "CESAMA de Juiz de Fora",
+      "orgao": "Juiz de Fora - MG",
+      "cargos": [
+        "Engenheiro Civil",
+        "Engenheiro Químico",
+        "Técnico em Saneamento",
+        "Assistente Administrativo",
+        "Operador de Estação de Tratamento",
+        "Agente de Saneamento"
+      ],
+      "salario_maximo": "R$ 9.000,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias",
+      "fonte": "PCI",
+      "status": "aberto",
+      "id": "0c950e69-54b0-4313-b250-ffa0222f1024",
+      "data_coleta": "2026-06-11T13:04:32.020196+00:00",
+      "data_publicacao": "2026-06-11"
     }
   ]
 }

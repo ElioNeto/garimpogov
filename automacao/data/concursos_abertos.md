@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 10/06/2026_
+_Atualizado em 11/06/2026_
 
-Total: **178** concursos encontrados.
+Total: **183** concursos encontrados.
 
 ---
 
@@ -67,7 +67,7 @@ Total: **178** concursos encontrados.
 
 ---
 
-## FAURGS (12)
+## FAURGS (13)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -127,6 +127,11 @@ Total: **178** concursos encontrados.
 [🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/259-062025hospitaldeclinicasdeportoalegre)
 - **Cargos:** PS 63 - ANALISTA I (Coordenadoria de Gestão dos Negócios Assistenciais), PS 64 - BIÓLOGO I, BIOMÉDICO I OU FARMACÊUTICO-BIOQUÍMICO I (Hemoterapia), PS 65 - ENFERMEIRO I (Obstetrícia), PS 66 - FARMACÊUTICO-BIOQUÍMICO I (Farmácia Hospitalar), PS 67 - FÍSICO I (Medicina Nuclear), PS 68 - FÍSICO I (Radiodiagnóstico), PS 69 - MÉDICO I (Neurologia: Demências e Doenças Neurodegenerativas), PS 70 - MÉDICO I (Oncologia), PS 71 - TÉCNICO DE ENFERMAGEM (Internação Clínica Adulto), PS 72 - TÉCNICO DE ENFERMAGEM (Internação Cirúrgica Adulto), PS 73 - TÉCNICO DE ENFERMAGEM (Saúde Mental), PS 74 - TÉCNICO EM MANUTENÇÃO III (Equipamentos Eletromédicos), PS 75 - TÉCNICO EM RADIOLOGIA (Radioterapia)
 - **Órgão/Local:** HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
+
+### LAMEF
+[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1275-072026lamef)
+- **Cargos:** Engenheiro Sênior I de Poços, Engenheiro Profissional Júnior
+- **Órgão/Local:** LAMEF
 
 ---
 
@@ -273,7 +278,7 @@ Total: **178** concursos encontrados.
 
 ---
 
-## PCI (91)
+## PCI (95)
 
 ### Associação das Pioneiras Sociais/Rede SARAH
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros)
@@ -760,13 +765,6 @@ Total: **178** concursos encontrados.
 - **Salário máx.:** N/A
 - **Encerramento:** N/A
 
-### EBSERH - Empresa Brasileira de Serviços Hospitalares
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/ebserh-abre-processo-seletivo-para-medicos-em-hospitais-da-rede-hu-brasil)
-- **Cargos:** Médico
-- **Órgão/Local:** Nacional
-- **Salário máx.:** R$ 11.464,58
-- **Encerramento:** 11/06/2026
-
 ### ESFCEx - Escola de Saúde e Formação Complementar do Exército
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/esfcex-abre-concurso-para-admissao-ao-curso-de-formacao-de-oficiais-do-servico-de-saude-2027)
 - **Cargos:** Médico, Farmacêutico, Dentista
@@ -794,6 +792,34 @@ Total: **178** concursos encontrados.
 - **Órgão/Local:** MG
 - **Salário máx.:** R$ 10 mil
 - **Encerramento:** N/A
+
+### Câmara de Juiz de Fora - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cesama-de-juiz-de-fora-mg-retifica-concurso-publico)
+- **Órgão/Local:** MG
+- **Salário máx.:** R$ 9 mil
+- **Encerramento:** N/A
+
+### Prefeitura de Cambé - PR
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-campe-de-praças-da-armada)
+- **Órgão/Local:** PR
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### Prefeitura de Cambé - PR
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-cambe-pr-abre-concurso-para-professores)
+- **Cargos:** Professor
+- **Órgão/Local:** Prefeitura de Cambé - PR
+
+### EBSERH
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ebserh-abre-processo-seletivo-para-medicos-em-hospitais-da-rede-hu-brasil)
+- **Cargos:** Médico
+- **Órgão/Local:** Rede HU Brasil - Nacional
+
+### CESAMA de Juiz de Fora
+[🔗 Edital](https://www.pciconcursos.com.br/noticias)
+- **Cargos:** Engenheiro Civil, Engenheiro Químico, Técnico em Saneamento, Assistente Administrativo, Operador de Estação de Tratamento, Agente de Saneamento
+- **Órgão/Local:** Juiz de Fora - MG
+- **Salário máx.:** R$ 9.000,00
 
 ---
 
