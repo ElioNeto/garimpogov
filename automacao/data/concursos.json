@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-11T13:04:32.020327+00:00",
-    "total_concursos": 183
+    "ultima_coleta": "2026-06-12T11:57:58.099703+00:00",
+    "total_concursos": 188
   },
   "concursos": [
     {
@@ -645,21 +645,6 @@
       "data_coleta": "2026-06-02T21:53:50.370569+00:00"
     },
     {
-      "instituicao": "Marinha do Brasil",
-      "orgao": "SP, São Paulo - SP",
-      "cargos": [
-        "Quadro Técnico do Corpo de Praças da Armada"
-      ],
-      "salario_maximo": "R$ 1.544,62",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-concurso-para-o-quadro-tecnico-de-pracas-da-armada",
-      "data_encerramento": "12/06/2026",
-      "data_publicacao": "2026-06-02",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "a5241c78-9bb4-44c2-b10c-20416dbc3808",
-      "data_coleta": "2026-06-02T21:53:50.370578+00:00"
-    },
-    {
       "instituicao": "Secretaria da Educação do Estado de São Paulo",
       "orgao": "SP, São Paulo - SP",
       "cargos": [
@@ -1202,21 +1187,6 @@
       "fonte": "PCI",
       "id": "068e61f6-f913-4d38-90a6-ca9ab515189d",
       "data_coleta": "2026-06-03T13:02:37.218685+00:00"
-    },
-    {
-      "instituicao": "Câmara de Arujá",
-      "orgao": "SP",
-      "cargos": [
-        "Superior"
-      ],
-      "salario_maximo": "R$ 9.004,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/inseguimento-na-selecao-de-oficiais-de-armada-na-graduação",
-      "data_encerramento": "12/06/2026",
-      "data_publicacao": "08/07/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "306a7d3b-ebfb-4993-b88a-d9361b8383b2",
-      "data_coleta": "2026-06-03T13:02:37.218711+00:00"
     },
     {
       "instituicao": "Câmara de Paracatu",
@@ -2549,23 +2519,6 @@
       "data_coleta": "2026-06-09T11:47:01.019970+00:00"
     },
     {
-      "instituicao": "ESFCEx - Escola de Saúde e Formação Complementar do Exército",
-      "orgao": "Nacional",
-      "cargos": [
-        "Médico",
-        "Farmacêutico",
-        "Dentista"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://www.pciconcursos.com.br/noticias/esfcex-abre-concurso-para-admissao-ao-curso-de-formacao-de-oficiais-do-servico-de-saude-2027",
-      "data_encerramento": "12/06/2026",
-      "data_publicacao": "2026-06-09",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "ba2c7d35-e4dd-4338-beb9-8cc8769f14aa",
-      "data_coleta": "2026-06-09T11:47:01.020672+00:00"
-    },
-    {
       "instituicao": "Câmara de Santa Isabel",
       "orgao": "SP",
       "cargos": [],
@@ -2751,6 +2704,123 @@
       "id": "0c950e69-54b0-4313-b250-ffa0222f1024",
       "data_coleta": "2026-06-11T13:04:32.020196+00:00",
       "data_publicacao": "2026-06-11"
+    },
+    {
+      "instituicao": "Prefeitura de Blumenau",
+      "orgao": "SC, Blumenau - SC",
+      "cargos": [
+        "Rainha da Oktoberfest",
+        "Princesa da Oktoberfest"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.blumenau.sc.gov.br/secretarias/parque-vila-germanica/parque-vila-germanica/inscriacaoes-para-o-concurso-da-realeza-da-42aa-oktoberfest-blumenau-abrem-nesta-quarta-feira-dia-103",
+      "data_encerramento": "07/07/2026",
+      "data_publicacao": "03/06/2026",
+      "status": "aberto",
+      "fonte": "PMBlumenau-SC",
+      "id": "641adca7-9ce2-4a6e-af15-55949fb17d78",
+      "data_coleta": "2026-06-12T11:57:58.098997+00:00"
+    },
+    {
+      "instituicao": "EEAR - Escola de Especialistas de Aeronáutica",
+      "orgao": "SP",
+      "cargos": [
+        "Sargento"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos",
+      "data_encerramento": "02/07/2026",
+      "data_publicacao": "2026-06-12",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "c740845b-0399-453a-92f9-a33820276e45",
+      "data_coleta": "2026-06-12T11:57:58.099123+00:00"
+    },
+    {
+      "instituicao": "FITO-SP",
+      "orgao": "SP",
+      "cargos": [
+        "Diversas áreas de atuação"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/fito-sp-abre-concurso-publico-com-vagas-e-cadastro-de-reserva-em-diversas-areas-de-atuacao",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-12",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "49ec7415-60d5-492e-b2f6-30813c3e905b",
+      "data_coleta": "2026-06-12T11:57:58.099332+00:00"
+    },
+    {
+      "instituicao": "Câmara de Rio das Ostras - RJ",
+      "orgao": "RJ, Rio das Ostras",
+      "cargos": [
+        "Nível Médio",
+        "Nível Superior"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-rio-das-ostras-rj-prorroga-inscricoes-para-concurso-publico",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-12",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "54b6e7d3-25fb-487e-babf-74655cefe5f4",
+      "data_coleta": "2026-06-12T11:57:58.099391+00:00"
+    },
+    {
+      "instituicao": "CIDASG - MG",
+      "orgao": "MG",
+      "cargos": [
+        "Nível Médio",
+        "Nível Superior"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cidasg-mg-abre-concurso-publico-para-cargos-de-nivel-medio-e-superior",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-12",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "3538b184-d946-414f-a5f8-837fcfcacdf2",
+      "data_coleta": "2026-06-12T11:57:58.099410+00:00"
+    },
+    {
+      "instituicao": "ESFCEx",
+      "orgao": null,
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/esfcex-abre-concurso-para-admissao-ao-curso-de-formacao-de-oficiais-do-servico-de-saude-2027",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-12",
+      "status": null,
+      "fonte": "PCI",
+      "id": "5fb36db4-86bd-4a2d-a223-e798d5c1ff6a",
+      "data_coleta": "2026-06-12T11:57:58.099514+00:00"
+    },
+    {
+      "instituicao": "Marinha do Brasil",
+      "orgao": null,
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-concurso-para-o-quadro-tecnico-de-pracas-da-armada",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-12",
+      "status": null,
+      "fonte": "PCI",
+      "id": "4d8d0805-6180-4fac-b4cc-9248ba0a791a",
+      "data_coleta": "2026-06-12T11:57:58.099556+00:00"
+    },
+    {
+      "instituicao": "CBM - AL",
+      "orgao": null,
+      "cargos": [],
+      "salario_maximo": "R$ 11.563,77",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cbm-al-edital-abre-vagas-de-nivel-medio-com-remuneracoes-de-ate-11563",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-12",
+      "status": null,
+      "fonte": "PCI",
+      "id": "a321c5b3-98cd-4a8f-b8e4-64a07b01da29",
+      "data_coleta": "2026-06-12T11:57:58.099621+00:00"
     }
   ]
 }

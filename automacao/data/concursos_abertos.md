@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 11/06/2026_
+_Atualizado em 12/06/2026_
 
-Total: **183** concursos encontrados.
+Total: **188** concursos encontrados.
 
 ---
 
@@ -278,7 +278,7 @@ Total: **183** concursos encontrados.
 
 ---
 
-## PCI (95)
+## PCI (99)
 
 ### Associação das Pioneiras Sociais/Rede SARAH
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros)
@@ -298,13 +298,6 @@ Total: **183** concursos encontrados.
 - **Cargos:** Aluno do Curso de Graduação em Engenharia do ITA
 - **Órgão/Local:** SP, São Paulo - SP
 - **Encerramento:** 12/07/2026
-
-### Marinha do Brasil
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-concurso-para-o-quadro-tecnico-de-pracas-da-armada)
-- **Cargos:** Quadro Técnico do Corpo de Praças da Armada
-- **Órgão/Local:** SP, São Paulo - SP
-- **Salário máx.:** R$ 1.544,62
-- **Encerramento:** 12/06/2026
 
 ### Secretaria da Educação do Estado de São Paulo
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/seduc-sp-aberta-selecao-para-professores-da-rede-estadual-com-salario-de-5565)
@@ -465,13 +458,6 @@ Total: **183** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-pouso-alegre-mg-retifica-edital-de-concurso-para-guarda-civil-municipal)
 - **Cargos:** Guarda Civil Municipal
 - **Órgão/Local:** MG, Minas Gerais - MG
-
-### Câmara de Arujá
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/inseguimento-na-selecao-de-oficiais-de-armada-na-graduação)
-- **Cargos:** Superior
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 9.004,00
-- **Encerramento:** 12/06/2026
 
 ### Câmara de Paracatu
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-paracatu-mg-abre-concurso-publico-com-40-vagas)
@@ -765,12 +751,6 @@ Total: **183** concursos encontrados.
 - **Salário máx.:** N/A
 - **Encerramento:** N/A
 
-### ESFCEx - Escola de Saúde e Formação Complementar do Exército
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/esfcex-abre-concurso-para-admissao-ao-curso-de-formacao-de-oficiais-do-servico-de-saude-2027)
-- **Cargos:** Médico, Farmacêutico, Dentista
-- **Órgão/Local:** Nacional
-- **Encerramento:** 12/06/2026
-
 ### Câmara de Santa Isabel
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-santa-isabel-sp-retifica-e-reabre-inscricoes-para-concurso-publico)
 - **Órgão/Local:** SP
@@ -820,6 +800,47 @@ Total: **183** concursos encontrados.
 - **Cargos:** Engenheiro Civil, Engenheiro Químico, Técnico em Saneamento, Assistente Administrativo, Operador de Estação de Tratamento, Agente de Saneamento
 - **Órgão/Local:** Juiz de Fora - MG
 - **Salário máx.:** R$ 9.000,00
+
+### EEAR - Escola de Especialistas de Aeronáutica
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
+- **Cargos:** Sargento
+- **Órgão/Local:** SP
+- **Encerramento:** 02/07/2026
+
+### FITO-SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/fito-sp-abre-concurso-publico-com-vagas-e-cadastro-de-reserva-em-diversas-areas-de-atuacao)
+- **Cargos:** Diversas áreas de atuação
+- **Órgão/Local:** SP
+
+### Câmara de Rio das Ostras - RJ
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-rio-das-ostras-rj-prorroga-inscricoes-para-concurso-publico)
+- **Cargos:** Nível Médio, Nível Superior
+- **Órgão/Local:** RJ, Rio das Ostras
+
+### CIDASG - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cidasg-mg-abre-concurso-publico-para-cargos-de-nivel-medio-e-superior)
+- **Cargos:** Nível Médio, Nível Superior
+- **Órgão/Local:** MG
+
+### ESFCEx
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/esfcex-abre-concurso-para-admissao-ao-curso-de-formacao-de-oficiais-do-servico-de-saude-2027)
+
+### Marinha do Brasil
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-concurso-para-o-quadro-tecnico-de-pracas-da-armada)
+
+### CBM - AL
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cbm-al-edital-abre-vagas-de-nivel-medio-com-remuneracoes-de-ate-11563)
+- **Salário máx.:** R$ 11.563,77
+
+---
+
+## PMBlumenau-SC (1)
+
+### Prefeitura de Blumenau
+[🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/parque-vila-germanica/parque-vila-germanica/inscriacaoes-para-o-concurso-da-realeza-da-42aa-oktoberfest-blumenau-abrem-nesta-quarta-feira-dia-103)
+- **Cargos:** Rainha da Oktoberfest, Princesa da Oktoberfest
+- **Órgão/Local:** SC, Blumenau - SC
+- **Encerramento:** 07/07/2026
 
 ---
 
