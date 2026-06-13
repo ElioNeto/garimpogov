@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-12T11:57:58.099703+00:00",
-    "total_concursos": 188
+    "ultima_coleta": "2026-06-13T10:37:45.882358+00:00",
+    "total_concursos": 192
   },
   "concursos": [
     {
@@ -2821,6 +2821,62 @@
       "fonte": "PCI",
       "id": "a321c5b3-98cd-4a8f-b8e4-64a07b01da29",
       "data_coleta": "2026-06-12T11:57:58.099621+00:00"
+    },
+    {
+      "instituicao": "IBGE",
+      "orgao": "Instituto Brasileiro de Geografia e Estatística",
+      "cargos": [],
+      "salario_maximo": "R$ 4.008,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/ibge-anuncia-processo-seletivo-com-8238-vagas-para-o-censo-agropecuario-florestal-e-aquicola",
+      "data_encerramento": "01/07/2026",
+      "data_publicacao": "13/06/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "396b73b1-36ec-4e8f-9593-2800873fc609",
+      "data_coleta": "2026-06-13T10:37:45.881690+00:00"
+    },
+    {
+      "instituicao": "PND - Prova Nacional Docente",
+      "orgao": "Prova Nacional Docente",
+      "cargos": [
+        "Professor Superior"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prova-nacional-docente-2026-oferece-oportunidades-em-diversas-areas-da-educacao-basica",
+      "data_encerramento": "03/07/2026",
+      "data_publicacao": "13/06/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "4636959a-60e9-4d03-8fba-49544b1c2019",
+      "data_coleta": "2026-06-13T10:37:45.881734+00:00"
+    },
+    {
+      "instituicao": "EFOMM - Escolas de Formação de Oficiais da Marinha Mercante",
+      "orgao": "Escolas de Formação de Oficiais da Marinha Mercante",
+      "cargos": [
+        "Aluno da EFOMM"
+      ],
+      "salario_maximo": "R$ 1.719,26",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-processo-seletivo-com-vagas-para-a-escolas-de-formacao-de-oficiais-da-marinha-mercante",
+      "data_encerramento": "02/07/2026",
+      "data_publicacao": "13/06/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "7d9c854b-712d-4a29-8b0d-86be57cef8e6",
+      "data_coleta": "2026-06-13T10:37:45.881797+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Cambé - PR",
+      "orgao": "Prefeitura Municipal de Cambé - PR",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-came-pr-abre-concurso-publico-para-diversos-cargos",
+      "data_encerramento": null,
+      "data_publicacao": "13/06/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "92821a1d-c524-421f-bfb8-0907eeda61a8",
+      "data_coleta": "2026-06-13T10:37:45.881993+00:00"
     }
   ]
 }

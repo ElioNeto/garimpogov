@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 12/06/2026_
+_Atualizado em 13/06/2026_
 
-Total: **188** concursos encontrados.
+Total: **192** concursos encontrados.
 
 ---
 
@@ -278,7 +278,7 @@ Total: **188** concursos encontrados.
 
 ---
 
-## PCI (99)
+## PCI (103)
 
 ### Associação das Pioneiras Sociais/Rede SARAH
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros)
@@ -831,6 +831,29 @@ Total: **188** concursos encontrados.
 ### CBM - AL
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/cbm-al-edital-abre-vagas-de-nivel-medio-com-remuneracoes-de-ate-11563)
 - **Salário máx.:** R$ 11.563,77
+
+### IBGE
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ibge-anuncia-processo-seletivo-com-8238-vagas-para-o-censo-agropecuario-florestal-e-aquicola)
+- **Órgão/Local:** Instituto Brasileiro de Geografia e Estatística
+- **Salário máx.:** R$ 4.008,00
+- **Encerramento:** 01/07/2026
+
+### PND - Prova Nacional Docente
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prova-nacional-docente-2026-oferece-oportunidades-em-diversas-areas-da-educacao-basica)
+- **Cargos:** Professor Superior
+- **Órgão/Local:** Prova Nacional Docente
+- **Encerramento:** 03/07/2026
+
+### EFOMM - Escolas de Formação de Oficiais da Marinha Mercante
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-processo-seletivo-com-vagas-para-a-escolas-de-formacao-de-oficiais-da-marinha-mercante)
+- **Cargos:** Aluno da EFOMM
+- **Órgão/Local:** Escolas de Formação de Oficiais da Marinha Mercante
+- **Salário máx.:** R$ 1.719,26
+- **Encerramento:** 02/07/2026
+
+### Prefeitura de Cambé - PR
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-came-pr-abre-concurso-publico-para-diversos-cargos)
+- **Órgão/Local:** Prefeitura Municipal de Cambé - PR
 
 ---
 
