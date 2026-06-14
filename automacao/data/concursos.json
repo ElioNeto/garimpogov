@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-13T10:37:45.882358+00:00",
-    "total_concursos": 192
+    "ultima_coleta": "2026-06-14T11:17:01.888176+00:00",
+    "total_concursos": 208
   },
   "concursos": [
     {
@@ -2877,6 +2877,227 @@
       "fonte": "PCI",
       "id": "92821a1d-c524-421f-bfb8-0907eeda61a8",
       "data_coleta": "2026-06-13T10:37:45.881993+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Blumenau",
+      "orgao": "Blumenau",
+      "cargos": [
+        "Especialista em Gestão de Projetos",
+        "Consultor em Tecnologia"
+      ],
+      "salario_maximo": "R$ 1.920.000,00",
+      "link_edital": "https://www.blumenau.sc.gov.br/secretarias/seidep/seidep/prefeitura-promove-tarde-danacante-para-pessoas-com-deficiaancia-em-blumenau",
+      "data_encerramento": "15:23",
+      "data_publicacao": "15:50",
+      "status": "aberto",
+      "fonte": "PMBlumenau-SC",
+      "id": "b80fb2cd-0252-4984-a19e-c5022ff8d44d",
+      "data_coleta": "2026-06-14T11:17:01.887094+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Blumenau",
+      "orgao": "Blumenau",
+      "cargos": [
+        "Gerente de Operações",
+        "Coordenador de Comunicação"
+      ],
+      "salario_maximo": "R$ 2.500,00",
+      "link_edital": "https://www.blumenau.sc.gov.br/secretarias/secretaria-de-desenvolvimento-economico/sedec/definida-a-empresa-vencedora-da-concessaao-da-prainha94",
+      "data_encerramento": "15:23",
+      "data_publicacao": "11:05",
+      "status": "aberto",
+      "fonte": "PMBlumenau-SC",
+      "id": "ec41ad76-e87c-485a-8be0-b4b6b932ed7c",
+      "data_coleta": "2026-06-14T11:17:01.887141+00:00"
+    },
+    {
+      "instituicao": "Procon Móvel",
+      "orgao": "Procon Móvel",
+      "cargos": [
+        "Assistente Comercial",
+        "Gerente de Atendimento"
+      ],
+      "salario_maximo": "R$ 1.200,00",
+      "link_edital": "https://www.blumenau.sc.gov.br/escadearia/servicos-de-atencao-legal",
+      "data_encerramento": "16:18",
+      "data_publicacao": "16:02",
+      "status": "aberto",
+      "fonte": "PMBlumenau-SC",
+      "id": "40f3535e-7b65-4709-8417-933d80fec5ab",
+      "data_coleta": "2026-06-14T11:17:01.887215+00:00"
+    },
+    {
+      "instituicao": "Advocacia Geral da União",
+      "orgao": "Federal",
+      "cargos": [
+        "Estagiário de Pós-Graduação em Direito (AGU) /2026"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.cebraspe.org.br/concursos/agu_26_estagiario",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-14",
+      "status": "aberto",
+      "fonte": "TecConcursos",
+      "id": "9c2ff47d-8f14-4d5c-9872-907653cba7f2",
+      "data_coleta": "2026-06-14T11:17:01.887239+00:00"
+    },
+    {
+      "instituicao": "PCICONCOS",
+      "orgao": "https://www.pciconcursos.com.br/cargos/nordeste/#CE",
+      "cargos": [],
+      "salario_maximo": "R$ 5.000,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/ce",
+      "data_encerramento": "2026-07-01",
+      "data_publicacao": "2026-07-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "6c501b28-30e4-49fe-ab96-058aad6e6338",
+      "data_coleta": "2026-06-14T11:17:01.887561+00:00"
+    },
+    {
+      "instituicao": "PCICONCOS",
+      "orgao": "https://www.pciconcursos.com.br/cargos/norte/#DF",
+      "cargos": [],
+      "salario_maximo": "R$ 5.000,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/df",
+      "data_encerramento": "2026-07-01",
+      "data_publicacao": "2026-07-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "347fa6c3-6351-4770-b1ac-406416cb3689",
+      "data_coleta": "2026-06-14T11:17:01.887593+00:00"
+    },
+    {
+      "instituicao": "PCICONCOS",
+      "orgao": "https://www.pciconcursos.com.br/cargos/nordeste/#AL",
+      "cargos": [],
+      "salario_maximo": "R$ 5.000,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/al",
+      "data_encerramento": "2026-07-01",
+      "data_publicacao": "2026-07-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "38850db8-db13-4f98-8587-86fc8daa3768",
+      "data_coleta": "2026-06-14T11:17:01.887622+00:00"
+    },
+    {
+      "instituicao": "PCICONCOS",
+      "orgao": "https://www.pciconcursos.com.br/cargos/mG",
+      "cargos": [],
+      "salario_maximo": "R$ 5.000,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/ime",
+      "data_encerramento": "2026-07-01",
+      "data_publicacao": "2026-07-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "c7665373-8b38-4513-81cb-7d968eb185b6",
+      "data_coleta": "2026-06-14T11:17:01.887653+00:00"
+    },
+    {
+      "instituicao": "PCICONCOS",
+      "orgao": "https://www.pciconcursos.com.br/cargos/marinha-do-brasil",
+      "cargos": [
+        "Guarda Civil Municipal"
+      ],
+      "salario_maximo": "R$ 15.600,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-concurso-publico",
+      "data_encerramento": "2026-07-01",
+      "data_publicacao": "2026-07-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "f6c2c0e4-3a3c-4447-804f-3a102597767c",
+      "data_coleta": "2026-06-14T11:17:01.887684+00:00"
+    },
+    {
+      "instituicao": "SEDUC",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": "R$ 5.565,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/seduc-sp",
+      "data_encerramento": "2026-07-01",
+      "data_publicacao": "2026-07-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "f68f06fa-e666-4417-957d-5deef8d09006",
+      "data_coleta": "2026-06-14T11:17:01.887714+00:00"
+    },
+    {
+      "instituicao": "CRT-SP",
+      "orgao": "CRT-SP",
+      "cargos": [],
+      "salario_maximo": "R$ 10.600,01",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/crt-sp",
+      "data_encerramento": "2026-07-01",
+      "data_publicacao": "2026-07-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "f2e15f40-8ae5-4dae-8173-8a327f183cfa",
+      "data_coleta": "2026-06-14T11:17:01.887742+00:00"
+    },
+    {
+      "instituicao": "Câmara de Seropédica",
+      "orgao": "RJ",
+      "cargos": [],
+      "salario_maximo": "R$ 15.000,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-seropedica-rj",
+      "data_encerramento": "2026-07-01",
+      "data_publicacao": "2026-07-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "95afa389-0261-417c-bbcb-bda858d4c0a1",
+      "data_coleta": "2026-06-14T11:17:01.887790+00:00"
+    },
+    {
+      "instituicao": "Câmara de Rio das Ostras",
+      "orgao": "RJ",
+      "cargos": [],
+      "salario_maximo": "R$ 15.000,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-rio-das-ostras",
+      "data_encerramento": "2026-07-01",
+      "data_publicacao": "2026-07-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "d8f19c05-d226-4648-947b-42dcddbc3990",
+      "data_coleta": "2026-06-14T11:17:01.887818+00:00"
+    },
+    {
+      "instituicao": "CIDASG",
+      "orgao": "MG",
+      "cargos": [],
+      "salario_maximo": "R$ 9.000,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cidasg",
+      "data_encerramento": "2026-07-01",
+      "data_publicacao": "2026-07-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "b3f4ae47-860f-4231-b2f7-6178e056cf6f",
+      "data_coleta": "2026-06-14T11:17:01.887871+00:00"
+    },
+    {
+      "instituicao": "CRA",
+      "orgao": "MG",
+      "cargos": [],
+      "salario_maximo": "R$ 10.600,01",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cra",
+      "data_encerramento": "2026-07-01",
+      "data_publicacao": "2026-07-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "f897ba31-0779-4f20-9f30-e466b96c7811",
+      "data_coleta": "2026-06-14T11:17:01.887902+00:00"
+    },
+    {
+      "instituicao": "SECA de Juiz de Fora",
+      "orgao": "MG",
+      "cargos": [],
+      "salario_maximo": "R$ 9.000,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cesama-de-juiz-de-fora-mg-retifica-concurso",
+      "data_encerramento": "2026-07-01",
+      "data_publicacao": "2026-07-01",
+      "fonte": "PCI",
+      "status": "aberto",
+      "id": "b2535ebf-840b-466c-8960-57a28fc41f7d",
+      "data_coleta": "2026-06-14T11:17:01.887930+00:00"
     }
   ]
 }

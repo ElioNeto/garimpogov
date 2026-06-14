@@ -1,8 +1,8 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 13/06/2026_
+_Atualizado em 14/06/2026_
 
-Total: **17** concursos encontrados.
+Total: **18** concursos encontrados.
 
 ---
 
@@ -124,6 +124,17 @@ Total: **17** concursos encontrados.
 - **Órgão/Local:** SP
 - **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
+
+---
+
+## PMBlumenau-SC (1)
+
+### Prefeitura de Blumenau
+[🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/seidep/seidep/prefeitura-promove-tarde-danacante-para-pessoas-com-deficiaancia-em-blumenau)
+- **Cargos:** Especialista em Gestão de Projetos, Consultor em Tecnologia
+- **Órgão/Local:** Blumenau
+- **Salário máx.:** R$ 1.920.000,00
+- **Encerramento:** 15:23
 
 ---
 

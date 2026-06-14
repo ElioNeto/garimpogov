@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 13/06/2026_
+_Atualizado em 14/06/2026_
 
-Total: **192** concursos encontrados.
+Total: **208** concursos encontrados.
 
 ---
 
@@ -278,7 +278,7 @@ Total: **192** concursos encontrados.
 
 ---
 
-## PCI (103)
+## PCI (115)
 
 ### Associação das Pioneiras Sociais/Rede SARAH
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros)
@@ -855,9 +855,82 @@ Total: **192** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-came-pr-abre-concurso-publico-para-diversos-cargos)
 - **Órgão/Local:** Prefeitura Municipal de Cambé - PR
 
+### PCICONCOS
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ce)
+- **Órgão/Local:** https://www.pciconcursos.com.br/cargos/nordeste/#CE
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 2026-07-01
+
+### PCICONCOS
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/df)
+- **Órgão/Local:** https://www.pciconcursos.com.br/cargos/norte/#DF
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 2026-07-01
+
+### PCICONCOS
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/al)
+- **Órgão/Local:** https://www.pciconcursos.com.br/cargos/nordeste/#AL
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 2026-07-01
+
+### PCICONCOS
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ime)
+- **Órgão/Local:** https://www.pciconcursos.com.br/cargos/mG
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 2026-07-01
+
+### PCICONCOS
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-concurso-publico)
+- **Cargos:** Guarda Civil Municipal
+- **Órgão/Local:** https://www.pciconcursos.com.br/cargos/marinha-do-brasil
+- **Salário máx.:** R$ 15.600,00
+- **Encerramento:** 2026-07-01
+
+### SEDUC
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/seduc-sp)
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 5.565,00
+- **Encerramento:** 2026-07-01
+
+### CRT-SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/crt-sp)
+- **Órgão/Local:** CRT-SP
+- **Salário máx.:** R$ 10.600,01
+- **Encerramento:** 2026-07-01
+
+### Câmara de Seropédica
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-seropedica-rj)
+- **Órgão/Local:** RJ
+- **Salário máx.:** R$ 15.000,00
+- **Encerramento:** 2026-07-01
+
+### Câmara de Rio das Ostras
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-rio-das-ostras)
+- **Órgão/Local:** RJ
+- **Salário máx.:** R$ 15.000,00
+- **Encerramento:** 2026-07-01
+
+### CIDASG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cidasg)
+- **Órgão/Local:** MG
+- **Salário máx.:** R$ 9.000,00
+- **Encerramento:** 2026-07-01
+
+### CRA
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cra)
+- **Órgão/Local:** MG
+- **Salário máx.:** R$ 10.600,01
+- **Encerramento:** 2026-07-01
+
+### SECA de Juiz de Fora
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cesama-de-juiz-de-fora-mg-retifica-concurso)
+- **Órgão/Local:** MG
+- **Salário máx.:** R$ 9.000,00
+- **Encerramento:** 2026-07-01
+
 ---
 
-## PMBlumenau-SC (1)
+## PMBlumenau-SC (4)
 
 ### Prefeitura de Blumenau
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/parque-vila-germanica/parque-vila-germanica/inscriacaoes-para-o-concurso-da-realeza-da-42aa-oktoberfest-blumenau-abrem-nesta-quarta-feira-dia-103)
@@ -865,9 +938,30 @@ Total: **192** concursos encontrados.
 - **Órgão/Local:** SC, Blumenau - SC
 - **Encerramento:** 07/07/2026
 
+### Prefeitura de Blumenau
+[🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/seidep/seidep/prefeitura-promove-tarde-danacante-para-pessoas-com-deficiaancia-em-blumenau)
+- **Cargos:** Especialista em Gestão de Projetos, Consultor em Tecnologia
+- **Órgão/Local:** Blumenau
+- **Salário máx.:** R$ 1.920.000,00
+- **Encerramento:** 15:23
+
+### Prefeitura de Blumenau
+[🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/secretaria-de-desenvolvimento-economico/sedec/definida-a-empresa-vencedora-da-concessaao-da-prainha94)
+- **Cargos:** Gerente de Operações, Coordenador de Comunicação
+- **Órgão/Local:** Blumenau
+- **Salário máx.:** R$ 2.500,00
+- **Encerramento:** 15:23
+
+### Procon Móvel
+[🔗 Edital](https://www.blumenau.sc.gov.br/escadearia/servicos-de-atencao-legal)
+- **Cargos:** Assistente Comercial, Gerente de Atendimento
+- **Órgão/Local:** Procon Móvel
+- **Salário máx.:** R$ 1.200,00
+- **Encerramento:** 16:18
+
 ---
 
-## TecConcursos (25)
+## TecConcursos (26)
 
 ### Prefeitura de São Paulo
 [🔗 Edital](https://www.tecconcursos.com.br/login?urlRetorno=aHR0cHM6Ly93d3cudGVjY29uY3Vyc29zLmNvbS5ici9jb25jdXJzb3M/cT1hbmFsaXN0YStkZStzaXN0ZW1hcw==)
@@ -995,5 +1089,10 @@ Total: **192** concursos encontrados.
 ### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-ii-20)
 - **Órgão/Local:** AgSUS
+
+### Advocacia Geral da União
+[🔗 Edital](https://www.cebraspe.org.br/concursos/agu_26_estagiario)
+- **Cargos:** Estagiário de Pós-Graduação em Direito (AGU) /2026
+- **Órgão/Local:** Federal
 
 ---
