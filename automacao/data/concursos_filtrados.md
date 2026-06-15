@@ -1,17 +1,24 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 14/06/2026_
+_Atualizado em 15/06/2026_
 
 Total: **18** concursos encontrados.
 
 ---
 
-## AOCP (1)
+## AOCP (2)
 
 ### Prefeitura de São Paulo
 [🔗 Edital](https://www.aocp.com.br/concurso)
 - **Cargos:** Analista de Sistemas, Professor de Ingles
 - **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+### Prefeitura de Sao Paulo
+[🔗 Edital](https://www.aocp.com.br/concurso/edital)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** Prefeitura de Sao Paulo
 - **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
 
@@ -102,14 +109,7 @@ Total: **18** concursos encontrados.
 
 ---
 
-## PCI (3)
-
-### Câmara de Holambra
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-holambra-sp-abre-concurso-publico-com-salarios-de-ate-7430)
-- **Cargos:** Analista Administrativo, Técnico em Informática
-- **Órgão/Local:** São Paulo
-- **Salário máx.:** R$ 7.430,61
-- **Encerramento:** 15/06/2026
+## PCI (2)
 
 ### Câmara de Salesópolis
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-salesopolis-sp-abre-concurso-publico-com-salarios-de-ate-7847)

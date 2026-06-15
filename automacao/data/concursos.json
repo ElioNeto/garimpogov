@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-14T11:17:01.888176+00:00",
-    "total_concursos": 208
+    "ultima_coleta": "2026-06-15T14:14:06.399913+00:00",
+    "total_concursos": 214
   },
   "concursos": [
     {
@@ -1308,22 +1308,6 @@
       "data_coleta": "2026-06-04T11:16:54.830712+00:00"
     },
     {
-      "instituicao": "Câmara de Holambra",
-      "orgao": "São Paulo",
-      "cargos": [
-        "Analista Administrativo",
-        "Técnico em Informática"
-      ],
-      "salario_maximo": "R$ 7.430,61",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-holambra-sp-abre-concurso-publico-com-salarios-de-ate-7430",
-      "data_encerramento": "15/06/2026",
-      "data_publicacao": "2026-06-04",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "f8e8a719-8eff-480a-90c3-99fd3ed57b35",
-      "data_coleta": "2026-06-04T11:16:54.830751+00:00"
-    },
-    {
       "instituicao": "Câmara de Salesópolis",
       "orgao": "São Paulo",
       "cargos": [
@@ -2273,24 +2257,6 @@
       "data_coleta": "2026-06-08T13:01:08.242487+00:00"
     },
     {
-      "instituicao": "Câmara de Holambra",
-      "orgao": "SP",
-      "cargos": [
-        "Fundamental",
-        "Médio",
-        "Superior"
-      ],
-      "salario_maximo": "R$ 7.430,61",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-holambra-sp",
-      "data_encerramento": "15/06/2026",
-      "data_publicacao": "05/06/2026",
-      "status": "aberto",
-      "local": "Holambra",
-      "fonte": "PCI",
-      "id": "7eb710d1-6608-494c-9f09-45406587a179",
-      "data_coleta": "2026-06-08T13:01:08.242508+00:00"
-    },
-    {
       "instituicao": "Câmara de Salesópolis",
       "orgao": "SP",
       "cargos": [
@@ -2517,19 +2483,6 @@
       "fonte": "Estrategia",
       "id": "a9ef9833-6910-478e-8ca8-844c995e3d26",
       "data_coleta": "2026-06-09T11:47:01.019970+00:00"
-    },
-    {
-      "instituicao": "Câmara de Santa Isabel",
-      "orgao": "SP",
-      "cargos": [],
-      "salario_maximo": "R$ 10.610,67",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-santa-isabel-sp-retifica-e-reabre-inscricoes-para-concurso-publico",
-      "data_encerramento": "15/06/2026",
-      "data_publicacao": "2026-06-09",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "9b8f4a34-edfb-41a3-b2cf-a0edcdbc2f02",
-      "data_coleta": "2026-06-09T11:47:01.020924+00:00"
     },
     {
       "instituicao": "Câmara de Rio das Ostras - RJ",
@@ -3098,6 +3051,142 @@
       "status": "aberto",
       "id": "b2535ebf-840b-466c-8960-57a28fc41f7d",
       "data_coleta": "2026-06-14T11:17:01.887930+00:00"
+    },
+    {
+      "instituicao": "Estratégia Concursos",
+      "orgao": "https://www.estrategiaconcursos.com.br",
+      "cargos": [
+        "Concurso de Concorso",
+        "Participante",
+        "Candidato"
+      ],
+      "salario_maximo": "R$ 8.000,00",
+      "link_edital": "https://www.estrategiaconcursos.com.br/cursos/concurso/",
+      "data_encerramento": "15/07/2026",
+      "data_publicacao": "20/06/2026",
+      "status": "aberto",
+      "fonte": "Estrategia",
+      "id": "1114fc1f-7630-4c77-a1e1-78cfe880ded9",
+      "data_coleta": "2026-06-15T14:14:06.398706+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Sao Paulo",
+      "orgao": "Prefeitura de Sao Paulo",
+      "cargos": [
+        "Analista de Sistemas",
+        "Professor de Ingles"
+      ],
+      "salario_maximo": "R$ 5.000,00",
+      "link_edital": "https://www.aocp.com.br/concurso/edital",
+      "data_encerramento": "30/06/2026",
+      "data_publicacao": "01/06/2026",
+      "status": "aberto",
+      "fonte": "AOCP",
+      "id": "f85e4f1f-b9b3-4461-8d8f-a49227eb028f",
+      "data_coleta": "2026-06-15T14:14:06.398747+00:00"
+    },
+    {
+      "instituicao": "Lamef",
+      "orgao": "Lamef",
+      "cargos": [
+        "Engenheiro Sênior I de Poços",
+        "Engenheiro Profissional Júnior",
+        "Pesquisador Mestre em Engenharia Química"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/1275-072026lamef",
+      "data_encerramento": "16/06/2026",
+      "data_publicacao": "10/06/2026",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "9da1c604-39cd-4a01-ad5a-89f938e9e966",
+      "data_coleta": "2026-06-15T14:14:06.398780+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Sao Paulo",
+      "orgao": "SP, Sao Paulo - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 5.000,00",
+      "link_edital": "https://www.faurgs.com.br/",
+      "data_encerramento": "30/06/2026",
+      "data_publicacao": "01/06/2026",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "9c998781-2248-4d31-a663-83454510ec58",
+      "data_coleta": "2026-06-15T14:14:06.398862+00:00"
+    },
+    {
+      "instituicao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
+      "orgao": "SP",
+      "cargos": [
+        "Vários"
+      ],
+      "salario_maximo": "R$ 9.115,64",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/famesp-abre-processo-seletivo-para-profissionais-de-saude-em-botucatu",
+      "data_encerramento": "22/06/2026",
+      "data_publicacao": "2026-06-15",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "497deb71-b93e-4f14-9cc5-06dcae05644d",
+      "data_coleta": "2026-06-15T14:14:06.399188+00:00"
+    },
+    {
+      "instituicao": "FSA - Fundação Santo André",
+      "orgao": "SP",
+      "cargos": [
+        "Operador de Máquina Copiadora"
+      ],
+      "salario_maximo": "R$ 1.705,05",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-para-operador-de-maquina-copiadora",
+      "data_encerramento": "02/07/2026",
+      "data_publicacao": "2026-06-15",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "b982b3a7-63f4-4afe-a4bd-94dddbd6f45a",
+      "data_coleta": "2026-06-15T14:14:06.399225+00:00"
+    },
+    {
+      "instituicao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+      "orgao": "SP",
+      "cargos": [
+        "Enfermeiro"
+      ],
+      "salario_maximo": "R$ 6.765,61",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-o-cargo-de-enfermeiro-no-hemocentro",
+      "data_encerramento": "16/06/2026",
+      "data_publicacao": "2026-06-15",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "e2db7df2-72ca-4676-a145-6b2f17a3b505",
+      "data_coleta": "2026-06-15T14:14:06.399278+00:00"
+    },
+    {
+      "instituicao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+      "orgao": "SP",
+      "cargos": [
+        "Médico Intensivista Plantonista"
+      ],
+      "salario_maximo": "R$ 323,80",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-medico-intensivista-plantonista",
+      "data_encerramento": "19/06/2026",
+      "data_publicacao": "2026-06-15",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "7d91a5e9-b315-4ecb-86fc-632319588989",
+      "data_coleta": "2026-06-15T14:14:06.399309+00:00"
+    },
+    {
+      "instituicao": "Polícia Penal",
+      "orgao": "Polícia Penal - RS",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/po",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-15",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "a9498c68-0e6e-4e51-a07e-323cc86cf2ad",
+      "data_coleta": "2026-06-15T14:14:06.399589+00:00"
     }
   ]
 }

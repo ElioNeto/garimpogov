@@ -1,17 +1,24 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 14/06/2026_
+_Atualizado em 15/06/2026_
 
-Total: **208** concursos encontrados.
+Total: **214** concursos encontrados.
 
 ---
 
-## AOCP (1)
+## AOCP (2)
 
 ### Prefeitura de São Paulo
 [🔗 Edital](https://www.aocp.com.br/concurso)
 - **Cargos:** Analista de Sistemas, Professor de Ingles
 - **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+### Prefeitura de Sao Paulo
+[🔗 Edital](https://www.aocp.com.br/concurso/edital)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** Prefeitura de Sao Paulo
 - **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
 
@@ -49,7 +56,7 @@ Total: **208** concursos encontrados.
 
 ---
 
-## Estrategia (2)
+## Estrategia (3)
 
 ### Prefeitura de Sao Paulo
 [🔗 Edital](https://www.estrategiaconcursos.com.br/por-concursos)
@@ -65,9 +72,16 @@ Total: **208** concursos encontrados.
 - **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
 
+### Estratégia Concursos
+[🔗 Edital](https://www.estrategiaconcursos.com.br/cursos/concurso/)
+- **Cargos:** Concurso de Concorso, Participante, Candidato
+- **Órgão/Local:** https://www.estrategiaconcursos.com.br
+- **Salário máx.:** R$ 8.000,00
+- **Encerramento:** 15/07/2026
+
 ---
 
-## FAURGS (13)
+## FAURGS (15)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -132,6 +146,18 @@ Total: **208** concursos encontrados.
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1275-072026lamef)
 - **Cargos:** Engenheiro Sênior I de Poços, Engenheiro Profissional Júnior
 - **Órgão/Local:** LAMEF
+
+### Lamef
+[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1275-072026lamef)
+- **Cargos:** Engenheiro Sênior I de Poços, Engenheiro Profissional Júnior, Pesquisador Mestre em Engenharia Química
+- **Órgão/Local:** Lamef
+- **Encerramento:** 16/06/2026
+
+### Prefeitura de Sao Paulo
+[🔗 Edital](https://www.faurgs.com.br/)
+- **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
 
 ---
 
@@ -278,7 +304,7 @@ Total: **208** concursos encontrados.
 
 ---
 
-## PCI (115)
+## PCI (117)
 
 ### Associação das Pioneiras Sociais/Rede SARAH
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros)
@@ -504,13 +530,6 @@ Total: **208** concursos encontrados.
 - **Salário máx.:** R$ 2.018,54
 - **Encerramento:** 19/06/2026
 
-### Câmara de Holambra
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-holambra-sp-abre-concurso-publico-com-salarios-de-ate-7430)
-- **Cargos:** Analista Administrativo, Técnico em Informática
-- **Órgão/Local:** São Paulo
-- **Salário máx.:** R$ 7.430,61
-- **Encerramento:** 15/06/2026
-
 ### Câmara de Salesópolis
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-salesopolis-sp-abre-concurso-publico-com-salarios-de-ate-7847)
 - **Cargos:** Assistente Administrativo, Técnico em Informática
@@ -662,13 +681,6 @@ Total: **208** concursos encontrados.
 - **Salário máx.:** R$ 2.018,54
 - **Encerramento:** 19/06/2026
 
-### Câmara de Holambra
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-holambra-sp)
-- **Cargos:** Fundamental, Médio, Superior
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 7.430,61
-- **Encerramento:** 15/06/2026
-
 ### Câmara de Salesópolis
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-salesopolis-sp)
 - **Cargos:** Fundamental, Médio, Superior
@@ -750,12 +762,6 @@ Total: **208** concursos encontrados.
 - **Órgão/Local:** MG
 - **Salário máx.:** N/A
 - **Encerramento:** N/A
-
-### Câmara de Santa Isabel
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-santa-isabel-sp-retifica-e-reabre-inscricoes-para-concurso-publico)
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 10.610,67
-- **Encerramento:** 15/06/2026
 
 ### Câmara de Rio das Ostras - RJ
 [🔗 Edital](https://www.pcicon)
@@ -927,6 +933,38 @@ Total: **208** concursos encontrados.
 - **Órgão/Local:** MG
 - **Salário máx.:** R$ 9.000,00
 - **Encerramento:** 2026-07-01
+
+### FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-abre-processo-seletivo-para-profissionais-de-saude-em-botucatu)
+- **Cargos:** Vários
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 9.115,64
+- **Encerramento:** 22/06/2026
+
+### FSA - Fundação Santo André
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-para-operador-de-maquina-copiadora)
+- **Cargos:** Operador de Máquina Copiadora
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 1.705,05
+- **Encerramento:** 02/07/2026
+
+### FUNCAMP - Fundação de Desenvolvimento da Unicamp
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-o-cargo-de-enfermeiro-no-hemocentro)
+- **Cargos:** Enfermeiro
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 6.765,61
+- **Encerramento:** 16/06/2026
+
+### FUNCAMP - Fundação de Desenvolvimento da Unicamp
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-medico-intensivista-plantonista)
+- **Cargos:** Médico Intensivista Plantonista
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 323,80
+- **Encerramento:** 19/06/2026
+
+### Polícia Penal
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/po)
+- **Órgão/Local:** Polícia Penal - RS
 
 ---
 
