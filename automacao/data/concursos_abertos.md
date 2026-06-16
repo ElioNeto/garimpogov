@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 15/06/2026_
+_Atualizado em 16/06/2026_
 
-Total: **214** concursos encontrados.
+Total: **219** concursos encontrados.
 
 ---
 
@@ -81,7 +81,7 @@ Total: **214** concursos encontrados.
 
 ---
 
-## FAURGS (15)
+## FAURGS (14)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -147,12 +147,6 @@ Total: **214** concursos encontrados.
 - **Cargos:** Engenheiro Sênior I de Poços, Engenheiro Profissional Júnior
 - **Órgão/Local:** LAMEF
 
-### Lamef
-[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1275-072026lamef)
-- **Cargos:** Engenheiro Sênior I de Poços, Engenheiro Profissional Júnior, Pesquisador Mestre em Engenharia Química
-- **Órgão/Local:** Lamef
-- **Encerramento:** 16/06/2026
-
 ### Prefeitura de Sao Paulo
 [🔗 Edital](https://www.faurgs.com.br/)
 - **Órgão/Local:** SP, Sao Paulo - SP
@@ -161,7 +155,7 @@ Total: **214** concursos encontrados.
 
 ---
 
-## FGV (42)
+## FGV (45)
 
 ### Concurso Público Nacional Unificado 2
 [🔗 Edital](https://conhecimento.fgv.br/cpnu2)
@@ -291,6 +285,20 @@ Total: **214** concursos encontrados.
 [🔗 Edital](https://conhecimento.fgv.br)
 - **Órgão/Local:** RJ, Rio de Janeiro - RJ
 
+### Tribunal de Justiça do Estado da Bahia
+[🔗 Edital](https://conhecimento.fgv.br/concursos/tjbajuizleigo26)
+- **Cargos:** Juiz Leigo
+- **Órgão/Local:** Tribunal de Justiça do Estado da Bahia
+
+### Tribunal de Justiça do Estado da Bahia
+[🔗 Edital](https://conhecimento.fgv.br/concursos/juiztjba)
+- **Cargos:** Juiz Substituto
+- **Órgão/Local:** Tribunal de Justiça do Estado da Bahia
+
+### Faculdade Evangélica Mackenzie do Paraná
+[🔗 Edital](https://conhecimento.fgv.br/concursos/fempar23)
+- **Órgão/Local:** Faculdade Evangélica Mackenzie do Paraná
+
 ---
 
 ## IPPEC (1)
@@ -304,7 +312,7 @@ Total: **214** concursos encontrados.
 
 ---
 
-## PCI (117)
+## PCI (120)
 
 ### Associação das Pioneiras Sociais/Rede SARAH
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros)
@@ -949,13 +957,6 @@ Total: **214** concursos encontrados.
 - **Encerramento:** 02/07/2026
 
 ### FUNCAMP - Fundação de Desenvolvimento da Unicamp
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-o-cargo-de-enfermeiro-no-hemocentro)
-- **Cargos:** Enfermeiro
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 6.765,61
-- **Encerramento:** 16/06/2026
-
-### FUNCAMP - Fundação de Desenvolvimento da Unicamp
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-medico-intensivista-plantonista)
 - **Cargos:** Médico Intensivista Plantonista
 - **Órgão/Local:** SP
@@ -965,6 +966,33 @@ Total: **214** concursos encontrados.
 ### Polícia Penal
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/po)
 - **Órgão/Local:** Polícia Penal - RS
+
+### PCICONCURSOS
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ebserh-disponibiliza-vagas-para-medicos-e-fisicos-em-brasilia-piaui-e-minas-gerais)
+- **Cargos:** Engenheiro de Manutenção, Físico, Médico
+- **Órgão/Local:** https://www.pciconcursos.com.br/cargos/norte/#AP
+- **Salário máx.:** R$ 11.464,58
+- **Encerramento:** 28/06/2026
+
+### PCICONCURSOS
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ime-abre-concurso-com-vagas-de-nivel-superior)
+- **Cargos:** Superior
+- **Órgão/Local:** https://www.pciconcursos.com.br/concursos/nordeste/#AL
+- **Salário máx.:** R$ 9.004,00
+- **Encerramento:** 15/07/2026
+
+### PCICONCURSOS
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/itame-ita-disponibiliza-centenas-de-vagas-para-curso-de-engenharia-em-diversas-especialidades)
+- **Cargos:** Superior
+- **Órgão/Local:** https://www.pciconcursos.com.br/concursos/nordeste/#AM
+- **Salário máx.:** R$ 9.004,00
+- **Encerramento:** 17/06 a 15/07/2026
+
+### PCICONCURSOS
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ibge-disponibiliza-1414-vagas-para-agente-e-analista-censitario-em-novo-processo-seletivo)
+- **Órgão/Local:** https://www.pciconcursos.com.br/concursos/norte/#RR
+- **Salário máx.:** R$ 200
+- **Encerramento:** 12/07/2026
 
 ---
 

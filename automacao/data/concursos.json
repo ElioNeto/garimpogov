@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-15T14:14:06.399913+00:00",
-    "total_concursos": 214
+    "ultima_coleta": "2026-06-16T13:03:44.678979+00:00",
+    "total_concursos": 219
   },
   "concursos": [
     {
@@ -3086,23 +3086,6 @@
       "data_coleta": "2026-06-15T14:14:06.398747+00:00"
     },
     {
-      "instituicao": "Lamef",
-      "orgao": "Lamef",
-      "cargos": [
-        "Engenheiro Sênior I de Poços",
-        "Engenheiro Profissional Júnior",
-        "Pesquisador Mestre em Engenharia Química"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/1275-072026lamef",
-      "data_encerramento": "16/06/2026",
-      "data_publicacao": "10/06/2026",
-      "status": "aberto",
-      "fonte": "FAURGS",
-      "id": "9da1c604-39cd-4a01-ad5a-89f938e9e966",
-      "data_coleta": "2026-06-15T14:14:06.398780+00:00"
-    },
-    {
       "instituicao": "Prefeitura de Sao Paulo",
       "orgao": "SP, Sao Paulo - SP",
       "cargos": [],
@@ -3149,21 +3132,6 @@
       "instituicao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
       "orgao": "SP",
       "cargos": [
-        "Enfermeiro"
-      ],
-      "salario_maximo": "R$ 6.765,61",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-o-cargo-de-enfermeiro-no-hemocentro",
-      "data_encerramento": "16/06/2026",
-      "data_publicacao": "2026-06-15",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "e2db7df2-72ca-4676-a145-6b2f17a3b505",
-      "data_coleta": "2026-06-15T14:14:06.399278+00:00"
-    },
-    {
-      "instituicao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-      "orgao": "SP",
-      "cargos": [
         "Médico Intensivista Plantonista"
       ],
       "salario_maximo": "R$ 323,80",
@@ -3187,6 +3155,108 @@
       "fonte": "PCI",
       "id": "a9498c68-0e6e-4e51-a07e-323cc86cf2ad",
       "data_coleta": "2026-06-15T14:14:06.399589+00:00"
+    },
+    {
+      "instituicao": "Tribunal de Justiça do Estado da Bahia",
+      "orgao": "Tribunal de Justiça do Estado da Bahia",
+      "cargos": [
+        "Juiz Leigo"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br/concursos/tjbajuizleigo26",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-16",
+      "status": "aberto",
+      "fonte": "FGV",
+      "id": "abfbb3e9-30f2-4d84-8775-405652c193fe",
+      "data_coleta": "2026-06-16T13:03:44.678043+00:00"
+    },
+    {
+      "instituicao": "Tribunal de Justiça do Estado da Bahia",
+      "orgao": "Tribunal de Justiça do Estado da Bahia",
+      "cargos": [
+        "Juiz Substituto"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br/concursos/juiztjba",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-16",
+      "status": "aberto",
+      "fonte": "FGV",
+      "id": "2f99cc36-3bff-48d6-bdb0-a6c2419d975e",
+      "data_coleta": "2026-06-16T13:03:44.678076+00:00"
+    },
+    {
+      "instituicao": "Faculdade Evangélica Mackenzie do Paraná",
+      "orgao": "Faculdade Evangélica Mackenzie do Paraná",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br/concursos/fempar23",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-16",
+      "status": "aberto",
+      "fonte": "FGV",
+      "id": "2bf5c56c-7c81-412a-bdb6-0cda43480a56",
+      "data_coleta": "2026-06-16T13:03:44.678202+00:00"
+    },
+    {
+      "instituicao": "PCICONCURSOS",
+      "orgao": "https://www.pciconcursos.com.br/cargos/norte/#AP",
+      "cargos": [
+        "Engenheiro de Manutenção",
+        "Físico, Médico"
+      ],
+      "salario_maximo": "R$ 11.464,58",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/ebserh-disponibiliza-vagas-para-medicos-e-fisicos-em-brasilia-piaui-e-minas-gerais",
+      "data_encerramento": "28/06/2026",
+      "data_publicacao": "28/06/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "8c6a4488-2bb3-4b95-b5ef-128bb863d5a0",
+      "data_coleta": "2026-06-16T13:03:44.678290+00:00"
+    },
+    {
+      "instituicao": "PCICONCURSOS",
+      "orgao": "https://www.pciconcursos.com.br/concursos/nordeste/#AL",
+      "cargos": [
+        "Superior"
+      ],
+      "salario_maximo": "R$ 9.004,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/ime-abre-concurso-com-vagas-de-nivel-superior",
+      "data_encerramento": "15/07/2026",
+      "data_publicacao": "17/06 a 15/07/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "27facb04-c27d-48fa-844d-c90fcd5634fb",
+      "data_coleta": "2026-06-16T13:03:44.678319+00:00"
+    },
+    {
+      "instituicao": "PCICONCURSOS",
+      "orgao": "https://www.pciconcursos.com.br/concursos/nordeste/#AM",
+      "cargos": [
+        "Superior"
+      ],
+      "salario_maximo": "R$ 9.004,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/itame-ita-disponibiliza-centenas-de-vagas-para-curso-de-engenharia-em-diversas-especialidades",
+      "data_encerramento": "17/06 a 15/07/2026",
+      "data_publicacao": "02/07/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "345da810-4bd7-43da-a6f7-a40cad3dbee8",
+      "data_coleta": "2026-06-16T13:03:44.678352+00:00"
+    },
+    {
+      "instituicao": "PCICONCURSOS",
+      "orgao": "https://www.pciconcursos.com.br/concursos/norte/#RR",
+      "cargos": [],
+      "salario_maximo": "R$ 200",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/ibge-disponibiliza-1414-vagas-para-agente-e-analista-censitario-em-novo-processo-seletivo",
+      "data_encerramento": "12/07/2026",
+      "data_publicacao": "12/07/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "3e2b7111-d4fe-4727-a372-467c1238bb94",
+      "data_coleta": "2026-06-16T13:03:44.678441+00:00"
     }
   ]
 }
