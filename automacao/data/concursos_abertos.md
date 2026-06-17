@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 16/06/2026_
+_Atualizado em 17/06/2026_
 
-Total: **219** concursos encontrados.
+Total: **226** concursos encontrados.
 
 ---
 
@@ -19,6 +19,17 @@ Total: **219** concursos encontrados.
 [🔗 Edital](https://www.aocp.com.br/concurso/edital)
 - **Cargos:** Analista de Sistemas, Professor de Ingles
 - **Órgão/Local:** Prefeitura de Sao Paulo
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+---
+
+## DOE-BA (1)
+
+### EGBA - Empresa Gráfica da Bahia
+[🔗 Edital](https://www.egba.ba.gov.br/licitacoes)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** SP, Sao Paulo - SP
 - **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
 
@@ -312,7 +323,7 @@ Total: **219** concursos encontrados.
 
 ---
 
-## PCI (120)
+## PCI (126)
 
 ### Associação das Pioneiras Sociais/Rede SARAH
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros)
@@ -993,6 +1004,43 @@ Total: **219** concursos encontrados.
 - **Órgão/Local:** https://www.pciconcursos.com.br/concursos/norte/#RR
 - **Salário máx.:** R$ 200
 - **Encerramento:** 12/07/2026
+
+### Prefeitura de Cambé - PR
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-came-pr-abre-concurso-publico-com-remuneracoes-de-ate-1408845)
+- **Órgão/Local:** Prefeitura Municipal de Cambé
+- **Salário máx.:** R$ 14.088,45
+
+### CBM - AL
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cbm-al-divulga-retificacao-de-concurso-publico)
+- **Órgão/Local:** Alagoas - AL
+
+### Concursos
+[🔗 Edital](https://www.pciconcursos.com.br/concursos/)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** Organização de Concursos
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+### IBGE
+[🔗 Edital](https://www.pciconcursos.com.br/ibge/)
+- **Cargos:** Cargos públicos, Projetos de Pesquisa
+- **Órgão/Local:** Instituto Brasileiro de Geografia e Estatística
+- **Salário máx.:** R$ 10.000,00
+- **Encerramento:** 2026-06-30
+
+### CRT-SP
+[🔗 Edital](https://www.pciconcursos.com.br/crt-sp/)
+- **Cargos:** Recrutamento, Treinamento
+- **Órgão/Local:** Centro de Recursos Humanos
+- **Salário máx.:** R$ 12.000,00
+- **Encerramento:** 2026-06-25
+
+### Câmara de Arujá
+[🔗 Edital](https://www.pciconcursos.com.br/camara-arujá/)
+- **Cargos:** Gestão de Projetos, Contratação
+- **Órgão/Local:** Câmara de Arujá
+- **Salário máx.:** R$ 18.000,00
+- **Encerramento:** 2026-06-30
 
 ---
 

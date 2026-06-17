@@ -1,8 +1,8 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 16/06/2026_
+_Atualizado em 17/06/2026_
 
-Total: **18** concursos encontrados.
+Total: **20** concursos encontrados.
 
 ---
 
@@ -19,6 +19,17 @@ Total: **18** concursos encontrados.
 [🔗 Edital](https://www.aocp.com.br/concurso/edital)
 - **Cargos:** Analista de Sistemas, Professor de Ingles
 - **Órgão/Local:** Prefeitura de Sao Paulo
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+---
+
+## DOE-BA (1)
+
+### EGBA - Empresa Gráfica da Bahia
+[🔗 Edital](https://www.egba.ba.gov.br/licitacoes)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** SP, Sao Paulo - SP
 - **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
 
@@ -109,7 +120,7 @@ Total: **18** concursos encontrados.
 
 ---
 
-## PCI (2)
+## PCI (3)
 
 ### Câmara de Salesópolis
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-salesopolis-sp-abre-concurso-publico-com-salarios-de-ate-7847)
@@ -122,6 +133,13 @@ Total: **18** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/)
 - **Cargos:** Analista de Sistemas, Professor de Ingles
 - **Órgão/Local:** SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+### Concursos
+[🔗 Edital](https://www.pciconcursos.com.br/concursos/)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** Organização de Concursos
 - **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
 
