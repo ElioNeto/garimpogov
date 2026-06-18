@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-17T12:23:10.336594+00:00",
-    "total_concursos": 226
+    "ultima_coleta": "2026-06-18T11:57:36.046323+00:00",
+    "total_concursos": 230
   },
   "concursos": [
     {
@@ -643,21 +643,6 @@
       "fonte": "PCI",
       "id": "62bab381-2144-4bfc-b008-b5a9a2a6258d",
       "data_coleta": "2026-06-02T21:53:50.370569+00:00"
-    },
-    {
-      "instituicao": "Secretaria da Educação do Estado de São Paulo",
-      "orgao": "SP, São Paulo - SP",
-      "cargos": [
-        "Professor de Ensino Fundamental e Ensino Médio"
-      ],
-      "salario_maximo": "R$ 5.565,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/seduc-sp-aberta-selecao-para-professores-da-rede-estadual-com-salario-de-5565",
-      "data_encerramento": "18/06/2026",
-      "data_publicacao": "2026-06-02",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "0919bb74-097e-4251-abff-cc5f9c981909",
-      "data_coleta": "2026-06-02T21:53:50.370604+00:00"
     },
     {
       "instituicao": "Comando da Aeronáutica",
@@ -2224,23 +2209,6 @@
       "data_coleta": "2026-06-08T13:01:08.242442+00:00"
     },
     {
-      "instituicao": "SEDUC - Secretaria da Educação do Estado de São Paulo",
-      "orgao": "SP",
-      "cargos": [
-        "Professora de Ensino Fundamental",
-        "Professora de Ensino Médio"
-      ],
-      "salario_maximo": "R$ 5.565,00",
-      "link_edital": "https://www.pciconcursos.com.br/apostilas/seduc-sp",
-      "data_encerramento": "18/06/2026",
-      "data_publicacao": "09/06/2026",
-      "status": "aberto",
-      "local": "São Paulo",
-      "fonte": "PCI",
-      "id": "7afe2bea-44ba-423b-b41d-a0cded523fa3",
-      "data_coleta": "2026-06-08T13:01:08.242466+00:00"
-    },
-    {
       "instituicao": "AME - Ambulatório Médico de Especialidades de Limeira",
       "orgao": "SP",
       "cargos": [
@@ -3363,6 +3331,92 @@
       "fonte": "PCI",
       "id": "dc8b804b-74c1-400d-8e83-d333c09ca7ca",
       "data_coleta": "2026-06-17T12:23:10.336570+00:00"
+    },
+    {
+      "instituicao": "5ª RM - 5ª Região Militar",
+      "orgao": null,
+      "cargos": [],
+      "salario_maximo": "R$ 10.863,68",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/5-regiao-militar-pr-sc-abre-selecoes-para-oficiais-tecnicos-temporarios",
+      "data_encerramento": "20/07/2026",
+      "data_publicacao": "2026-06-18",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "7e23c4d0-5ccd-4176-ae41-6253462839c7",
+      "data_coleta": "2026-06-18T11:57:36.045853+00:00"
+    },
+    {
+      "instituicao": "SEDUC - SP",
+      "orgao": "São Paulo",
+      "cargos": [
+        "Professor"
+      ],
+      "salario_maximo": "R$ 5.565,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/seduc-sp-aberta-selecao-para-professores-da-rede-estadual-com-salario-de-5565",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-18",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "9e690d13-7ec5-413e-a30f-c28d2c327d2f",
+      "data_coleta": "2026-06-18T11:57:36.045966+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Ipatinga - MG",
+      "orgao": "Minas Gerais",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipatinga-mg-retifica-concurso-publico-para-diversos-cargos",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-18",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "79410f10-1bf2-4cad-b84c-0879cb858c1b",
+      "data_coleta": "2026-06-18T11:57:36.046021+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Paracatu - MG",
+      "orgao": "Minas Gerais",
+      "cargos": [
+        "Guarda Civil Municipal"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paracatu-mg-publica-edital-retificado-de-concurso-publico-para-guarda-civil-municipal",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-18",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "43d92ff1-30cd-4ce6-a1e8-f5c1c98326ff",
+      "data_coleta": "2026-06-18T11:57:36.046044+00:00"
+    },
+    {
+      "instituicao": "SEPLAG/SEDUC - AL",
+      "orgao": "Alagoas",
+      "cargos": [
+        "Professor"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/notic",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-18",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "820dd971-2f2d-4f0a-b213-d0615b63a138",
+      "data_coleta": "2026-06-18T11:57:36.046086+00:00"
+    },
+    {
+      "instituicao": "SEPLAG/SEDUC - AL",
+      "orgao": null,
+      "cargos": [
+        "Professor"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/seplag-seduc-al-abre-concurso-publico-para-o-cargo-de-professor",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-18",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "52993236-0165-4ccd-ac00-4c5bda02454d",
+      "data_coleta": "2026-06-18T11:57:36.046133+00:00"
     }
   ]
 }

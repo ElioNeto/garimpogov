@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 17/06/2026_
+_Atualizado em 18/06/2026_
 
-Total: **226** concursos encontrados.
+Total: **230** concursos encontrados.
 
 ---
 
@@ -323,7 +323,7 @@ Total: **226** concursos encontrados.
 
 ---
 
-## PCI (126)
+## PCI (130)
 
 ### Associação das Pioneiras Sociais/Rede SARAH
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros)
@@ -343,13 +343,6 @@ Total: **226** concursos encontrados.
 - **Cargos:** Aluno do Curso de Graduação em Engenharia do ITA
 - **Órgão/Local:** SP, São Paulo - SP
 - **Encerramento:** 12/07/2026
-
-### Secretaria da Educação do Estado de São Paulo
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/seduc-sp-aberta-selecao-para-professores-da-rede-estadual-com-salario-de-5565)
-- **Cargos:** Professor de Ensino Fundamental e Ensino Médio
-- **Órgão/Local:** SP, São Paulo - SP
-- **Salário máx.:** R$ 5.565,00
-- **Encerramento:** 18/06/2026
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -685,13 +678,6 @@ Total: **226** concursos encontrados.
 - **Órgão/Local:** SP
 - **Salário máx.:** R$ 5.200,00
 - **Encerramento:** 06/07/2026
-
-### SEDUC - Secretaria da Educação do Estado de São Paulo
-[🔗 Edital](https://www.pciconcursos.com.br/apostilas/seduc-sp)
-- **Cargos:** Professora de Ensino Fundamental, Professora de Ensino Médio
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 5.565,00
-- **Encerramento:** 18/06/2026
 
 ### AME - Ambulatório Médico de Especialidades de Limeira
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/caixa-de-saude-de-sao-vicente-sp)
@@ -1041,6 +1027,35 @@ Total: **226** concursos encontrados.
 - **Órgão/Local:** Câmara de Arujá
 - **Salário máx.:** R$ 18.000,00
 - **Encerramento:** 2026-06-30
+
+### 5ª RM - 5ª Região Militar
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/5-regiao-militar-pr-sc-abre-selecoes-para-oficiais-tecnicos-temporarios)
+- **Salário máx.:** R$ 10.863,68
+- **Encerramento:** 20/07/2026
+
+### SEDUC - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/seduc-sp-aberta-selecao-para-professores-da-rede-estadual-com-salario-de-5565)
+- **Cargos:** Professor
+- **Órgão/Local:** São Paulo
+- **Salário máx.:** R$ 5.565,00
+
+### Prefeitura de Ipatinga - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-ipatinga-mg-retifica-concurso-publico-para-diversos-cargos)
+- **Órgão/Local:** Minas Gerais
+
+### Prefeitura de Paracatu - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-paracatu-mg-publica-edital-retificado-de-concurso-publico-para-guarda-civil-municipal)
+- **Cargos:** Guarda Civil Municipal
+- **Órgão/Local:** Minas Gerais
+
+### SEPLAG/SEDUC - AL
+[🔗 Edital](https://www.pciconcursos.com.br/notic)
+- **Cargos:** Professor
+- **Órgão/Local:** Alagoas
+
+### SEPLAG/SEDUC - AL
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/seplag-seduc-al-abre-concurso-publico-para-o-cargo-de-professor)
+- **Cargos:** Professor
 
 ---
 
