@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-18T11:57:36.046323+00:00",
-    "total_concursos": 230
+    "ultima_coleta": "2026-06-19T12:27:48.850800+00:00",
+    "total_concursos": 249
   },
   "concursos": [
     {
@@ -1278,21 +1278,6 @@
       "data_coleta": "2026-06-03T13:02:37.218784+00:00"
     },
     {
-      "instituicao": "Ambulatório Médico de Especialidades de Limeira",
-      "orgao": "São Paulo",
-      "cargos": [
-        "Telefonista"
-      ],
-      "salario_maximo": "R$ 2.018,54",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-o-cargo-de-telefonista-pcd-no-ame-de-limeira",
-      "data_encerramento": "19/06/2026",
-      "data_publicacao": "2026-06-04",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "972abf53-b76c-4d60-84aa-6a670f90ffe2",
-      "data_coleta": "2026-06-04T11:16:54.830712+00:00"
-    },
-    {
       "instituicao": "Câmara de Salesópolis",
       "orgao": "São Paulo",
       "cargos": [
@@ -2209,22 +2194,6 @@
       "data_coleta": "2026-06-08T13:01:08.242442+00:00"
     },
     {
-      "instituicao": "AME - Ambulatório Médico de Especialidades de Limeira",
-      "orgao": "SP",
-      "cargos": [
-        "Telefonista"
-      ],
-      "salario_maximo": "R$ 2.018,54",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/caixa-de-saude-de-sao-vicente-sp",
-      "data_encerramento": "19/06/2026",
-      "data_publicacao": "19/06/2026",
-      "status": "aberto",
-      "local": "Limeira",
-      "fonte": "PCI",
-      "id": "bf401d75-fd46-40a3-96c2-762aff62fb74",
-      "data_coleta": "2026-06-08T13:01:08.242487+00:00"
-    },
-    {
       "instituicao": "Câmara de Salesópolis",
       "orgao": "SP",
       "cargos": [
@@ -3097,21 +3066,6 @@
       "data_coleta": "2026-06-15T14:14:06.399225+00:00"
     },
     {
-      "instituicao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-      "orgao": "SP",
-      "cargos": [
-        "Médico Intensivista Plantonista"
-      ],
-      "salario_maximo": "R$ 323,80",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-medico-intensivista-plantonista",
-      "data_encerramento": "19/06/2026",
-      "data_publicacao": "2026-06-15",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "7d91a5e9-b315-4ecb-86fc-632319588989",
-      "data_coleta": "2026-06-15T14:14:06.399309+00:00"
-    },
-    {
       "instituicao": "Polícia Penal",
       "orgao": "Polícia Penal - RS",
       "cargos": [],
@@ -3417,6 +3371,330 @@
       "fonte": "PCI",
       "id": "52993236-0165-4ccd-ac00-4c5bda02454d",
       "data_coleta": "2026-06-18T11:57:36.046133+00:00"
+    },
+    {
+      "instituicao": "Lamef",
+      "orgao": "Lamef",
+      "cargos": [
+        "Engenheiro Sênior I de Poços",
+        "Engenheiro Profissional Júnior",
+        "Pesquisador Mestre em Engenharia Química"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/1275-072026lamef",
+      "data_encerramento": "23/06/2026",
+      "data_publicacao": "10/06/2026",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "099647ff-fc95-4cd3-820e-99657c4c2fe6",
+      "data_coleta": "2026-06-19T12:27:48.849649+00:00"
+    },
+    {
+      "instituicao": "Concurso Público para a Secretaria de Estado da Administração - SEAD-AP",
+      "orgao": "Secretaria de Estado da Administração - SEAD-AP",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br/concursos/seadap22",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-19",
+      "status": null,
+      "fonte": "FGV",
+      "id": "b9eab9e8-1e73-46f3-97e5-8ff39b163252",
+      "data_coleta": "2026-06-19T12:27:48.849951+00:00"
+    },
+    {
+      "instituicao": "Concurso Público para o Tribunal de Contas do Estado do Tocantins",
+      "orgao": "Tribunal de Contas do Estado do Tocantins",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br/concursos/tceto22",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-19",
+      "status": null,
+      "fonte": "FGV",
+      "id": "69d01e78-baa2-451d-a895-28b0b5bbdfef",
+      "data_coleta": "2026-06-19T12:27:48.849976+00:00"
+    },
+    {
+      "instituicao": "Concurso Público para a Procuradoria-Geral do Estado de Santa Catarina",
+      "orgao": "Procuradoria-Geral do Estado de Santa Catarina",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br/concursos/pgesc22",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-19",
+      "status": null,
+      "fonte": "FGV",
+      "id": "e3de2082-7505-47d8-becc-168819859090",
+      "data_coleta": "2026-06-19T12:27:48.849998+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Franca - SP",
+      "orgao": "Prefeitura de Franca - SP",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-franca-sp-abre-concursos-publicos-para-diversos-cargos-e-niveis-de-escolaridade",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-19",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "9f9299b6-83fd-49b0-90b2-634c97604bab",
+      "data_coleta": "2026-06-19T12:27:48.850123+00:00"
+    },
+    {
+      "instituicao": "PM - SP",
+      "orgao": "PM - SP",
+      "cargos": [
+        "Aluno-Soldado"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/pm-sp-abre-concurso-com-2000-vagas-para-aluno-soldado",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-19",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "5ae484ec-f351-4f50-96fe-21fc6c629e24",
+      "data_coleta": "2026-06-19T12:27:48.850145+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Osasco - SP",
+      "orgao": "Prefeitura de Osasco - SP",
+      "cargos": [
+        "Cuidador Social"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-osasco-sp-abre-concurso-com-25-vagas-para-cuidador-social",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-19",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "a4461582-484e-4535-805d-4676859de7e8",
+      "data_coleta": "2026-06-19T12:27:48.850171+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Itajaí - SC",
+      "orgao": "Prefeitura de Itajaí - SC",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itajai-sc-abre-concursos-publicos-com-remuneracoes",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-19",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "7609862b-f431-4151-8ce4-1348b4827bfe",
+      "data_coleta": "2026-06-19T12:27:48.850250+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Sao Paulo",
+      "orgao": "SP, Sao Paulo - SP",
+      "cargos": [
+        "Analista de Sistemas",
+        "Professor de Ingles"
+      ],
+      "salario_maximo": "R$ 5.000,00",
+      "link_edital": "https://www.example.com/edital",
+      "data_encerramento": "30/06/2026",
+      "data_publicacao": "01/06/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "0880c5ff-9b6f-4b0d-adde-7454416bba8c",
+      "data_coleta": "2026-06-19T12:27:48.850372+00:00"
+    },
+    {
+      "instituicao": "IBGE",
+      "orgao": "Instituto Brasileiro de Geografia e Estatística",
+      "cargos": [
+        "Censo Agropecuário",
+        "Florestal",
+        "Aquícola"
+      ],
+      "salario_maximo": "R$ 5.255,40",
+      "link_edital": "https://www.example.com/ibge",
+      "data_publicacao": "2026-06-19",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "58d160bb-9602-4eb4-b73e-188b5dc4279a",
+      "data_coleta": "2026-06-19T12:27:48.850389+00:00"
+    },
+    {
+      "instituicao": "Prova Nacional Docente 2026",
+      "orgao": "Universidade de São Paulo",
+      "cargos": [
+        "Docente de Ensino Superior",
+        "Professor de Ciências Humanas"
+      ],
+      "salario_maximo": "R$ 10.000,00",
+      "link_edital": "https://www.example.com/prova",
+      "data_publicacao": "2026-07-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "5b187b9b-73ef-4b78-817b-65d110962bee",
+      "data_coleta": "2026-06-19T12:27:48.850402+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Franca",
+      "orgao": "Prefeitura de Franca",
+      "cargos": [
+        "Administrador Municipal",
+        "Coordenador de Educação"
+      ],
+      "salario_maximo": "R$ 8.500,00",
+      "link_edital": "https://www.example.com/france",
+      "data_publicacao": "2026-05-15",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "dfe8ed8d-5579-4581-aa11-0c3deca3ab84",
+      "data_coleta": "2026-06-19T12:27:48.850416+00:00"
+    },
+    {
+      "instituicao": "PM",
+      "orgao": "Provincial de São Paulo",
+      "cargos": [
+        "Aluno-Soldado",
+        "Técnico de Segurança"
+      ],
+      "salario_maximo": "R$ 12.000,00",
+      "link_edital": "https://www.example.com/pm",
+      "data_publicacao": "2026-06-20",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "7a6962c1-8c7f-4c14-889f-674a8175ce07",
+      "data_coleta": "2026-06-19T12:27:48.850429+00:00"
+    },
+    {
+      "instituicao": "FITO-SP",
+      "orgao": "FITO-SP",
+      "cargos": [
+        "Especialista em Administração",
+        "Consultor de Gestão"
+      ],
+      "salario_maximo": "R$ 15.000,00",
+      "link_edital": "https://www.example.com/fito",
+      "data_publicacao": "2026-07-10",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "955bbb9b-4735-44f0-a199-ea56a8fbedaa",
+      "data_coleta": "2026-06-19T12:27:48.850442+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Osasco",
+      "orgao": "Prefeitura de Osasco",
+      "cargos": [
+        "Cuidador Social",
+        "Coordenador de Serviços Sociais"
+      ],
+      "salario_maximo": "R$ 7.200,00",
+      "link_edital": "https://www.example.com/osasco",
+      "data_publicacao": "2026-06-25",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "bb29a20a-92ad-4d17-b920-c25f17e4a78e",
+      "data_coleta": "2026-06-19T12:27:48.850455+00:00"
+    },
+    {
+      "instituicao": "CRT-SP",
+      "orgao": "Câmara de Arujá",
+      "cargos": [
+        "Administrador",
+        "Coordenador de Eventos"
+      ],
+      "salario_maximo": "R$ 9.800,00",
+      "link_edital": "https://www.example.com/crt",
+      "data_publicacao": "2026-06-30",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "d56cfb34-98a5-43a8-aa6c-67ce73329e1d",
+      "data_coleta": "2026-06-19T12:27:48.850468+00:00"
+    },
+    {
+      "instituicao": "Câmara de Seropédica",
+      "orgao": "Câmara de Seropédica",
+      "cargos": [
+        "Coordenador",
+        "Administrador"
+      ],
+      "salario_maximo": "R$ 6.500,00",
+      "link_edital": "https://www.example.com/seropedica",
+      "data_publicacao": "2026-07-05",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "9ce3c8a6-3082-43ae-8da3-695dc1c033e9",
+      "data_coleta": "2026-06-19T12:27:48.850481+00:00"
+    },
+    {
+      "instituicao": "Câmara de Rio das Ostras",
+      "orgao": "Câmara de Rio das Ostras",
+      "cargos": [
+        "Coordenador",
+        "Administrador"
+      ],
+      "salario_maximo": "R$ 8.000,00",
+      "link_edital": "https://www.example.com/rio",
+      "data_publicacao": "2026-06-10",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "6bd8c61c-a1f9-444e-bc66-1bc8b78b5a88",
+      "data_coleta": "2026-06-19T12:27:48.850494+00:00"
+    },
+    {
+      "instituicao": "Polícia Penal - RS",
+      "orgao": "Polícia Penal",
+      "cargos": [
+        "Investigador",
+        "Coordinador"
+      ],
+      "salario_maximo": "R$ 11.500,00",
+      "link_edital": "https://www.example.com/policia",
+      "data_publicacao": "2026-06-15",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "a4c946a8-d044-4f2b-bf47-b61fea014f8c",
+      "data_coleta": "2026-06-19T12:27:48.850507+00:00"
+    },
+    {
+      "instituicao": "Câmara de Arujá",
+      "orgao": "Câmara de Arujá",
+      "cargos": [
+        "Coordenador",
+        "Administrador"
+      ],
+      "salario_maximo": "R$ 10.000,00",
+      "link_edital": "https://www.example.com/arugá",
+      "data_publicacao": "2026-06-20",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "f533e5b0-d3c4-43ad-99d4-ec29a78f3c60",
+      "data_coleta": "2026-06-19T12:27:48.850521+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Itajaí",
+      "orgao": "SC",
+      "cargos": [
+        "Não especificado"
+      ],
+      "salario_maximo": "R$ 25 mil",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itajai-sc-abre-concursos-publicos-com-remuneracoes-de-ate-25-mil",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-19",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "018057cd-a81a-4393-a2a8-53c5fa4aed48",
+      "data_coleta": "2026-06-19T12:27:48.850692+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Araguaína",
+      "orgao": "TO",
+      "cargos": [
+        "Não especificado"
+      ],
+      "salario_maximo": "R$ 16.458,70",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-araguaina-to-abre-quatro-concursos-com-remuneracoes-de-ate-16458",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-19",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "8bba1200-4ab0-4e2a-aa0c-fb8c61b683bd",
+      "data_coleta": "2026-06-19T12:27:48.850725+00:00"
     }
   ]
 }

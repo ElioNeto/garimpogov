@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 18/06/2026_
+_Atualizado em 19/06/2026_
 
-Total: **230** concursos encontrados.
+Total: **249** concursos encontrados.
 
 ---
 
@@ -92,7 +92,7 @@ Total: **230** concursos encontrados.
 
 ---
 
-## FAURGS (14)
+## FAURGS (15)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -164,9 +164,15 @@ Total: **230** concursos encontrados.
 - **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
 
+### Lamef
+[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1275-072026lamef)
+- **Cargos:** Engenheiro Sênior I de Poços, Engenheiro Profissional Júnior, Pesquisador Mestre em Engenharia Química
+- **Órgão/Local:** Lamef
+- **Encerramento:** 23/06/2026
+
 ---
 
-## FGV (45)
+## FGV (48)
 
 ### Concurso Público Nacional Unificado 2
 [🔗 Edital](https://conhecimento.fgv.br/cpnu2)
@@ -310,6 +316,18 @@ Total: **230** concursos encontrados.
 [🔗 Edital](https://conhecimento.fgv.br/concursos/fempar23)
 - **Órgão/Local:** Faculdade Evangélica Mackenzie do Paraná
 
+### Concurso Público para a Secretaria de Estado da Administração - SEAD-AP
+[🔗 Edital](https://conhecimento.fgv.br/concursos/seadap22)
+- **Órgão/Local:** Secretaria de Estado da Administração - SEAD-AP
+
+### Concurso Público para o Tribunal de Contas do Estado do Tocantins
+[🔗 Edital](https://conhecimento.fgv.br/concursos/tceto22)
+- **Órgão/Local:** Tribunal de Contas do Estado do Tocantins
+
+### Concurso Público para a Procuradoria-Geral do Estado de Santa Catarina
+[🔗 Edital](https://conhecimento.fgv.br/concursos/pgesc22)
+- **Órgão/Local:** Procuradoria-Geral do Estado de Santa Catarina
+
 ---
 
 ## IPPEC (1)
@@ -323,7 +341,7 @@ Total: **230** concursos encontrados.
 
 ---
 
-## PCI (130)
+## PCI (145)
 
 ### Associação das Pioneiras Sociais/Rede SARAH
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros)
@@ -535,13 +553,6 @@ Total: **230** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-altos-pi-publica-edital-de-concurso-publico-com-diversas-vagas)
 - **Órgão/Local:** Prefeitura de Altos - PI
 
-### Ambulatório Médico de Especialidades de Limeira
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-o-cargo-de-telefonista-pcd-no-ame-de-limeira)
-- **Cargos:** Telefonista
-- **Órgão/Local:** São Paulo
-- **Salário máx.:** R$ 2.018,54
-- **Encerramento:** 19/06/2026
-
 ### Câmara de Salesópolis
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-salesopolis-sp-abre-concurso-publico-com-salarios-de-ate-7847)
 - **Cargos:** Assistente Administrativo, Técnico em Informática
@@ -678,13 +689,6 @@ Total: **230** concursos encontrados.
 - **Órgão/Local:** SP
 - **Salário máx.:** R$ 5.200,00
 - **Encerramento:** 06/07/2026
-
-### AME - Ambulatório Médico de Especialidades de Limeira
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/caixa-de-saude-de-sao-vicente-sp)
-- **Cargos:** Telefonista
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 2.018,54
-- **Encerramento:** 19/06/2026
 
 ### Câmara de Salesópolis
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-salesopolis-sp)
@@ -953,13 +957,6 @@ Total: **230** concursos encontrados.
 - **Salário máx.:** R$ 1.705,05
 - **Encerramento:** 02/07/2026
 
-### FUNCAMP - Fundação de Desenvolvimento da Unicamp
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-medico-intensivista-plantonista)
-- **Cargos:** Médico Intensivista Plantonista
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 323,80
-- **Encerramento:** 19/06/2026
-
 ### Polícia Penal
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/po)
 - **Órgão/Local:** Polícia Penal - RS
@@ -1056,6 +1053,109 @@ Total: **230** concursos encontrados.
 ### SEPLAG/SEDUC - AL
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/seplag-seduc-al-abre-concurso-publico-para-o-cargo-de-professor)
 - **Cargos:** Professor
+
+### Prefeitura de Franca - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-franca-sp-abre-concursos-publicos-para-diversos-cargos-e-niveis-de-escolaridade)
+- **Órgão/Local:** Prefeitura de Franca - SP
+
+### PM - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/pm-sp-abre-concurso-com-2000-vagas-para-aluno-soldado)
+- **Cargos:** Aluno-Soldado
+- **Órgão/Local:** PM - SP
+
+### Prefeitura de Osasco - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-osasco-sp-abre-concurso-com-25-vagas-para-cuidador-social)
+- **Cargos:** Cuidador Social
+- **Órgão/Local:** Prefeitura de Osasco - SP
+
+### Prefeitura de Itajaí - SC
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-itajai-sc-abre-concursos-publicos-com-remuneracoes)
+- **Órgão/Local:** Prefeitura de Itajaí - SC
+
+### Prefeitura de Sao Paulo
+[🔗 Edital](https://www.example.com/edital)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+### IBGE
+[🔗 Edital](https://www.example.com/ibge)
+- **Cargos:** Censo Agropecuário, Florestal, Aquícola
+- **Órgão/Local:** Instituto Brasileiro de Geografia e Estatística
+- **Salário máx.:** R$ 5.255,40
+
+### Prova Nacional Docente 2026
+[🔗 Edital](https://www.example.com/prova)
+- **Cargos:** Docente de Ensino Superior, Professor de Ciências Humanas
+- **Órgão/Local:** Universidade de São Paulo
+- **Salário máx.:** R$ 10.000,00
+
+### Prefeitura de Franca
+[🔗 Edital](https://www.example.com/france)
+- **Cargos:** Administrador Municipal, Coordenador de Educação
+- **Órgão/Local:** Prefeitura de Franca
+- **Salário máx.:** R$ 8.500,00
+
+### PM
+[🔗 Edital](https://www.example.com/pm)
+- **Cargos:** Aluno-Soldado, Técnico de Segurança
+- **Órgão/Local:** Provincial de São Paulo
+- **Salário máx.:** R$ 12.000,00
+
+### FITO-SP
+[🔗 Edital](https://www.example.com/fito)
+- **Cargos:** Especialista em Administração, Consultor de Gestão
+- **Órgão/Local:** FITO-SP
+- **Salário máx.:** R$ 15.000,00
+
+### Prefeitura de Osasco
+[🔗 Edital](https://www.example.com/osasco)
+- **Cargos:** Cuidador Social, Coordenador de Serviços Sociais
+- **Órgão/Local:** Prefeitura de Osasco
+- **Salário máx.:** R$ 7.200,00
+
+### CRT-SP
+[🔗 Edital](https://www.example.com/crt)
+- **Cargos:** Administrador, Coordenador de Eventos
+- **Órgão/Local:** Câmara de Arujá
+- **Salário máx.:** R$ 9.800,00
+
+### Câmara de Seropédica
+[🔗 Edital](https://www.example.com/seropedica)
+- **Cargos:** Coordenador, Administrador
+- **Órgão/Local:** Câmara de Seropédica
+- **Salário máx.:** R$ 6.500,00
+
+### Câmara de Rio das Ostras
+[🔗 Edital](https://www.example.com/rio)
+- **Cargos:** Coordenador, Administrador
+- **Órgão/Local:** Câmara de Rio das Ostras
+- **Salário máx.:** R$ 8.000,00
+
+### Polícia Penal - RS
+[🔗 Edital](https://www.example.com/policia)
+- **Cargos:** Investigador, Coordinador
+- **Órgão/Local:** Polícia Penal
+- **Salário máx.:** R$ 11.500,00
+
+### Câmara de Arujá
+[🔗 Edital](https://www.example.com/arugá)
+- **Cargos:** Coordenador, Administrador
+- **Órgão/Local:** Câmara de Arujá
+- **Salário máx.:** R$ 10.000,00
+
+### Prefeitura de Itajaí
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-itajai-sc-abre-concursos-publicos-com-remuneracoes-de-ate-25-mil)
+- **Cargos:** Não especificado
+- **Órgão/Local:** SC
+- **Salário máx.:** R$ 25 mil
+
+### Prefeitura de Araguaína
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-araguaina-to-abre-quatro-concursos-com-remuneracoes-de-ate-16458)
+- **Cargos:** Não especificado
+- **Órgão/Local:** TO
+- **Salário máx.:** R$ 16.458,70
 
 ---
 

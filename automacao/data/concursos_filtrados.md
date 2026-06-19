@@ -1,8 +1,8 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 18/06/2026_
+_Atualizado em 19/06/2026_
 
-Total: **20** concursos encontrados.
+Total: **21** concursos encontrados.
 
 ---
 
@@ -120,7 +120,7 @@ Total: **20** concursos encontrados.
 
 ---
 
-## PCI (3)
+## PCI (4)
 
 ### Câmara de Salesópolis
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-salesopolis-sp-abre-concurso-publico-com-salarios-de-ate-7847)
@@ -140,6 +140,13 @@ Total: **20** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/concursos/)
 - **Cargos:** Analista de Sistemas, Professor de Ingles
 - **Órgão/Local:** Organização de Concursos
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+### Prefeitura de Sao Paulo
+[🔗 Edital](https://www.example.com/edital)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** SP, Sao Paulo - SP
 - **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
 
