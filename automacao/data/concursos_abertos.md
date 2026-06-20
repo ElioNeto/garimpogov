@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 19/06/2026_
+_Atualizado em 20/06/2026_
 
-Total: **249** concursos encontrados.
+Total: **263** concursos encontrados.
 
 ---
 
@@ -341,7 +341,7 @@ Total: **249** concursos encontrados.
 
 ---
 
-## PCI (145)
+## PCI (152)
 
 ### Associação das Pioneiras Sociais/Rede SARAH
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros)
@@ -1157,6 +1157,50 @@ Total: **249** concursos encontrados.
 - **Órgão/Local:** TO
 - **Salário máx.:** R$ 16.458,70
 
+### Prefeitura de Sao Paulo
+[🔗 Edital](https://www.example.com)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+### SEDES - DF
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/sedes-df-publica-edital-de-concurso-publico)
+- **Órgão/Local:** SEDES - DF
+
+### SEDES
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/SEDES-DF-publica-retificacao-de-edital-de-concurso-publico)
+- **Cargos:** Diversos
+- **Órgão/Local:** Distrito Federal - DF
+
+### IBGE
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ibge-disponibiliza-1414-vagas-para-o-censo-agropecuario-florestal-e-aquicola)
+- **Cargos:** Agente e Analista Censitário
+- **Órgão/Local:** não especificado
+- **Salário máx.:** R$ 14.140,00
+- **Encerramento:** não especificado
+
+### Prefeitura de Paracatu - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-paracatu-mg-publica-concurso-com-concurso-publico-para-guarda-civil-municipal)
+- **Cargos:** não especificado
+- **Órgão/Local:** MG
+- **Salário máx.:** não especificado
+- **Encerramento:** não especificado
+
+### Prefeitura de Pouso Alegre - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-pouso-alegre-mg-retifica-concurso-publico-com-remuneracoes-de-ate-25-mil)
+- **Cargos:** não especificado
+- **Órgão/Local:** MG
+- **Salário máx.:** não especificado
+- **Encerramento:** não especificado
+
+### CIDASG - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cidesg-mg-abre-concurso-publico-para-cargos-de-nivel-medio-e-superior)
+- **Cargos:** não especificado
+- **Órgão/Local:** MG
+- **Salário máx.:** R$ 9.000,00
+- **Encerramento:** não especificado
+
 ---
 
 ## PMBlumenau-SC (4)
@@ -1190,7 +1234,7 @@ Total: **249** concursos encontrados.
 
 ---
 
-## TecConcursos (26)
+## TecConcursos (33)
 
 ### Prefeitura de São Paulo
 [🔗 Edital](https://www.tecconcursos.com.br/login?urlRetorno=aHR0cHM6Ly93d3cudGVjY29uY3Vyc29zLmNvbS5ici9jb25jdXJzb3M/cT1hbmFsaXN0YStkZStzaXN0ZW1hcw==)
@@ -1323,5 +1367,40 @@ Total: **249** concursos encontrados.
 [🔗 Edital](https://www.cebraspe.org.br/concursos/agu_26_estagiario)
 - **Cargos:** Estagiário de Pós-Graduação em Direito (AGU) /2026
 - **Órgão/Local:** Federal
+
+### Prefeitura Municipal de Sério
+[🔗 Edital](https://portal.editais.legalleconcursos.com.br/edital/ver/2549)
+- **Cargos:** Agente Administrativo (Pref Sério)/2026, Monitor Socioeducativo (Pref Sério)/2026, Motorista (Pref Sério)/2026, Operador de Máquinas (Pref Sério)/2026, Professor (Pref Sério)/2026 - Educação Básica
+- **Encerramento:** 09/07/2026
+
+### Prefeitura Municipal de Sério
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-administrativo-pref-serio-2026-cp-001-2026)
+- **Cargos:** Agente Administrativo
+- **Órgão/Local:** Sério, Sério - SP
+
+### Prefeitura Municipal de Sério
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/monitor-socioeducativo-pref-serio-2026-cp-001-2026)
+- **Cargos:** Monitor Socioeducativo
+- **Órgão/Local:** Sério, Sério - SP
+
+### Prefeitura Municipal de Sério
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/motorista-pref-serio-2026-cp-001-2026)
+- **Cargos:** Motorista
+- **Órgão/Local:** Sério, Sério - SP
+
+### Prefeitura Municipal de Sério
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/operador-de-maquinas-pref-serio-2026-cp-001-2026)
+- **Cargos:** Operador de Máquinas
+- **Órgão/Local:** Sério, Sério - SP
+
+### Prefeitura Municipal de Sério
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/professor-pref-serio-educacao-basica-2026-cp-001-2026)
+- **Cargos:** Professor
+- **Órgão/Local:** Sério, Sério - SP
+
+### Advocacia Geral da União
+[🔗 Edital](https://www.tecconcursos.com.br/concursos/estagiario-de-posgraduacao-em-direito-agu-2026)
+- **Cargos:** Estagiário de Pós-Graduação em Direito
+- **Órgão/Local:** AGU, Brasília - DF
 
 ---

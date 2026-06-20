@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-19T12:27:48.850800+00:00",
-    "total_concursos": 249
+    "ultima_coleta": "2026-06-20T10:48:38.241270+00:00",
+    "total_concursos": 263
   },
   "concursos": [
     {
@@ -3695,6 +3695,207 @@
       "fonte": "PCI",
       "id": "8bba1200-4ab0-4e2a-aa0c-fb8c61b683bd",
       "data_coleta": "2026-06-19T12:27:48.850725+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Sao Paulo",
+      "orgao": "SP",
+      "cargos": [
+        "Analista de Sistemas",
+        "Professor de Ingles"
+      ],
+      "salario_maximo": "R$ 5.000,00",
+      "link_edital": "https://www.example.com",
+      "data_encerramento": "30/06/2026",
+      "data_publicacao": "01/06/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "0a106b42-79c7-4ce8-bbd1-bb74c381eceb",
+      "data_coleta": "2026-06-20T10:48:38.239898+00:00"
+    },
+    {
+      "instituicao": "SEDES - DF",
+      "orgao": "SEDES - DF",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/sedes-df-publica-edital-de-concurso-publico",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-20",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "bb9a4a5b-f74e-4eab-8dcb-ed02833ec030",
+      "data_coleta": "2026-06-20T10:48:38.240097+00:00"
+    },
+    {
+      "instituicao": "SEDES",
+      "orgao": "Distrito Federal - DF",
+      "cargos": [
+        "Diversos"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/SEDES-DF-publica-retificacao-de-edital-de-concurso-publico",
+      "data_encerramento": null,
+      "data_publicacao": "20/06/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "7a11f788-0429-41db-9040-748ff5882c7c",
+      "data_coleta": "2026-06-20T10:48:38.240363+00:00"
+    },
+    {
+      "instituicao": "IBGE",
+      "orgao": "não especificado",
+      "cargos": [
+        "Agente e Analista Censitário"
+      ],
+      "salario_maximo": "R$ 14.140,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/ibge-disponibiliza-1414-vagas-para-o-censo-agropecuario-florestal-e-aquicola",
+      "data_encerramento": "não especificado",
+      "data_publicacao": "01/06/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "15835636-1ff7-43ae-8658-d9c756c5c079",
+      "data_coleta": "2026-06-20T10:48:38.240525+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Paracatu - MG",
+      "orgao": "MG",
+      "cargos": [
+        "não especificado"
+      ],
+      "salario_maximo": "não especificado",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paracatu-mg-publica-concurso-com-concurso-publico-para-guarda-civil-municipal",
+      "data_encerramento": "não especificado",
+      "data_publicacao": "não especificado",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "e5ecad07-aabb-454d-8aaf-9664840f82e5",
+      "data_coleta": "2026-06-20T10:48:38.240555+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Pouso Alegre - MG",
+      "orgao": "MG",
+      "cargos": [
+        "não especificado"
+      ],
+      "salario_maximo": "não especificado",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pouso-alegre-mg-retifica-concurso-publico-com-remuneracoes-de-ate-25-mil",
+      "data_encerramento": "não especificado",
+      "data_publicacao": "não especificado",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "a745cd15-9fe2-4571-94fb-d82f42f31658",
+      "data_coleta": "2026-06-20T10:48:38.240583+00:00"
+    },
+    {
+      "instituicao": "CIDASG - MG",
+      "orgao": "MG",
+      "cargos": [
+        "não especificado"
+      ],
+      "salario_maximo": "R$ 9.000,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cidesg-mg-abre-concurso-publico-para-cargos-de-nivel-medio-e-superior",
+      "data_encerramento": "não especificado",
+      "data_publicacao": "não especificado",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "b33c1f15-f0b5-44ed-af88-d09164bcb2c4",
+      "data_coleta": "2026-06-20T10:48:38.240609+00:00"
+    },
+    {
+      "instituicao": "Prefeitura Municipal de Sério",
+      "orgao": null,
+      "cargos": [
+        "Agente Administrativo (Pref Sério)/2026",
+        "Monitor Socioeducativo (Pref Sério)/2026",
+        "Motorista (Pref Sério)/2026",
+        "Operador de Máquinas (Pref Sério)/2026",
+        "Professor (Pref Sério)/2026 - Educação Básica"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portal.editais.legalleconcursos.com.br/edital/ver/2549",
+      "data_encerramento": "09/07/2026",
+      "data_publicacao": "2026-06-20",
+      "status": "aberto",
+      "fonte": "TecConcursos",
+      "id": "c4feab04-a4bd-403b-831e-9d418405a67c",
+      "data_coleta": "2026-06-20T10:48:38.240692+00:00"
+    },
+    {
+      "instituicao": "Prefeitura Municipal de Sério",
+      "orgao": "Sério, Sério - SP",
+      "cargos": [
+        "Agente Administrativo"
+      ],
+      "link_edital": "https://www.tecconcursos.com.br/concursos/agente-administrativo-pref-serio-2026-cp-001-2026",
+      "status": "aberto",
+      "fonte": "TecConcursos",
+      "id": "22f5478c-4822-463d-b9b5-8cb659c75058",
+      "data_coleta": "2026-06-20T10:48:38.240773+00:00",
+      "data_publicacao": "2026-06-20"
+    },
+    {
+      "instituicao": "Prefeitura Municipal de Sério",
+      "orgao": "Sério, Sério - SP",
+      "cargos": [
+        "Monitor Socioeducativo"
+      ],
+      "link_edital": "https://www.tecconcursos.com.br/concursos/monitor-socioeducativo-pref-serio-2026-cp-001-2026",
+      "status": "aberto",
+      "fonte": "TecConcursos",
+      "id": "fee3d3e9-35e7-40fa-9fa7-47f46c373601",
+      "data_coleta": "2026-06-20T10:48:38.240792+00:00",
+      "data_publicacao": "2026-06-20"
+    },
+    {
+      "instituicao": "Prefeitura Municipal de Sério",
+      "orgao": "Sério, Sério - SP",
+      "cargos": [
+        "Motorista"
+      ],
+      "link_edital": "https://www.tecconcursos.com.br/concursos/motorista-pref-serio-2026-cp-001-2026",
+      "status": "aberto",
+      "fonte": "TecConcursos",
+      "id": "03781e6b-3552-4ce0-80aa-f820d4333da8",
+      "data_coleta": "2026-06-20T10:48:38.240809+00:00",
+      "data_publicacao": "2026-06-20"
+    },
+    {
+      "instituicao": "Prefeitura Municipal de Sério",
+      "orgao": "Sério, Sério - SP",
+      "cargos": [
+        "Operador de Máquinas"
+      ],
+      "link_edital": "https://www.tecconcursos.com.br/concursos/operador-de-maquinas-pref-serio-2026-cp-001-2026",
+      "status": "aberto",
+      "fonte": "TecConcursos",
+      "id": "17a8d643-456c-47d7-9c39-81ab29208899",
+      "data_coleta": "2026-06-20T10:48:38.240826+00:00",
+      "data_publicacao": "2026-06-20"
+    },
+    {
+      "instituicao": "Prefeitura Municipal de Sério",
+      "orgao": "Sério, Sério - SP",
+      "cargos": [
+        "Professor"
+      ],
+      "link_edital": "https://www.tecconcursos.com.br/concursos/professor-pref-serio-educacao-basica-2026-cp-001-2026",
+      "status": "aberto",
+      "fonte": "TecConcursos",
+      "id": "fd2266e8-adfc-4570-b095-906db78f57c0",
+      "data_coleta": "2026-06-20T10:48:38.240841+00:00",
+      "data_publicacao": "2026-06-20"
+    },
+    {
+      "instituicao": "Advocacia Geral da União",
+      "orgao": "AGU, Brasília - DF",
+      "cargos": [
+        "Estagiário de Pós-Graduação em Direito"
+      ],
+      "link_edital": "https://www.tecconcursos.com.br/concursos/estagiario-de-posgraduacao-em-direito-agu-2026",
+      "status": "aberto",
+      "fonte": "TecConcursos",
+      "id": "26d99284-d5f1-4d77-a03c-f0e3834b2b86",
+      "data_coleta": "2026-06-20T10:48:38.240858+00:00",
+      "data_publicacao": "2026-06-20"
     }
   ]
 }
