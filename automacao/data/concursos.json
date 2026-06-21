@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-20T10:48:38.241270+00:00",
-    "total_concursos": 263
+    "ultima_coleta": "2026-06-21T11:29:04.080954+00:00",
+    "total_concursos": 264
   },
   "concursos": [
     {
@@ -3896,6 +3896,19 @@
       "id": "26d99284-d5f1-4d77-a03c-f0e3834b2b86",
       "data_coleta": "2026-06-20T10:48:38.240858+00:00",
       "data_publicacao": "2026-06-20"
+    },
+    {
+      "instituicao": "CONTER - DF",
+      "orgao": "CONTER - DF",
+      "cargos": [],
+      "salario_maximo": "R$ 7.520,56",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/conte",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-21",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "f5395d22-3089-4002-8940-3b94aaad6d10",
+      "data_coleta": "2026-06-21T11:29:04.080552+00:00"
     }
   ]
 }

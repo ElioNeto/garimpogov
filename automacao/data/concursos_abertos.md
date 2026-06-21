@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 20/06/2026_
+_Atualizado em 21/06/2026_
 
-Total: **263** concursos encontrados.
+Total: **264** concursos encontrados.
 
 ---
 
@@ -341,7 +341,7 @@ Total: **263** concursos encontrados.
 
 ---
 
-## PCI (152)
+## PCI (153)
 
 ### Associação das Pioneiras Sociais/Rede SARAH
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros)
@@ -1200,6 +1200,11 @@ Total: **263** concursos encontrados.
 - **Órgão/Local:** MG
 - **Salário máx.:** R$ 9.000,00
 - **Encerramento:** não especificado
+
+### CONTER - DF
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/conte)
+- **Órgão/Local:** CONTER - DF
+- **Salário máx.:** R$ 7.520,56
 
 ---
 
