@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-21T11:29:04.080954+00:00",
-    "total_concursos": 264
+    "ultima_coleta": "2026-06-22T13:52:24.031591+00:00",
+    "total_concursos": 270
   },
   "concursos": [
     {
@@ -3036,21 +3036,6 @@
       "data_coleta": "2026-06-15T14:14:06.398862+00:00"
     },
     {
-      "instituicao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
-      "orgao": "SP",
-      "cargos": [
-        "Vários"
-      ],
-      "salario_maximo": "R$ 9.115,64",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/famesp-abre-processo-seletivo-para-profissionais-de-saude-em-botucatu",
-      "data_encerramento": "22/06/2026",
-      "data_publicacao": "2026-06-15",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "497deb71-b93e-4f14-9cc5-06dcae05644d",
-      "data_coleta": "2026-06-15T14:14:06.399188+00:00"
-    },
-    {
       "instituicao": "FSA - Fundação Santo André",
       "orgao": "SP",
       "cargos": [
@@ -3909,6 +3894,110 @@
       "fonte": "PCI",
       "id": "f5395d22-3089-4002-8940-3b94aaad6d10",
       "data_coleta": "2026-06-21T11:29:04.080552+00:00"
+    },
+    {
+      "instituicao": "EGBA - Empresa Gráfica da Bahia",
+      "orgao": "SP, Sao Paulo - SP",
+      "cargos": [
+        "Analista de Sistemas",
+        "Professor de Ingles"
+      ],
+      "salario_maximo": "R$ 5.000,00",
+      "link_edital": "https://www.egba.ba.gov.br/egba/noticias/2025-01/331/diario-oficial-online",
+      "data_encerramento": "30/06/2026",
+      "data_publicacao": "01/06/2026",
+      "status": "aberto",
+      "fonte": "DOE-BA",
+      "id": "66f1e4c0-0d8a-481b-8842-7d1e8f4784c4",
+      "data_coleta": "2026-06-22T13:52:24.030721+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Araguaína - TO",
+      "orgao": "Prefeitura de Araguaína - TO",
+      "cargos": [],
+      "salario_maximo": "R$ 16.458,70",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/pr",
+      "data_encerramento": null,
+      "data_publicacao": "22/06/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "5f6c6119-5b3c-413b-b7b6-333614325339",
+      "data_coleta": "2026-06-22T13:52:24.031201+00:00"
+    },
+    {
+      "instituicao": "Destaques",
+      "orgao": "não especificado",
+      "cargos": [
+        "não especificado"
+      ],
+      "salario_maximo": "não especificado",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/destaques",
+      "data_encerramento": "não especificado",
+      "data_publicacao": "não especificado",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "81907f21-330b-492c-94d1-370511e0bac6",
+      "data_coleta": "2026-06-22T13:52:24.031362+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Paracatu - MG",
+      "orgao": "MG",
+      "cargos": [
+        "Guarda Civil Municipal"
+      ],
+      "salario_maximo": "não especificado",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paracatu-mg-publica-edital-retificado-de-concurso-publico-com-garda-civil-municipal",
+      "data_encerramento": "não especificado",
+      "data_publicacao": "não especificado",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "74e676c0-cb21-4265-99c4-47e089545efe",
+      "data_coleta": "2026-06-22T13:52:24.031414+00:00"
+    },
+    {
+      "instituicao": "CAMS",
+      "orgao": "não especificado",
+      "cargos": [
+        "não especificado"
+      ],
+      "salario_maximo": "não especificado",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cams-abre-concurso-publico-com-vagas-e-cadastro-de-reserva-em-diversas-areas-de-atuacao",
+      "data_encerramento": "não especificado",
+      "data_publicacao": "não especificado",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "e61ce581-1aed-4208-9211-a4c065b5e429",
+      "data_coleta": "2026-06-22T13:52:24.031444+00:00"
+    },
+    {
+      "instituicao": "CIDASG",
+      "orgao": "MG",
+      "cargos": [
+        "não especificado"
+      ],
+      "salario_maximo": "R$ 15.600,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cidasg-mg-abre-concurso-publico-com-vagas-de-nivel-medio-e-superior",
+      "data_encerramento": "não especificado",
+      "data_publicacao": "não especificado",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "4114615b-517f-49d4-8dc8-4c9bad4f17ea",
+      "data_coleta": "2026-06-22T13:52:24.031471+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Araguaína - TO",
+      "orgao": "TO",
+      "cargos": [
+        "não especificado"
+      ],
+      "salario_maximo": "R$ 16.458,70",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-araguaina-to-abre-concursos-publicos-com-remuneracoes-de-ate-16458",
+      "data_encerramento": "não especificado",
+      "data_publicacao": "não especificado",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "3bd5e7e8-8953-4484-a6f2-386e1586afba",
+      "data_coleta": "2026-06-22T13:52:24.031515+00:00"
     }
   ]
 }

@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 21/06/2026_
+_Atualizado em 22/06/2026_
 
-Total: **264** concursos encontrados.
+Total: **270** concursos encontrados.
 
 ---
 
@@ -24,10 +24,17 @@ Total: **264** concursos encontrados.
 
 ---
 
-## DOE-BA (1)
+## DOE-BA (2)
 
 ### EGBA - Empresa Gráfica da Bahia
 [🔗 Edital](https://www.egba.ba.gov.br/licitacoes)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+### EGBA - Empresa Gráfica da Bahia
+[🔗 Edital](https://www.egba.ba.gov.br/egba/noticias/2025-01/331/diario-oficial-online)
 - **Cargos:** Analista de Sistemas, Professor de Ingles
 - **Órgão/Local:** SP, Sao Paulo - SP
 - **Salário máx.:** R$ 5.000,00
@@ -341,7 +348,7 @@ Total: **264** concursos encontrados.
 
 ---
 
-## PCI (153)
+## PCI (158)
 
 ### Associação das Pioneiras Sociais/Rede SARAH
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros)
@@ -943,13 +950,6 @@ Total: **264** concursos encontrados.
 - **Salário máx.:** R$ 9.000,00
 - **Encerramento:** 2026-07-01
 
-### FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-abre-processo-seletivo-para-profissionais-de-saude-em-botucatu)
-- **Cargos:** Vários
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 9.115,64
-- **Encerramento:** 22/06/2026
-
 ### FSA - Fundação Santo André
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-para-operador-de-maquina-copiadora)
 - **Cargos:** Operador de Máquina Copiadora
@@ -1205,6 +1205,46 @@ Total: **264** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/conte)
 - **Órgão/Local:** CONTER - DF
 - **Salário máx.:** R$ 7.520,56
+
+### Prefeitura de Araguaína - TO
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/pr)
+- **Órgão/Local:** Prefeitura de Araguaína - TO
+- **Salário máx.:** R$ 16.458,70
+
+### Destaques
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/destaques)
+- **Cargos:** não especificado
+- **Órgão/Local:** não especificado
+- **Salário máx.:** não especificado
+- **Encerramento:** não especificado
+
+### Prefeitura de Paracatu - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-paracatu-mg-publica-edital-retificado-de-concurso-publico-com-garda-civil-municipal)
+- **Cargos:** Guarda Civil Municipal
+- **Órgão/Local:** MG
+- **Salário máx.:** não especificado
+- **Encerramento:** não especificado
+
+### CAMS
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cams-abre-concurso-publico-com-vagas-e-cadastro-de-reserva-em-diversas-areas-de-atuacao)
+- **Cargos:** não especificado
+- **Órgão/Local:** não especificado
+- **Salário máx.:** não especificado
+- **Encerramento:** não especificado
+
+### CIDASG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cidasg-mg-abre-concurso-publico-com-vagas-de-nivel-medio-e-superior)
+- **Cargos:** não especificado
+- **Órgão/Local:** MG
+- **Salário máx.:** R$ 15.600,00
+- **Encerramento:** não especificado
+
+### Prefeitura de Araguaína - TO
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-araguaina-to-abre-concursos-publicos-com-remuneracoes-de-ate-16458)
+- **Cargos:** não especificado
+- **Órgão/Local:** TO
+- **Salário máx.:** R$ 16.458,70
+- **Encerramento:** não especificado
 
 ---
 

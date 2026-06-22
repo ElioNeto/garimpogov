@@ -1,8 +1,8 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 21/06/2026_
+_Atualizado em 22/06/2026_
 
-Total: **22** concursos encontrados.
+Total: **23** concursos encontrados.
 
 ---
 
@@ -24,10 +24,17 @@ Total: **22** concursos encontrados.
 
 ---
 
-## DOE-BA (1)
+## DOE-BA (2)
 
 ### EGBA - Empresa Gráfica da Bahia
 [🔗 Edital](https://www.egba.ba.gov.br/licitacoes)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+### EGBA - Empresa Gráfica da Bahia
+[🔗 Edital](https://www.egba.ba.gov.br/egba/noticias/2025-01/331/diario-oficial-online)
 - **Cargos:** Analista de Sistemas, Professor de Ingles
 - **Órgão/Local:** SP, Sao Paulo - SP
 - **Salário máx.:** R$ 5.000,00
