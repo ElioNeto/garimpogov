@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 22/06/2026_
+_Atualizado em 23/06/2026_
 
-Total: **270** concursos encontrados.
+Total: **280** concursos encontrados.
 
 ---
 
@@ -99,7 +99,7 @@ Total: **270** concursos encontrados.
 
 ---
 
-## FAURGS (15)
+## FAURGS (14)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -170,12 +170,6 @@ Total: **270** concursos encontrados.
 - **Órgão/Local:** SP, Sao Paulo - SP
 - **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
-
-### Lamef
-[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1275-072026lamef)
-- **Cargos:** Engenheiro Sênior I de Poços, Engenheiro Profissional Júnior, Pesquisador Mestre em Engenharia Química
-- **Órgão/Local:** Lamef
-- **Encerramento:** 23/06/2026
 
 ---
 
@@ -348,7 +342,7 @@ Total: **270** concursos encontrados.
 
 ---
 
-## PCI (158)
+## PCI (167)
 
 ### Associação das Pioneiras Sociais/Rede SARAH
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros)
@@ -1246,9 +1240,72 @@ Total: **270** concursos encontrados.
 - **Salário máx.:** R$ 16.458,70
 - **Encerramento:** não especificado
 
+### Câmara de Mauá
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-maua-sp-abre-concurso-publico-com-vagas-para-agente-legislativo)
+- **Cargos:** Agente Legislativo
+- **Órgão/Local:** São Paulo
+- **Salário máx.:** R$ 3.650,00
+- **Encerramento:** 26/07/2026
+
+### Prefeitura de Paracatu - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-paracatu-mg-publica-edital-retificado-de-concurso-publico-com-vagas-para-guarda-civil-municipal)
+- **Cargos:** Guarda Civil Municipal
+- **Órgão/Local:** MG
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### Prefeitura de PE
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/pe-procurar-concursos-norte-2026)
+- **Cargos:** Superior
+- **Órgão/Local:** PE
+- **Salário máx.:** N/A
+- **Encerramento:** 03/07/2026
+
+### Prefeitura de PND
+[🔗 Edital](https://www.pciconcursos.com.br/apostilas/pnd-prova-nacional-docente)
+- **Cargos:** Superior
+- **Órgão/Local:** PND
+- **Salário máx.:** apostila específica
+- **Encerramento:** 03/07/2026
+
+### Prefeitura de SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/sp-congresso-norte-2026)
+- **Cargos:** Superior, MG
+- **Órgão/Local:** SP
+- **Salário máx.:** N/A
+- **Encerramento:** 08/07/2026
+
+### Câmara de Arujá - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-aruja-sp-retifica-concurso-publico-com-salarios-de-ate-10600)
+- **Cargos:** Superior
+- **Órgão/Local:** SP
+- **Salário máx.:** N/A
+- **Encerramento:** 08/07/2026
+
+### Prefeitura de Ipatinga - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-ipatinga-mg-retifica-concurso-publico-para-cargos-de-nivel-medio-e-superior)
+- **Cargos:** Nível Médio e Superior
+- **Órgão/Local:** MG
+- **Salário máx.:** N/A
+- **Encerramento:** 12/07/2026
+
+### CBM - AL
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cbm-al-divulg)
+- **Cargos:** Superior
+- **Órgão/Local:** AL
+- **Salário máx.:** R$ 10.863,68
+- **Encerramento:** N/A
+
+### Prefeitura de Saudá
+[🔗 Edital](https://www.example.com/concursos)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
 ---
 
-## PMBlumenau-SC (4)
+## PMBlumenau-SC (6)
 
 ### Prefeitura de Blumenau
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/parque-vila-germanica/parque-vila-germanica/inscriacaoes-para-o-concurso-da-realeza-da-42aa-oktoberfest-blumenau-abrem-nesta-quarta-feira-dia-103)
@@ -1276,6 +1333,16 @@ Total: **270** concursos encontrados.
 - **Órgão/Local:** Procon Móvel
 - **Salário máx.:** R$ 1.200,00
 - **Encerramento:** 16:18
+
+### Prefeitura de Blumenau
+[🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/secretaria-de-administracao/sedead/prefeitura-de-blumenau-convoca-aprovados-em-processo-seletivo-para-reforacar-seguranaca-nas-escolas-e-ceis32)
+- **Cargos:** Segurança
+- **Órgão/Local:** Blumenau - SC
+
+### Prefeitura de Blumenau
+[🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/intendencia-distrital-da-vila-itoupava/intendencia-vila-itoupava/abertas-inscriacaoes-para-patrocinadores-da-15aa-caminhada-cultural-e-ecolaogica-da-vila-itoupava40)
+- **Cargos:** Patrocinador
+- **Órgão/Local:** Vila Itoupava - SC
 
 ---
 

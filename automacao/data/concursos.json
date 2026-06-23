@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-22T13:52:24.031591+00:00",
-    "total_concursos": 270
+    "ultima_coleta": "2026-06-23T11:15:02.481091+00:00",
+    "total_concursos": 280
   },
   "concursos": [
     {
@@ -3358,23 +3358,6 @@
       "data_coleta": "2026-06-18T11:57:36.046133+00:00"
     },
     {
-      "instituicao": "Lamef",
-      "orgao": "Lamef",
-      "cargos": [
-        "Engenheiro Sênior I de Poços",
-        "Engenheiro Profissional Júnior",
-        "Pesquisador Mestre em Engenharia Química"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/1275-072026lamef",
-      "data_encerramento": "23/06/2026",
-      "data_publicacao": "10/06/2026",
-      "status": "aberto",
-      "fonte": "FAURGS",
-      "id": "099647ff-fc95-4cd3-820e-99657c4c2fe6",
-      "data_coleta": "2026-06-19T12:27:48.849649+00:00"
-    },
-    {
       "instituicao": "Concurso Público para a Secretaria de Estado da Administração - SEAD-AP",
       "orgao": "Secretaria de Estado da Administração - SEAD-AP",
       "cargos": [],
@@ -3998,6 +3981,173 @@
       "fonte": "PCI",
       "id": "3bd5e7e8-8953-4484-a6f2-386e1586afba",
       "data_coleta": "2026-06-22T13:52:24.031515+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Blumenau",
+      "orgao": "Blumenau - SC",
+      "cargos": [
+        "Segurança"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.blumenau.sc.gov.br/secretarias/secretaria-de-administracao/sedead/prefeitura-de-blumenau-convoca-aprovados-em-processo-seletivo-para-reforacar-seguranaca-nas-escolas-e-ceis32",
+      "data_encerramento": null,
+      "data_publicacao": "19/06/2026",
+      "status": "aberto",
+      "fonte": "PMBlumenau-SC",
+      "id": "6d077e03-5b92-467d-851d-1c89d4bb6b06",
+      "data_coleta": "2026-06-23T11:15:02.480073+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Blumenau",
+      "orgao": "Vila Itoupava - SC",
+      "cargos": [
+        "Patrocinador"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.blumenau.sc.gov.br/secretarias/intendencia-distrital-da-vila-itoupava/intendencia-vila-itoupava/abertas-inscriacaoes-para-patrocinadores-da-15aa-caminhada-cultural-e-ecolaogica-da-vila-itoupava40",
+      "data_encerramento": null,
+      "data_publicacao": "18/06/2026",
+      "status": "aberto",
+      "fonte": "PMBlumenau-SC",
+      "id": "6572d915-90a3-49d7-b5e2-9ae1306bd730",
+      "data_coleta": "2026-06-23T11:15:02.480101+00:00"
+    },
+    {
+      "instituicao": "Câmara de Mauá",
+      "orgao": "São Paulo",
+      "cargos": [
+        "Agente Legislativo"
+      ],
+      "salario_maximo": "R$ 3.650,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-maua-sp-abre-concurso-publico-com-vagas-para-agente-legislativo",
+      "data_encerramento": "26/07/2026",
+      "data_publicacao": "23/06/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "43709dc7-3525-4691-835b-c2d5f62dd584",
+      "data_coleta": "2026-06-23T11:15:02.480366+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Paracatu - MG",
+      "orgao": "MG",
+      "cargos": [
+        "Guarda Civil Municipal"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paracatu-mg-publica-edital-retificado-de-concurso-publico-com-vagas-para-guarda-civil-municipal",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "135695ff-3406-4d57-b0d8-cdfabbe1e954",
+      "data_coleta": "2026-06-23T11:15:02.480442+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de PE",
+      "orgao": "PE",
+      "cargos": [
+        "Superior"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/pe-procurar-concursos-norte-2026",
+      "data_encerramento": "03/07/2026",
+      "data_publicacao": "2026-07-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "9fdfb201-6be5-42f0-bded-c7fb923eea1a",
+      "data_coleta": "2026-06-23T11:15:02.480531+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de PND",
+      "orgao": "PND",
+      "cargos": [
+        "Superior"
+      ],
+      "salario_maximo": "apostila específica",
+      "link_edital": "https://www.pciconcursos.com.br/apostilas/pnd-prova-nacional-docente",
+      "data_encerramento": "03/07/2026",
+      "data_publicacao": "2026-07-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "4996f81a-b494-4b93-99c0-7468dbbb3167",
+      "data_coleta": "2026-06-23T11:15:02.480559+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de SP",
+      "orgao": "SP",
+      "cargos": [
+        "Superior",
+        "MG"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/sp-congresso-norte-2026",
+      "data_encerramento": "08/07/2026",
+      "data_publicacao": "2026-07-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "1bde8593-d10e-451e-ab72-09a814fa7fd8",
+      "data_coleta": "2026-06-23T11:15:02.480584+00:00"
+    },
+    {
+      "instituicao": "Câmara de Arujá - SP",
+      "orgao": "SP",
+      "cargos": [
+        "Superior"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-aruja-sp-retifica-concurso-publico-com-salarios-de-ate-10600",
+      "data_encerramento": "08/07/2026",
+      "data_publicacao": "2026-07-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "a519428a-ebca-49ae-be79-62ddbb31b793",
+      "data_coleta": "2026-06-23T11:15:02.480610+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Ipatinga - MG",
+      "orgao": "MG",
+      "cargos": [
+        "Nível Médio e Superior"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipatinga-mg-retifica-concurso-publico-para-cargos-de-nivel-medio-e-superior",
+      "data_encerramento": "12/07/2026",
+      "data_publicacao": "2026-07-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "dfd4803d-177e-4088-90ec-826aaad5a36d",
+      "data_coleta": "2026-06-23T11:15:02.480665+00:00"
+    },
+    {
+      "instituicao": "CBM - AL",
+      "orgao": "AL",
+      "cargos": [
+        "Superior"
+      ],
+      "salario_maximo": "R$ 10.863,68",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cbm-al-divulg",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "c62004f4-d5f6-46c0-a49a-48c2539ebb9f",
+      "data_coleta": "2026-06-23T11:15:02.480726+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Saudá",
+      "orgao": "SP, Sao Paulo - SP",
+      "cargos": [
+        "Analista de Sistemas",
+        "Professor de Ingles"
+      ],
+      "salario_maximo": "R$ 5.000,00",
+      "link_edital": "https://www.example.com/concursos",
+      "data_encerramento": "30/06/2026",
+      "data_publicacao": "01/06/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "d49d121a-41d0-4765-8140-20c00de8fca6",
+      "data_coleta": "2026-06-23T11:15:02.480752+00:00"
     }
   ]
 }
