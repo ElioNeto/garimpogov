@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 23/06/2026_
+_Atualizado em 24/06/2026_
 
-Total: **280** concursos encontrados.
+Total: **283** concursos encontrados.
 
 ---
 
@@ -342,7 +342,7 @@ Total: **280** concursos encontrados.
 
 ---
 
-## PCI (167)
+## PCI (169)
 
 ### Associação das Pioneiras Sociais/Rede SARAH
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros)
@@ -1303,9 +1303,19 @@ Total: **280** concursos encontrados.
 - **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
 
+### DETRAN - AL
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/detran-al-retifica-concurso-publico-para-analistas-e-assistentes-de-trânsito)
+- **Cargos:** Analista de Trânsito, Assistente de Trânsito
+- **Órgão/Local:** DETRAN - AL
+
+### DETRAN
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/detran-al-retifica-concurso-publico-para-analistas-e-assistentes-de-t)
+- **Cargos:** Analistas, Assistentes de Trânsito
+- **Órgão/Local:** Departamento de Trânsito de Alagoas
+
 ---
 
-## PMBlumenau-SC (6)
+## PMBlumenau-SC (7)
 
 ### Prefeitura de Blumenau
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/parque-vila-germanica/parque-vila-germanica/inscriacaoes-para-o-concurso-da-realeza-da-42aa-oktoberfest-blumenau-abrem-nesta-quarta-feira-dia-103)
@@ -1343,6 +1353,11 @@ Total: **280** concursos encontrados.
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/intendencia-distrital-da-vila-itoupava/intendencia-vila-itoupava/abertas-inscriacaoes-para-patrocinadores-da-15aa-caminhada-cultural-e-ecolaogica-da-vila-itoupava40)
 - **Cargos:** Patrocinador
 - **Órgão/Local:** Vila Itoupava - SC
+
+### Prefeitura de Blumenau
+[🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/parque-vila-germanica/parque-vila-germanica/inscriacaoes-abertas-para-o-festival-de-danacas-germaanicas-da-oktoberfest-blumenau30)
+- **Cargos:** Participante, Dançarino
+- **Órgão/Local:** Parque Vila Germanica
 
 ---
 

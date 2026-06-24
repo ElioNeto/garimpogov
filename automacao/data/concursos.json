@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-23T11:15:02.481091+00:00",
-    "total_concursos": 280
+    "ultima_coleta": "2026-06-24T11:03:58.836978+00:00",
+    "total_concursos": 283
   },
   "concursos": [
     {
@@ -4148,6 +4148,54 @@
       "fonte": "PCI",
       "id": "d49d121a-41d0-4765-8140-20c00de8fca6",
       "data_coleta": "2026-06-23T11:15:02.480752+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Blumenau",
+      "orgao": "Parque Vila Germanica",
+      "cargos": [
+        "Participante",
+        "Dançarino"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.blumenau.sc.gov.br/secretarias/parque-vila-germanica/parque-vila-germanica/inscriacaoes-abertas-para-o-festival-de-danacas-germaanicas-da-oktoberfest-blumenau30",
+      "data_encerramento": null,
+      "data_publicacao": "17/06/2026",
+      "status": "aberto",
+      "fonte": "PMBlumenau-SC",
+      "id": "e372ce69-99b7-4ead-acb8-b30be7212499",
+      "data_coleta": "2026-06-24T11:03:58.836061+00:00"
+    },
+    {
+      "instituicao": "DETRAN - AL",
+      "orgao": "DETRAN - AL",
+      "cargos": [
+        "Analista de Trânsito",
+        "Assistente de Trânsito"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/detran-al-retifica-concurso-publico-para-analistas-e-assistentes-de-trânsito",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-24",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "24bdda68-827f-43e9-8642-e77f936d68b8",
+      "data_coleta": "2026-06-24T11:03:58.836601+00:00"
+    },
+    {
+      "instituicao": "DETRAN",
+      "orgao": "Departamento de Trânsito de Alagoas",
+      "cargos": [
+        "Analistas",
+        "Assistentes de Trânsito"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/detran-al-retifica-concurso-publico-para-analistas-e-assistentes-de-t",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-24",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "5af5a01b-ac95-4543-8968-58aaa3d6fc62",
+      "data_coleta": "2026-06-24T11:03:58.836880+00:00"
     }
   ]
 }
