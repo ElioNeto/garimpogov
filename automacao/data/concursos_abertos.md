@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 24/06/2026_
+_Atualizado em 25/06/2026_
 
-Total: **283** concursos encontrados.
+Total: **286** concursos encontrados.
 
 ---
 
@@ -37,6 +37,17 @@ Total: **283** concursos encontrados.
 [🔗 Edital](https://www.egba.ba.gov.br/egba/noticias/2025-01/331/diario-oficial-online)
 - **Cargos:** Analista de Sistemas, Professor de Ingles
 - **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+---
+
+## DOE-SP (1)
+
+### Instituto do Estado de São Paulo
+[🔗 Edital](https://www.saopaulo.sp.gov.br)
+- **Cargos:** Diário Oficial, Concurso edital
+- **Órgão/Local:** Prodesp
 - **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
 
@@ -342,7 +353,7 @@ Total: **283** concursos encontrados.
 
 ---
 
-## PCI (169)
+## PCI (170)
 
 ### Associação das Pioneiras Sociais/Rede SARAH
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros)
@@ -1005,13 +1016,6 @@ Total: **283** concursos encontrados.
 - **Salário máx.:** R$ 10.000,00
 - **Encerramento:** 2026-06-30
 
-### CRT-SP
-[🔗 Edital](https://www.pciconcursos.com.br/crt-sp/)
-- **Cargos:** Recrutamento, Treinamento
-- **Órgão/Local:** Centro de Recursos Humanos
-- **Salário máx.:** R$ 12.000,00
-- **Encerramento:** 2026-06-25
-
 ### Câmara de Arujá
 [🔗 Edital](https://www.pciconcursos.com.br/camara-arujá/)
 - **Cargos:** Gestão de Projetos, Contratação
@@ -1313,9 +1317,23 @@ Total: **283** concursos encontrados.
 - **Cargos:** Analistas, Assistentes de Trânsito
 - **Órgão/Local:** Departamento de Trânsito de Alagoas
 
+### Prefeitura de Sao Paulo
+[🔗 Edital](https://www.pciconcursos.com.br/colaborar/)
+- **Cargos:** Analista de Sistemas, Professor de Ingles
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 5.000,00
+- **Encerramento:** 30/06/2026
+
+### 5ª RM - 5ª Região Militar do Exército Brasileiro
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/5-regiao-militar-pr-exercito-abre-selecao-para-oficiais-e-sargentos)
+- **Cargos:** Oficiais, Sargentos
+- **Órgão/Local:** PR
+- **Salário máx.:** R$ 10.863,68
+- **Encerramento:** 20/07/2026
+
 ---
 
-## PMBlumenau-SC (7)
+## PMBlumenau-SC (8)
 
 ### Prefeitura de Blumenau
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/parque-vila-germanica/parque-vila-germanica/inscriacaoes-para-o-concurso-da-realeza-da-42aa-oktoberfest-blumenau-abrem-nesta-quarta-feira-dia-103)
@@ -1358,6 +1376,12 @@ Total: **283** concursos encontrados.
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/parque-vila-germanica/parque-vila-germanica/inscriacaoes-abertas-para-o-festival-de-danacas-germaanicas-da-oktoberfest-blumenau30)
 - **Cargos:** Participante, Dançarino
 - **Órgão/Local:** Parque Vila Germanica
+
+### Prefeitura de Blumenau
+[🔗 Edital](https://www.blumenau.sc.gov.br/governo/secretaria-de-administracao/sedead/prefeitura-abre-chamada-paoblica-para-agentes-de-vigilaancia59)
+- **Cargos:** Agente de Vigilância
+- **Órgão/Local:** SC, Blumenau - SC
+- **Encerramento:** 29/06/2026
 
 ---
 

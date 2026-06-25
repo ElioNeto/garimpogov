@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-24T11:03:58.836978+00:00",
-    "total_concursos": 283
+    "ultima_coleta": "2026-06-25T10:53:23.523095+00:00",
+    "total_concursos": 286
   },
   "concursos": [
     {
@@ -3240,22 +3240,6 @@
       "data_coleta": "2026-06-17T12:23:10.336471+00:00"
     },
     {
-      "instituicao": "CRT-SP",
-      "orgao": "Centro de Recursos Humanos",
-      "cargos": [
-        "Recrutamento",
-        "Treinamento"
-      ],
-      "salario_maximo": "R$ 12.000,00",
-      "link_edital": "https://www.pciconcursos.com.br/crt-sp/",
-      "data_encerramento": "2026-06-25",
-      "data_publicacao": "2026-05-10",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "3ec2016a-1f75-4b6a-8ec5-ec9e37a2c5ab",
-      "data_coleta": "2026-06-17T12:23:10.336538+00:00"
-    },
-    {
       "instituicao": "Câmara de Arujá",
       "orgao": "Câmara de Arujá",
       "cargos": [
@@ -4196,6 +4180,69 @@
       "fonte": "PCI",
       "id": "5af5a01b-ac95-4543-8968-58aaa3d6fc62",
       "data_coleta": "2026-06-24T11:03:58.836880+00:00"
+    },
+    {
+      "instituicao": "Instituto do Estado de São Paulo",
+      "orgao": "Prodesp",
+      "cargos": [
+        "Diário Oficial",
+        "Concurso edital"
+      ],
+      "salario_maximo": "R$ 5.000,00",
+      "link_edital": "https://www.saopaulo.sp.gov.br",
+      "data_encerramento": "30/06/2026",
+      "data_publicacao": "01/06/2026",
+      "status": "aberto",
+      "fonte": "DOE-SP",
+      "id": "2deb56ac-eab8-4b0d-8730-dde020fd4f8b",
+      "data_coleta": "2026-06-25T10:53:23.522309+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Blumenau",
+      "orgao": "SC, Blumenau - SC",
+      "cargos": [
+        "Agente de Vigilância"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.blumenau.sc.gov.br/governo/secretaria-de-administracao/sedead/prefeitura-abre-chamada-paoblica-para-agentes-de-vigilaancia59",
+      "data_encerramento": "29/06/2026",
+      "data_publicacao": "24/06/2026",
+      "status": "aberto",
+      "fonte": "PMBlumenau-SC",
+      "id": "b3996145-510e-40bb-a732-aacd69b016a6",
+      "data_coleta": "2026-06-25T10:53:23.522598+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Sao Paulo",
+      "orgao": "SP",
+      "cargos": [
+        "Analista de Sistemas",
+        "Professor de Ingles"
+      ],
+      "salario_maximo": "R$ 5.000,00",
+      "link_edital": "https://www.pciconcursos.com.br/colaborar/",
+      "data_encerramento": "30/06/2026",
+      "data_publicacao": "01/06/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "9052e92c-5e3c-425f-b48d-29a00534205a",
+      "data_coleta": "2026-06-25T10:53:23.522630+00:00"
+    },
+    {
+      "instituicao": "5ª RM - 5ª Região Militar do Exército Brasileiro",
+      "orgao": "PR",
+      "cargos": [
+        "Oficiais",
+        "Sargentos"
+      ],
+      "salario_maximo": "R$ 10.863,68",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/5-regiao-militar-pr-exercito-abre-selecao-para-oficiais-e-sargentos",
+      "data_encerramento": "20/07/2026",
+      "data_publicacao": "2026-06-25",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "e38f6552-3196-452c-8e01-6743eca18c74",
+      "data_coleta": "2026-06-25T10:53:23.522788+00:00"
     }
   ]
 }
