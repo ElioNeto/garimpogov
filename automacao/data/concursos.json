@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-25T10:53:23.523095+00:00",
-    "total_concursos": 286
+    "ultima_coleta": "2026-06-26T11:06:05.702470+00:00",
+    "total_concursos": 290
   },
   "concursos": [
     {
@@ -4243,6 +4243,71 @@
       "fonte": "PCI",
       "id": "e38f6552-3196-452c-8e01-6743eca18c74",
       "data_coleta": "2026-06-25T10:53:23.522788+00:00"
+    },
+    {
+      "instituicao": "LAMEF",
+      "orgao": "LAMEF",
+      "cargos": [
+        "Engenheiro Sênior I de Poços",
+        "Engenheiro Profissional Júnior",
+        "Pesquisador Mestre em Engenharia Química"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/1275-072026lamef",
+      "data_encerramento": null,
+      "data_publicacao": "07/2026",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "c0a672bb-be08-4705-9735-83e7360d3076",
+      "data_coleta": "2026-06-26T11:06:05.701855+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de PB",
+      "orgao": "PB",
+      "cargos": [
+        "Professor",
+        "Superior"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/pm-sp-abre-concurso-com-concurso-publicos-para-aluno-soldado",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "c532c924-28ec-40dc-ab33-2c59c2bf4663",
+      "data_coleta": "2026-06-26T11:06:05.702221+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de PE",
+      "orgao": "PE",
+      "cargos": [
+        "Engenheiro de Manutenção",
+        "Superior"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/apex-5-regiao-militar-pr-sc-abre-selecoes-para-oficiais-tecnicos-temporarios",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "c6c4eba5-2d66-4e7c-b2c1-dfe656f828d2",
+      "data_coleta": "2026-06-26T11:06:05.702248+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de RO",
+      "orgao": "RO",
+      "cargos": [
+        "5ª RM - 5ª Região Militar",
+        "5ª RM - 5ª Região Militar do Exército Brasileiro"
+      ],
+      "salario_maximo": "R$ 10.863,68",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/5-rm-5-regiao-militar-pr-sc-abre-selecoes-para-oficiais-e-sargentos",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "aef7f73d-f887-425f-9901-13de0cba1bb1",
+      "data_coleta": "2026-06-26T11:06:05.702306+00:00"
     }
   ]
 }

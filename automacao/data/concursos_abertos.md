@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 25/06/2026_
+_Atualizado em 26/06/2026_
 
-Total: **286** concursos encontrados.
+Total: **290** concursos encontrados.
 
 ---
 
@@ -110,7 +110,7 @@ Total: **286** concursos encontrados.
 
 ---
 
-## FAURGS (14)
+## FAURGS (15)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -181,6 +181,11 @@ Total: **286** concursos encontrados.
 - **Órgão/Local:** SP, Sao Paulo - SP
 - **Salário máx.:** R$ 5.000,00
 - **Encerramento:** 30/06/2026
+
+### LAMEF
+[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1275-072026lamef)
+- **Cargos:** Engenheiro Sênior I de Poços, Engenheiro Profissional Júnior, Pesquisador Mestre em Engenharia Química
+- **Órgão/Local:** LAMEF
 
 ---
 
@@ -353,7 +358,7 @@ Total: **286** concursos encontrados.
 
 ---
 
-## PCI (170)
+## PCI (173)
 
 ### Associação das Pioneiras Sociais/Rede SARAH
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros)
@@ -1330,6 +1335,27 @@ Total: **286** concursos encontrados.
 - **Órgão/Local:** PR
 - **Salário máx.:** R$ 10.863,68
 - **Encerramento:** 20/07/2026
+
+### Prefeitura de PB
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/pm-sp-abre-concurso-com-concurso-publicos-para-aluno-soldado)
+- **Cargos:** Professor, Superior
+- **Órgão/Local:** PB
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### Prefeitura de PE
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/apex-5-regiao-militar-pr-sc-abre-selecoes-para-oficiais-tecnicos-temporarios)
+- **Cargos:** Engenheiro de Manutenção, Superior
+- **Órgão/Local:** PE
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### Prefeitura de RO
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/5-rm-5-regiao-militar-pr-sc-abre-selecoes-para-oficiais-e-sargentos)
+- **Cargos:** 5ª RM - 5ª Região Militar, 5ª RM - 5ª Região Militar do Exército Brasileiro
+- **Órgão/Local:** RO
+- **Salário máx.:** R$ 10.863,68
+- **Encerramento:** N/A
 
 ---
 
