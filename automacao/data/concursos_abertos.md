@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 26/06/2026_
+_Atualizado em 27/06/2026_
 
-Total: **290** concursos encontrados.
+Total: **293** concursos encontrados.
 
 ---
 
@@ -358,7 +358,7 @@ Total: **290** concursos encontrados.
 
 ---
 
-## PCI (173)
+## PCI (176)
 
 ### Associação das Pioneiras Sociais/Rede SARAH
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros)
@@ -1355,6 +1355,24 @@ Total: **290** concursos encontrados.
 - **Cargos:** 5ª RM - 5ª Região Militar, 5ª RM - 5ª Região Militar do Exército Brasileiro
 - **Órgão/Local:** RO
 - **Salário máx.:** R$ 10.863,68
+- **Encerramento:** N/A
+
+### Marinha
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/marinha-do-brasil-prorroga-inscricoes-de-concurso-com-vagas-para-o-corpo-auxiliar-de-pracas)
+- **Cargos:** Praça, Auxiliar
+- **Órgão/Local:** Marinha do Brasil
+- **Encerramento:** 12/07/2026
+
+### DETRAN - AL
+[🔗 Edital](https://www.pciconcursos.com.br/noticia)
+- **Cargos:** Analista de Trânsito, Assistente de Trânsito
+- **Órgão/Local:** Alagoas
+
+### Prefeitura de Araguaína - TO
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-araguaina-abre-concursos-publicos-com-remuneracoes-de-ate-16458)
+- **Cargos:** Concurso
+- **Órgão/Local:** TO
+- **Salário máx.:** R$ 25.000,00
 - **Encerramento:** N/A
 
 ---

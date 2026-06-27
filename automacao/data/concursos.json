@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-26T11:06:05.702470+00:00",
-    "total_concursos": 290
+    "ultima_coleta": "2026-06-27T10:13:13.376639+00:00",
+    "total_concursos": 293
   },
   "concursos": [
     {
@@ -4308,6 +4308,53 @@
       "fonte": "PCI",
       "id": "aef7f73d-f887-425f-9901-13de0cba1bb1",
       "data_coleta": "2026-06-26T11:06:05.702306+00:00"
+    },
+    {
+      "instituicao": "Marinha",
+      "orgao": "Marinha do Brasil",
+      "cargos": [
+        "Praça",
+        "Auxiliar"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-prorroga-inscricoes-de-concurso-com-vagas-para-o-corpo-auxiliar-de-pracas",
+      "data_encerramento": "12/07/2026",
+      "data_publicacao": "2026-06-27",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "d22c6c30-826a-45ed-ba60-536ec3b30402",
+      "data_coleta": "2026-06-27T10:13:13.376124+00:00"
+    },
+    {
+      "instituicao": "DETRAN - AL",
+      "orgao": "Alagoas",
+      "cargos": [
+        "Analista de Trânsito",
+        "Assistente de Trânsito"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticia",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-27",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "06823198-e91f-4064-9e77-e0916c9f488b",
+      "data_coleta": "2026-06-27T10:13:13.376512+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Araguaína - TO",
+      "orgao": "TO",
+      "cargos": [
+        "Concurso"
+      ],
+      "salario_maximo": "R$ 25.000,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-araguaina-abre-concursos-publicos-com-remuneracoes-de-ate-16458",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "3b8d33d9-8ea3-493b-83d2-49f425af885a",
+      "data_coleta": "2026-06-27T10:13:13.376615+00:00"
     }
   ]
 }
