@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 27/06/2026_
+_Atualizado em 28/06/2026_
 
-Total: **293** concursos encontrados.
+Total: **292** concursos encontrados.
 
 ---
 
@@ -358,14 +358,7 @@ Total: **293** concursos encontrados.
 
 ---
 
-## PCI (176)
-
-### Associação das Pioneiras Sociais/Rede SARAH
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros)
-- **Cargos:** Engenheiro de Manutenção
-- **Órgão/Local:** SP, São Paulo - SP
-- **Salário máx.:** R$ 14.700,93
-- **Encerramento:** 28/06/2026
+## PCI (175)
 
 ### Escola Preparatória de Cadetes do Exército
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/espcex-sp-abre-concurso-com-440-vagas-para-curso-de-formacao-de-oficiais-de-carreira)
@@ -972,13 +965,6 @@ Total: **293** concursos encontrados.
 - **Órgão/Local:** Polícia Penal - RS
 
 ### PCICONCURSOS
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/ebserh-disponibiliza-vagas-para-medicos-e-fisicos-em-brasilia-piaui-e-minas-gerais)
-- **Cargos:** Engenheiro de Manutenção, Físico, Médico
-- **Órgão/Local:** https://www.pciconcursos.com.br/cargos/norte/#AP
-- **Salário máx.:** R$ 11.464,58
-- **Encerramento:** 28/06/2026
-
-### PCICONCURSOS
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/ime-abre-concurso-com-vagas-de-nivel-superior)
 - **Cargos:** Superior
 - **Órgão/Local:** https://www.pciconcursos.com.br/concursos/nordeste/#AL
@@ -1374,6 +1360,11 @@ Total: **293** concursos encontrados.
 - **Órgão/Local:** TO
 - **Salário máx.:** R$ 25.000,00
 - **Encerramento:** N/A
+
+### Associação das Pioneiras Sociais
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros)
+- **Cargos:** Engenheiro
+- **Órgão/Local:** Brasil
 
 ---
 

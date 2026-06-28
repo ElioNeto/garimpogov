@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-27T10:13:13.376639+00:00",
-    "total_concursos": 293
+    "ultima_coleta": "2026-06-28T10:38:23.672933+00:00",
+    "total_concursos": 292
   },
   "concursos": [
     {
@@ -598,21 +598,6 @@
       "fonte": "FAURGS",
       "id": "ef73293e-428f-47f5-a4b1-2ebf63febb28",
       "data_coleta": "2026-06-02T21:53:50.370513+00:00"
-    },
-    {
-      "instituicao": "Associação das Pioneiras Sociais/Rede SARAH",
-      "orgao": "SP, São Paulo - SP",
-      "cargos": [
-        "Engenheiro de Manutenção"
-      ],
-      "salario_maximo": "R$ 14.700,93",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros",
-      "data_encerramento": "28/06/2026",
-      "data_publicacao": "08/06/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "f803dfe6-191e-4622-9504-b6b23326694a",
-      "data_coleta": "2026-06-02T21:53:50.370549+00:00"
     },
     {
       "instituicao": "Escola Preparatória de Cadetes do Exército",
@@ -3108,22 +3093,6 @@
     },
     {
       "instituicao": "PCICONCURSOS",
-      "orgao": "https://www.pciconcursos.com.br/cargos/norte/#AP",
-      "cargos": [
-        "Engenheiro de Manutenção",
-        "Físico, Médico"
-      ],
-      "salario_maximo": "R$ 11.464,58",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/ebserh-disponibiliza-vagas-para-medicos-e-fisicos-em-brasilia-piaui-e-minas-gerais",
-      "data_encerramento": "28/06/2026",
-      "data_publicacao": "28/06/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "8c6a4488-2bb3-4b95-b5ef-128bb863d5a0",
-      "data_coleta": "2026-06-16T13:03:44.678290+00:00"
-    },
-    {
-      "instituicao": "PCICONCURSOS",
       "orgao": "https://www.pciconcursos.com.br/concursos/nordeste/#AL",
       "cargos": [
         "Superior"
@@ -4355,6 +4324,21 @@
       "fonte": "PCI",
       "id": "3b8d33d9-8ea3-493b-83d2-49f425af885a",
       "data_coleta": "2026-06-27T10:13:13.376615+00:00"
+    },
+    {
+      "instituicao": "Associação das Pioneiras Sociais",
+      "orgao": "Brasil",
+      "cargos": [
+        "Engenheiro"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-28",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "a186c5ae-8512-4884-a267-635f7d82f4f1",
+      "data_coleta": "2026-06-28T10:38:23.672800+00:00"
     }
   ]
 }
