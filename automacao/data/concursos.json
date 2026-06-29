@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-28T10:38:23.672933+00:00",
-    "total_concursos": 292
+    "ultima_coleta": "2026-06-29T12:47:35.779706+00:00",
+    "total_concursos": 301
   },
   "concursos": [
     {
@@ -1263,22 +1263,6 @@
       "data_coleta": "2026-06-03T13:02:37.218784+00:00"
     },
     {
-      "instituicao": "Câmara de Salesópolis",
-      "orgao": "São Paulo",
-      "cargos": [
-        "Assistente Administrativo",
-        "Técnico em Informática"
-      ],
-      "salario_maximo": "R$ 7.847,87",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-salesopolis-sp-abre-concurso-publico-com-salarios-de-ate-7847",
-      "data_encerramento": "29/06/2026",
-      "data_publicacao": "2026-06-04",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "9bd6273c-2cae-4b15-8bc2-7ee73fb62883",
-      "data_coleta": "2026-06-04T11:16:54.830779+00:00"
-    },
-    {
       "instituicao": "Câmara de Seropédica - RJ",
       "orgao": "RJ, Seropédica - RJ",
       "cargos": [
@@ -2177,24 +2161,6 @@
       "fonte": "PCI",
       "id": "de696330-d5ac-40d2-b587-f489616e01b1",
       "data_coleta": "2026-06-08T13:01:08.242442+00:00"
-    },
-    {
-      "instituicao": "Câmara de Salesópolis",
-      "orgao": "SP",
-      "cargos": [
-        "Fundamental",
-        "Médio",
-        "Superior"
-      ],
-      "salario_maximo": "R$ 7.847,87",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-salesopolis-sp",
-      "data_encerramento": "29/06/2026",
-      "data_publicacao": "29/06/2026",
-      "status": "aberto",
-      "local": "Salesópolis",
-      "fonte": "PCI",
-      "id": "637488b9-ddf9-4586-a95b-374c23b51ebd",
-      "data_coleta": "2026-06-08T13:01:08.242549+00:00"
     },
     {
       "instituicao": "MP-ES",
@@ -4167,21 +4133,6 @@
       "data_coleta": "2026-06-25T10:53:23.522309+00:00"
     },
     {
-      "instituicao": "Prefeitura de Blumenau",
-      "orgao": "SC, Blumenau - SC",
-      "cargos": [
-        "Agente de Vigilância"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://www.blumenau.sc.gov.br/governo/secretaria-de-administracao/sedead/prefeitura-abre-chamada-paoblica-para-agentes-de-vigilaancia59",
-      "data_encerramento": "29/06/2026",
-      "data_publicacao": "24/06/2026",
-      "status": "aberto",
-      "fonte": "PMBlumenau-SC",
-      "id": "b3996145-510e-40bb-a732-aacd69b016a6",
-      "data_coleta": "2026-06-25T10:53:23.522598+00:00"
-    },
-    {
       "instituicao": "Prefeitura de Sao Paulo",
       "orgao": "SP",
       "cargos": [
@@ -4339,6 +4290,182 @@
       "fonte": "PCI",
       "id": "a186c5ae-8512-4884-a267-635f7d82f4f1",
       "data_coleta": "2026-06-28T10:38:23.672800+00:00"
+    },
+    {
+      "instituicao": "Câmara de Pirajuí",
+      "orgao": "SP, Pirajuí - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 5.269,45",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-pirajui-sp-abre-concurso-publico-com-salarios-de-ate-5269",
+      "data_encerramento": "26/07/2026",
+      "data_publicacao": "29/06/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "19ec19bd-4ab1-435a-93bc-9dfbe9f24192",
+      "data_coleta": "2026-06-29T12:47:35.778811+00:00"
+    },
+    {
+      "instituicao": "Câmara de Salto de Pirapora",
+      "orgao": "SP, Salto de Pirapora - SP",
+      "cargos": [
+        "Técnico de Controle Administrativo",
+        "Tesoureiro"
+      ],
+      "salario_maximo": "R$ 8.059,20",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-salto-de-pirapora-sp-abre-concurso-com-salarios-de-ate-8059",
+      "data_encerramento": "21/07/2026",
+      "data_publicacao": "29/06/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "c2dbea63-8cf6-47c9-95f9-0f1230d33aba",
+      "data_coleta": "2026-06-29T12:47:35.778869+00:00"
+    },
+    {
+      "instituicao": "CEMMIL - Consórcio Intermunicipal CEMMIL para o Desenvolvimento Sustentável",
+      "orgao": "SP, Região Metropolitana de São Paulo - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 3.133,80",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/consorcio-cemmil-sp-abre-selecao-para-formacao-de-cadastro-de-reserva-em-varios-cargos",
+      "data_encerramento": "16/07/2026",
+      "data_publicacao": "29/06/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "bfccf8db-b2d5-48a5-9ae2-a024c4f21cf3",
+      "data_coleta": "2026-06-29T12:47:35.778896+00:00"
+    },
+    {
+      "instituicao": "CIALAR - Consórcio Intermunicipal de Acolhimento Institucional da Comarca de Estrela D'Oeste",
+      "orgao": "SP, Estrela D'Oeste - SP",
+      "cargos": [
+        "Auxiliar de Serviços Gerais",
+        "Cuidador/Educador"
+      ],
+      "salario_maximo": "R$ 2.355,43",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cialar-sp-abre-vagas-para-auxiliar-de-servicos-gerais-e-cuidador-educador",
+      "data_encerramento": "30/06/2026",
+      "data_publicacao": "29/06/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "554d2e90-0b08-48cb-9aef-a7e7af8fdbb1",
+      "data_coleta": "2026-06-29T12:47:35.778927+00:00"
+    },
+    {
+      "instituicao": "EMDURB - Empresa Municipal de Desenvolvimento Urbano de Ubatuba",
+      "orgao": "SP, Ubatuba - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 2.612,44",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/emdurb-de-ubatuba-sp-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
+      "data_encerramento": "10/08/2026",
+      "data_publicacao": "29/06/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "8bf95361-552c-4d4e-9cb6-e5f49da25eb2",
+      "data_coleta": "2026-06-29T12:47:35.778953+00:00"
+    },
+    {
+      "instituicao": "FMJ - Faculdade de Medicina de Jundiaí",
+      "orgao": "SP, Jundiaí - SP",
+      "cargos": [
+        "Enfermeiro"
+      ],
+      "salario_maximo": "R$ 10.748,35",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/faculdade-de-medicina-de-jundiai-sp-abre-concurso-publico-com-vaga-para-enfermeiro",
+      "data_encerramento": "06/08/2026",
+      "data_publicacao": "29/06/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "bdf2fb01-0ae4-4e3b-bfe9-4328bf1cf5a7",
+      "data_coleta": "2026-06-29T12:47:35.779002+00:00"
+    },
+    {
+      "instituicao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+      "orgao": "SP, Campinas - SP",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/func",
+      "data_encerramento": null,
+      "data_publicacao": "29/06/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "4f97c8f6-5f20-476e-aff6-0cf0cb3cbccc",
+      "data_coleta": "2026-06-29T12:47:35.779033+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Paracatu - MG",
+      "orgao": "MG",
+      "cargos": [
+        "Guarda Civil Municipal"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paracatu-mg-publica-edital-retificado-de-concurso-publico",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "1b49fc45-1c67-4a27-9991-8c8ba1e18942",
+      "data_coleta": "2026-06-29T12:47:35.779186+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de PE",
+      "orgao": "PE",
+      "cargos": [
+        "Professor",
+        "Superior"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/pe-profesor-procurado-2026",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "e00daf2c-6572-4776-b1a4-177221943110",
+      "data_coleta": "2026-06-29T12:47:35.779247+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de RN",
+      "orgao": "RN",
+      "cargos": [
+        "Superior"
+      ],
+      "salario_maximo": "R$ 9.004,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/ro-concursos-nordeste-#RO",
+      "data_encerramento": "30/07/2026",
+      "data_publicacao": "08/07/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "0ab403e7-83a7-4f71-b997-684e805c7837",
+      "data_coleta": "2026-06-29T12:47:35.779292+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Pouso Alegre - MG",
+      "orgao": "MG",
+      "cargos": [
+        "Guarda Civil Municipal"
+      ],
+      "salario_maximo": "N/A",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pouso-alegre-mg-retifica-edital-de-concurso-publico",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "0df2bf95-c0d9-4844-ad4a-c54b56ca17c1",
+      "data_coleta": "2026-06-29T12:47:35.779385+00:00"
+    },
+    {
+      "instituicao": "DETRAN - AL",
+      "orgao": "AL",
+      "cargos": [
+        "Analista de Trânsito",
+        "Assistente de Trânsito"
+      ],
+      "salario_maximo": "R$ 25 mil",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/detran-al-retifica-concurso-publico",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "9d1aacd3-5de1-4b25-844c-37e804c6b1e2",
+      "data_coleta": "2026-06-29T12:47:35.779443+00:00"
     }
   ]
 }

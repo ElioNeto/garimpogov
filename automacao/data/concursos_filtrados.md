@@ -1,8 +1,8 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 28/06/2026_
+_Atualizado em 29/06/2026_
 
-Total: **25** concursos encontrados.
+Total: **24** concursos encontrados.
 
 ---
 
@@ -127,14 +127,7 @@ Total: **25** concursos encontrados.
 
 ---
 
-## PCI (7)
-
-### Câmara de Salesópolis
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-salesopolis-sp-abre-concurso-publico-com-salarios-de-ate-7847)
-- **Cargos:** Assistente Administrativo, Técnico em Informática
-- **Órgão/Local:** São Paulo
-- **Salário máx.:** R$ 7.847,87
-- **Encerramento:** 29/06/2026
+## PCI (6)
 
 ### Prefeitura de Sao Paulo
 [🔗 Edital](https://www.pciconcursos.com.br/)

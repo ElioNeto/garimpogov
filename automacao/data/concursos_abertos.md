@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 28/06/2026_
+_Atualizado em 29/06/2026_
 
-Total: **292** concursos encontrados.
+Total: **301** concursos encontrados.
 
 ---
 
@@ -358,7 +358,7 @@ Total: **292** concursos encontrados.
 
 ---
 
-## PCI (175)
+## PCI (185)
 
 ### Escola Preparatória de Cadetes do Exército
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/espcex-sp-abre-concurso-com-440-vagas-para-curso-de-formacao-de-oficiais-de-carreira)
@@ -563,13 +563,6 @@ Total: **292** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-altos-pi-publica-edital-de-concurso-publico-com-diversas-vagas)
 - **Órgão/Local:** Prefeitura de Altos - PI
 
-### Câmara de Salesópolis
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-salesopolis-sp-abre-concurso-publico-com-salarios-de-ate-7847)
-- **Cargos:** Assistente Administrativo, Técnico em Informática
-- **Órgão/Local:** São Paulo
-- **Salário máx.:** R$ 7.847,87
-- **Encerramento:** 29/06/2026
-
 ### Câmara de Seropédica - RJ
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-seropedica-rj-reabre-inscricoes-para-concursos-publicos)
 - **Cargos:** Vereador, Secretário, Tesoureiro
@@ -699,13 +692,6 @@ Total: **292** concursos encontrados.
 - **Órgão/Local:** SP
 - **Salário máx.:** R$ 5.200,00
 - **Encerramento:** 06/07/2026
-
-### Câmara de Salesópolis
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-salesopolis-sp)
-- **Cargos:** Fundamental, Médio, Superior
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 7.847,87
-- **Encerramento:** 29/06/2026
 
 ### MP-ES
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/mp-es-publica-retificacoes-de-edital-de-concurs)
@@ -1366,9 +1352,87 @@ Total: **292** concursos encontrados.
 - **Cargos:** Engenheiro
 - **Órgão/Local:** Brasil
 
+### Câmara de Pirajuí
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-pirajui-sp-abre-concurso-publico-com-salarios-de-ate-5269)
+- **Órgão/Local:** SP, Pirajuí - SP
+- **Salário máx.:** R$ 5.269,45
+- **Encerramento:** 26/07/2026
+
+### Câmara de Salto de Pirapora
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-salto-de-pirapora-sp-abre-concurso-com-salarios-de-ate-8059)
+- **Cargos:** Técnico de Controle Administrativo, Tesoureiro
+- **Órgão/Local:** SP, Salto de Pirapora - SP
+- **Salário máx.:** R$ 8.059,20
+- **Encerramento:** 21/07/2026
+
+### CEMMIL - Consórcio Intermunicipal CEMMIL para o Desenvolvimento Sustentável
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/consorcio-cemmil-sp-abre-selecao-para-formacao-de-cadastro-de-reserva-em-varios-cargos)
+- **Órgão/Local:** SP, Região Metropolitana de São Paulo - SP
+- **Salário máx.:** R$ 3.133,80
+- **Encerramento:** 16/07/2026
+
+### CIALAR - Consórcio Intermunicipal de Acolhimento Institucional da Comarca de Estrela D'Oeste
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cialar-sp-abre-vagas-para-auxiliar-de-servicos-gerais-e-cuidador-educador)
+- **Cargos:** Auxiliar de Serviços Gerais, Cuidador/Educador
+- **Órgão/Local:** SP, Estrela D'Oeste - SP
+- **Salário máx.:** R$ 2.355,43
+- **Encerramento:** 30/06/2026
+
+### EMDURB - Empresa Municipal de Desenvolvimento Urbano de Ubatuba
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/emdurb-de-ubatuba-sp-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva)
+- **Órgão/Local:** SP, Ubatuba - SP
+- **Salário máx.:** R$ 2.612,44
+- **Encerramento:** 10/08/2026
+
+### FMJ - Faculdade de Medicina de Jundiaí
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/faculdade-de-medicina-de-jundiai-sp-abre-concurso-publico-com-vaga-para-enfermeiro)
+- **Cargos:** Enfermeiro
+- **Órgão/Local:** SP, Jundiaí - SP
+- **Salário máx.:** R$ 10.748,35
+- **Encerramento:** 06/08/2026
+
+### FUNCAMP - Fundação de Desenvolvimento da Unicamp
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/func)
+- **Órgão/Local:** SP, Campinas - SP
+
+### Prefeitura de Paracatu - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-paracatu-mg-publica-edital-retificado-de-concurso-publico)
+- **Cargos:** Guarda Civil Municipal
+- **Órgão/Local:** MG
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### Prefeitura de PE
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/pe-profesor-procurado-2026)
+- **Cargos:** Professor, Superior
+- **Órgão/Local:** PE
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### Prefeitura de RN
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ro-concursos-nordeste-#RO)
+- **Cargos:** Superior
+- **Órgão/Local:** RN
+- **Salário máx.:** R$ 9.004,00
+- **Encerramento:** 30/07/2026
+
+### Prefeitura de Pouso Alegre - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-pouso-alegre-mg-retifica-edital-de-concurso-publico)
+- **Cargos:** Guarda Civil Municipal
+- **Órgão/Local:** MG
+- **Salário máx.:** N/A
+- **Encerramento:** N/A
+
+### DETRAN - AL
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/detran-al-retifica-concurso-publico)
+- **Cargos:** Analista de Trânsito, Assistente de Trânsito
+- **Órgão/Local:** AL
+- **Salário máx.:** R$ 25 mil
+- **Encerramento:** N/A
+
 ---
 
-## PMBlumenau-SC (8)
+## PMBlumenau-SC (7)
 
 ### Prefeitura de Blumenau
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/parque-vila-germanica/parque-vila-germanica/inscriacaoes-para-o-concurso-da-realeza-da-42aa-oktoberfest-blumenau-abrem-nesta-quarta-feira-dia-103)
@@ -1411,12 +1475,6 @@ Total: **292** concursos encontrados.
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/parque-vila-germanica/parque-vila-germanica/inscriacaoes-abertas-para-o-festival-de-danacas-germaanicas-da-oktoberfest-blumenau30)
 - **Cargos:** Participante, Dançarino
 - **Órgão/Local:** Parque Vila Germanica
-
-### Prefeitura de Blumenau
-[🔗 Edital](https://www.blumenau.sc.gov.br/governo/secretaria-de-administracao/sedead/prefeitura-abre-chamada-paoblica-para-agentes-de-vigilaancia59)
-- **Cargos:** Agente de Vigilância
-- **Órgão/Local:** SC, Blumenau - SC
-- **Encerramento:** 29/06/2026
 
 ---
 
