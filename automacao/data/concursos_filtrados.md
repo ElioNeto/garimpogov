@@ -1,48 +1,12 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 29/06/2026_
+_Atualizado em 30/06/2026_
 
-Total: **24** concursos encontrados.
-
----
-
-## AOCP (2)
-
-### Prefeitura de São Paulo
-[🔗 Edital](https://www.aocp.com.br/concurso)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
-### Prefeitura de Sao Paulo
-[🔗 Edital](https://www.aocp.com.br/concurso/edital)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** Prefeitura de Sao Paulo
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
+Total: **5** concursos encontrados.
 
 ---
 
-## DOE-BA (2)
-
-### EGBA - Empresa Gráfica da Bahia
-[🔗 Edital](https://www.egba.ba.gov.br/licitacoes)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
-### EGBA - Empresa Gráfica da Bahia
-[🔗 Edital](https://www.egba.ba.gov.br/egba/noticias/2025-01/331/diario-oficial-online)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
----
-
-## DOU (3)
+## DOU (1)
 
 ### Acessibilidade
 [🔗 Edital](https://www.gov.br/acessibilidade)
@@ -51,125 +15,22 @@ Total: **24** concursos encontrados.
 - **Salário máx.:** R$ 8.000,00
 - **Encerramento:** 2023/06/30
 
-### Prefeitura de Sao Paulo
-[🔗 Edital](https://www.in.gov.br)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** Ministério da Educação
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
-### Prefeitura de São Paulo
-[🔗 Edital](https://www.gov.br/autenticidade.html)
-- **Cargos:** Analista de Sistemas, Professor de Inglês
-- **Órgão/Local:** Prefeitura de São Paulo
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
 ---
 
-## Estrategia (2)
-
-### Prefeitura de Sao Paulo
-[🔗 Edital](https://www.estrategiaconcursos.com.br/por-concursos)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
-### Estratégia Concursos
-[🔗 Edital](https://www.estrategiaconcursos.com.br)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** Estratégia Concursos
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
----
-
-## FAURGS (5)
+## FAURGS (3)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
 - **Cargos:** PS 01 - ANALISTA DE TI I (Cibersegurança), PS 02 - BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Análise de Metabólitos), PS 03 - BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Citogenética), PS 04 - BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Erros Inatos do Metabolismo), PS 05 - ENFERMEIRO I (Enfermeiro do Trabalho), PS 06 - ENFERMEIRO I (Internação  Clínica Adulto), PS 07 - ENFERMEIRO I (Internação Cirúrgica Adulto ), PS 08 - MÉDICO I (Emergência Adulto), PS 09 - MÉDICO I (Geriatria), PS 10 - MÉDICO I (Neurofisiologia Clínica), PS 11 - MÉDICO I (Pediatria), PS 12 - MÉDICO I (Pneumologia: Polissonografia), PS 13 - MÉDICO I (Transplante Hepático), PS 14 - NUTRICIONISTA I (Atenção Básica), PS 15 - ASSISTENTE ADMINISTRATIVO I (Vigilante), PS 16 - TÉCNICO DE ENFERMAGEM (Centro Obstétrico e Internação Obstétrica), PS 17 - TÉCNICO DE LABORATÓRIO (Diagnóstico Laboratorial), PS 18 - TÉCNICO EM SAÚDE BUCAL
-
-### Prefeitura de Sao Paulo
-[🔗 Edital](https://www.faurgs.com.br/Portal/Aluno/Acesso)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
 
 ### UFRGS
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1274-062026ufrgs)
 - **Cargos:** ANALISTA DE TI I (Cibersegurança), BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Análise de Metabólitos), BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Citogenética), BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Erros Inatos do Metabolismo), ENFERMEIRO I (Enfermeiro do Trabalho), ENFERMEIRO I (Internação Clínica Adulto), ENFERMEIRO I (Internação Cirúrgica Adulto), MÉDICO I (Emergência Adulto), MÉDICO I (Geriatria), MÉDICO I (Neurofisiologia Clínica), MÉDICO I (Pediatria), MÉDICO I (Pneumologia: Polissonografia), MÉDICO I (Transplante Hepático), NUTRICIONISTA I (Atenção Básica), ASSISTENTE ADMINISTRATIVO I (Vigilante), TÉCNICO DE ENFERMAGEM (Centro Obstétrico e Internação Obstétrica), TÉCNICO DE LABORATÓRIO (Diagnóstico Laboratorial), TÉCNICO EM SAÚDE BUCAL
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
-[🔗 Edital](https://portalfaurgs.com.br/concursos)
-- **Cargos:** Analista de TI, Professor de Inglês, Especialista en Gestión
-- **Órgão/Local:** HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
-### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
 - **Cargos:** PS 01 - ANALISTA DE TI I (Cibersegurança), PS 02 - BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Análise de Metabólitos), PS 03 - BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Citogenética), PS 04 - BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Erros Inatos do Metabolismo), PS 05 - ENFERMEIRO I (Enfermeiro do Trabalho), PS 06 - ENFERMEIRO I (Internação Clínica Adulto), PS 07 - ENFERMEIRO I (Internação Cirúrgica Adulto ), PS 08 - MÉDICO I (Emergência Adulto), PS 09 - MÉDICO I (Geriatria), PS 10 - MÉDICO I (Neurofisiologia Clínica), PS 11 - MÉDICO I (Pediatria), PS 12 - MÉDICO I (Pneumologia: Polissonografia), PS 13 - MÉDICO I (Transplante Hepático), PS 14 - NUTRICIONISTA I (Atenção Básica), PS 15 - ASSISTENTE ADMINISTRATIVO I (Vigilante), PS 16 - TÉCNICO DE ENFERMAGEM (Centro Obstétrico e Internação Obstétrica), PS 17 - TÉCNICO DE LABORATÓRIO (Diagnóstico Laboratorial), PS 18 - TÉCNICO EM SAÚDE BUCAL
 - **Órgão/Local:** HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
-
----
-
-## IPPEC (1)
-
-### Prefeitura de Sao Paulo
-[🔗 Edital](https://ippec.org.br/concurso/edital)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
----
-
-## PCI (6)
-
-### Prefeitura de Sao Paulo
-[🔗 Edital](https://www.pciconcursos.com.br/)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
-### Concursos
-[🔗 Edital](https://www.pciconcursos.com.br/concursos/)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** Organização de Concursos
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
-### Prefeitura de Sao Paulo
-[🔗 Edital](https://www.example.com/edital)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
-### Prefeitura de Sao Paulo
-[🔗 Edital](https://www.example.com)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
-### Prefeitura de Saudá
-[🔗 Edital](https://www.example.com/concursos)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
-### Prefeitura de Sao Paulo
-[🔗 Edital](https://www.pciconcursos.com.br/colaborar/)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
 
 ---
 
@@ -181,23 +42,5 @@ Total: **24** concursos encontrados.
 - **Órgão/Local:** Blumenau
 - **Salário máx.:** R$ 1.920.000,00
 - **Encerramento:** 15:23
-
----
-
-## TecConcursos (2)
-
-### Prefeitura de São Paulo
-[🔗 Edital](https://www.tecconcursos.com.br/login?urlRetorno=aHR0cHM6Ly93d3cudGVjY29uY3Vyc29zLmNvbS5ici9jb25jdXJzb3M/cT1hbmFsaXN0YStkZStzaXN0ZW1hcw==)
-- **Cargos:** Analista de Sistemas, Professor de Inglês
-- **Órgão/Local:** SP, São Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
-### Prefeitura de Sao Paulo
-[🔗 Edital](https://www.tecconcursos.com.br/concursos/estagiario-de-postgraduacao-agu/)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
 
 ---

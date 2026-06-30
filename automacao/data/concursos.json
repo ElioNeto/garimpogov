@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-06-29T12:47:35.779706+00:00",
-    "total_concursos": 301
+    "ultima_coleta": "2026-06-30T11:08:01.870031+00:00",
+    "total_concursos": 286
   },
   "concursos": [
     {
@@ -582,22 +582,6 @@
       "fonte": "FAURGS",
       "id": "d4404d24-25b0-411c-8edf-c7e5d7bfda6e",
       "data_coleta": "2026-06-02T21:53:50.370504+00:00"
-    },
-    {
-      "instituicao": "Prefeitura de Sao Paulo",
-      "orgao": "SP, Sao Paulo - SP",
-      "cargos": [
-        "Analista de Sistemas",
-        "Professor de Ingles"
-      ],
-      "salario_maximo": "R$ 5.000,00",
-      "link_edital": "https://www.faurgs.com.br/Portal/Aluno/Acesso",
-      "data_encerramento": "30/06/2026",
-      "data_publicacao": "01/06/2026",
-      "status": "aberto",
-      "fonte": "FAURGS",
-      "id": "ef73293e-428f-47f5-a4b1-2ebf63febb28",
-      "data_coleta": "2026-06-02T21:53:50.370513+00:00"
     },
     {
       "instituicao": "Escola Preparatória de Cadetes do Exército",
@@ -1280,38 +1264,6 @@
       "data_coleta": "2026-06-04T11:16:54.830798+00:00"
     },
     {
-      "instituicao": "Prefeitura de Sao Paulo",
-      "orgao": "SP, Sao Paulo - SP",
-      "cargos": [
-        "Analista de Sistemas",
-        "Professor de Ingles"
-      ],
-      "salario_maximo": "R$ 5.000,00",
-      "link_edital": "https://www.estrategiaconcursos.com.br/por-concursos",
-      "data_encerramento": "30/06/2026",
-      "data_publicacao": "01/06/2026",
-      "status": "aberto",
-      "fonte": "Estrategia",
-      "id": "e384c043-bb25-4cea-a07e-0956461f2d15",
-      "data_coleta": "2026-06-05T11:40:50.300954+00:00"
-    },
-    {
-      "instituicao": "Prefeitura de Sao Paulo",
-      "orgao": "SP, Sao Paulo - SP",
-      "cargos": [
-        "Analista de Sistemas",
-        "Professor de Ingles"
-      ],
-      "salario_maximo": "R$ 5.000,00",
-      "link_edital": "https://ippec.org.br/concurso/edital",
-      "data_encerramento": "30/06/2026",
-      "data_publicacao": "01/06/2026",
-      "status": "aberto",
-      "fonte": "IPPEC",
-      "id": "49b1c25b-de8c-4c2f-99b2-85bb832185ce",
-      "data_coleta": "2026-06-05T11:40:50.300997+00:00"
-    },
-    {
       "instituicao": "Câmara Municipal de Governador Valadares",
       "orgao": "Câmara Municipal de Governador Valadares",
       "cargos": [],
@@ -1400,22 +1352,6 @@
       "data_coleta": "2026-06-05T11:40:50.301099+00:00"
     },
     {
-      "instituicao": "Prefeitura de Sao Paulo",
-      "orgao": "SP",
-      "cargos": [
-        "Analista de Sistemas",
-        "Professor de Ingles"
-      ],
-      "salario_maximo": "R$ 5.000,00",
-      "link_edital": "https://www.pciconcursos.com.br/",
-      "data_encerramento": "30/06/2026",
-      "data_publicacao": "01/06/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "5d0cd12f-8851-412c-a03f-496f16bcdfa9",
-      "data_coleta": "2026-06-06T10:24:26.698703+00:00"
-    },
-    {
       "instituicao": "CESAMA de Juiz de Fora - MG",
       "orgao": "MG, Juiz de Fora - MG",
       "cargos": [],
@@ -1427,23 +1363,6 @@
       "fonte": "PCI",
       "id": "f722cc83-9d3c-430d-9ec5-4f6a4e68d16f",
       "data_coleta": "2026-06-06T10:24:26.698740+00:00"
-    },
-    {
-      "instituicao": "HOSPITAL DE CLÍNICAS DE PORTO ALEGRE",
-      "orgao": "HOSPITAL DE CLÍNICAS DE PORTO ALEGRE",
-      "cargos": [
-        "Analista de TI",
-        "Professor de Inglês",
-        "Especialista en Gestión"
-      ],
-      "salario_maximo": "R$ 5.000,00",
-      "link_edital": "https://portalfaurgs.com.br/concursos",
-      "data_publicacao": "01/2026",
-      "data_encerramento": "30/06/2026",
-      "status": "aberto",
-      "fonte": "FAURGS",
-      "id": "100628c0-1180-4a14-a817-d6b92681365d",
-      "data_coleta": "2026-06-07T10:39:51.542354+00:00"
     },
     {
       "instituicao": "Câmara de Seropédica",
@@ -1567,22 +1486,6 @@
       "data_coleta": "2026-06-07T18:52:30.846392+00:00"
     },
     {
-      "instituicao": "Prefeitura de São Paulo",
-      "orgao": "SP, Sao Paulo - SP",
-      "cargos": [
-        "Analista de Sistemas",
-        "Professor de Ingles"
-      ],
-      "salario_maximo": "R$ 5.000,00",
-      "link_edital": "https://www.aocp.com.br/concurso",
-      "data_encerramento": "30/06/2026",
-      "data_publicacao": "01/06/2026",
-      "status": "aberto",
-      "fonte": "AOCP",
-      "id": "45a0f72d-3882-4ce7-a837-5e14d661afdc",
-      "data_coleta": "2026-06-07T18:52:30.846401+00:00"
-    },
-    {
       "instituicao": "CBMMG",
       "orgao": "MG, Belo Horizonte - MG",
       "cargos": [
@@ -1626,23 +1529,6 @@
       "id": "fd2143a9-f8a3-46df-8958-db89628e98df",
       "data_coleta": "2026-06-07T18:52:30.846492+00:00",
       "data_publicacao": "2026-06-07"
-    },
-    {
-      "instituicao": "Prefeitura de São Paulo",
-      "orgao": "SP, São Paulo - SP",
-      "cargos": [
-        "Analista de Sistemas",
-        "Professor de Inglês"
-      ],
-      "salario_maximo": "R$ 5.000,00",
-      "link_edital": "https://www.tecconcursos.com.br/login?urlRetorno=aHR0cHM6Ly93d3cudGVjY29uY3Vyc29zLmNvbS5ici9jb25jdXJzb3M/cT1hbmFsaXN0YStkZStzaXN0ZW1hcw==",
-      "data_encerramento": "30/06/2026",
-      "data_publicacao": "01/06/2026",
-      "status": "aberto",
-      "tipo": "Concurso",
-      "fonte": "TecConcursos",
-      "id": "15721692-30e1-4a73-a87b-9a745a01eadd",
-      "data_coleta": "2026-06-07T18:52:30.846523+00:00"
     },
     {
       "instituicao": "CESAMA de Juiz de Fora",
@@ -1996,22 +1882,6 @@
       "data_coleta": "2026-06-07T19:28:52.161047+00:00"
     },
     {
-      "instituicao": "Prefeitura de Sao Paulo",
-      "orgao": "SP, Sao Paulo - SP",
-      "cargos": [
-        "Analista de Sistemas",
-        "Professor de Ingles"
-      ],
-      "salario_maximo": "R$ 5.000,00",
-      "link_edital": "https://www.tecconcursos.com.br/concursos/estagiario-de-postgraduacao-agu/",
-      "data_encerramento": "30/06/2026",
-      "data_publicacao": "01/06/2026",
-      "status": "aberto",
-      "fonte": "TecConcursos",
-      "id": "a6692517-3a27-4159-9adc-e29ae174b0aa",
-      "data_coleta": "2026-06-07T19:28:52.161124+00:00"
-    },
-    {
       "instituicao": "BANRISUL",
       "orgao": "BANRISUL",
       "cargos": [
@@ -2357,22 +2227,6 @@
       "data_coleta": "2026-06-08T13:01:08.243592+00:00"
     },
     {
-      "instituicao": "Estratégia Concursos",
-      "orgao": "Estratégia Concursos",
-      "cargos": [
-        "Analista de Sistemas",
-        "Professor de Ingles"
-      ],
-      "salario_maximo": "R$ 5.000,00",
-      "link_edital": "https://www.estrategiaconcursos.com.br",
-      "data_publicacao": "01/06/2026",
-      "data_encerramento": "30/06/2026",
-      "status": "aberto",
-      "fonte": "Estrategia",
-      "id": "a9ef9833-6910-478e-8ca8-844c995e3d26",
-      "data_coleta": "2026-06-09T11:47:01.019970+00:00"
-    },
-    {
       "instituicao": "Câmara de Rio das Ostras - RJ",
       "orgao": "Câmara de Rio das Ostras - RJ",
       "cargos": [],
@@ -2395,38 +2249,6 @@
       "id": "929d4872-eea6-4327-a62f-b0834330d899",
       "data_coleta": "2026-06-09T11:47:01.021457+00:00",
       "data_publicacao": "2026-06-09"
-    },
-    {
-      "instituicao": "Prefeitura de Sao Paulo",
-      "orgao": "Ministério da Educação",
-      "cargos": [
-        "Analista de Sistemas",
-        "Professor de Ingles"
-      ],
-      "salario_maximo": "R$ 5.000,00",
-      "link_edital": "https://www.in.gov.br",
-      "data_encerramento": "30/06/2026",
-      "data_publicacao": "01/06/2026",
-      "status": "aberto",
-      "fonte": "DOU",
-      "id": "783dd7b7-4387-4931-9acd-efd76152930d",
-      "data_coleta": "2026-06-10T11:52:58.811530+00:00"
-    },
-    {
-      "instituicao": "Prefeitura de São Paulo",
-      "orgao": "Prefeitura de São Paulo",
-      "cargos": [
-        "Analista de Sistemas",
-        "Professor de Inglês"
-      ],
-      "salario_maximo": "R$ 5.000,00",
-      "link_edital": "https://www.gov.br/autenticidade.html",
-      "data_encerramento": "30/06/2026",
-      "data_publicacao": "01/06/2026",
-      "status": "aberto",
-      "fonte": "DOU",
-      "id": "64c9824f-a4f7-4b0c-bcaf-b0289a5bb8cc",
-      "data_coleta": "2026-06-10T11:52:58.811573+00:00"
     },
     {
       "instituicao": "Corpo de Bombeiros Militar do Estado do Rio de Janeiro",
@@ -2958,35 +2780,6 @@
       "data_coleta": "2026-06-15T14:14:06.398706+00:00"
     },
     {
-      "instituicao": "Prefeitura de Sao Paulo",
-      "orgao": "Prefeitura de Sao Paulo",
-      "cargos": [
-        "Analista de Sistemas",
-        "Professor de Ingles"
-      ],
-      "salario_maximo": "R$ 5.000,00",
-      "link_edital": "https://www.aocp.com.br/concurso/edital",
-      "data_encerramento": "30/06/2026",
-      "data_publicacao": "01/06/2026",
-      "status": "aberto",
-      "fonte": "AOCP",
-      "id": "f85e4f1f-b9b3-4461-8d8f-a49227eb028f",
-      "data_coleta": "2026-06-15T14:14:06.398747+00:00"
-    },
-    {
-      "instituicao": "Prefeitura de Sao Paulo",
-      "orgao": "SP, Sao Paulo - SP",
-      "cargos": [],
-      "salario_maximo": "R$ 5.000,00",
-      "link_edital": "https://www.faurgs.com.br/",
-      "data_encerramento": "30/06/2026",
-      "data_publicacao": "01/06/2026",
-      "status": "aberto",
-      "fonte": "FAURGS",
-      "id": "9c998781-2248-4d31-a663-83454510ec58",
-      "data_coleta": "2026-06-15T14:14:06.398862+00:00"
-    },
-    {
       "instituicao": "FSA - Fundação Santo André",
       "orgao": "SP",
       "cargos": [
@@ -3101,22 +2894,6 @@
       "data_coleta": "2026-06-16T13:03:44.678441+00:00"
     },
     {
-      "instituicao": "EGBA - Empresa Gráfica da Bahia",
-      "orgao": "SP, Sao Paulo - SP",
-      "cargos": [
-        "Analista de Sistemas",
-        "Professor de Ingles"
-      ],
-      "salario_maximo": "R$ 5.000,00",
-      "link_edital": "https://www.egba.ba.gov.br/licitacoes",
-      "data_encerramento": "30/06/2026",
-      "data_publicacao": "01/06/2026",
-      "status": "aberto",
-      "fonte": "DOE-BA",
-      "id": "40a6445c-8b52-4f35-9dba-d0eefa20f672",
-      "data_coleta": "2026-06-17T12:23:10.335825+00:00"
-    },
-    {
       "instituicao": "Prefeitura de Cambé - PR",
       "orgao": "Prefeitura Municipal de Cambé",
       "cargos": [],
@@ -3141,54 +2918,6 @@
       "fonte": "PCI",
       "id": "3336f2e3-5a88-4642-a08c-cb2d8929bdae",
       "data_coleta": "2026-06-17T12:23:10.336367+00:00"
-    },
-    {
-      "instituicao": "Concursos",
-      "orgao": "Organização de Concursos",
-      "cargos": [
-        "Analista de Sistemas",
-        "Professor de Ingles"
-      ],
-      "salario_maximo": "R$ 5.000,00",
-      "link_edital": "https://www.pciconcursos.com.br/concursos/",
-      "data_encerramento": "30/06/2026",
-      "data_publicacao": "01/06/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "ad3f089b-2b63-4b41-a9c4-433feaf503b5",
-      "data_coleta": "2026-06-17T12:23:10.336433+00:00"
-    },
-    {
-      "instituicao": "IBGE",
-      "orgao": "Instituto Brasileiro de Geografia e Estatística",
-      "cargos": [
-        "Cargos públicos",
-        "Projetos de Pesquisa"
-      ],
-      "salario_maximo": "R$ 10.000,00",
-      "link_edital": "https://www.pciconcursos.com.br/ibge/",
-      "data_encerramento": "2026-06-30",
-      "data_publicacao": "2026-06-01",
-      "status": "em aberto",
-      "fonte": "PCI",
-      "id": "a5b0c82e-fb83-49a2-a15b-fa30a5be2407",
-      "data_coleta": "2026-06-17T12:23:10.336471+00:00"
-    },
-    {
-      "instituicao": "Câmara de Arujá",
-      "orgao": "Câmara de Arujá",
-      "cargos": [
-        "Gestão de Projetos",
-        "Contratação"
-      ],
-      "salario_maximo": "R$ 18.000,00",
-      "link_edital": "https://www.pciconcursos.com.br/camara-arujá/",
-      "data_encerramento": "2026-06-30",
-      "data_publicacao": "2026-05-01",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "dc8b804b-74c1-400d-8e83-d333c09ca7ca",
-      "data_coleta": "2026-06-17T12:23:10.336570+00:00"
     },
     {
       "instituicao": "5ª RM - 5ª Região Militar",
@@ -3370,22 +3099,6 @@
       "fonte": "PCI",
       "id": "7609862b-f431-4151-8ce4-1348b4827bfe",
       "data_coleta": "2026-06-19T12:27:48.850250+00:00"
-    },
-    {
-      "instituicao": "Prefeitura de Sao Paulo",
-      "orgao": "SP, Sao Paulo - SP",
-      "cargos": [
-        "Analista de Sistemas",
-        "Professor de Ingles"
-      ],
-      "salario_maximo": "R$ 5.000,00",
-      "link_edital": "https://www.example.com/edital",
-      "data_encerramento": "30/06/2026",
-      "data_publicacao": "01/06/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "0880c5ff-9b6f-4b0d-adde-7454416bba8c",
-      "data_coleta": "2026-06-19T12:27:48.850372+00:00"
     },
     {
       "instituicao": "IBGE",
@@ -3584,22 +3297,6 @@
       "data_coleta": "2026-06-19T12:27:48.850725+00:00"
     },
     {
-      "instituicao": "Prefeitura de Sao Paulo",
-      "orgao": "SP",
-      "cargos": [
-        "Analista de Sistemas",
-        "Professor de Ingles"
-      ],
-      "salario_maximo": "R$ 5.000,00",
-      "link_edital": "https://www.example.com",
-      "data_encerramento": "30/06/2026",
-      "data_publicacao": "01/06/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "0a106b42-79c7-4ce8-bbd1-bb74c381eceb",
-      "data_coleta": "2026-06-20T10:48:38.239898+00:00"
-    },
-    {
       "instituicao": "SEDES - DF",
       "orgao": "SEDES - DF",
       "cargos": [],
@@ -3796,22 +3493,6 @@
       "fonte": "PCI",
       "id": "f5395d22-3089-4002-8940-3b94aaad6d10",
       "data_coleta": "2026-06-21T11:29:04.080552+00:00"
-    },
-    {
-      "instituicao": "EGBA - Empresa Gráfica da Bahia",
-      "orgao": "SP, Sao Paulo - SP",
-      "cargos": [
-        "Analista de Sistemas",
-        "Professor de Ingles"
-      ],
-      "salario_maximo": "R$ 5.000,00",
-      "link_edital": "https://www.egba.ba.gov.br/egba/noticias/2025-01/331/diario-oficial-online",
-      "data_encerramento": "30/06/2026",
-      "data_publicacao": "01/06/2026",
-      "status": "aberto",
-      "fonte": "DOE-BA",
-      "id": "66f1e4c0-0d8a-481b-8842-7d1e8f4784c4",
-      "data_coleta": "2026-06-22T13:52:24.030721+00:00"
     },
     {
       "instituicao": "Prefeitura de Araguaína - TO",
@@ -4053,22 +3734,6 @@
       "data_coleta": "2026-06-23T11:15:02.480726+00:00"
     },
     {
-      "instituicao": "Prefeitura de Saudá",
-      "orgao": "SP, Sao Paulo - SP",
-      "cargos": [
-        "Analista de Sistemas",
-        "Professor de Ingles"
-      ],
-      "salario_maximo": "R$ 5.000,00",
-      "link_edital": "https://www.example.com/concursos",
-      "data_encerramento": "30/06/2026",
-      "data_publicacao": "01/06/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "d49d121a-41d0-4765-8140-20c00de8fca6",
-      "data_coleta": "2026-06-23T11:15:02.480752+00:00"
-    },
-    {
       "instituicao": "Prefeitura de Blumenau",
       "orgao": "Parque Vila Germanica",
       "cargos": [
@@ -4115,38 +3780,6 @@
       "fonte": "PCI",
       "id": "5af5a01b-ac95-4543-8968-58aaa3d6fc62",
       "data_coleta": "2026-06-24T11:03:58.836880+00:00"
-    },
-    {
-      "instituicao": "Instituto do Estado de São Paulo",
-      "orgao": "Prodesp",
-      "cargos": [
-        "Diário Oficial",
-        "Concurso edital"
-      ],
-      "salario_maximo": "R$ 5.000,00",
-      "link_edital": "https://www.saopaulo.sp.gov.br",
-      "data_encerramento": "30/06/2026",
-      "data_publicacao": "01/06/2026",
-      "status": "aberto",
-      "fonte": "DOE-SP",
-      "id": "2deb56ac-eab8-4b0d-8730-dde020fd4f8b",
-      "data_coleta": "2026-06-25T10:53:23.522309+00:00"
-    },
-    {
-      "instituicao": "Prefeitura de Sao Paulo",
-      "orgao": "SP",
-      "cargos": [
-        "Analista de Sistemas",
-        "Professor de Ingles"
-      ],
-      "salario_maximo": "R$ 5.000,00",
-      "link_edital": "https://www.pciconcursos.com.br/colaborar/",
-      "data_encerramento": "30/06/2026",
-      "data_publicacao": "01/06/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "9052e92c-5e3c-425f-b48d-29a00534205a",
-      "data_coleta": "2026-06-25T10:53:23.522630+00:00"
     },
     {
       "instituicao": "5ª RM - 5ª Região Militar do Exército Brasileiro",
@@ -4334,22 +3967,6 @@
       "data_coleta": "2026-06-29T12:47:35.778896+00:00"
     },
     {
-      "instituicao": "CIALAR - Consórcio Intermunicipal de Acolhimento Institucional da Comarca de Estrela D'Oeste",
-      "orgao": "SP, Estrela D'Oeste - SP",
-      "cargos": [
-        "Auxiliar de Serviços Gerais",
-        "Cuidador/Educador"
-      ],
-      "salario_maximo": "R$ 2.355,43",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/cialar-sp-abre-vagas-para-auxiliar-de-servicos-gerais-e-cuidador-educador",
-      "data_encerramento": "30/06/2026",
-      "data_publicacao": "29/06/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "554d2e90-0b08-48cb-9aef-a7e7af8fdbb1",
-      "data_coleta": "2026-06-29T12:47:35.778927+00:00"
-    },
-    {
       "instituicao": "EMDURB - Empresa Municipal de Desenvolvimento Urbano de Ubatuba",
       "orgao": "SP, Ubatuba - SP",
       "cargos": [],
@@ -4466,6 +4083,124 @@
       "fonte": "PCI",
       "id": "9d1aacd3-5de1-4b25-844c-37e804c6b1e2",
       "data_coleta": "2026-06-29T12:47:35.779443+00:00"
+    },
+    {
+      "instituicao": "Fundação para Conservação e Produção Florestal de São Paulo",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": "R$ 11.294,14",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/fundacao-florestal-sp-publica-edital-retificado-de-concurso-publico",
+      "data_encerramento": "16/07/2026",
+      "data_publicacao": "2026-06-30",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "ebce2d2c-5802-4c97-ab55-488b4d453ee9",
+      "data_coleta": "2026-06-30T11:08:01.869400+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Santana de Parnaíba",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": "R$ 5.705,30",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-de-parnaiba-sp-abre-novo-concurso-com-vagas-para-diversos-niveis-de-escolaridade",
+      "data_encerramento": "12/07/2026",
+      "data_publicacao": "2026-06-30",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "263ea1d5-9b44-4db7-b71c-18a65268044d",
+      "data_coleta": "2026-06-30T11:08:01.869473+00:00"
+    },
+    {
+      "instituicao": "PM - SP",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": "R$ 10.863,68",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/pm-sp-abre-concurso-com-concurso-de-nivel-medio-para-o-curso-de-formacao-de-sargentos",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "69d12de2-419b-4094-ab22-797d99c87994",
+      "data_coleta": "2026-06-30T11:08:01.869655+00:00"
+    },
+    {
+      "instituicao": "PMES",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": "R$ 22 mil",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/pmes-abre-concurso-com-1008-vagas-para-soldado-combatente-e-musico",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "4146c773-ed76-42a3-81da-6b804c0b6a79",
+      "data_coleta": "2026-06-30T11:08:01.869733+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Rio Azul - PR",
+      "orgao": "PR",
+      "cargos": [],
+      "salario_maximo": "R$ 22 mil",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-azul-pr-abre-novos-concursos-com-salarios-de-ate-22-mil",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "6950f3b5-c5a5-4b0a-8b2d-7aa49977beb9",
+      "data_coleta": "2026-06-30T11:08:01.869759+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Ipatinga",
+      "orgao": "MG, Ipatinga - MG",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconc",
+      "fonte": "PCI",
+      "status": "aberto",
+      "id": "c98ce4f9-cfe1-4aa5-af99-dab474093bef",
+      "data_coleta": "2026-06-30T11:08:01.869820+00:00",
+      "data_publicacao": "2026-06-30"
+    },
+    {
+      "instituicao": "Prefeitura de Barcarena",
+      "orgao": "Prefeitura de Barcarena",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barcarena-pa-abre-concurso-publico-com-vagas-na-area-da-educacao",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-30",
+      "status": null,
+      "fonte": "PCI",
+      "id": "2d314acb-8b5f-4e16-96fc-dc0bce2ee0cf",
+      "data_coleta": "2026-06-30T11:08:01.869943+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Campo Alegre",
+      "orgao": "Prefeitura de Campo Alegre",
+      "cargos": [],
+      "salario_maximo": "R$ 3.885,92",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campo-alegre-al-abre-concurso-publico-com-salarios-de-ate-3885",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-30",
+      "status": null,
+      "fonte": "PCI",
+      "id": "0cc5bfe4-6df7-4fdc-b9aa-d3ee3e7a582c",
+      "data_coleta": "2026-06-30T11:08:01.869968+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Aracaju",
+      "orgao": "Prefeitura de Aracaju",
+      "cargos": [
+        "Guarda Municipal"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aracaju-se-abre-concurso-com-100-vagas-para-guarda-municipal",
+      "data_encerramento": null,
+      "data_publicacao": "2026-06-30",
+      "status": null,
+      "fonte": "PCI",
+      "id": "9dab8eae-4221-4d1a-aaba-0f8f562017d4",
+      "data_coleta": "2026-06-30T11:08:01.869997+00:00"
     }
   ]
 }

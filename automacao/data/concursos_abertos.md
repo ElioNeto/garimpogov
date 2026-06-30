@@ -1,59 +1,12 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 29/06/2026_
+_Atualizado em 30/06/2026_
 
-Total: **301** concursos encontrados.
-
----
-
-## AOCP (2)
-
-### Prefeitura de São Paulo
-[🔗 Edital](https://www.aocp.com.br/concurso)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
-### Prefeitura de Sao Paulo
-[🔗 Edital](https://www.aocp.com.br/concurso/edital)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** Prefeitura de Sao Paulo
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
+Total: **286** concursos encontrados.
 
 ---
 
-## DOE-BA (2)
-
-### EGBA - Empresa Gráfica da Bahia
-[🔗 Edital](https://www.egba.ba.gov.br/licitacoes)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
-### EGBA - Empresa Gráfica da Bahia
-[🔗 Edital](https://www.egba.ba.gov.br/egba/noticias/2025-01/331/diario-oficial-online)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
----
-
-## DOE-SP (1)
-
-### Instituto do Estado de São Paulo
-[🔗 Edital](https://www.saopaulo.sp.gov.br)
-- **Cargos:** Diário Oficial, Concurso edital
-- **Órgão/Local:** Prodesp
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
----
-
-## DOU (4)
+## DOU (2)
 
 ### Acesso à Informação
 [🔗 Edital](https://www.gov.br/acesso-informacao)
@@ -69,37 +22,9 @@ Total: **301** concursos encontrados.
 - **Salário máx.:** R$ 8.000,00
 - **Encerramento:** 2023/06/30
 
-### Prefeitura de Sao Paulo
-[🔗 Edital](https://www.in.gov.br)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** Ministério da Educação
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
-### Prefeitura de São Paulo
-[🔗 Edital](https://www.gov.br/autenticidade.html)
-- **Cargos:** Analista de Sistemas, Professor de Inglês
-- **Órgão/Local:** Prefeitura de São Paulo
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
 ---
 
-## Estrategia (3)
-
-### Prefeitura de Sao Paulo
-[🔗 Edital](https://www.estrategiaconcursos.com.br/por-concursos)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
-### Estratégia Concursos
-[🔗 Edital](https://www.estrategiaconcursos.com.br)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** Estratégia Concursos
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
+## Estrategia (1)
 
 ### Estratégia Concursos
 [🔗 Edital](https://www.estrategiaconcursos.com.br/cursos/concurso/)
@@ -110,7 +35,7 @@ Total: **301** concursos encontrados.
 
 ---
 
-## FAURGS (15)
+## FAURGS (12)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -119,13 +44,6 @@ Total: **301** concursos encontrados.
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/259-062025hospitaldeclinicasdeportoalegre)
 - **Cargos:** PS 63 - ANALISTA I (Coordenadoria de Gestão dos Negócios Assistenciais), PS 64 - BIÓLOGO I, BIOMÉDICO I OU FARMACÊUTICO-BIOQUÍMICO I (Hemoterapia), PS 65 - ENFERMEIRO I (Obstetrícia), PS 66 - FARMACÊUTICO-BIOQUÍMICO I (Farmácia Hospitalar), PS 67 - FÍSICO I (Medicina Nuclear), PS 68 - FÍSICO I (Radiodiagnóstico), PS 69 - MÉDICO I (Neurologia: Demências e Doenças Neurodegenerativas), PS 70 - MÉDICO I (Oncologia), PS 71 - TÉCNICO DE ENFERMAGEM (Internação Clínica Adulto), PS 72 - TÉCNICO DE ENFERMAGEM (Internação Cirúrgica Adulto), PS 73 - TÉCNICO DE ENFERMAGEM (Saúde Mental), PS 74 - TÉCNICO EM MANUTENÇÃO III (Equipamentos Eletromédicos), PS 75 - TÉCNICO EM RADIOLOGIA (Radioterapia)
-
-### Prefeitura de Sao Paulo
-[🔗 Edital](https://www.faurgs.com.br/Portal/Aluno/Acesso)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
 
 ### UFRGS
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1274-062026ufrgs)
@@ -138,13 +56,6 @@ Total: **301** concursos encontrados.
 ### TELESSAÚDE DA UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1272-042026telessaudedauniversidadefederaldoriograndedosul)
 - **Cargos:** Teleconsultor Medicina - Medicina de Família e Comunidade - Presencial, Teleconsultor Medicina - Urologia - Presencial, Teleconsultor Medicina - Gastroenterologia - Presencial, Teleconsultor Medicina - Dermatologia - Presencial, Teleconsultor Medicina - Pneumologia - Presencial
-
-### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
-[🔗 Edital](https://portalfaurgs.com.br/concursos)
-- **Cargos:** Analista de TI, Professor de Inglês, Especialista en Gestión
-- **Órgão/Local:** HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
 
 ### BANRISUL
 [🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1274-062026ufrgs)
@@ -175,12 +86,6 @@ Total: **301** concursos encontrados.
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1275-072026lamef)
 - **Cargos:** Engenheiro Sênior I de Poços, Engenheiro Profissional Júnior
 - **Órgão/Local:** LAMEF
-
-### Prefeitura de Sao Paulo
-[🔗 Edital](https://www.faurgs.com.br/)
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
 
 ### LAMEF
 [🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1275-072026lamef)
@@ -344,17 +249,6 @@ Total: **301** concursos encontrados.
 ### Concurso Público para a Procuradoria-Geral do Estado de Santa Catarina
 [🔗 Edital](https://conhecimento.fgv.br/concursos/pgesc22)
 - **Órgão/Local:** Procuradoria-Geral do Estado de Santa Catarina
-
----
-
-## IPPEC (1)
-
-### Prefeitura de Sao Paulo
-[🔗 Edital](https://ippec.org.br/concurso/edital)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
 
 ---
 
@@ -602,13 +496,6 @@ Total: **301** concursos encontrados.
 - **Órgão/Local:** PB
 - **Salário máx.:** N/A
 - **Encerramento:** N/A
-
-### Prefeitura de Sao Paulo
-[🔗 Edital](https://www.pciconcursos.com.br/)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
 
 ### CESAMA de Juiz de Fora - MG
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/cesama-de-juiz-de-fora-mg-retifica-concurso-publico-com-salarios-de-ate-9-mil)
@@ -979,27 +866,6 @@ Total: **301** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/cbm-al-divulga-retificacao-de-concurso-publico)
 - **Órgão/Local:** Alagoas - AL
 
-### Concursos
-[🔗 Edital](https://www.pciconcursos.com.br/concursos/)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** Organização de Concursos
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
-### IBGE
-[🔗 Edital](https://www.pciconcursos.com.br/ibge/)
-- **Cargos:** Cargos públicos, Projetos de Pesquisa
-- **Órgão/Local:** Instituto Brasileiro de Geografia e Estatística
-- **Salário máx.:** R$ 10.000,00
-- **Encerramento:** 2026-06-30
-
-### Câmara de Arujá
-[🔗 Edital](https://www.pciconcursos.com.br/camara-arujá/)
-- **Cargos:** Gestão de Projetos, Contratação
-- **Órgão/Local:** Câmara de Arujá
-- **Salário máx.:** R$ 18.000,00
-- **Encerramento:** 2026-06-30
-
 ### 5ª RM - 5ª Região Militar
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/5-regiao-militar-pr-sc-abre-selecoes-para-oficiais-tecnicos-temporarios)
 - **Salário máx.:** R$ 10.863,68
@@ -1046,13 +912,6 @@ Total: **301** concursos encontrados.
 ### Prefeitura de Itajaí - SC
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-itajai-sc-abre-concursos-publicos-com-remuneracoes)
 - **Órgão/Local:** Prefeitura de Itajaí - SC
-
-### Prefeitura de Sao Paulo
-[🔗 Edital](https://www.example.com/edital)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
 
 ### IBGE
 [🔗 Edital](https://www.example.com/ibge)
@@ -1131,13 +990,6 @@ Total: **301** concursos encontrados.
 - **Cargos:** Não especificado
 - **Órgão/Local:** TO
 - **Salário máx.:** R$ 16.458,70
-
-### Prefeitura de Sao Paulo
-[🔗 Edital](https://www.example.com)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
 
 ### SEDES - DF
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/sedes-df-publica-edital-de-concurso-publico)
@@ -1277,13 +1129,6 @@ Total: **301** concursos encontrados.
 - **Salário máx.:** R$ 10.863,68
 - **Encerramento:** N/A
 
-### Prefeitura de Saudá
-[🔗 Edital](https://www.example.com/concursos)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
-
 ### DETRAN - AL
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/detran-al-retifica-concurso-publico-para-analistas-e-assistentes-de-trânsito)
 - **Cargos:** Analista de Trânsito, Assistente de Trânsito
@@ -1293,13 +1138,6 @@ Total: **301** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/detran-al-retifica-concurso-publico-para-analistas-e-assistentes-de-t)
 - **Cargos:** Analistas, Assistentes de Trânsito
 - **Órgão/Local:** Departamento de Trânsito de Alagoas
-
-### Prefeitura de Sao Paulo
-[🔗 Edital](https://www.pciconcursos.com.br/colaborar/)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
 
 ### 5ª RM - 5ª Região Militar do Exército Brasileiro
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/5-regiao-militar-pr-exercito-abre-selecao-para-oficiais-e-sargentos)
@@ -1371,13 +1209,6 @@ Total: **301** concursos encontrados.
 - **Salário máx.:** R$ 3.133,80
 - **Encerramento:** 16/07/2026
 
-### CIALAR - Consórcio Intermunicipal de Acolhimento Institucional da Comarca de Estrela D'Oeste
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/cialar-sp-abre-vagas-para-auxiliar-de-servicos-gerais-e-cuidador-educador)
-- **Cargos:** Auxiliar de Serviços Gerais, Cuidador/Educador
-- **Órgão/Local:** SP, Estrela D'Oeste - SP
-- **Salário máx.:** R$ 2.355,43
-- **Encerramento:** 30/06/2026
-
 ### EMDURB - Empresa Municipal de Desenvolvimento Urbano de Ubatuba
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/emdurb-de-ubatuba-sp-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva)
 - **Órgão/Local:** SP, Ubatuba - SP
@@ -1430,6 +1261,54 @@ Total: **301** concursos encontrados.
 - **Salário máx.:** R$ 25 mil
 - **Encerramento:** N/A
 
+### Fundação para Conservação e Produção Florestal de São Paulo
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/fundacao-florestal-sp-publica-edital-retificado-de-concurso-publico)
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 11.294,14
+- **Encerramento:** 16/07/2026
+
+### Prefeitura de Santana de Parnaíba
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-de-parnaiba-sp-abre-novo-concurso-com-vagas-para-diversos-niveis-de-escolaridade)
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 5.705,30
+- **Encerramento:** 12/07/2026
+
+### PM - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/pm-sp-abre-concurso-com-concurso-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 10.863,68
+- **Encerramento:** N/A
+
+### PMES
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/pmes-abre-concurso-com-1008-vagas-para-soldado-combatente-e-musico)
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 22 mil
+- **Encerramento:** N/A
+
+### Prefeitura de Rio Azul - PR
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-azul-pr-abre-novos-concursos-com-salarios-de-ate-22-mil)
+- **Órgão/Local:** PR
+- **Salário máx.:** R$ 22 mil
+- **Encerramento:** N/A
+
+### Prefeitura de Ipatinga
+[🔗 Edital](https://www.pciconc)
+- **Órgão/Local:** MG, Ipatinga - MG
+
+### Prefeitura de Barcarena
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-barcarena-pa-abre-concurso-publico-com-vagas-na-area-da-educacao)
+- **Órgão/Local:** Prefeitura de Barcarena
+
+### Prefeitura de Campo Alegre
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-campo-alegre-al-abre-concurso-publico-com-salarios-de-ate-3885)
+- **Órgão/Local:** Prefeitura de Campo Alegre
+- **Salário máx.:** R$ 3.885,92
+
+### Prefeitura de Aracaju
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-aracaju-se-abre-concurso-com-100-vagas-para-guarda-municipal)
+- **Cargos:** Guarda Municipal
+- **Órgão/Local:** Prefeitura de Aracaju
+
 ---
 
 ## PMBlumenau-SC (7)
@@ -1478,14 +1357,7 @@ Total: **301** concursos encontrados.
 
 ---
 
-## TecConcursos (33)
-
-### Prefeitura de São Paulo
-[🔗 Edital](https://www.tecconcursos.com.br/login?urlRetorno=aHR0cHM6Ly93d3cudGVjY29uY3Vyc29zLmNvbS5ici9jb25jdXJzb3M/cT1hbmFsaXN0YStkZStzaXN0ZW1hcw==)
-- **Cargos:** Analista de Sistemas, Professor de Inglês
-- **Órgão/Local:** SP, São Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
+## TecConcursos (31)
 
 ### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-cotacao-de-precos-2026-cargo-23)
@@ -1591,13 +1463,6 @@ Total: **301** concursos encontrados.
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/assistente-de-projeto-agsus-licitacoes-e-servicos-tercerizados-2026-cargo-17)
 - **Cargos:** Agente de Projeto, Assistente de Projeto
 - **Órgão/Local:** AgSUS
-
-### Prefeitura de Sao Paulo
-[🔗 Edital](https://www.tecconcursos.com.br/concursos/estagiario-de-postgraduacao-agu/)
-- **Cargos:** Analista de Sistemas, Professor de Ingles
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 30/06/2026
 
 ### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-administrativo-2026-cargo-22)
