@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 30/06/2026_
+_Atualizado em 01/07/2026_
 
-Total: **286** concursos encontrados.
+Total: **280** concursos encontrados.
 
 ---
 
@@ -252,7 +252,7 @@ Total: **286** concursos encontrados.
 
 ---
 
-## PCI (185)
+## PCI (173)
 
 ### Escola Preparatória de Cadetes do Exército
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/espcex-sp-abre-concurso-com-440-vagas-para-curso-de-formacao-de-oficiais-de-carreira)
@@ -730,12 +730,6 @@ Total: **286** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/cbm-al-edital-abre-vagas-de-nivel-medio-com-remuneracoes-de-ate-11563)
 - **Salário máx.:** R$ 11.563,77
 
-### IBGE
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/ibge-anuncia-processo-seletivo-com-8238-vagas-para-o-censo-agropecuario-florestal-e-aquicola)
-- **Órgão/Local:** Instituto Brasileiro de Geografia e Estatística
-- **Salário máx.:** R$ 4.008,00
-- **Encerramento:** 01/07/2026
-
 ### PND - Prova Nacional Docente
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prova-nacional-docente-2026-oferece-oportunidades-em-diversas-areas-da-educacao-basica)
 - **Cargos:** Professor Superior
@@ -752,79 +746,6 @@ Total: **286** concursos encontrados.
 ### Prefeitura de Cambé - PR
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-came-pr-abre-concurso-publico-para-diversos-cargos)
 - **Órgão/Local:** Prefeitura Municipal de Cambé - PR
-
-### PCICONCOS
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/ce)
-- **Órgão/Local:** https://www.pciconcursos.com.br/cargos/nordeste/#CE
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 2026-07-01
-
-### PCICONCOS
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/df)
-- **Órgão/Local:** https://www.pciconcursos.com.br/cargos/norte/#DF
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 2026-07-01
-
-### PCICONCOS
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/al)
-- **Órgão/Local:** https://www.pciconcursos.com.br/cargos/nordeste/#AL
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 2026-07-01
-
-### PCICONCOS
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/ime)
-- **Órgão/Local:** https://www.pciconcursos.com.br/cargos/mG
-- **Salário máx.:** R$ 5.000,00
-- **Encerramento:** 2026-07-01
-
-### PCICONCOS
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-concurso-publico)
-- **Cargos:** Guarda Civil Municipal
-- **Órgão/Local:** https://www.pciconcursos.com.br/cargos/marinha-do-brasil
-- **Salário máx.:** R$ 15.600,00
-- **Encerramento:** 2026-07-01
-
-### SEDUC
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/seduc-sp)
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 5.565,00
-- **Encerramento:** 2026-07-01
-
-### CRT-SP
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/crt-sp)
-- **Órgão/Local:** CRT-SP
-- **Salário máx.:** R$ 10.600,01
-- **Encerramento:** 2026-07-01
-
-### Câmara de Seropédica
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-seropedica-rj)
-- **Órgão/Local:** RJ
-- **Salário máx.:** R$ 15.000,00
-- **Encerramento:** 2026-07-01
-
-### Câmara de Rio das Ostras
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-rio-das-ostras)
-- **Órgão/Local:** RJ
-- **Salário máx.:** R$ 15.000,00
-- **Encerramento:** 2026-07-01
-
-### CIDASG
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/cidasg)
-- **Órgão/Local:** MG
-- **Salário máx.:** R$ 9.000,00
-- **Encerramento:** 2026-07-01
-
-### CRA
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/cra)
-- **Órgão/Local:** MG
-- **Salário máx.:** R$ 10.600,01
-- **Encerramento:** 2026-07-01
-
-### SECA de Juiz de Fora
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/cesama-de-juiz-de-fora-mg-retifica-concurso)
-- **Órgão/Local:** MG
-- **Salário máx.:** R$ 9.000,00
-- **Encerramento:** 2026-07-01
 
 ### FSA - Fundação Santo André
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-para-operador-de-maquina-copiadora)
@@ -1309,6 +1230,11 @@ Total: **286** concursos encontrados.
 - **Cargos:** Guarda Municipal
 - **Órgão/Local:** Prefeitura de Aracaju
 
+### IBGE - Instituto Brasileiro de Geografia e Estatística
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ibge-anuncia-processo-seletivo-com-8238-vagas-para-o-censo-agropecuario-florestal-e-aquicola)
+- **Órgão/Local:** Nacional
+- **Salário máx.:** R$ 4.008,00
+
 ---
 
 ## PMBlumenau-SC (7)
@@ -1357,7 +1283,7 @@ Total: **286** concursos encontrados.
 
 ---
 
-## TecConcursos (31)
+## TecConcursos (37)
 
 ### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-cotacao-de-precos-2026-cargo-23)
@@ -1511,5 +1437,41 @@ Total: **286** concursos encontrados.
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/estagiario-de-posgraduacao-em-direito-agu-2026)
 - **Cargos:** Estagiário de Pós-Graduação em Direito
 - **Órgão/Local:** AGU, Brasília - DF
+
+### Prefeitura de Sério
+[🔗 Edital](https://www.tecconcursos.com.br/concursos)
+- **Cargos:** A, d, m, i, n, i, s, t, r, a, d, o, r, e, s, ,,  , C, o, o, r, d, i, n, a, d, o, r, e, s
+- **Órgão/Local:** Prefeitura Municipal de Sério
+- **Salário máx.:** R$ 5.000,00
+
+### Legalle Concursos
+[🔗 Edital](https://www.tecconcursos.com.br/legalle)
+- **Cargos:** C, o, o, r, d, e, n, a, d, o, r, e, s, ,,  , A, n, a, l, i, s, t, a, s
+- **Órgão/Local:** Legalle Concursos
+- **Salário máx.:** R$ 8.000,00
+
+### CEBRASPE
+[🔗 Edital](https://www.tecconcursos.com.br/cebraspe)
+- **Cargos:** E, s, p, e, c, i, a, l, i, s, t, a, s, ,,  , G, e, s, t, o, r, e, s
+- **Órgão/Local:** Centro de Estudos e Pesquisas
+- **Salário máx.:** R$ 7.500,00
+
+### Agência Brasileira de Apoio...
+[🔗 Edital](https://www.tecconcursos.com.br/abags)
+- **Cargos:** T, é, c, n, i, c, o, s, ,,  , C, o, n, s, u, l, t, o, r, e, s
+- **Órgão/Local:** ABAGS
+- **Salário máx.:** R$ 6.000,00
+
+### Assistente de Projeto...
+[🔗 Edital](https://www.tecconcursos.com.br/assistente)
+- **Cargos:** P, r, o, j, e, t, i, s, t, a, s, ,,  , C, o, o, r, d, i, n, a, d, o, r, e, s
+- **Órgão/Local:** Agência Brasileira...
+- **Salário máx.:** R$ 5.500,00
+
+### Prefeitura de Sao Paulo
+[🔗 Edital](https://www.tecconcursos.com.br/pref)
+- **Cargos:** G, e, s, t, o, r, e, s, ,,  , C, o, o, r, d, i, n, a, d, o, r, e, s
+- **Órgão/Local:** Prefeitura Municipal de São Paulo
+- **Salário máx.:** R$ 4.200,00
 
 ---
