@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 01/07/2026_
+_Atualizado em 02/07/2026_
 
-Total: **280** concursos encontrados.
+Total: **279** concursos encontrados.
 
 ---
 
@@ -252,13 +252,7 @@ Total: **280** concursos encontrados.
 
 ---
 
-## PCI (173)
-
-### Escola Preparatória de Cadetes do Exército
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/espcex-sp-abre-concurso-com-440-vagas-para-curso-de-formacao-de-oficiais-de-carreira)
-- **Cargos:** Cadete
-- **Órgão/Local:** SP, São Paulo - SP
-- **Encerramento:** 02/07/2026
+## PCI (172)
 
 ### Instituto Tecnológico de Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/ita-disponibiliza-centenas-de-vagas-para-curso-de-engenharia-em-diversas-especialidades)
@@ -699,12 +693,6 @@ Total: **280** concursos encontrados.
 - **Órgão/Local:** Juiz de Fora - MG
 - **Salário máx.:** R$ 9.000,00
 
-### EEAR - Escola de Especialistas de Aeronáutica
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
-- **Cargos:** Sargento
-- **Órgão/Local:** SP
-- **Encerramento:** 02/07/2026
-
 ### FITO-SP
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/fito-sp-abre-concurso-publico-com-vagas-e-cadastro-de-reserva-em-diversas-areas-de-atuacao)
 - **Cargos:** Diversas áreas de atuação
@@ -736,23 +724,9 @@ Total: **280** concursos encontrados.
 - **Órgão/Local:** Prova Nacional Docente
 - **Encerramento:** 03/07/2026
 
-### EFOMM - Escolas de Formação de Oficiais da Marinha Mercante
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-processo-seletivo-com-vagas-para-a-escolas-de-formacao-de-oficiais-da-marinha-mercante)
-- **Cargos:** Aluno da EFOMM
-- **Órgão/Local:** Escolas de Formação de Oficiais da Marinha Mercante
-- **Salário máx.:** R$ 1.719,26
-- **Encerramento:** 02/07/2026
-
 ### Prefeitura de Cambé - PR
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-came-pr-abre-concurso-publico-para-diversos-cargos)
 - **Órgão/Local:** Prefeitura Municipal de Cambé - PR
-
-### FSA - Fundação Santo André
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-para-operador-de-maquina-copiadora)
-- **Cargos:** Operador de Máquina Copiadora
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 1.705,05
-- **Encerramento:** 02/07/2026
 
 ### Polícia Penal
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/po)
@@ -1234,6 +1208,21 @@ Total: **280** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/ibge-anuncia-processo-seletivo-com-8238-vagas-para-o-censo-agropecuario-florestal-e-aquicola)
 - **Órgão/Local:** Nacional
 - **Salário máx.:** R$ 4.008,00
+
+### APS - Associação das Pioneiras Sociais (Rede SARAH)
+[🔗 Edital](https://www.pciconcursos.com.br)
+- **Cargos:** Engenheiro de Manutenção
+- **Órgão/Local:** APS
+- **Salário máx.:** R$ 14.700,93
+
+### Associação das Pioneiras Sociais (Rede SARAH)
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-prorroga-inscricoes-de-processo-seletivo-para-engenheiros)
+- **Cargos:** Engenheiro de Manutenção
+- **Salário máx.:** R$ 14.700,93
+- **Encerramento:** 09/07/2026
+
+### Prefeitura de Saquarema - RJ
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-saquarema-rj-abre-concurso-publico-com-vagas-na-educacao)
 
 ---
 

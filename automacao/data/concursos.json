@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-01T11:35:05.483553+00:00",
-    "total_concursos": 280
+    "ultima_coleta": "2026-07-02T10:56:46.612988+00:00",
+    "total_concursos": 279
   },
   "concursos": [
     {
@@ -582,21 +582,6 @@
       "fonte": "FAURGS",
       "id": "d4404d24-25b0-411c-8edf-c7e5d7bfda6e",
       "data_coleta": "2026-06-02T21:53:50.370504+00:00"
-    },
-    {
-      "instituicao": "Escola Preparatória de Cadetes do Exército",
-      "orgao": "SP, São Paulo - SP",
-      "cargos": [
-        "Cadete"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://www.pciconcursos.com.br/noticias/espcex-sp-abre-concurso-com-440-vagas-para-curso-de-formacao-de-oficiais-de-carreira",
-      "data_encerramento": "02/07/2026",
-      "data_publicacao": "29/05/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "2cd2353f-f2df-4703-a6ec-3bccc97f57cc",
-      "data_coleta": "2026-06-02T21:53:50.370555+00:00"
     },
     {
       "instituicao": "Instituto Tecnológico de Aeronáutica",
@@ -2385,21 +2370,6 @@
       "data_coleta": "2026-06-12T11:57:58.098997+00:00"
     },
     {
-      "instituicao": "EEAR - Escola de Especialistas de Aeronáutica",
-      "orgao": "SP",
-      "cargos": [
-        "Sargento"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos",
-      "data_encerramento": "02/07/2026",
-      "data_publicacao": "2026-06-12",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "c740845b-0399-453a-92f9-a33820276e45",
-      "data_coleta": "2026-06-12T11:57:58.099123+00:00"
-    },
-    {
       "instituicao": "FITO-SP",
       "orgao": "SP",
       "cargos": [
@@ -2501,21 +2471,6 @@
       "data_coleta": "2026-06-13T10:37:45.881734+00:00"
     },
     {
-      "instituicao": "EFOMM - Escolas de Formação de Oficiais da Marinha Mercante",
-      "orgao": "Escolas de Formação de Oficiais da Marinha Mercante",
-      "cargos": [
-        "Aluno da EFOMM"
-      ],
-      "salario_maximo": "R$ 1.719,26",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-processo-seletivo-com-vagas-para-a-escolas-de-formacao-de-oficiais-da-marinha-mercante",
-      "data_encerramento": "02/07/2026",
-      "data_publicacao": "13/06/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "7d9c854b-712d-4a29-8b0d-86be57cef8e6",
-      "data_coleta": "2026-06-13T10:37:45.881797+00:00"
-    },
-    {
       "instituicao": "Prefeitura de Cambé - PR",
       "orgao": "Prefeitura Municipal de Cambé - PR",
       "cargos": [],
@@ -2607,21 +2562,6 @@
       "fonte": "Estrategia",
       "id": "1114fc1f-7630-4c77-a1e1-78cfe880ded9",
       "data_coleta": "2026-06-15T14:14:06.398706+00:00"
-    },
-    {
-      "instituicao": "FSA - Fundação Santo André",
-      "orgao": "SP",
-      "cargos": [
-        "Operador de Máquina Copiadora"
-      ],
-      "salario_maximo": "R$ 1.705,05",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-para-operador-de-maquina-copiadora",
-      "data_encerramento": "02/07/2026",
-      "data_publicacao": "2026-06-15",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "b982b3a7-63f4-4afe-a4bd-94dddbd6f45a",
-      "data_coleta": "2026-06-15T14:14:06.399225+00:00"
     },
     {
       "instituicao": "Polícia Penal",
@@ -4268,6 +4208,48 @@
       "fonte": "PCI",
       "id": "c32ebd17-41de-4547-bcec-d05cdb18e784",
       "data_coleta": "2026-07-01T11:35:05.482999+00:00"
+    },
+    {
+      "instituicao": "APS - Associação das Pioneiras Sociais (Rede SARAH)",
+      "orgao": "APS",
+      "cargos": [
+        "Engenheiro de Manutenção"
+      ],
+      "salario_maximo": "R$ 14.700,93",
+      "link_edital": "https://www.pciconcursos.com.br",
+      "fonte": "PCI",
+      "status": "aberto",
+      "id": "f4ced101-b874-496f-819f-079e1c825c4c",
+      "data_coleta": "2026-07-02T10:56:46.612706+00:00",
+      "data_publicacao": "2026-07-02"
+    },
+    {
+      "instituicao": "Associação das Pioneiras Sociais (Rede SARAH)",
+      "orgao": null,
+      "cargos": [
+        "Engenheiro de Manutenção"
+      ],
+      "salario_maximo": "R$ 14.700,93",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-prorroga-inscricoes-de-processo-seletivo-para-engenheiros",
+      "data_encerramento": "09/07/2026",
+      "data_publicacao": "2026-07-02",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "3a46f827-b5d9-49f6-ab28-a2e80d5347eb",
+      "data_coleta": "2026-07-02T10:56:46.612768+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Saquarema - RJ",
+      "orgao": null,
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-saquarema-rj-abre-concurso-publico-com-vagas-na-educacao",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-02",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "6afb8c80-d430-4a5c-b078-9ec5c138ec34",
+      "data_coleta": "2026-07-02T10:56:46.612916+00:00"
     }
   ]
 }
