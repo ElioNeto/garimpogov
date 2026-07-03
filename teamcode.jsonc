@@ -1,0 +1,37 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ElioNeto/teamcode/main/schemas/teamcode.json",
+  "default_agent": "build",
+  "command": {
+    "dev": {
+      "description": "Start dev server",
+      "template": "uvicorn backend.app:app --reload --host 0.0.0.0 --port 8000"
+    },
+    "test": {
+      "description": "Run tests",
+      "template": "pytest -v"
+    },
+    "lint": {
+      "description": "Lint code",
+      "template": "ruff check . && ruff format . --check"
+    }
+  },
+  "agent": {
+    "build": {
+      "description": "Default development agent"
+    },
+    "backend": {
+      "description": "Backend specialist for Python APIs"
+    }
+  },
+  "permission": {
+    "edit": "allow",
+    "bash": {
+      "pip *": "allow",
+      "uvicorn *": "allow",
+      "python *": "allow",
+      "pytest *": "allow",
+      "npm *": "allow",
+      "*": "ask"
+    }
+  }
+}
