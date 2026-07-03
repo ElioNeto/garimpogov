@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-02T10:56:46.612988+00:00",
-    "total_concursos": 279
+    "ultima_coleta": "2026-07-03T10:45:46.316817+00:00",
+    "total_concursos": 281
   },
   "concursos": [
     {
@@ -2456,21 +2456,6 @@
       "data_coleta": "2026-06-12T11:57:58.099621+00:00"
     },
     {
-      "instituicao": "PND - Prova Nacional Docente",
-      "orgao": "Prova Nacional Docente",
-      "cargos": [
-        "Professor Superior"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://www.pciconcursos.com.br/noticias/prova-nacional-docente-2026-oferece-oportunidades-em-diversas-areas-da-educacao-basica",
-      "data_encerramento": "03/07/2026",
-      "data_publicacao": "13/06/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "4636959a-60e9-4d03-8fba-49544b1c2019",
-      "data_coleta": "2026-06-13T10:37:45.881734+00:00"
-    },
-    {
       "instituicao": "Prefeitura de Cambé - PR",
       "orgao": "Prefeitura Municipal de Cambé - PR",
       "cargos": [],
@@ -3412,36 +3397,6 @@
       "data_coleta": "2026-06-23T11:15:02.480442+00:00"
     },
     {
-      "instituicao": "Prefeitura de PE",
-      "orgao": "PE",
-      "cargos": [
-        "Superior"
-      ],
-      "salario_maximo": "N/A",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/pe-procurar-concursos-norte-2026",
-      "data_encerramento": "03/07/2026",
-      "data_publicacao": "2026-07-01",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "9fdfb201-6be5-42f0-bded-c7fb923eea1a",
-      "data_coleta": "2026-06-23T11:15:02.480531+00:00"
-    },
-    {
-      "instituicao": "Prefeitura de PND",
-      "orgao": "PND",
-      "cargos": [
-        "Superior"
-      ],
-      "salario_maximo": "apostila específica",
-      "link_edital": "https://www.pciconcursos.com.br/apostilas/pnd-prova-nacional-docente",
-      "data_encerramento": "03/07/2026",
-      "data_publicacao": "2026-07-01",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "4996f81a-b494-4b93-99c0-7468dbbb3167",
-      "data_coleta": "2026-06-23T11:15:02.480559+00:00"
-    },
-    {
       "instituicao": "Prefeitura de SP",
       "orgao": "SP",
       "cargos": [
@@ -4250,6 +4205,79 @@
       "fonte": "PCI",
       "id": "6afb8c80-d430-4a5c-b078-9ec5c138ec34",
       "data_coleta": "2026-07-02T10:56:46.612916+00:00"
+    },
+    {
+      "instituicao": "IBGE",
+      "orgao": "Instituto Brasileiro de Geografia e Estatística",
+      "cargos": [
+        "Agente Censitário",
+        "Analista Censitário"
+      ],
+      "salario_maximo": "R$ 4.008,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/ibge-prorroga-inscricoes-de-processo-seletivo-para-o-censo-agropecuario-florestal-e-aquicola",
+      "data_encerramento": "09/07/2026",
+      "data_publicacao": "2026-07-03",
+      "status": "prorrogado",
+      "fonte": "PCI",
+      "id": "b53e45eb-4332-459f-9298-8f834cfacfdf",
+      "data_coleta": "2026-07-03T10:45:46.316147+00:00"
+    },
+    {
+      "instituicao": "SEDES",
+      "orgao": "Brasília - DF",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/se-des-prorroga-inscricoes-de-processo-seletivo-para-cargos-de-nivel-medio-e-superior",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-03",
+      "status": "prorrogado",
+      "fonte": "PCI",
+      "id": "42cc6cbc-31bc-4172-a1c0-4e6bccb39450",
+      "data_coleta": "2026-07-03T10:45:46.316513+00:00"
+    },
+    {
+      "instituicao": "SESAU - AL",
+      "orgao": "SESAU - AL",
+      "cargos": [
+        "Especialista em Saúde",
+        "Assistente em Saúde"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/sesau-al-abre-concurso-para-especialistas-e-assistentes-em-saude",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-03",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "fb66cc76-de5c-4f11-9ec6-42753aff8124",
+      "data_coleta": "2026-07-03T10:45:46.316711+00:00"
+    },
+    {
+      "instituicao": "SEAP / SEAD - RN",
+      "orgao": "SEAP / SEAD - RN",
+      "cargos": [
+        "Policial Penal",
+        "Especialista em Assistência Penitenciária"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/seap-sead-rn-abre-concurso-publico-com-vagas-para-policial-penal-e-especialista-em-assistencia-penitenciaria",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-03",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "128504e6-353b-4226-a30a-2fa58bb738a6",
+      "data_coleta": "2026-07-03T10:45:46.316761+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Saquarema - RJ",
+      "orgao": "RJ",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-saquarema-rj-abre-concurso-publico-com-vagas-na-",
+      "fonte": "PCI",
+      "status": "aberto",
+      "id": "74af1eec-69b1-4081-bbe6-bf019bb25797",
+      "data_coleta": "2026-07-03T10:45:46.316788+00:00",
+      "data_publicacao": "2026-07-03"
     }
   ]
 }

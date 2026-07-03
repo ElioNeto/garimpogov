@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 02/07/2026_
+_Atualizado em 03/07/2026_
 
-Total: **279** concursos encontrados.
+Total: **281** concursos encontrados.
 
 ---
 
@@ -252,7 +252,7 @@ Total: **279** concursos encontrados.
 
 ---
 
-## PCI (172)
+## PCI (174)
 
 ### Instituto Tecnológico de Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/ita-disponibiliza-centenas-de-vagas-para-curso-de-engenharia-em-diversas-especialidades)
@@ -718,12 +718,6 @@ Total: **279** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/cbm-al-edital-abre-vagas-de-nivel-medio-com-remuneracoes-de-ate-11563)
 - **Salário máx.:** R$ 11.563,77
 
-### PND - Prova Nacional Docente
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/prova-nacional-docente-2026-oferece-oportunidades-em-diversas-areas-da-educacao-basica)
-- **Cargos:** Professor Superior
-- **Órgão/Local:** Prova Nacional Docente
-- **Encerramento:** 03/07/2026
-
 ### Prefeitura de Cambé - PR
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-came-pr-abre-concurso-publico-para-diversos-cargos)
 - **Órgão/Local:** Prefeitura Municipal de Cambé - PR
@@ -982,20 +976,6 @@ Total: **279** concursos encontrados.
 - **Salário máx.:** N/A
 - **Encerramento:** N/A
 
-### Prefeitura de PE
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/pe-procurar-concursos-norte-2026)
-- **Cargos:** Superior
-- **Órgão/Local:** PE
-- **Salário máx.:** N/A
-- **Encerramento:** 03/07/2026
-
-### Prefeitura de PND
-[🔗 Edital](https://www.pciconcursos.com.br/apostilas/pnd-prova-nacional-docente)
-- **Cargos:** Superior
-- **Órgão/Local:** PND
-- **Salário máx.:** apostila específica
-- **Encerramento:** 03/07/2026
-
 ### Prefeitura de SP
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/sp-congresso-norte-2026)
 - **Cargos:** Superior, MG
@@ -1223,6 +1203,31 @@ Total: **279** concursos encontrados.
 
 ### Prefeitura de Saquarema - RJ
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-saquarema-rj-abre-concurso-publico-com-vagas-na-educacao)
+
+### IBGE
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ibge-prorroga-inscricoes-de-processo-seletivo-para-o-censo-agropecuario-florestal-e-aquicola)
+- **Cargos:** Agente Censitário, Analista Censitário
+- **Órgão/Local:** Instituto Brasileiro de Geografia e Estatística
+- **Salário máx.:** R$ 4.008,00
+- **Encerramento:** 09/07/2026
+
+### SEDES
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/se-des-prorroga-inscricoes-de-processo-seletivo-para-cargos-de-nivel-medio-e-superior)
+- **Órgão/Local:** Brasília - DF
+
+### SESAU - AL
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/sesau-al-abre-concurso-para-especialistas-e-assistentes-em-saude)
+- **Cargos:** Especialista em Saúde, Assistente em Saúde
+- **Órgão/Local:** SESAU - AL
+
+### SEAP / SEAD - RN
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/seap-sead-rn-abre-concurso-publico-com-vagas-para-policial-penal-e-especialista-em-assistencia-penitenciaria)
+- **Cargos:** Policial Penal, Especialista em Assistência Penitenciária
+- **Órgão/Local:** SEAP / SEAD - RN
+
+### Prefeitura de Saquarema - RJ
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-saquarema-rj-abre-concurso-publico-com-vagas-na-)
+- **Órgão/Local:** RJ
 
 ---
 
