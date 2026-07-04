@@ -1,8 +1,8 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 03/07/2026_
+_Atualizado em 04/07/2026_
 
-Total: **5** concursos encontrados.
+Total: **6** concursos encontrados.
 
 ---
 
@@ -31,6 +31,13 @@ Total: **5** concursos encontrados.
 [🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
 - **Cargos:** PS 01 - ANALISTA DE TI I (Cibersegurança), PS 02 - BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Análise de Metabólitos), PS 03 - BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Citogenética), PS 04 - BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Erros Inatos do Metabolismo), PS 05 - ENFERMEIRO I (Enfermeiro do Trabalho), PS 06 - ENFERMEIRO I (Internação Clínica Adulto), PS 07 - ENFERMEIRO I (Internação Cirúrgica Adulto ), PS 08 - MÉDICO I (Emergência Adulto), PS 09 - MÉDICO I (Geriatria), PS 10 - MÉDICO I (Neurofisiologia Clínica), PS 11 - MÉDICO I (Pediatria), PS 12 - MÉDICO I (Pneumologia: Polissonografia), PS 13 - MÉDICO I (Transplante Hepático), PS 14 - NUTRICIONISTA I (Atenção Básica), PS 15 - ASSISTENTE ADMINISTRATIVO I (Vigilante), PS 16 - TÉCNICO DE ENFERMAGEM (Centro Obstétrico e Internação Obstétrica), PS 17 - TÉCNICO DE LABORATÓRIO (Diagnóstico Laboratorial), PS 18 - TÉCNICO EM SAÚDE BUCAL
 - **Órgão/Local:** HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
+
+---
+
+## FGV (1)
+
+### Concurso Público para a Empresa de Tecnologia e Informações da Previdência - DATAPREV
+[🔗 Edital](https://conhecimento.fgv.br/concursos/dataprev26)
 
 ---
 

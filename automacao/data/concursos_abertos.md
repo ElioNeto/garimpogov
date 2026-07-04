@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 03/07/2026_
+_Atualizado em 04/07/2026_
 
-Total: **281** concursos encontrados.
+Total: **291** concursos encontrados.
 
 ---
 
@@ -94,7 +94,7 @@ Total: **281** concursos encontrados.
 
 ---
 
-## FGV (48)
+## FGV (49)
 
 ### Concurso Público Nacional Unificado 2
 [🔗 Edital](https://conhecimento.fgv.br/cpnu2)
@@ -250,9 +250,12 @@ Total: **281** concursos encontrados.
 [🔗 Edital](https://conhecimento.fgv.br/concursos/pgesc22)
 - **Órgão/Local:** Procuradoria-Geral do Estado de Santa Catarina
 
+### Concurso Público para a Empresa de Tecnologia e Informações da Previdência - DATAPREV
+[🔗 Edital](https://conhecimento.fgv.br/concursos/dataprev26)
+
 ---
 
-## PCI (174)
+## PCI (183)
 
 ### Instituto Tecnológico de Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/ita-disponibiliza-centenas-de-vagas-para-curso-de-engenharia-em-diversas-especialidades)
@@ -1228,6 +1231,50 @@ Total: **281** concursos encontrados.
 ### Prefeitura de Saquarema - RJ
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-saquarema-rj-abre-concurso-publico-com-vagas-na-)
 - **Órgão/Local:** RJ
+
+### Prefeitura de Volta Redonda - RJ
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-volta-redonda-rj-abre-concurso-publico-para-enfermeiro-e-tecnico-em-enfermagem)
+- **Cargos:** Enfermeiro, Técnico em Enfermagem
+- **Órgão/Local:** Prefeitura de Volta Redonda - RJ
+
+### DATAPREV - BR
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/dataprev-br-edital-publicado-para-diversas-areas-com-iniciais-de-ate-10685)
+- **Órgão/Local:** BR
+- **Salário máx.:** R$ 10.685,44
+
+### Prefeitura de Bom Repouso
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-repouso-mg-publica-editais-para-concurso-publico-e-processo-seletivo)
+- **Órgão/Local:** MG
+
+### Prefeitura de Ponta Grossa
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-ponta-grossa-pr-abre-concurso-com-salarios-de-ate-14756)
+- **Órgão/Local:** PR
+- **Salário máx.:** R$ 14.756,74
+
+### CONSUD
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/consud-pr-abre-concurso-publico-com-salarios-de-ate-15206)
+- **Órgão/Local:** PR
+- **Salário máx.:** R$ 15.206,97
+
+### CRA
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cra-pr-retifica-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva)
+- **Órgão/Local:** PR
+
+### CREF-15/PI
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ref-15-pi-abre-concurso-publico-com-salarios-de-ate-6674)
+- **Órgão/Local:** PI
+- **Salário máx.:** R$ 6.674,43
+
+### CREF-15/PI
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cref-15-pi-abre-concurso-publico-com-salarios-de-ate-6674)
+- **Cargos:** diversos
+- **Órgão/Local:** CREF-15/PI
+- **Salário máx.:** R$ 6.674,43
+
+### Prefeitura de Aracaju - SE
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-aracaju-se-abre-concurso-com-100)
+- **Cargos:** Guarda Municipal
+- **Órgão/Local:** Prefeitura de Aracaju - SE
 
 ---
 

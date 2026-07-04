@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-03T10:45:46.316817+00:00",
-    "total_concursos": 281
+    "ultima_coleta": "2026-07-04T10:19:06.352440+00:00",
+    "total_concursos": 291
   },
   "concursos": [
     {
@@ -4278,6 +4278,143 @@
       "id": "74af1eec-69b1-4081-bbe6-bf019bb25797",
       "data_coleta": "2026-07-03T10:45:46.316788+00:00",
       "data_publicacao": "2026-07-03"
+    },
+    {
+      "instituicao": "Concurso Público para a Empresa de Tecnologia e Informações da Previdência - DATAPREV",
+      "orgao": null,
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br/concursos/dataprev26",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-04",
+      "status": null,
+      "fonte": "FGV",
+      "id": "7f469e2e-f587-437f-866c-09d09d3a47d3",
+      "data_coleta": "2026-07-04T10:19:06.351828+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Volta Redonda - RJ",
+      "orgao": "Prefeitura de Volta Redonda - RJ",
+      "cargos": [
+        "Enfermeiro",
+        "Técnico em Enfermagem"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-volta-redonda-rj-abre-concurso-publico-para-enfermeiro-e-tecnico-em-enfermagem",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-04",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "82205749-7263-4eb6-9c84-4dac2928ee96",
+      "data_coleta": "2026-07-04T10:19:06.352025+00:00"
+    },
+    {
+      "instituicao": "DATAPREV - BR",
+      "orgao": "BR",
+      "cargos": [],
+      "salario_maximo": "R$ 10.685,44",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/dataprev-br-edital-publicado-para-diversas-areas-com-iniciais-de-ate-10685",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-04",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "b3161e8b-17d1-4e54-9214-e02258ca70d4",
+      "data_coleta": "2026-07-04T10:19:06.352047+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Bom Repouso",
+      "orgao": "MG",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-repouso-mg-publica-editais-para-concurso-publico-e-processo-seletivo",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-04",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "38488670-b5e3-45c3-84fb-8a5d7237e862",
+      "data_coleta": "2026-07-04T10:19:06.352154+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Ponta Grossa",
+      "orgao": "PR",
+      "cargos": [],
+      "salario_maximo": "R$ 14.756,74",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ponta-grossa-pr-abre-concurso-com-salarios-de-ate-14756",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-04",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "164edfd1-c135-4a95-9cc7-3fa09c655ec5",
+      "data_coleta": "2026-07-04T10:19:06.352182+00:00"
+    },
+    {
+      "instituicao": "CONSUD",
+      "orgao": "PR",
+      "cargos": [],
+      "salario_maximo": "R$ 15.206,97",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/consud-pr-abre-concurso-publico-com-salarios-de-ate-15206",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-04",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "6a7dc9b4-d708-46c3-a1c2-cf304abafb35",
+      "data_coleta": "2026-07-04T10:19:06.352194+00:00"
+    },
+    {
+      "instituicao": "CRA",
+      "orgao": "PR",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cra-pr-retifica-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-04",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "1164afda-c49f-47f7-8d5f-22d8530e6c44",
+      "data_coleta": "2026-07-04T10:19:06.352205+00:00"
+    },
+    {
+      "instituicao": "CREF-15/PI",
+      "orgao": "PI",
+      "cargos": [],
+      "salario_maximo": "R$ 6.674,43",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/ref-15-pi-abre-concurso-publico-com-salarios-de-ate-6674",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-04",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "db900b62-c555-4df3-8bd8-b7d0d3c251d6",
+      "data_coleta": "2026-07-04T10:19:06.352251+00:00"
+    },
+    {
+      "instituicao": "CREF-15/PI",
+      "orgao": "CREF-15/PI",
+      "cargos": [
+        "diversos"
+      ],
+      "salario_maximo": "R$ 6.674,43",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cref-15-pi-abre-concurso-publico-com-salarios-de-ate-6674",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-04",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "71de042b-4355-44eb-a87b-3062c0a2b2a1",
+      "data_coleta": "2026-07-04T10:19:06.352380+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Aracaju - SE",
+      "orgao": "Prefeitura de Aracaju - SE",
+      "cargos": [
+        "Guarda Municipal"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aracaju-se-abre-concurso-com-100",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-04",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "1790f1f2-fadb-4db8-b335-4992965c3789",
+      "data_coleta": "2026-07-04T10:19:06.352403+00:00"
     }
   ]
 }
