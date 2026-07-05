@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-04T10:19:06.352440+00:00",
-    "total_concursos": 291
+    "ultima_coleta": "2026-07-05T10:25:50.821594+00:00",
+    "total_concursos": 296
   },
   "concursos": [
     {
@@ -4415,6 +4415,75 @@
       "fonte": "PCI",
       "id": "1790f1f2-fadb-4db8-b335-4992965c3789",
       "data_coleta": "2026-07-04T10:19:06.352403+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Andradina",
+      "orgao": "SP, Sao Paulo - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 6.566,50",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-andradina-sp-abre-concurso-publico-com-salarios-de-ate-6566",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-05",
+      "status": null,
+      "fonte": "PCI",
+      "id": "7f4077b7-153a-43e0-9929-558fe219f283",
+      "data_coleta": "2026-07-05T10:25:50.821270+00:00"
+    },
+    {
+      "instituicao": "IPREMT",
+      "orgao": "Taquaritinga - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 4.695,12",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/ipremt-de-taquaritinga-sp-abre-concurso-com-salarios-de-ate-4695",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-05",
+      "status": null,
+      "fonte": "PCI",
+      "id": "73c65fb3-78cb-428c-b3b8-c874b22d03e2",
+      "data_coleta": "2026-07-05T10:25:50.821307+00:00"
+    },
+    {
+      "instituicao": "ITABIRAPREV",
+      "orgao": "MG",
+      "cargos": [],
+      "salario_maximo": "R$ 6.280,77",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/itabiraprev-mg-abre-concurso-publico-com-salarios-de-ate-6280",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-05",
+      "status": null,
+      "fonte": "PCI",
+      "id": "19ee5f9f-9525-4e84-8454-6e79c716e763",
+      "data_coleta": "2026-07-05T10:25:50.821376+00:00"
+    },
+    {
+      "instituicao": "PMMA - Polícia Militar do Maranhão",
+      "orgao": "MA, São Luís - MA",
+      "cargos": [
+        "Aluno-Oficial"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/pmma-ma-abre-selecao-com-40-vagas-para-o-curso-de-formacao-de-oficiais",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-05",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "3315387b-2e60-4e73-b25b-85cbbf0c9430",
+      "data_coleta": "2026-07-05T10:25:50.821547+00:00"
+    },
+    {
+      "instituicao": "CBMMA - Corpo de Bombeiros Militar do Maranhão",
+      "orgao": "MA, São Luís - MA",
+      "cargos": [
+        "Aluno-Oficial"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cbmma-ma-abre-edital-para-curso-de-formacao-de-o",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-05",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "bf2720f1-053b-40de-a68b-abb5cd8c7b41",
+      "data_coleta": "2026-07-05T10:25:50.821566+00:00"
     }
   ]
 }

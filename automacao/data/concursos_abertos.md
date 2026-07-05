@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 04/07/2026_
+_Atualizado em 05/07/2026_
 
-Total: **291** concursos encontrados.
+Total: **296** concursos encontrados.
 
 ---
 
@@ -255,7 +255,7 @@ Total: **291** concursos encontrados.
 
 ---
 
-## PCI (183)
+## PCI (188)
 
 ### Instituto Tecnológico de Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/ita-disponibiliza-centenas-de-vagas-para-curso-de-engenharia-em-diversas-especialidades)
@@ -1275,6 +1275,31 @@ Total: **291** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-aracaju-se-abre-concurso-com-100)
 - **Cargos:** Guarda Municipal
 - **Órgão/Local:** Prefeitura de Aracaju - SE
+
+### Prefeitura de Andradina
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-andradina-sp-abre-concurso-publico-com-salarios-de-ate-6566)
+- **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 6.566,50
+
+### IPREMT
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ipremt-de-taquaritinga-sp-abre-concurso-com-salarios-de-ate-4695)
+- **Órgão/Local:** Taquaritinga - SP
+- **Salário máx.:** R$ 4.695,12
+
+### ITABIRAPREV
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/itabiraprev-mg-abre-concurso-publico-com-salarios-de-ate-6280)
+- **Órgão/Local:** MG
+- **Salário máx.:** R$ 6.280,77
+
+### PMMA - Polícia Militar do Maranhão
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/pmma-ma-abre-selecao-com-40-vagas-para-o-curso-de-formacao-de-oficiais)
+- **Cargos:** Aluno-Oficial
+- **Órgão/Local:** MA, São Luís - MA
+
+### CBMMA - Corpo de Bombeiros Militar do Maranhão
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cbmma-ma-abre-edital-para-curso-de-formacao-de-o)
+- **Cargos:** Aluno-Oficial
+- **Órgão/Local:** MA, São Luís - MA
 
 ---
 
