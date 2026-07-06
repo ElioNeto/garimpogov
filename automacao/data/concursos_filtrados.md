@@ -1,8 +1,8 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 05/07/2026_
+_Atualizado em 06/07/2026_
 
-Total: **6** concursos encontrados.
+Total: **7** concursos encontrados.
 
 ---
 
@@ -38,6 +38,17 @@ Total: **6** concursos encontrados.
 
 ### Concurso Público para a Empresa de Tecnologia e Informações da Previdência - DATAPREV
 [🔗 Edital](https://conhecimento.fgv.br/concursos/dataprev26)
+
+---
+
+## PCI (1)
+
+### CRA - PR
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cra-pr-retifica-concurso-publico-com-salarios-de-ate-10600)
+- **Cargos:** Especialista em Seguros, Consultor de TI
+- **Órgão/Local:** PR
+- **Salário máx.:** R$ 10,600,01
+- **Encerramento:** N/A
 
 ---
 

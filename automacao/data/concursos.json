@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-05T10:25:50.821594+00:00",
-    "total_concursos": 296
+    "ultima_coleta": "2026-07-06T12:18:15.392832+00:00",
+    "total_concursos": 299
   },
   "concursos": [
     {
@@ -1998,24 +1998,6 @@
       "fonte": "PCI",
       "id": "4bc45553-8a7b-4023-bf60-7f4b1d464040",
       "data_coleta": "2026-06-08T13:01:08.242383+00:00"
-    },
-    {
-      "instituicao": "Prefeitura de Pirapora do Bom Jesus",
-      "orgao": "SP",
-      "cargos": [
-        "Fundamental",
-        "Médio",
-        "Superior"
-      ],
-      "salario_maximo": "R$ 5.200,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/pirapora-do-bom-jesus-sp",
-      "data_encerramento": "06/07/2026",
-      "data_publicacao": "11/06/2026",
-      "status": "aberto",
-      "local": "Pirapora",
-      "fonte": "PCI",
-      "id": "de696330-d5ac-40d2-b587-f489616e01b1",
-      "data_coleta": "2026-06-08T13:01:08.242442+00:00"
     },
     {
       "instituicao": "MP-ES",
@@ -4484,6 +4466,69 @@
       "fonte": "PCI",
       "id": "bf2720f1-053b-40de-a68b-abb5cd8c7b41",
       "data_coleta": "2026-07-05T10:25:50.821566+00:00"
+    },
+    {
+      "instituicao": "CESAMA de Juiz de Fora",
+      "orgao": "MG, Juiz de Fora - MG",
+      "cargos": [
+        "Diversos"
+      ],
+      "salario_maximo": "R$ 9.000,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cesama-de-juiz-de-fora-mg-retifica-concurso-publico-com-salarios-",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-06",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "dd4a3343-3def-4491-b0b4-45797ad67ba2",
+      "data_coleta": "2026-07-06T12:18:15.392638+00:00"
+    },
+    {
+      "instituicao": "CIDASG - MG",
+      "orgao": "MG",
+      "cargos": [
+        "Gestor de Projetos",
+        "Consultor Técnico"
+      ],
+      "salario_maximo": "R$ 9 mil",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cidasg-mg-abre-concurso-publico-com-salarios-de-ate-9-mil",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "dd0f7b4f-fd3e-4687-a50f-13bb75e7a5ef",
+      "data_coleta": "2026-07-06T12:18:15.392683+00:00"
+    },
+    {
+      "instituicao": "CRA - PR",
+      "orgao": "PR",
+      "cargos": [
+        "Especialista em Seguros",
+        "Consultor de TI"
+      ],
+      "salario_maximo": "R$ 10,600,01",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cra-pr-retifica-concurso-publico-com-salarios-de-ate-10600",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "f2e7af86-8d56-4578-bad6-12de1df87a4a",
+      "data_coleta": "2026-07-06T12:18:15.392710+00:00"
+    },
+    {
+      "instituicao": "SESAU - AL",
+      "orgao": "AL",
+      "cargos": [
+        "Especialista em Saúde",
+        "Consultor de Saúde"
+      ],
+      "salario_maximo": "R$ 3.885,92",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/sesau-al-abre-concurso-publico-com-salarios-de-ate-3885",
+      "data_encerramento": "N/A",
+      "data_publicacao": "N/A",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "1266d611-5af0-425a-81b4-987f299031d1",
+      "data_coleta": "2026-07-06T12:18:15.392787+00:00"
     }
   ]
 }

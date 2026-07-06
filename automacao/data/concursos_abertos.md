@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 05/07/2026_
+_Atualizado em 06/07/2026_
 
-Total: **296** concursos encontrados.
+Total: **299** concursos encontrados.
 
 ---
 
@@ -255,7 +255,7 @@ Total: **296** concursos encontrados.
 
 ---
 
-## PCI (188)
+## PCI (191)
 
 ### Instituto Tecnológico de Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/ita-disponibiliza-centenas-de-vagas-para-curso-de-engenharia-em-diversas-especialidades)
@@ -569,13 +569,6 @@ Total: **296** concursos encontrados.
 - **Órgão/Local:** SP
 - **Salário máx.:** R$ 7.318,27
 - **Encerramento:** 13/07/2026
-
-### Prefeitura de Pirapora do Bom Jesus
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/pirapora-do-bom-jesus-sp)
-- **Cargos:** Fundamental, Médio, Superior
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 5.200,00
-- **Encerramento:** 06/07/2026
 
 ### MP-ES
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/mp-es-publica-retificacoes-de-edital-de-concurs)
@@ -1300,6 +1293,33 @@ Total: **296** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/cbmma-ma-abre-edital-para-curso-de-formacao-de-o)
 - **Cargos:** Aluno-Oficial
 - **Órgão/Local:** MA, São Luís - MA
+
+### CESAMA de Juiz de Fora
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cesama-de-juiz-de-fora-mg-retifica-concurso-publico-com-salarios-)
+- **Cargos:** Diversos
+- **Órgão/Local:** MG, Juiz de Fora - MG
+- **Salário máx.:** R$ 9.000,00
+
+### CIDASG - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cidasg-mg-abre-concurso-publico-com-salarios-de-ate-9-mil)
+- **Cargos:** Gestor de Projetos, Consultor Técnico
+- **Órgão/Local:** MG
+- **Salário máx.:** R$ 9 mil
+- **Encerramento:** N/A
+
+### CRA - PR
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cra-pr-retifica-concurso-publico-com-salarios-de-ate-10600)
+- **Cargos:** Especialista em Seguros, Consultor de TI
+- **Órgão/Local:** PR
+- **Salário máx.:** R$ 10,600,01
+- **Encerramento:** N/A
+
+### SESAU - AL
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/sesau-al-abre-concurso-publico-com-salarios-de-ate-3885)
+- **Cargos:** Especialista em Saúde, Consultor de Saúde
+- **Órgão/Local:** AL
+- **Salário máx.:** R$ 3.885,92
+- **Encerramento:** N/A
 
 ---
 
