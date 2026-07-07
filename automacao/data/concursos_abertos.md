@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 06/07/2026_
+_Atualizado em 07/07/2026_
 
-Total: **299** concursos encontrados.
+Total: **304** concursos encontrados.
 
 ---
 
@@ -94,7 +94,7 @@ Total: **299** concursos encontrados.
 
 ---
 
-## FGV (49)
+## FGV (50)
 
 ### Concurso Público Nacional Unificado 2
 [🔗 Edital](https://conhecimento.fgv.br/cpnu2)
@@ -253,9 +253,13 @@ Total: **299** concursos encontrados.
 ### Concurso Público para a Empresa de Tecnologia e Informações da Previdência - DATAPREV
 [🔗 Edital](https://conhecimento.fgv.br/concursos/dataprev26)
 
+### Polícia Civil do Estado do Paraná
+[🔗 Edital](https://conhecimento.fgv.br/concursos/pcpr26)
+- **Órgão/Local:** Paraná - PR
+
 ---
 
-## PCI (191)
+## PCI (196)
 
 ### Instituto Tecnológico de Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/ita-disponibiliza-centenas-de-vagas-para-curso-de-engenharia-em-diversas-especialidades)
@@ -1321,15 +1325,41 @@ Total: **299** concursos encontrados.
 - **Salário máx.:** R$ 3.885,92
 - **Encerramento:** N/A
 
+### Câmara de Arujá - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-aruja-sp-retifica-concurso-publico)
+- **Cargos:** Superior
+- **Órgão/Local:** Câmara de Arujá - SP
+- **Salário máx.:** R$ 15.6 mil
+- **Encerramento:** n/a
+
+### Prefeitura de Santana de Parnaíba - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-de-parnaiba-sp-abre-concurso-publico-com-salarios-de-ate-6566)
+- **Cargos:** Superior
+- **Órgão/Local:** Prefeitura de Santana de Parnaíba - SP
+- **Salário máx.:** R$ 6.566,50
+- **Encerramento:** n/a
+
+### ITABIRAPREV - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/dataprev-abre-concurso-publico-com-vagas-de-nivel-superior-em-diversas-cidades-do-brasil)
+- **Cargos:** Superior
+- **Órgão/Local:** ITABIRAPREV - MG
+- **Salário máx.:** R$ 10.685,44
+- **Encerramento:** n/a
+
+### 11ª RM - Comando da 11ª Região Militar
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-11-regiao-militar-df-go-e-to-abre-selecao-para-oficiais-tecnicos-temporarios)
+- **Cargos:** Oficial Técnico, Técnico Temporário
+- **Órgão/Local:** DF, Goiás, Tocantins
+- **Encerramento:** 22/07/2026
+
+### ITABIRAPREV
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/itabiraprev-mg-abre-concurso-public)
+- **Cargos:** Cargo Específico
+- **Órgão/Local:** Minas Gerais
+
 ---
 
-## PMBlumenau-SC (7)
-
-### Prefeitura de Blumenau
-[🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/parque-vila-germanica/parque-vila-germanica/inscriacaoes-para-o-concurso-da-realeza-da-42aa-oktoberfest-blumenau-abrem-nesta-quarta-feira-dia-103)
-- **Cargos:** Rainha da Oktoberfest, Princesa da Oktoberfest
-- **Órgão/Local:** SC, Blumenau - SC
-- **Encerramento:** 07/07/2026
+## PMBlumenau-SC (6)
 
 ### Prefeitura de Blumenau
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/seidep/seidep/prefeitura-promove-tarde-danacante-para-pessoas-com-deficiaancia-em-blumenau)

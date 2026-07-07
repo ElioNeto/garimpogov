@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-06T12:18:15.392832+00:00",
-    "total_concursos": 299
+    "ultima_coleta": "2026-07-07T10:59:27.320008+00:00",
+    "total_concursos": 304
   },
   "concursos": [
     {
@@ -2336,22 +2336,6 @@
       "data_publicacao": "2026-06-11"
     },
     {
-      "instituicao": "Prefeitura de Blumenau",
-      "orgao": "SC, Blumenau - SC",
-      "cargos": [
-        "Rainha da Oktoberfest",
-        "Princesa da Oktoberfest"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://www.blumenau.sc.gov.br/secretarias/parque-vila-germanica/parque-vila-germanica/inscriacaoes-para-o-concurso-da-realeza-da-42aa-oktoberfest-blumenau-abrem-nesta-quarta-feira-dia-103",
-      "data_encerramento": "07/07/2026",
-      "data_publicacao": "03/06/2026",
-      "status": "aberto",
-      "fonte": "PMBlumenau-SC",
-      "id": "641adca7-9ce2-4a6e-af15-55949fb17d78",
-      "data_coleta": "2026-06-12T11:57:58.098997+00:00"
-    },
-    {
       "instituicao": "FITO-SP",
       "orgao": "SP",
       "cargos": [
@@ -4529,6 +4513,95 @@
       "fonte": "PCI",
       "id": "1266d611-5af0-425a-81b4-987f299031d1",
       "data_coleta": "2026-07-06T12:18:15.392787+00:00"
+    },
+    {
+      "instituicao": "Polícia Civil do Estado do Paraná",
+      "orgao": "Paraná - PR",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br/concursos/pcpr26",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-07",
+      "status": "aberto",
+      "fonte": "FGV",
+      "id": "87e078f8-97e3-4df3-8f38-fb9c2c3eef0d",
+      "data_coleta": "2026-07-07T10:59:27.318884+00:00"
+    },
+    {
+      "instituicao": "Câmara de Arujá - SP",
+      "orgao": "Câmara de Arujá - SP",
+      "cargos": [
+        "Superior"
+      ],
+      "salario_maximo": "R$ 15.6 mil",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-aruja-sp-retifica-concurso-publico",
+      "data_encerramento": "n/a",
+      "data_publicacao": "n/a",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "0d5ff60e-987d-46cc-b736-67340f055648",
+      "data_coleta": "2026-07-07T10:59:27.319657+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Santana de Parnaíba - SP",
+      "orgao": "Prefeitura de Santana de Parnaíba - SP",
+      "cargos": [
+        "Superior"
+      ],
+      "salario_maximo": "R$ 6.566,50",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-de-parnaiba-sp-abre-concurso-publico-com-salarios-de-ate-6566",
+      "data_encerramento": "n/a",
+      "data_publicacao": "n/a",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "18293822-3383-4358-b3b6-f8575df1ad1e",
+      "data_coleta": "2026-07-07T10:59:27.319685+00:00"
+    },
+    {
+      "instituicao": "ITABIRAPREV - MG",
+      "orgao": "ITABIRAPREV - MG",
+      "cargos": [
+        "Superior"
+      ],
+      "salario_maximo": "R$ 10.685,44",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/dataprev-abre-concurso-publico-com-vagas-de-nivel-superior-em-diversas-cidades-do-brasil",
+      "data_encerramento": "n/a",
+      "data_publicacao": "n/a",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "620ea050-09bb-4eaf-86d9-312bd1c3841f",
+      "data_coleta": "2026-07-07T10:59:27.319730+00:00"
+    },
+    {
+      "instituicao": "11ª RM - Comando da 11ª Região Militar",
+      "orgao": "DF, Goiás, Tocantins",
+      "cargos": [
+        "Oficial Técnico",
+        "Técnico Temporário"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/comando-da-11-regiao-militar-df-go-e-to-abre-selecao-para-oficiais-tecnicos-temporarios",
+      "data_encerramento": "22/07/2026",
+      "data_publicacao": "2026-07-07",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "70614a6f-c66e-4c42-a7d3-ca26bff4ab3d",
+      "data_coleta": "2026-07-07T10:59:27.319784+00:00"
+    },
+    {
+      "instituicao": "ITABIRAPREV",
+      "orgao": "Minas Gerais",
+      "cargos": [
+        "Cargo Específico"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/itabiraprev-mg-abre-concurso-public",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-07",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "157e322e-4b59-448e-a218-e1a5fa77d0e5",
+      "data_coleta": "2026-07-07T10:59:27.319982+00:00"
     }
   ]
 }
