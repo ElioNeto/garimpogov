@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 07/07/2026_
+_Atualizado em 08/07/2026_
 
-Total: **304** concursos encontrados.
+Total: **305** concursos encontrados.
 
 ---
 
@@ -259,7 +259,7 @@ Total: **304** concursos encontrados.
 
 ---
 
-## PCI (196)
+## PCI (197)
 
 ### Instituto Tecnológico de Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/ita-disponibiliza-centenas-de-vagas-para-curso-de-engenharia-em-diversas-especialidades)
@@ -976,20 +976,6 @@ Total: **304** concursos encontrados.
 - **Salário máx.:** N/A
 - **Encerramento:** N/A
 
-### Prefeitura de SP
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/sp-congresso-norte-2026)
-- **Cargos:** Superior, MG
-- **Órgão/Local:** SP
-- **Salário máx.:** N/A
-- **Encerramento:** 08/07/2026
-
-### Câmara de Arujá - SP
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-aruja-sp-retifica-concurso-publico-com-salarios-de-ate-10600)
-- **Cargos:** Superior
-- **Órgão/Local:** SP
-- **Salário máx.:** N/A
-- **Encerramento:** 08/07/2026
-
 ### Prefeitura de Ipatinga - MG
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-ipatinga-mg-retifica-concurso-publico-para-cargos-de-nivel-medio-e-superior)
 - **Cargos:** Nível Médio e Superior
@@ -1356,6 +1342,20 @@ Total: **304** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/itabiraprev-mg-abre-concurso-public)
 - **Cargos:** Cargo Específico
 - **Órgão/Local:** Minas Gerais
+
+### ITABIRAPREV - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/itabiraprev-mg-abre-concurso-publico-com-vagas-de-nivel-superior)
+- **Órgão/Local:** MG, Minas Gerais - MG
+- **Encerramento:** 09/07/2026
+
+### PMES
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/pmes-divulga-retificacoes-de-concursos-para-soldado-combatente-e-musico)
+- **Cargos:** Soldado Combatente, Músico
+- **Órgão/Local:** BR
+
+### CBM - AL
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cbm-al-divulga-retificacao-de-conc)
+- **Órgão/Local:** AL
 
 ---
 

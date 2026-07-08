@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-07T10:59:27.320008+00:00",
-    "total_concursos": 304
+    "ultima_coleta": "2026-07-08T10:36:41.005773+00:00",
+    "total_concursos": 305
   },
   "concursos": [
     {
@@ -3363,37 +3363,6 @@
       "data_coleta": "2026-06-23T11:15:02.480442+00:00"
     },
     {
-      "instituicao": "Prefeitura de SP",
-      "orgao": "SP",
-      "cargos": [
-        "Superior",
-        "MG"
-      ],
-      "salario_maximo": "N/A",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/sp-congresso-norte-2026",
-      "data_encerramento": "08/07/2026",
-      "data_publicacao": "2026-07-01",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "1bde8593-d10e-451e-ab72-09a814fa7fd8",
-      "data_coleta": "2026-06-23T11:15:02.480584+00:00"
-    },
-    {
-      "instituicao": "Câmara de Arujá - SP",
-      "orgao": "SP",
-      "cargos": [
-        "Superior"
-      ],
-      "salario_maximo": "N/A",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-aruja-sp-retifica-concurso-publico-com-salarios-de-ate-10600",
-      "data_encerramento": "08/07/2026",
-      "data_publicacao": "2026-07-01",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "a519428a-ebca-49ae-be79-62ddbb31b793",
-      "data_coleta": "2026-06-23T11:15:02.480610+00:00"
-    },
-    {
       "instituicao": "Prefeitura de Ipatinga - MG",
       "orgao": "MG",
       "cargos": [
@@ -4602,6 +4571,48 @@
       "fonte": "PCI",
       "id": "157e322e-4b59-448e-a218-e1a5fa77d0e5",
       "data_coleta": "2026-07-07T10:59:27.319982+00:00"
+    },
+    {
+      "instituicao": "ITABIRAPREV - MG",
+      "orgao": "MG, Minas Gerais - MG",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/itabiraprev-mg-abre-concurso-publico-com-vagas-de-nivel-superior",
+      "data_encerramento": "09/07/2026",
+      "data_publicacao": "2026-07-08",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "2480ff4e-96d1-429a-a233-3a6628fe88fe",
+      "data_coleta": "2026-07-08T10:36:41.005427+00:00"
+    },
+    {
+      "instituicao": "PMES",
+      "orgao": "BR",
+      "cargos": [
+        "Soldado Combatente",
+        "Músico"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/pmes-divulga-retificacoes-de-concursos-para-soldado-combatente-e-musico",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-08",
+      "status": "prorogado",
+      "fonte": "PCI",
+      "id": "4dbc27ba-b0bc-4206-ad18-84f2278c302a",
+      "data_coleta": "2026-07-08T10:36:41.005646+00:00"
+    },
+    {
+      "instituicao": "CBM - AL",
+      "orgao": "AL",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cbm-al-divulga-retificacao-de-conc",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-08",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "fb00f49d-376c-4f37-a86b-e97cbd35408c",
+      "data_coleta": "2026-07-08T10:36:41.005716+00:00"
     }
   ]
 }
