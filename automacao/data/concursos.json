@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-08T10:36:41.005773+00:00",
-    "total_concursos": 305
+    "ultima_coleta": "2026-07-09T11:08:22.029119+00:00",
+    "total_concursos": 308
   },
   "concursos": [
     {
@@ -3106,25 +3106,6 @@
     },
     {
       "instituicao": "Prefeitura Municipal de Sério",
-      "orgao": null,
-      "cargos": [
-        "Agente Administrativo (Pref Sério)/2026",
-        "Monitor Socioeducativo (Pref Sério)/2026",
-        "Motorista (Pref Sério)/2026",
-        "Operador de Máquinas (Pref Sério)/2026",
-        "Professor (Pref Sério)/2026 - Educação Básica"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://portal.editais.legalleconcursos.com.br/edital/ver/2549",
-      "data_encerramento": "09/07/2026",
-      "data_publicacao": "2026-06-20",
-      "status": "aberto",
-      "fonte": "TecConcursos",
-      "id": "c4feab04-a4bd-403b-831e-9d418405a67c",
-      "data_coleta": "2026-06-20T10:48:38.240692+00:00"
-    },
-    {
-      "instituicao": "Prefeitura Municipal de Sério",
       "orgao": "Sério, Sério - SP",
       "cargos": [
         "Agente Administrativo"
@@ -4114,21 +4095,6 @@
       "data_publicacao": "2026-07-02"
     },
     {
-      "instituicao": "Associação das Pioneiras Sociais (Rede SARAH)",
-      "orgao": null,
-      "cargos": [
-        "Engenheiro de Manutenção"
-      ],
-      "salario_maximo": "R$ 14.700,93",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-prorroga-inscricoes-de-processo-seletivo-para-engenheiros",
-      "data_encerramento": "09/07/2026",
-      "data_publicacao": "2026-07-02",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "3a46f827-b5d9-49f6-ab28-a2e80d5347eb",
-      "data_coleta": "2026-07-02T10:56:46.612768+00:00"
-    },
-    {
       "instituicao": "Prefeitura de Saquarema - RJ",
       "orgao": null,
       "cargos": [],
@@ -4140,22 +4106,6 @@
       "fonte": "PCI",
       "id": "6afb8c80-d430-4a5c-b078-9ec5c138ec34",
       "data_coleta": "2026-07-02T10:56:46.612916+00:00"
-    },
-    {
-      "instituicao": "IBGE",
-      "orgao": "Instituto Brasileiro de Geografia e Estatística",
-      "cargos": [
-        "Agente Censitário",
-        "Analista Censitário"
-      ],
-      "salario_maximo": "R$ 4.008,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/ibge-prorroga-inscricoes-de-processo-seletivo-para-o-censo-agropecuario-florestal-e-aquicola",
-      "data_encerramento": "09/07/2026",
-      "data_publicacao": "2026-07-03",
-      "status": "prorrogado",
-      "fonte": "PCI",
-      "id": "b53e45eb-4332-459f-9298-8f834cfacfdf",
-      "data_coleta": "2026-07-03T10:45:46.316147+00:00"
     },
     {
       "instituicao": "SEDES",
@@ -4573,19 +4523,6 @@
       "data_coleta": "2026-07-07T10:59:27.319982+00:00"
     },
     {
-      "instituicao": "ITABIRAPREV - MG",
-      "orgao": "MG, Minas Gerais - MG",
-      "cargos": [],
-      "salario_maximo": null,
-      "link_edital": "https://www.pciconcursos.com.br/noticias/itabiraprev-mg-abre-concurso-publico-com-vagas-de-nivel-superior",
-      "data_encerramento": "09/07/2026",
-      "data_publicacao": "2026-07-08",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "2480ff4e-96d1-429a-a233-3a6628fe88fe",
-      "data_coleta": "2026-07-08T10:36:41.005427+00:00"
-    },
-    {
       "instituicao": "PMES",
       "orgao": "BR",
       "cargos": [
@@ -4613,6 +4550,104 @@
       "fonte": "PCI",
       "id": "fb00f49d-376c-4f37-a86b-e97cbd35408c",
       "data_coleta": "2026-07-08T10:36:41.005716+00:00"
+    },
+    {
+      "instituicao": "Câmara de Itararé",
+      "orgao": "SP",
+      "cargos": [
+        "Controlador Interno"
+      ],
+      "salario_maximo": "R$ 8.500,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-itarare-sp-abre-concurso-publico-para-controlador-interno",
+      "data_encerramento": "10/07 a 06/08/2026",
+      "data_publicacao": "2026-07-09",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "6d7f987f-5440-4a56-bb55-cf0511012710",
+      "data_coleta": "2026-07-09T11:08:22.028648+00:00"
+    },
+    {
+      "instituicao": "Câmara de Nova Luzitânia",
+      "orgao": "SP",
+      "cargos": [
+        "Auxiliar de Serviços"
+      ],
+      "salario_maximo": "R$ 1.765,99",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-nova-luzitania-sp-abre-concurso-para-auxiliar-de-servicos",
+      "data_encerramento": "20/07/2026",
+      "data_publicacao": "2026-07-09",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "fafb93f9-7f95-4e5c-947c-ba69c5577bf2",
+      "data_coleta": "2026-07-09T11:08:22.028710+00:00"
+    },
+    {
+      "instituicao": "Câmara de Tupi Paulista",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": "R$ 8.485,93",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-tupi-paulista-sp-abre-concurso-com-salarios-de-ate-8485",
+      "data_encerramento": "26/07/2026",
+      "data_publicacao": "2026-07-09",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "077e26b1-3f6a-4f9b-860f-7483ef9c15d9",
+      "data_coleta": "2026-07-09T11:08:22.028773+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Santana de Parnaíba - SP",
+      "orgao": "SP, Santana de Parnaíba - SP",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-de-parnaiba-sp-abre",
+      "fonte": "PCI",
+      "status": "aberto",
+      "id": "9de78cee-24a8-4f46-b3d8-265b4e53b300",
+      "data_coleta": "2026-07-09T11:08:22.028836+00:00",
+      "data_publicacao": "2026-07-09"
+    },
+    {
+      "instituicao": "IBGE",
+      "orgao": "Brasil",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/ibge-prorroga-inscricoes-de-processo-seletivo-para-o-censo-agropecuario-florestal-e-aquicola",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-09",
+      "status": "prorogado",
+      "fonte": "PCI",
+      "id": "08e1e2b9-ed6c-47cd-a9dc-2ebb79eaa1d6",
+      "data_coleta": "2026-07-09T11:08:22.028931+00:00"
+    },
+    {
+      "instituicao": "Associação das Pioneiras Sociais",
+      "orgao": "Brasil",
+      "cargos": [
+        "Engenheiro"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-prorroga-inscricoes-de-processo-seletivo-para-engenheiros",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-09",
+      "status": "prorogado",
+      "fonte": "PCI",
+      "id": "5efa8363-ab16-4a5e-9dfe-b876d7ed439c",
+      "data_coleta": "2026-07-09T11:08:22.028951+00:00"
+    },
+    {
+      "instituicao": "CBMMA - MA",
+      "orgao": "MA",
+      "cargos": [
+        "Curso de Formação de Oficiais"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cbmma-ma-abre-edital-para-curso-de-formacao-de-oficiais",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-09",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "dc030508-ece1-446e-b521-a28f3b25c5a6",
+      "data_coleta": "2026-07-09T11:08:22.029085+00:00"
     }
   ]
 }

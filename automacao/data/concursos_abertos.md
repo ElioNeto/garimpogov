@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 08/07/2026_
+_Atualizado em 09/07/2026_
 
-Total: **305** concursos encontrados.
+Total: **308** concursos encontrados.
 
 ---
 
@@ -259,7 +259,7 @@ Total: **305** concursos encontrados.
 
 ---
 
-## PCI (197)
+## PCI (201)
 
 ### Instituto Tecnológico de Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/ita-disponibiliza-centenas-de-vagas-para-curso-de-engenharia-em-diversas-especialidades)
@@ -1181,21 +1181,8 @@ Total: **305** concursos encontrados.
 - **Órgão/Local:** APS
 - **Salário máx.:** R$ 14.700,93
 
-### Associação das Pioneiras Sociais (Rede SARAH)
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-prorroga-inscricoes-de-processo-seletivo-para-engenheiros)
-- **Cargos:** Engenheiro de Manutenção
-- **Salário máx.:** R$ 14.700,93
-- **Encerramento:** 09/07/2026
-
 ### Prefeitura de Saquarema - RJ
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-saquarema-rj-abre-concurso-publico-com-vagas-na-educacao)
-
-### IBGE
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/ibge-prorroga-inscricoes-de-processo-seletivo-para-o-censo-agropecuario-florestal-e-aquicola)
-- **Cargos:** Agente Censitário, Analista Censitário
-- **Órgão/Local:** Instituto Brasileiro de Geografia e Estatística
-- **Salário máx.:** R$ 4.008,00
-- **Encerramento:** 09/07/2026
 
 ### SEDES
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/se-des-prorroga-inscricoes-de-processo-seletivo-para-cargos-de-nivel-medio-e-superior)
@@ -1343,11 +1330,6 @@ Total: **305** concursos encontrados.
 - **Cargos:** Cargo Específico
 - **Órgão/Local:** Minas Gerais
 
-### ITABIRAPREV - MG
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/itabiraprev-mg-abre-concurso-publico-com-vagas-de-nivel-superior)
-- **Órgão/Local:** MG, Minas Gerais - MG
-- **Encerramento:** 09/07/2026
-
 ### PMES
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/pmes-divulga-retificacoes-de-concursos-para-soldado-combatente-e-musico)
 - **Cargos:** Soldado Combatente, Músico
@@ -1356,6 +1338,44 @@ Total: **305** concursos encontrados.
 ### CBM - AL
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/cbm-al-divulga-retificacao-de-conc)
 - **Órgão/Local:** AL
+
+### Câmara de Itararé
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-itarare-sp-abre-concurso-publico-para-controlador-interno)
+- **Cargos:** Controlador Interno
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 8.500,00
+- **Encerramento:** 10/07 a 06/08/2026
+
+### Câmara de Nova Luzitânia
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-nova-luzitania-sp-abre-concurso-para-auxiliar-de-servicos)
+- **Cargos:** Auxiliar de Serviços
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 1.765,99
+- **Encerramento:** 20/07/2026
+
+### Câmara de Tupi Paulista
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-tupi-paulista-sp-abre-concurso-com-salarios-de-ate-8485)
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 8.485,93
+- **Encerramento:** 26/07/2026
+
+### Prefeitura de Santana de Parnaíba - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-de-parnaiba-sp-abre)
+- **Órgão/Local:** SP, Santana de Parnaíba - SP
+
+### IBGE
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ibge-prorroga-inscricoes-de-processo-seletivo-para-o-censo-agropecuario-florestal-e-aquicola)
+- **Órgão/Local:** Brasil
+
+### Associação das Pioneiras Sociais
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-prorroga-inscricoes-de-processo-seletivo-para-engenheiros)
+- **Cargos:** Engenheiro
+- **Órgão/Local:** Brasil
+
+### CBMMA - MA
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cbmma-ma-abre-edital-para-curso-de-formacao-de-oficiais)
+- **Cargos:** Curso de Formação de Oficiais
+- **Órgão/Local:** MA
 
 ---
 
@@ -1399,7 +1419,7 @@ Total: **305** concursos encontrados.
 
 ---
 
-## TecConcursos (37)
+## TecConcursos (36)
 
 ### Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-de-projeto-agsus-cotacao-de-precos-2026-cargo-23)
@@ -1518,11 +1538,6 @@ Total: **305** concursos encontrados.
 [🔗 Edital](https://www.cebraspe.org.br/concursos/agu_26_estagiario)
 - **Cargos:** Estagiário de Pós-Graduação em Direito (AGU) /2026
 - **Órgão/Local:** Federal
-
-### Prefeitura Municipal de Sério
-[🔗 Edital](https://portal.editais.legalleconcursos.com.br/edital/ver/2549)
-- **Cargos:** Agente Administrativo (Pref Sério)/2026, Monitor Socioeducativo (Pref Sério)/2026, Motorista (Pref Sério)/2026, Operador de Máquinas (Pref Sério)/2026, Professor (Pref Sério)/2026 - Educação Básica
-- **Encerramento:** 09/07/2026
 
 ### Prefeitura Municipal de Sério
 [🔗 Edital](https://www.tecconcursos.com.br/concursos/agente-administrativo-pref-serio-2026-cp-001-2026)
