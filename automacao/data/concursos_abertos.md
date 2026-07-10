@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 09/07/2026_
+_Atualizado em 10/07/2026_
 
-Total: **308** concursos encontrados.
+Total: **311** concursos encontrados.
 
 ---
 
@@ -259,7 +259,7 @@ Total: **308** concursos encontrados.
 
 ---
 
-## PCI (201)
+## PCI (204)
 
 ### Instituto Tecnológico de Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/ita-disponibiliza-centenas-de-vagas-para-curso-de-engenharia-em-diversas-especialidades)
@@ -1376,6 +1376,21 @@ Total: **308** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/cbmma-ma-abre-edital-para-curso-de-formacao-de-oficiais)
 - **Cargos:** Curso de Formação de Oficiais
 - **Órgão/Local:** MA
+
+### Câmara de Pirajuí
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-pirajui-sp-divulga-retificacao-de-concurso-publico-com-salarios-de-ate-5269)
+- **Órgão/Local:** SP, Pirajuí - SP
+- **Salário máx.:** R$ 5.269,45
+- **Encerramento:** 26/07/2026
+
+### EMDURB - Empresa Municipal de Desenvolvimento Urbano de Ubatuba
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/emdurb-ubatuba-sp-abre-concurso-publico)
+- **Órgão/Local:** SP, Ubatuba - SP
+
+### Prefeitura de Paracatu
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-paracatu-mg-publica-edital-retificado-de-concurso-p)
+- **Cargos:** Guarda Civil Municipal
+- **Órgão/Local:** MG, Paracatu - MG
 
 ---
 

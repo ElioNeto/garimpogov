@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-09T11:08:22.029119+00:00",
-    "total_concursos": 308
+    "ultima_coleta": "2026-07-10T11:01:45.279145+00:00",
+    "total_concursos": 311
   },
   "concursos": [
     {
@@ -4648,6 +4648,47 @@
       "fonte": "PCI",
       "id": "dc030508-ece1-446e-b521-a28f3b25c5a6",
       "data_coleta": "2026-07-09T11:08:22.029085+00:00"
+    },
+    {
+      "instituicao": "Câmara de Pirajuí",
+      "orgao": "SP, Pirajuí - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 5.269,45",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-pirajui-sp-divulga-retificacao-de-concurso-publico-com-salarios-de-ate-5269",
+      "data_encerramento": "26/07/2026",
+      "data_publicacao": "2026-07-10",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "196e781f-f8b1-44fd-a96e-e1ebe6da1dc0",
+      "data_coleta": "2026-07-10T11:01:45.278583+00:00"
+    },
+    {
+      "instituicao": "EMDURB - Empresa Municipal de Desenvolvimento Urbano de Ubatuba",
+      "orgao": "SP, Ubatuba - SP",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/emdurb-ubatuba-sp-abre-concurso-publico",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-10",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "68709a55-c9ad-4e61-a754-1dee8d897b80",
+      "data_coleta": "2026-07-10T11:01:45.278690+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Paracatu",
+      "orgao": "MG, Paracatu - MG",
+      "cargos": [
+        "Guarda Civil Municipal"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paracatu-mg-publica-edital-retificado-de-concurso-p",
+      "data_encerramento": null,
+      "data_publicacao": "10/07/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "ca846c93-59f9-47da-b666-b8709f0f1c26",
+      "data_coleta": "2026-07-10T11:01:45.278946+00:00"
     }
   ]
 }
