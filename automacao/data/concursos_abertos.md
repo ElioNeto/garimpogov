@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 11/07/2026_
+_Atualizado em 12/07/2026_
 
-Total: **311** concursos encontrados.
+Total: **307** concursos encontrados.
 
 ---
 
@@ -259,13 +259,7 @@ Total: **311** concursos encontrados.
 
 ---
 
-## PCI (204)
-
-### Instituto Tecnológico de Aeronáutica
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/ita-disponibiliza-centenas-de-vagas-para-curso-de-engenharia-em-diversas-especialidades)
-- **Cargos:** Aluno do Curso de Graduação em Engenharia do ITA
-- **Órgão/Local:** SP, São Paulo - SP
-- **Encerramento:** 12/07/2026
+## PCI (200)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -740,12 +734,6 @@ Total: **311** concursos encontrados.
 - **Salário máx.:** R$ 9.004,00
 - **Encerramento:** 17/06 a 15/07/2026
 
-### PCICONCURSOS
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/ibge-disponibiliza-1414-vagas-para-agente-e-analista-censitario-em-novo-processo-seletivo)
-- **Órgão/Local:** https://www.pciconcursos.com.br/concursos/norte/#RR
-- **Salário máx.:** R$ 200
-- **Encerramento:** 12/07/2026
-
 ### Prefeitura de Cambé - PR
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-came-pr-abre-concurso-publico-com-remuneracoes-de-ate-1408845)
 - **Órgão/Local:** Prefeitura Municipal de Cambé
@@ -976,13 +964,6 @@ Total: **311** concursos encontrados.
 - **Salário máx.:** N/A
 - **Encerramento:** N/A
 
-### Prefeitura de Ipatinga - MG
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-ipatinga-mg-retifica-concurso-publico-para-cargos-de-nivel-medio-e-superior)
-- **Cargos:** Nível Médio e Superior
-- **Órgão/Local:** MG
-- **Salário máx.:** N/A
-- **Encerramento:** 12/07/2026
-
 ### CBM - AL
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/cbm-al-divulg)
 - **Cargos:** Superior
@@ -1027,12 +1008,6 @@ Total: **311** concursos encontrados.
 - **Órgão/Local:** RO
 - **Salário máx.:** R$ 10.863,68
 - **Encerramento:** N/A
-
-### Marinha
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/marinha-do-brasil-prorroga-inscricoes-de-concurso-com-vagas-para-o-corpo-auxiliar-de-pracas)
-- **Cargos:** Praça, Auxiliar
-- **Órgão/Local:** Marinha do Brasil
-- **Encerramento:** 12/07/2026
 
 ### DETRAN - AL
 [🔗 Edital](https://www.pciconcursos.com.br/noticia)
@@ -1127,12 +1102,6 @@ Total: **311** concursos encontrados.
 - **Órgão/Local:** SP
 - **Salário máx.:** R$ 11.294,14
 - **Encerramento:** 16/07/2026
-
-### Prefeitura de Santana de Parnaíba
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-de-parnaiba-sp-abre-novo-concurso-com-vagas-para-diversos-niveis-de-escolaridade)
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 5.705,30
-- **Encerramento:** 12/07/2026
 
 ### PM - SP
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/pm-sp-abre-concurso-com-concurso-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1391,6 +1360,13 @@ Total: **311** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-paracatu-mg-publica-edital-retificado-de-concurso-p)
 - **Cargos:** Guarda Civil Municipal
 - **Órgão/Local:** MG, Paracatu - MG
+
+### IBGE - Instituto Brasileiro de Geografia e Estatística
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ibge-disponibiliza-1414-vagas-para-agente-e-analista-censitario-em-novo-processo-seletivo)
+- **Cargos:** Agente Censitário de Qualidade, Analista Censitário
+- **Órgão/Local:** Nacional
+- **Salário máx.:** R$ 5.255,40
+- **Encerramento:** 15/07/2026
 
 ---
 

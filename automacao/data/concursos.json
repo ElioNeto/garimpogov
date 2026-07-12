@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-10T11:01:45.279145+00:00",
-    "total_concursos": 311
+    "ultima_coleta": "2026-07-12T10:02:08.083586+00:00",
+    "total_concursos": 307
   },
   "concursos": [
     {
@@ -582,21 +582,6 @@
       "fonte": "FAURGS",
       "id": "d4404d24-25b0-411c-8edf-c7e5d7bfda6e",
       "data_coleta": "2026-06-02T21:53:50.370504+00:00"
-    },
-    {
-      "instituicao": "Instituto Tecnológico de Aeronáutica",
-      "orgao": "SP, São Paulo - SP",
-      "cargos": [
-        "Aluno do Curso de Graduação em Engenharia do ITA"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://www.pciconcursos.com.br/noticias/ita-disponibiliza-centenas-de-vagas-para-curso-de-engenharia-em-diversas-especialidades",
-      "data_encerramento": "12/07/2026",
-      "data_publicacao": "2026-06-02",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "62bab381-2144-4bfc-b008-b5a9a2a6258d",
-      "data_coleta": "2026-06-02T21:53:50.370569+00:00"
     },
     {
       "instituicao": "Comando da Aeronáutica",
@@ -2601,19 +2586,6 @@
       "data_coleta": "2026-06-16T13:03:44.678352+00:00"
     },
     {
-      "instituicao": "PCICONCURSOS",
-      "orgao": "https://www.pciconcursos.com.br/concursos/norte/#RR",
-      "cargos": [],
-      "salario_maximo": "R$ 200",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/ibge-disponibiliza-1414-vagas-para-agente-e-analista-censitario-em-novo-processo-seletivo",
-      "data_encerramento": "12/07/2026",
-      "data_publicacao": "12/07/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "3e2b7111-d4fe-4727-a372-467c1238bb94",
-      "data_coleta": "2026-06-16T13:03:44.678441+00:00"
-    },
-    {
       "instituicao": "Prefeitura de Cambé - PR",
       "orgao": "Prefeitura Municipal de Cambé",
       "cargos": [],
@@ -3344,21 +3316,6 @@
       "data_coleta": "2026-06-23T11:15:02.480442+00:00"
     },
     {
-      "instituicao": "Prefeitura de Ipatinga - MG",
-      "orgao": "MG",
-      "cargos": [
-        "Nível Médio e Superior"
-      ],
-      "salario_maximo": "N/A",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipatinga-mg-retifica-concurso-publico-para-cargos-de-nivel-medio-e-superior",
-      "data_encerramento": "12/07/2026",
-      "data_publicacao": "2026-07-01",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "dfd4803d-177e-4088-90ec-826aaad5a36d",
-      "data_coleta": "2026-06-23T11:15:02.480665+00:00"
-    },
-    {
       "instituicao": "CBM - AL",
       "orgao": "AL",
       "cargos": [
@@ -3501,22 +3458,6 @@
       "fonte": "PCI",
       "id": "aef7f73d-f887-425f-9901-13de0cba1bb1",
       "data_coleta": "2026-06-26T11:06:05.702306+00:00"
-    },
-    {
-      "instituicao": "Marinha",
-      "orgao": "Marinha do Brasil",
-      "cargos": [
-        "Praça",
-        "Auxiliar"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-prorroga-inscricoes-de-concurso-com-vagas-para-o-corpo-auxiliar-de-pracas",
-      "data_encerramento": "12/07/2026",
-      "data_publicacao": "2026-06-27",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "d22c6c30-826a-45ed-ba60-536ec3b30402",
-      "data_coleta": "2026-06-27T10:13:13.376124+00:00"
     },
     {
       "instituicao": "DETRAN - AL",
@@ -3736,19 +3677,6 @@
       "fonte": "PCI",
       "id": "ebce2d2c-5802-4c97-ab55-488b4d453ee9",
       "data_coleta": "2026-06-30T11:08:01.869400+00:00"
-    },
-    {
-      "instituicao": "Prefeitura de Santana de Parnaíba",
-      "orgao": "SP",
-      "cargos": [],
-      "salario_maximo": "R$ 5.705,30",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-de-parnaiba-sp-abre-novo-concurso-com-vagas-para-diversos-niveis-de-escolaridade",
-      "data_encerramento": "12/07/2026",
-      "data_publicacao": "2026-06-30",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "263ea1d5-9b44-4db7-b71c-18a65268044d",
-      "data_coleta": "2026-06-30T11:08:01.869473+00:00"
     },
     {
       "instituicao": "PM - SP",
@@ -4689,6 +4617,22 @@
       "fonte": "PCI",
       "id": "ca846c93-59f9-47da-b666-b8709f0f1c26",
       "data_coleta": "2026-07-10T11:01:45.278946+00:00"
+    },
+    {
+      "instituicao": "IBGE - Instituto Brasileiro de Geografia e Estatística",
+      "orgao": "Nacional",
+      "cargos": [
+        "Agente Censitário de Qualidade",
+        "Analista Censitário"
+      ],
+      "salario_maximo": "R$ 5.255,40",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/ibge-disponibiliza-1414-vagas-para-agente-e-analista-censitario-em-novo-processo-seletivo",
+      "data_encerramento": "15/07/2026",
+      "data_publicacao": "2026-07-12",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "bca6b384-2a11-497b-af27-5f739a5c736e",
+      "data_coleta": "2026-07-12T10:02:08.083164+00:00"
     }
   ]
 }
