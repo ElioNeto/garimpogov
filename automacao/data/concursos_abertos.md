@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 12/07/2026_
+_Atualizado em 13/07/2026_
 
-Total: **307** concursos encontrados.
+Total: **312** concursos encontrados.
 
 ---
 
@@ -94,7 +94,7 @@ Total: **307** concursos encontrados.
 
 ---
 
-## FGV (50)
+## FGV (52)
 
 ### Concurso Público Nacional Unificado 2
 [🔗 Edital](https://conhecimento.fgv.br/cpnu2)
@@ -257,9 +257,18 @@ Total: **307** concursos encontrados.
 [🔗 Edital](https://conhecimento.fgv.br/concursos/pcpr26)
 - **Órgão/Local:** Paraná - PR
 
+### Prefeitura Municipal do Salvador
+[🔗 Edital](https://conhecimento.fgv.br/concursos/pms2026)
+- **Órgão/Local:** Salvador - BA
+
+### Conselho Federal de Contabilidade
+[🔗 Edital](https://conhecimento.fgv.br/exames/cfc/2026.2)
+- **Cargos:** Contador
+- **Órgão/Local:** Nacional
+
 ---
 
-## PCI (200)
+## PCI (203)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -560,13 +569,6 @@ Total: **307** concursos encontrados.
 - **Órgão/Local:** MG
 - **Salário máx.:** R$ 9.000,00
 - **Encerramento:** N/A
-
-### Prefeitura de Bragança Paulista
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-aruja-sp)
-- **Cargos:** Fundamental, Médio, Técnico, Superior
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 7.318,27
-- **Encerramento:** 13/07/2026
 
 ### MP-ES
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/mp-es-publica-retificacoes-de-edital-de-concurs)
@@ -1367,6 +1369,25 @@ Total: **307** concursos encontrados.
 - **Órgão/Local:** Nacional
 - **Salário máx.:** R$ 5.255,40
 - **Encerramento:** 15/07/2026
+
+### DATAPREV - Empresa de Tecnologia e Informações da Previdência
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/dataprev-abre-concurso-publico-com-v)
+- **Salário máx.:** R$ 10.685,44
+
+### Prefeitura de Novo Hamburgo - RS
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-hamburgo-rs-abre-concurso-publico-com-salarios-de-ate-8293)
+- **Órgão/Local:** RS, Novo Hamburgo - RS
+- **Salário máx.:** R$ 8.293,78
+
+### Prefeitura de Primavera do Leste
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-primavera-do-leste-mt-abre-concurso-com-salarios-de-ate-16346)
+- **Órgão/Local:** MT
+- **Salário máx.:** R$ 16.346,38
+
+### Governo do Estado do Piauí
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/governo-do-estado-do-piaui-anuncia-tres-concursos-unificados-com-salarios-de-ate-13536)
+- **Órgão/Local:** PI
+- **Salário máx.:** R$ 13.536,01
 
 ---
 

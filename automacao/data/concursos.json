@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-12T10:02:08.083586+00:00",
-    "total_concursos": 307
+    "ultima_coleta": "2026-07-13T11:18:09.245570+00:00",
+    "total_concursos": 312
   },
   "concursos": [
     {
@@ -1964,25 +1964,6 @@
       "fonte": "FAURGS",
       "id": "b8582b3a-8cfe-4fa7-a3dc-98a0c2c134ae",
       "data_coleta": "2026-06-08T13:01:08.242342+00:00"
-    },
-    {
-      "instituicao": "Prefeitura de Bragança Paulista",
-      "orgao": "SP",
-      "cargos": [
-        "Fundamental",
-        "Médio",
-        "Técnico",
-        "Superior"
-      ],
-      "salario_maximo": "R$ 7.318,27",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-aruja-sp",
-      "data_encerramento": "13/07/2026",
-      "data_publicacao": "11/06/2026",
-      "status": "aberto",
-      "local": "Brasília",
-      "fonte": "PCI",
-      "id": "4bc45553-8a7b-4023-bf60-7f4b1d464040",
-      "data_coleta": "2026-06-08T13:01:08.242383+00:00"
     },
     {
       "instituicao": "MP-ES",
@@ -4633,6 +4614,85 @@
       "fonte": "PCI",
       "id": "bca6b384-2a11-497b-af27-5f739a5c736e",
       "data_coleta": "2026-07-12T10:02:08.083164+00:00"
+    },
+    {
+      "instituicao": "Prefeitura Municipal do Salvador",
+      "orgao": "Salvador - BA",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br/concursos/pms2026",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-13",
+      "status": "aberto",
+      "fonte": "FGV",
+      "id": "a15d2df9-7ac2-467a-a87a-8f223c028f8f",
+      "data_coleta": "2026-07-13T11:18:09.244944+00:00"
+    },
+    {
+      "instituicao": "Conselho Federal de Contabilidade",
+      "orgao": "Nacional",
+      "cargos": [
+        "Contador"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br/exames/cfc/2026.2",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-13",
+      "status": "aberto",
+      "fonte": "FGV",
+      "id": "e4f85b74-768a-4a94-ad4d-0fc74003b2ae",
+      "data_coleta": "2026-07-13T11:18:09.244980+00:00"
+    },
+    {
+      "instituicao": "DATAPREV - Empresa de Tecnologia e Informações da Previdência",
+      "orgao": null,
+      "cargos": [],
+      "salario_maximo": "R$ 10.685,44",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/dataprev-abre-concurso-publico-com-v",
+      "fonte": "PCI",
+      "status": "aberto",
+      "id": "47f1f69b-5f4b-4543-bf7b-ac3c585f6e25",
+      "data_coleta": "2026-07-13T11:18:09.245169+00:00",
+      "data_publicacao": "2026-07-13"
+    },
+    {
+      "instituicao": "Prefeitura de Novo Hamburgo - RS",
+      "orgao": "RS, Novo Hamburgo - RS",
+      "cargos": [],
+      "salario_maximo": "R$ 8.293,78",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-hamburgo-rs-abre-concurso-publico-com-salarios-de-ate-8293",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-13",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "621c6071-112d-48ef-a73a-6cb36da3c65b",
+      "data_coleta": "2026-07-13T11:18:09.245385+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Primavera do Leste",
+      "orgao": "MT",
+      "cargos": [],
+      "salario_maximo": "R$ 16.346,38",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-primavera-do-leste-mt-abre-concurso-com-salarios-de-ate-16346",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-13",
+      "status": null,
+      "fonte": "PCI",
+      "id": "ad7d759b-74af-4973-b7d4-fa74cae7426c",
+      "data_coleta": "2026-07-13T11:18:09.245484+00:00"
+    },
+    {
+      "instituicao": "Governo do Estado do Piauí",
+      "orgao": "PI",
+      "cargos": [],
+      "salario_maximo": "R$ 13.536,01",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/governo-do-estado-do-piaui-anuncia-tres-concursos-unificados-com-salarios-de-ate-13536",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-13",
+      "status": null,
+      "fonte": "PCI",
+      "id": "229e4e54-94a0-43c6-b6b4-da9ed9ff7644",
+      "data_coleta": "2026-07-13T11:18:09.245522+00:00"
     }
   ]
 }
