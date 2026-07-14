@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-13T11:18:09.245570+00:00",
-    "total_concursos": 312
+    "ultima_coleta": "2026-07-14T10:08:18.460738+00:00",
+    "total_concursos": 318
   },
   "concursos": [
     {
@@ -4693,6 +4693,103 @@
       "fonte": "PCI",
       "id": "229e4e54-94a0-43c6-b6b4-da9ed9ff7644",
       "data_coleta": "2026-07-13T11:18:09.245522+00:00"
+    },
+    {
+      "instituicao": "HOSPITAL DE CLÍNICAS DE PORTO ALEGRE",
+      "orgao": "RS, Porto Alegre - RS",
+      "cargos": [
+        "ANALISTA I (Produção Audiovisual)",
+        "ASSISTENTE I (Assistente de Pesquisa Clínica)",
+        "ASSISTENTE I (Assistente de Pesquisa em Bioinformática)",
+        "FONOAUDIÓLOGO I (Disfagia)",
+        "FONOAUDIÓLOGO I (Fonoterapia)",
+        "MÉDICO I (Alergia e Imunologia)",
+        "MÉDICO I (Medicina Paliativa)",
+        "MÉDICO I (Psiquiatria da Infância e Adolescência)",
+        "MÉDICO I (Tratamento da Dor)",
+        "RELAÇÕES PÚBLICAS I",
+        "TÉCNICO DE ENFERMAGEM (Cuidados Coronarianos)",
+        "TÉCNICO DE MANUTENÇÃO III (Técnico de Manutenção Predial Obras e Pintura)"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosFaurgs/emandamento/1276-022026hospitaldeclinicasdeportoalegre",
+      "data_encerramento": "10/08/2026",
+      "data_publicacao": "13/07/2026",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "2cbfa8fe-58b8-4749-a830-316e42208bcc",
+      "data_coleta": "2026-07-14T10:08:18.460162+00:00"
+    },
+    {
+      "instituicao": "Câmara de Tabapuã",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": "R$ 6.778,40",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-tabapua-sp-abre-concurso-publico-com-salarios-de-ate-6778",
+      "data_encerramento": "24/07/2026",
+      "data_publicacao": "14/07/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "be48bcb4-cc57-4397-873a-f039638d0f0d",
+      "data_coleta": "2026-07-14T10:08:18.460398+00:00"
+    },
+    {
+      "instituicao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": "R$ 12.154,19",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/famesp-abre-processos-seletivos-para-medicos-em-botucatu-sp",
+      "data_encerramento": "23/07/2026",
+      "data_publicacao": "14/07/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "e48c2100-18d0-46d8-a6b7-c514a894f26f",
+      "data_coleta": "2026-07-14T10:08:18.460448+00:00"
+    },
+    {
+      "instituicao": "FHSL - Fundação Hospital Santa Lydia",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": "R$ 7.310,37",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-abre-processo-seletivo-com-salarios-de-ate-7310",
+      "data_encerramento": "15/07/2026",
+      "data_publicacao": "14/07/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "9dfa8efa-51d8-4b20-ad54-68413d9dd257",
+      "data_coleta": "2026-07-14T10:08:18.460465+00:00"
+    },
+    {
+      "instituicao": "FMJ - Faculdade de Medicina de Jundiaí",
+      "orgao": "SP",
+      "cargos": [
+        "Enfermeiro"
+      ],
+      "salario_maximo": "R$ 10.748,35",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/faculdade-de-medicina-de-jundiai-sp-retifica-concurso-publico-com-vaga-para-enfermeiro",
+      "data_encerramento": "06/08/2026",
+      "data_publicacao": "14/07/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "75537832-0521-4247-a623-e8d73f72cb4a",
+      "data_coleta": "2026-07-14T10:08:18.460480+00:00"
+    },
+    {
+      "instituicao": "SESAU",
+      "orgao": "AL",
+      "cargos": [
+        "Especialistas",
+        "Assistentes em saúde"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/sesau-al-ab",
+      "data_encerramento": null,
+      "data_publication": null,
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "44a87257-d361-485c-9fa6-3278e46b21f1",
+      "data_coleta": "2026-07-14T10:08:18.460602+00:00",
+      "data_publicacao": "2026-07-14"
     }
   ]
 }

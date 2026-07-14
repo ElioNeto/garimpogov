@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 13/07/2026_
+_Atualizado em 14/07/2026_
 
-Total: **312** concursos encontrados.
+Total: **318** concursos encontrados.
 
 ---
 
@@ -35,7 +35,7 @@ Total: **312** concursos encontrados.
 
 ---
 
-## FAURGS (12)
+## FAURGS (13)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -91,6 +91,12 @@ Total: **312** concursos encontrados.
 [🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1275-072026lamef)
 - **Cargos:** Engenheiro Sênior I de Poços, Engenheiro Profissional Júnior, Pesquisador Mestre em Engenharia Química
 - **Órgão/Local:** LAMEF
+
+### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
+[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1276-022026hospitaldeclinicasdeportoalegre)
+- **Cargos:** ANALISTA I (Produção Audiovisual), ASSISTENTE I (Assistente de Pesquisa Clínica), ASSISTENTE I (Assistente de Pesquisa em Bioinformática), FONOAUDIÓLOGO I (Disfagia), FONOAUDIÓLOGO I (Fonoterapia), MÉDICO I (Alergia e Imunologia), MÉDICO I (Medicina Paliativa), MÉDICO I (Psiquiatria da Infância e Adolescência), MÉDICO I (Tratamento da Dor), RELAÇÕES PÚBLICAS I, TÉCNICO DE ENFERMAGEM (Cuidados Coronarianos), TÉCNICO DE MANUTENÇÃO III (Técnico de Manutenção Predial Obras e Pintura)
+- **Órgão/Local:** RS, Porto Alegre - RS
+- **Encerramento:** 10/08/2026
 
 ---
 
@@ -268,7 +274,7 @@ Total: **312** concursos encontrados.
 
 ---
 
-## PCI (203)
+## PCI (208)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1388,6 +1394,36 @@ Total: **312** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/governo-do-estado-do-piaui-anuncia-tres-concursos-unificados-com-salarios-de-ate-13536)
 - **Órgão/Local:** PI
 - **Salário máx.:** R$ 13.536,01
+
+### Câmara de Tabapuã
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-tabapua-sp-abre-concurso-publico-com-salarios-de-ate-6778)
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 6.778,40
+- **Encerramento:** 24/07/2026
+
+### FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-abre-processos-seletivos-para-medicos-em-botucatu-sp)
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 12.154,19
+- **Encerramento:** 23/07/2026
+
+### FHSL - Fundação Hospital Santa Lydia
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-abre-processo-seletivo-com-salarios-de-ate-7310)
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 7.310,37
+- **Encerramento:** 15/07/2026
+
+### FMJ - Faculdade de Medicina de Jundiaí
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/faculdade-de-medicina-de-jundiai-sp-retifica-concurso-publico-com-vaga-para-enfermeiro)
+- **Cargos:** Enfermeiro
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 10.748,35
+- **Encerramento:** 06/08/2026
+
+### SESAU
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/sesau-al-ab)
+- **Cargos:** Especialistas, Assistentes em saúde
+- **Órgão/Local:** AL
 
 ---
 
