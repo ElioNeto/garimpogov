@@ -1,6 +1,6 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 14/07/2026_
+_Atualizado em 15/07/2026_
 
 Total: **318** concursos encontrados.
 
@@ -21,17 +21,6 @@ Total: **318** concursos encontrados.
 - **Órgão/Local:** Acessibilidade
 - **Salário máx.:** R$ 8.000,00
 - **Encerramento:** 2023/06/30
-
----
-
-## Estrategia (1)
-
-### Estratégia Concursos
-[🔗 Edital](https://www.estrategiaconcursos.com.br/cursos/concurso/)
-- **Cargos:** Concurso de Concorso, Participante, Candidato
-- **Órgão/Local:** https://www.estrategiaconcursos.com.br
-- **Salário máx.:** R$ 8.000,00
-- **Encerramento:** 15/07/2026
 
 ---
 
@@ -100,7 +89,7 @@ Total: **318** concursos encontrados.
 
 ---
 
-## FGV (52)
+## FGV (53)
 
 ### Concurso Público Nacional Unificado 2
 [🔗 Edital](https://conhecimento.fgv.br/cpnu2)
@@ -271,6 +260,10 @@ Total: **318** concursos encontrados.
 [🔗 Edital](https://conhecimento.fgv.br/exames/cfc/2026.2)
 - **Cargos:** Contador
 - **Órgão/Local:** Nacional
+
+### Exame de Qualificação Técnica (EQT) de 2026
+[🔗 Edital](https://conhecimento.fgv.br/exames/cfceqt/2026.2)
+- **Órgão/Local:** Brasil
 
 ---
 
@@ -727,13 +720,6 @@ Total: **318** concursos encontrados.
 ### Polícia Penal
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/po)
 - **Órgão/Local:** Polícia Penal - RS
-
-### PCICONCURSOS
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/ime-abre-concurso-com-vagas-de-nivel-superior)
-- **Cargos:** Superior
-- **Órgão/Local:** https://www.pciconcursos.com.br/concursos/nordeste/#AL
-- **Salário máx.:** R$ 9.004,00
-- **Encerramento:** 15/07/2026
 
 ### PCICONCURSOS
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/itame-ita-disponibiliza-centenas-de-vagas-para-curso-de-engenharia-em-diversas-especialidades)
@@ -1369,13 +1355,6 @@ Total: **318** concursos encontrados.
 - **Cargos:** Guarda Civil Municipal
 - **Órgão/Local:** MG, Paracatu - MG
 
-### IBGE - Instituto Brasileiro de Geografia e Estatística
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/ibge-disponibiliza-1414-vagas-para-agente-e-analista-censitario-em-novo-processo-seletivo)
-- **Cargos:** Agente Censitário de Qualidade, Analista Censitário
-- **Órgão/Local:** Nacional
-- **Salário máx.:** R$ 5.255,40
-- **Encerramento:** 15/07/2026
-
 ### DATAPREV - Empresa de Tecnologia e Informações da Previdência
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/dataprev-abre-concurso-publico-com-v)
 - **Salário máx.:** R$ 10.685,44
@@ -1407,12 +1386,6 @@ Total: **318** concursos encontrados.
 - **Salário máx.:** R$ 12.154,19
 - **Encerramento:** 23/07/2026
 
-### FHSL - Fundação Hospital Santa Lydia
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-abre-processo-seletivo-com-salarios-de-ate-7310)
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 7.310,37
-- **Encerramento:** 15/07/2026
-
 ### FMJ - Faculdade de Medicina de Jundiaí
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/faculdade-de-medicina-de-jundiai-sp-retifica-concurso-publico-com-vaga-para-enfermeiro)
 - **Cargos:** Enfermeiro
@@ -1424,6 +1397,20 @@ Total: **318** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/sesau-al-ab)
 - **Cargos:** Especialistas, Assistentes em saúde
 - **Órgão/Local:** AL
+
+### Câmara de Pirajuí
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-pirajui-sp-)
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 5.269,45
+
+### Prefeitura de Bom Repouso - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-repouso-mg-retifica-editais-de-concurso-publico-e-processo-seletivo)
+- **Órgão/Local:** MG, Bom Repouso - MG
+
+### Prefeitura de Campo Alegre - AL
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-c)
+- **Órgão/Local:** AL
+- **Salário máx.:** R$ 3.885,92
 
 ---
 

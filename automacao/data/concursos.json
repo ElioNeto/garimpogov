@@ -1,6 +1,6 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-14T10:08:18.460738+00:00",
+    "ultima_coleta": "2026-07-15T10:14:25.537719+00:00",
     "total_concursos": 318
   },
   "concursos": [
@@ -2464,23 +2464,6 @@
       "data_coleta": "2026-06-14T11:17:01.887239+00:00"
     },
     {
-      "instituicao": "Estratégia Concursos",
-      "orgao": "https://www.estrategiaconcursos.com.br",
-      "cargos": [
-        "Concurso de Concorso",
-        "Participante",
-        "Candidato"
-      ],
-      "salario_maximo": "R$ 8.000,00",
-      "link_edital": "https://www.estrategiaconcursos.com.br/cursos/concurso/",
-      "data_encerramento": "15/07/2026",
-      "data_publicacao": "20/06/2026",
-      "status": "aberto",
-      "fonte": "Estrategia",
-      "id": "1114fc1f-7630-4c77-a1e1-78cfe880ded9",
-      "data_coleta": "2026-06-15T14:14:06.398706+00:00"
-    },
-    {
       "instituicao": "Polícia Penal",
       "orgao": "Polícia Penal - RS",
       "cargos": [],
@@ -2535,21 +2518,6 @@
       "fonte": "FGV",
       "id": "2bf5c56c-7c81-412a-bdb6-0cda43480a56",
       "data_coleta": "2026-06-16T13:03:44.678202+00:00"
-    },
-    {
-      "instituicao": "PCICONCURSOS",
-      "orgao": "https://www.pciconcursos.com.br/concursos/nordeste/#AL",
-      "cargos": [
-        "Superior"
-      ],
-      "salario_maximo": "R$ 9.004,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/ime-abre-concurso-com-vagas-de-nivel-superior",
-      "data_encerramento": "15/07/2026",
-      "data_publicacao": "17/06 a 15/07/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "27facb04-c27d-48fa-844d-c90fcd5634fb",
-      "data_coleta": "2026-06-16T13:03:44.678319+00:00"
     },
     {
       "instituicao": "PCICONCURSOS",
@@ -4600,22 +4568,6 @@
       "data_coleta": "2026-07-10T11:01:45.278946+00:00"
     },
     {
-      "instituicao": "IBGE - Instituto Brasileiro de Geografia e Estatística",
-      "orgao": "Nacional",
-      "cargos": [
-        "Agente Censitário de Qualidade",
-        "Analista Censitário"
-      ],
-      "salario_maximo": "R$ 5.255,40",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/ibge-disponibiliza-1414-vagas-para-agente-e-analista-censitario-em-novo-processo-seletivo",
-      "data_encerramento": "15/07/2026",
-      "data_publicacao": "2026-07-12",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "bca6b384-2a11-497b-af27-5f739a5c736e",
-      "data_coleta": "2026-07-12T10:02:08.083164+00:00"
-    },
-    {
       "instituicao": "Prefeitura Municipal do Salvador",
       "orgao": "Salvador - BA",
       "cargos": [],
@@ -4747,19 +4699,6 @@
       "data_coleta": "2026-07-14T10:08:18.460448+00:00"
     },
     {
-      "instituicao": "FHSL - Fundação Hospital Santa Lydia",
-      "orgao": "SP",
-      "cargos": [],
-      "salario_maximo": "R$ 7.310,37",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-abre-processo-seletivo-com-salarios-de-ate-7310",
-      "data_encerramento": "15/07/2026",
-      "data_publicacao": "14/07/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "9dfa8efa-51d8-4b20-ad54-68413d9dd257",
-      "data_coleta": "2026-07-14T10:08:18.460465+00:00"
-    },
-    {
       "instituicao": "FMJ - Faculdade de Medicina de Jundiaí",
       "orgao": "SP",
       "cargos": [
@@ -4790,6 +4729,57 @@
       "id": "44a87257-d361-485c-9fa6-3278e46b21f1",
       "data_coleta": "2026-07-14T10:08:18.460602+00:00",
       "data_publicacao": "2026-07-14"
+    },
+    {
+      "instituicao": "Exame de Qualificação Técnica (EQT) de 2026",
+      "orgao": "Brasil",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br/exames/cfceqt/2026.2",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-15",
+      "status": "aberto",
+      "fonte": "FGV",
+      "id": "9f4c3b6f-c976-451c-873a-ccb266868cf1",
+      "data_coleta": "2026-07-15T10:14:25.536871+00:00"
+    },
+    {
+      "instituicao": "Câmara de Pirajuí",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": "R$ 5.269,45",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-pirajui-sp-",
+      "fonte": "PCI",
+      "status": "aberto",
+      "id": "64a6952e-c067-4bf0-896f-1cbdea23540a",
+      "data_coleta": "2026-07-15T10:14:25.537236+00:00",
+      "data_publicacao": "2026-07-15"
+    },
+    {
+      "instituicao": "Prefeitura de Bom Repouso - MG",
+      "orgao": "MG, Bom Repouso - MG",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-repouso-mg-retifica-editais-de-concurso-publico-e-processo-seletivo",
+      "data_encerramento": null,
+      "data_publicacao": "15/07/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "9760ad7b-de63-4eb8-a404-75a68cc55c1e",
+      "data_coleta": "2026-07-15T10:14:25.537350+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Campo Alegre - AL",
+      "orgao": "AL",
+      "cargos": [],
+      "salario_maximo": "R$ 3.885,92",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-c",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-15",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "d3238169-77ed-41cb-a9c3-27de1b625db3",
+      "data_coleta": "2026-07-15T10:14:25.537552+00:00"
     }
   ]
 }
