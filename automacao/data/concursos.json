@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-15T10:14:25.537719+00:00",
-    "total_concursos": 318
+    "ultima_coleta": "2026-07-16T10:44:35.286381+00:00",
+    "total_concursos": 320
   },
   "concursos": [
     {
@@ -3484,19 +3484,6 @@
       "data_coleta": "2026-06-29T12:47:35.778869+00:00"
     },
     {
-      "instituicao": "CEMMIL - Consórcio Intermunicipal CEMMIL para o Desenvolvimento Sustentável",
-      "orgao": "SP, Região Metropolitana de São Paulo - SP",
-      "cargos": [],
-      "salario_maximo": "R$ 3.133,80",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/consorcio-cemmil-sp-abre-selecao-para-formacao-de-cadastro-de-reserva-em-varios-cargos",
-      "data_encerramento": "16/07/2026",
-      "data_publicacao": "29/06/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "bfccf8db-b2d5-48a5-9ae2-a024c4f21cf3",
-      "data_coleta": "2026-06-29T12:47:35.778896+00:00"
-    },
-    {
       "instituicao": "EMDURB - Empresa Municipal de Desenvolvimento Urbano de Ubatuba",
       "orgao": "SP, Ubatuba - SP",
       "cargos": [],
@@ -3613,19 +3600,6 @@
       "fonte": "PCI",
       "id": "9d1aacd3-5de1-4b25-844c-37e804c6b1e2",
       "data_coleta": "2026-06-29T12:47:35.779443+00:00"
-    },
-    {
-      "instituicao": "Fundação para Conservação e Produção Florestal de São Paulo",
-      "orgao": "SP",
-      "cargos": [],
-      "salario_maximo": "R$ 11.294,14",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/fundacao-florestal-sp-publica-edital-retificado-de-concurso-publico",
-      "data_encerramento": "16/07/2026",
-      "data_publicacao": "2026-06-30",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "ebce2d2c-5802-4c97-ab55-488b4d453ee9",
-      "data_coleta": "2026-06-30T11:08:01.869400+00:00"
     },
     {
       "instituicao": "PM - SP",
@@ -4780,6 +4754,61 @@
       "fonte": "PCI",
       "id": "d3238169-77ed-41cb-a9c3-27de1b625db3",
       "data_coleta": "2026-07-15T10:14:25.537552+00:00"
+    },
+    {
+      "instituicao": "Fundação Florestal - SP",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/fundacao-florestal-sp-publica-edital-retificado-de-concurso-publico",
+      "data_encerramento": null,
+      "data_publicacao": "16/07/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "97878106-bd07-400e-8c7b-5ce7d6bbe614",
+      "data_coleta": "2026-07-16T10:44:35.285994+00:00"
+    },
+    {
+      "instituicao": "ABGF",
+      "orgao": "Nacional",
+      "cargos": [
+        "Cargos de Nível Superior"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/abgf-abre-concurso-publico-com-vagas-para-cargos-de-nivel-superior",
+      "data_encerramento": null,
+      "data_publicacao": "16/07/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "6726ca3d-dfa5-44e2-afdc-e7e57fdba4a0",
+      "data_coleta": "2026-07-16T10:44:35.286078+00:00"
+    },
+    {
+      "instituicao": "Companhia Docas do Pará",
+      "orgao": "PA",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/companhia-docas-do-para-anuncia-concursos-publicos-para-diversos-cargos",
+      "data_encerramento": null,
+      "data_publicacao": "16/07/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "d915dcdc-9d9a-427d-9f84-b317908045ba",
+      "data_coleta": "2026-07-16T10:44:35.286093+00:00"
+    },
+    {
+      "instituicao": "CBMMA",
+      "orgao": "MA",
+      "cargos": [
+        "Oficiais"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/c",
+      "fonte": "PCI",
+      "status": "aberto",
+      "id": "ae2efc39-0f6a-441f-b5fd-468dfbcf6720",
+      "data_coleta": "2026-07-16T10:44:35.286351+00:00",
+      "data_publicacao": "2026-07-16"
     }
   ]
 }

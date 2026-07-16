@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 15/07/2026_
+_Atualizado em 16/07/2026_
 
-Total: **318** concursos encontrados.
+Total: **320** concursos encontrados.
 
 ---
 
@@ -267,7 +267,7 @@ Total: **318** concursos encontrados.
 
 ---
 
-## PCI (208)
+## PCI (210)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1033,12 +1033,6 @@ Total: **318** concursos encontrados.
 - **Salário máx.:** R$ 8.059,20
 - **Encerramento:** 21/07/2026
 
-### CEMMIL - Consórcio Intermunicipal CEMMIL para o Desenvolvimento Sustentável
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/consorcio-cemmil-sp-abre-selecao-para-formacao-de-cadastro-de-reserva-em-varios-cargos)
-- **Órgão/Local:** SP, Região Metropolitana de São Paulo - SP
-- **Salário máx.:** R$ 3.133,80
-- **Encerramento:** 16/07/2026
-
 ### EMDURB - Empresa Municipal de Desenvolvimento Urbano de Ubatuba
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/emdurb-de-ubatuba-sp-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva)
 - **Órgão/Local:** SP, Ubatuba - SP
@@ -1090,12 +1084,6 @@ Total: **318** concursos encontrados.
 - **Órgão/Local:** AL
 - **Salário máx.:** R$ 25 mil
 - **Encerramento:** N/A
-
-### Fundação para Conservação e Produção Florestal de São Paulo
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/fundacao-florestal-sp-publica-edital-retificado-de-concurso-publico)
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 11.294,14
-- **Encerramento:** 16/07/2026
 
 ### PM - SP
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/pm-sp-abre-concurso-com-concurso-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1411,6 +1399,24 @@ Total: **318** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-c)
 - **Órgão/Local:** AL
 - **Salário máx.:** R$ 3.885,92
+
+### Fundação Florestal - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/fundacao-florestal-sp-publica-edital-retificado-de-concurso-publico)
+- **Órgão/Local:** SP
+
+### ABGF
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/abgf-abre-concurso-publico-com-vagas-para-cargos-de-nivel-superior)
+- **Cargos:** Cargos de Nível Superior
+- **Órgão/Local:** Nacional
+
+### Companhia Docas do Pará
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/companhia-docas-do-para-anuncia-concursos-publicos-para-diversos-cargos)
+- **Órgão/Local:** PA
+
+### CBMMA
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/c)
+- **Cargos:** Oficiais
+- **Órgão/Local:** MA
 
 ---
 
