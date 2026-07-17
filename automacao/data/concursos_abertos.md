@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 16/07/2026_
+_Atualizado em 17/07/2026_
 
-Total: **320** concursos encontrados.
+Total: **325** concursos encontrados.
 
 ---
 
@@ -267,7 +267,7 @@ Total: **320** concursos encontrados.
 
 ---
 
-## PCI (210)
+## PCI (215)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1417,6 +1417,37 @@ Total: **320** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/c)
 - **Cargos:** Oficiais
 - **Órgão/Local:** MA
+
+### IBGE
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ibge-prorroga-inscricoes-do-processo-seletivo-para-agente-e-analista-censitario)
+- **Cargos:** Agente Censitário de Qualidade, Analista Censitário
+- **Órgão/Local:** Instituto Brasileiro de Geografia e Estatística
+- **Salário máx.:** R$ 5.255,40
+- **Encerramento:** 20/07/2026
+
+### Fundação Florestal
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/fundacao-florestal-sp-publica-retificacoes-do-concurso-publico)
+- **Órgão/Local:** Fundação para Conservação e Produção Florestal de São Paulo
+- **Salário máx.:** R$ 11.294,14
+- **Encerramento:** 19/07/2026
+
+### FAMESP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-abre-vaga-para-tecnico-de-laboratorio-no-ame-de-itapetininga-sp)
+- **Cargos:** Técnico de Laboratório
+- **Órgão/Local:** Fundação para o Desenvolvimento Médico e Hospitalar
+- **Salário máx.:** R$ 1.622,54
+- **Encerramento:** 28/07/2026
+
+### FEA
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/fea-sp-abre-processo-seletivo-para-vagas-imediatas-e-formacao-de-cadastro-de-reserva)
+- **Órgão/Local:** Fundação Educacional de Andradina
+- **Salário máx.:** R$ 2.310,00
+- **Encerramento:** 06/08/2026
+
+### Prefeitura de Primavera do Leste
+[🔗 Edital](https://www.pciconcursos.com.br/n)
+- **Órgão/Local:** MT
+- **Salário máx.:** R$ 16.346,38
 
 ---
 

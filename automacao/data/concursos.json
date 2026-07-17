@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-16T10:44:35.286381+00:00",
-    "total_concursos": 320
+    "ultima_coleta": "2026-07-17T10:13:27.565853+00:00",
+    "total_concursos": 325
   },
   "concursos": [
     {
@@ -4809,6 +4809,76 @@
       "id": "ae2efc39-0f6a-441f-b5fd-468dfbcf6720",
       "data_coleta": "2026-07-16T10:44:35.286351+00:00",
       "data_publicacao": "2026-07-16"
+    },
+    {
+      "instituicao": "IBGE",
+      "orgao": "Instituto Brasileiro de Geografia e Estatística",
+      "cargos": [
+        "Agente Censitário de Qualidade",
+        "Analista Censitário"
+      ],
+      "salario_maximo": "R$ 5.255,40",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/ibge-prorroga-inscricoes-do-processo-seletivo-para-agente-e-analista-censitario",
+      "data_encerramento": "20/07/2026",
+      "data_publicacao": "2026-07-17",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "1b0e644b-273f-4020-b236-7c7911fe249b",
+      "data_coleta": "2026-07-17T10:13:27.565117+00:00"
+    },
+    {
+      "instituicao": "Fundação Florestal",
+      "orgao": "Fundação para Conservação e Produção Florestal de São Paulo",
+      "cargos": [],
+      "salario_maximo": "R$ 11.294,14",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/fundacao-florestal-sp-publica-retificacoes-do-concurso-publico",
+      "data_encerramento": "19/07/2026",
+      "data_publicacao": "2026-07-17",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "9f58cb66-0ff9-4bb9-9c72-8579969fd692",
+      "data_coleta": "2026-07-17T10:13:27.565182+00:00"
+    },
+    {
+      "instituicao": "FAMESP",
+      "orgao": "Fundação para o Desenvolvimento Médico e Hospitalar",
+      "cargos": [
+        "Técnico de Laboratório"
+      ],
+      "salario_maximo": "R$ 1.622,54",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/famesp-abre-vaga-para-tecnico-de-laboratorio-no-ame-de-itapetininga-sp",
+      "data_encerramento": "28/07/2026",
+      "data_publicacao": "2026-07-17",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "cbd28122-0094-4ea2-9aa5-bcf03b3a0be3",
+      "data_coleta": "2026-07-17T10:13:27.565372+00:00"
+    },
+    {
+      "instituicao": "FEA",
+      "orgao": "Fundação Educacional de Andradina",
+      "cargos": [],
+      "salario_maximo": "R$ 2.310,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/fea-sp-abre-processo-seletivo-para-vagas-imediatas-e-formacao-de-cadastro-de-reserva",
+      "data_encerramento": "06/08/2026",
+      "data_publicacao": "2026-07-17",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "ab4ce9be-b303-4dc1-86d7-12f7943b6540",
+      "data_coleta": "2026-07-17T10:13:27.565400+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Primavera do Leste",
+      "orgao": "MT",
+      "cargos": [],
+      "salario_maximo": "R$ 16.346,38",
+      "link_edital": "https://www.pciconcursos.com.br/n",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-17",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "d46a094f-4be5-441c-b4e2-4946bcd0044c",
+      "data_coleta": "2026-07-17T10:13:27.565699+00:00"
     }
   ]
 }
