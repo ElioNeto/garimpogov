@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 17/07/2026_
+_Atualizado em 18/07/2026_
 
-Total: **325** concursos encontrados.
+Total: **329** concursos encontrados.
 
 ---
 
@@ -267,7 +267,7 @@ Total: **325** concursos encontrados.
 
 ---
 
-## PCI (215)
+## PCI (219)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1448,6 +1448,24 @@ Total: **325** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/n)
 - **Órgão/Local:** MT
 - **Salário máx.:** R$ 16.346,38
+
+### Prefeitura de Campo Alegre
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-campo-alegre-al-abre-concurso)
+- **Órgão/Local:** Campo Alegre - AL
+
+### Prefeitura de Campo Alegre
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-campo-alegre-al-abre-concurso-publico)
+- **Órgão/Local:** AL, Campo Alegre - AL
+
+### IBGE
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ibge-prorroga-inscricao-do-processo-seletivo-para-agente-e-analista-censitario)
+- **Cargos:** Agente Censitário, Analista Censitário
+- **Órgão/Local:** Brasil
+
+### Prefeitura de Volta Redonda
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-volta-redonda-rj-abre-concurso-publico-para-enfermeiro-e)
+- **Cargos:** Enfermeiro, Técnico em Enfermagem
+- **Órgão/Local:** RJ
 
 ---
 

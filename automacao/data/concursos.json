@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-17T10:13:27.565853+00:00",
-    "total_concursos": 325
+    "ultima_coleta": "2026-07-18T09:30:59.841002+00:00",
+    "total_concursos": 329
   },
   "concursos": [
     {
@@ -4879,6 +4879,64 @@
       "fonte": "PCI",
       "id": "d46a094f-4be5-441c-b4e2-4946bcd0044c",
       "data_coleta": "2026-07-17T10:13:27.565699+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Campo Alegre",
+      "orgao": "Campo Alegre - AL",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campo-alegre-al-abre-concurso",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-18",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "5baa776f-59f6-410c-97d3-1986876c970b",
+      "data_coleta": "2026-07-18T09:30:59.840657+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Campo Alegre",
+      "orgao": "AL, Campo Alegre - AL",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campo-alegre-al-abre-concurso-publico",
+      "data_encerramento": null,
+      "data_publicacao": "18/07/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "8e59ede1-a4f5-41b0-a863-20cfb071fd3b",
+      "data_coleta": "2026-07-18T09:30:59.840836+00:00"
+    },
+    {
+      "instituicao": "IBGE",
+      "orgao": "Brasil",
+      "cargos": [
+        "Agente Censitário",
+        "Analista Censitário"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/ibge-prorroga-inscricao-do-processo-seletivo-para-agente-e-analista-censitario",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-18",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "d7841513-9d72-459c-81cd-812ee243c133",
+      "data_coleta": "2026-07-18T09:30:59.840947+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Volta Redonda",
+      "orgao": "RJ",
+      "cargos": [
+        "Enfermeiro",
+        "Técnico em Enfermagem"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-volta-redonda-rj-abre-concurso-publico-para-enfermeiro-e",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-18",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "724c3264-c040-4ab1-b85c-6ff55cec9041",
+      "data_coleta": "2026-07-18T09:30:59.840973+00:00"
     }
   ]
 }
