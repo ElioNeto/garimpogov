@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-18T09:30:59.841002+00:00",
-    "total_concursos": 329
+    "ultima_coleta": "2026-07-19T10:00:45.518324+00:00",
+    "total_concursos": 332
   },
   "concursos": [
     {
@@ -4827,19 +4827,6 @@
       "data_coleta": "2026-07-17T10:13:27.565117+00:00"
     },
     {
-      "instituicao": "Fundação Florestal",
-      "orgao": "Fundação para Conservação e Produção Florestal de São Paulo",
-      "cargos": [],
-      "salario_maximo": "R$ 11.294,14",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/fundacao-florestal-sp-publica-retificacoes-do-concurso-publico",
-      "data_encerramento": "19/07/2026",
-      "data_publicacao": "2026-07-17",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "9f58cb66-0ff9-4bb9-9c72-8579969fd692",
-      "data_coleta": "2026-07-17T10:13:27.565182+00:00"
-    },
-    {
       "instituicao": "FAMESP",
       "orgao": "Fundação para o Desenvolvimento Médico e Hospitalar",
       "cargos": [
@@ -4937,6 +4924,59 @@
       "fonte": "PCI",
       "id": "724c3264-c040-4ab1-b85c-6ff55cec9041",
       "data_coleta": "2026-07-18T09:30:59.840973+00:00"
+    },
+    {
+      "instituicao": "Fundação Florestal - SP",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/fundacao-florestal-sp-publica-retificacoes-do-concurso-publico",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-19",
+      "status": null,
+      "fonte": "PCI",
+      "id": "63217cf1-1e2a-4cbd-8673-199e58905cc0",
+      "data_coleta": "2026-07-19T10:00:45.517809+00:00"
+    },
+    {
+      "instituicao": "SEPLAG/SEDUC - AL",
+      "orgao": "AL",
+      "cargos": [
+        "professores"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/seplag-seduc-al-retificam-c",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-19",
+      "status": null,
+      "fonte": "PCI",
+      "id": "23afbc2b-bd8e-4ad2-a290-34ebede87d9f",
+      "data_coleta": "2026-07-19T10:00:45.517964+00:00"
+    },
+    {
+      "instituicao": "SEPLAG/SEDUC - AL",
+      "orgao": "AL, Alagoas - AL",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/seplag-seduc-al-retificam-concurso-publico-para-professores",
+      "data_encerramento": null,
+      "data_publicacao": "19/07/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "a8a5ebfe-3204-40ca-9246-e316854803f0",
+      "data_coleta": "2026-07-19T10:00:45.518078+00:00"
+    },
+    {
+      "instituicao": "ITABIRAPREV",
+      "orgao": "MG",
+      "cargos": [],
+      "salario_maximo": "R$ 6.280,77",
+      "link_edital": "https://",
+      "fonte": "PCI",
+      "status": "aberto",
+      "id": "3c6b6092-b7bd-4159-a036-dd5f74d6ff19",
+      "data_coleta": "2026-07-19T10:00:45.518145+00:00",
+      "data_publicacao": "2026-07-19"
     }
   ]
 }

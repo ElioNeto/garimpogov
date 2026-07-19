@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 18/07/2026_
+_Atualizado em 19/07/2026_
 
-Total: **329** concursos encontrados.
+Total: **332** concursos encontrados.
 
 ---
 
@@ -267,7 +267,7 @@ Total: **329** concursos encontrados.
 
 ---
 
-## PCI (219)
+## PCI (222)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1425,12 +1425,6 @@ Total: **329** concursos encontrados.
 - **Salário máx.:** R$ 5.255,40
 - **Encerramento:** 20/07/2026
 
-### Fundação Florestal
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/fundacao-florestal-sp-publica-retificacoes-do-concurso-publico)
-- **Órgão/Local:** Fundação para Conservação e Produção Florestal de São Paulo
-- **Salário máx.:** R$ 11.294,14
-- **Encerramento:** 19/07/2026
-
 ### FAMESP
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-abre-vaga-para-tecnico-de-laboratorio-no-ame-de-itapetininga-sp)
 - **Cargos:** Técnico de Laboratório
@@ -1466,6 +1460,24 @@ Total: **329** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-volta-redonda-rj-abre-concurso-publico-para-enfermeiro-e)
 - **Cargos:** Enfermeiro, Técnico em Enfermagem
 - **Órgão/Local:** RJ
+
+### Fundação Florestal - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/fundacao-florestal-sp-publica-retificacoes-do-concurso-publico)
+- **Órgão/Local:** SP
+
+### SEPLAG/SEDUC - AL
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/seplag-seduc-al-retificam-c)
+- **Cargos:** professores
+- **Órgão/Local:** AL
+
+### SEPLAG/SEDUC - AL
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/seplag-seduc-al-retificam-concurso-publico-para-professores)
+- **Órgão/Local:** AL, Alagoas - AL
+
+### ITABIRAPREV
+[🔗 Edital](https://)
+- **Órgão/Local:** MG
+- **Salário máx.:** R$ 6.280,77
 
 ---
 
