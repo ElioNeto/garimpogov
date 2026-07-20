@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 19/07/2026_
+_Atualizado em 20/07/2026_
 
-Total: **332** concursos encontrados.
+Total: **339** concursos encontrados.
 
 ---
 
@@ -267,7 +267,7 @@ Total: **332** concursos encontrados.
 
 ---
 
-## PCI (222)
+## PCI (229)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -737,11 +737,6 @@ Total: **332** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/cbm-al-divulga-retificacao-de-concurso-publico)
 - **Órgão/Local:** Alagoas - AL
 
-### 5ª RM - 5ª Região Militar
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/5-regiao-militar-pr-sc-abre-selecoes-para-oficiais-tecnicos-temporarios)
-- **Salário máx.:** R$ 10.863,68
-- **Encerramento:** 20/07/2026
-
 ### SEDUC - SP
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/seduc-sp-aberta-selecao-para-professores-da-rede-estadual-com-salario-de-5565)
 - **Cargos:** Professor
@@ -974,13 +969,6 @@ Total: **332** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/detran-al-retifica-concurso-publico-para-analistas-e-assistentes-de-t)
 - **Cargos:** Analistas, Assistentes de Trânsito
 - **Órgão/Local:** Departamento de Trânsito de Alagoas
-
-### 5ª RM - 5ª Região Militar do Exército Brasileiro
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/5-regiao-militar-pr-exercito-abre-selecao-para-oficiais-e-sargentos)
-- **Cargos:** Oficiais, Sargentos
-- **Órgão/Local:** PR
-- **Salário máx.:** R$ 10.863,68
-- **Encerramento:** 20/07/2026
 
 ### Prefeitura de PB
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/pm-sp-abre-concurso-com-concurso-publicos-para-aluno-soldado)
@@ -1297,13 +1285,6 @@ Total: **332** concursos encontrados.
 - **Salário máx.:** R$ 8.500,00
 - **Encerramento:** 10/07 a 06/08/2026
 
-### Câmara de Nova Luzitânia
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-nova-luzitania-sp-abre-concurso-para-auxiliar-de-servicos)
-- **Cargos:** Auxiliar de Serviços
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 1.765,99
-- **Encerramento:** 20/07/2026
-
 ### Câmara de Tupi Paulista
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-tupi-paulista-sp-abre-concurso-com-salarios-de-ate-8485)
 - **Órgão/Local:** SP
@@ -1418,13 +1399,6 @@ Total: **332** concursos encontrados.
 - **Cargos:** Oficiais
 - **Órgão/Local:** MA
 
-### IBGE
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/ibge-prorroga-inscricoes-do-processo-seletivo-para-agente-e-analista-censitario)
-- **Cargos:** Agente Censitário de Qualidade, Analista Censitário
-- **Órgão/Local:** Instituto Brasileiro de Geografia e Estatística
-- **Salário máx.:** R$ 5.255,40
-- **Encerramento:** 20/07/2026
-
 ### FAMESP
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-abre-vaga-para-tecnico-de-laboratorio-no-ame-de-itapetininga-sp)
 - **Cargos:** Técnico de Laboratório
@@ -1478,6 +1452,59 @@ Total: **332** concursos encontrados.
 [🔗 Edital](https://)
 - **Órgão/Local:** MG
 - **Salário máx.:** R$ 6.280,77
+
+### TCE-SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/tce-sp-abre-concurso-com-vagas-para-auditor-de-controle-externo)
+- **Cargos:** Auditor de Controle Externo
+- **Órgão/Local:** Tribunal de Contas do Estado de São Paulo
+
+### Prefeitura de Guarulhos - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-guarulhos-sp-abre-10-vagas-para-auditor-fiscal-vi)
+- **Cargos:** Auditor Fiscal VI
+- **Órgão/Local:** Prefeitura de Guarulhos - SP
+
+### Câmara de Nilópolis - RJ
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-nilopolis-rj-abre-concurso-com-35-vagas-imediatas-e-cadastro-de-reserva)
+- **Órgão/Local:** Câmara de Nilópolis - RJ
+
+### UENP - PR
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/uenp-pr-abre-concursos-com-vagas-para-agentes-universitarios-de-execucao-e-profissionais)
+- **Cargos:** Agente Universitário de Execução, Profissional
+- **Órgão/Local:** Universidade Estadual de Ponta Grossa - PR
+
+### SAPE - SC
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/sape-sc-abre-concurso-com-20-vagas-para-analista-tecnico-administrativo-ii)
+- **Cargos:** Analista Técnico Administrativo II
+- **Órgão/Local:** SAPE - SC
+
+### Prefeitura de Cristalina - GO
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-cristalina-go-lanca-edital-de-concurso-publico-para-a-secretaria-de-educacao)
+- **Órgão/Local:** Prefeitura de Cristalina - GO
+
+### 5ª Região Militar
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/5-regiao-militar-pr-exercito-abre-selecao-para-oficiais-e-sargentos)
+- **Cargos:** Oficial, Sargento
+- **Órgão/Local:** PR
+
+### Prefeitura de Porto Velho
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-velho-ro-abre-concurso-com-50-vagas-para-guarda-municipal)
+- **Cargos:** Guarda Municipal
+- **Órgão/Local:** RO
+
+### CBMRR
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cbmrr-rr-abre-concurso-publico-com-vagas-para-soldados-e-oficiais)
+- **Cargos:** Soldado, Oficial
+- **Órgão/Local:** RR
+
+### Prefeitura de Sobral
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-sobral-ce-abre-concurso-para-guarda-civil-municipal)
+- **Cargos:** Guarda Civil Municipal
+- **Órgão/Local:** CE
+
+### SEAD e PM
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/sead-e-pm-pi-anunciam-concurso-publico-para-soldado-e-oficial-capelao)
+- **Cargos:** Soldado, Oficial Capelão
+- **Órgão/Local:** PI
 
 ---
 

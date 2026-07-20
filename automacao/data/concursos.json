@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-19T10:00:45.518324+00:00",
-    "total_concursos": 332
+    "ultima_coleta": "2026-07-20T10:59:21.112091+00:00",
+    "total_concursos": 339
   },
   "concursos": [
     {
@@ -2561,19 +2561,6 @@
       "data_coleta": "2026-06-17T12:23:10.336367+00:00"
     },
     {
-      "instituicao": "5ª RM - 5ª Região Militar",
-      "orgao": null,
-      "cargos": [],
-      "salario_maximo": "R$ 10.863,68",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/5-regiao-militar-pr-sc-abre-selecoes-para-oficiais-tecnicos-temporarios",
-      "data_encerramento": "20/07/2026",
-      "data_publicacao": "2026-06-18",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "7e23c4d0-5ccd-4176-ae41-6253462839c7",
-      "data_coleta": "2026-06-18T11:57:36.045853+00:00"
-    },
-    {
       "instituicao": "SEDUC - SP",
       "orgao": "São Paulo",
       "cargos": [
@@ -3326,22 +3313,6 @@
       "fonte": "PCI",
       "id": "5af5a01b-ac95-4543-8968-58aaa3d6fc62",
       "data_coleta": "2026-06-24T11:03:58.836880+00:00"
-    },
-    {
-      "instituicao": "5ª RM - 5ª Região Militar do Exército Brasileiro",
-      "orgao": "PR",
-      "cargos": [
-        "Oficiais",
-        "Sargentos"
-      ],
-      "salario_maximo": "R$ 10.863,68",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/5-regiao-militar-pr-exercito-abre-selecao-para-oficiais-e-sargentos",
-      "data_encerramento": "20/07/2026",
-      "data_publicacao": "2026-06-25",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "e38f6552-3196-452c-8e01-6743eca18c74",
-      "data_coleta": "2026-06-25T10:53:23.522788+00:00"
     },
     {
       "instituicao": "LAMEF",
@@ -4418,21 +4389,6 @@
       "data_coleta": "2026-07-09T11:08:22.028648+00:00"
     },
     {
-      "instituicao": "Câmara de Nova Luzitânia",
-      "orgao": "SP",
-      "cargos": [
-        "Auxiliar de Serviços"
-      ],
-      "salario_maximo": "R$ 1.765,99",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-nova-luzitania-sp-abre-concurso-para-auxiliar-de-servicos",
-      "data_encerramento": "20/07/2026",
-      "data_publicacao": "2026-07-09",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "fafb93f9-7f95-4e5c-947c-ba69c5577bf2",
-      "data_coleta": "2026-07-09T11:08:22.028710+00:00"
-    },
-    {
       "instituicao": "Câmara de Tupi Paulista",
       "orgao": "SP",
       "cargos": [],
@@ -4811,22 +4767,6 @@
       "data_publicacao": "2026-07-16"
     },
     {
-      "instituicao": "IBGE",
-      "orgao": "Instituto Brasileiro de Geografia e Estatística",
-      "cargos": [
-        "Agente Censitário de Qualidade",
-        "Analista Censitário"
-      ],
-      "salario_maximo": "R$ 5.255,40",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/ibge-prorroga-inscricoes-do-processo-seletivo-para-agente-e-analista-censitario",
-      "data_encerramento": "20/07/2026",
-      "data_publicacao": "2026-07-17",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "1b0e644b-273f-4020-b236-7c7911fe249b",
-      "data_coleta": "2026-07-17T10:13:27.565117+00:00"
-    },
-    {
       "instituicao": "FAMESP",
       "orgao": "Fundação para o Desenvolvimento Médico e Hospitalar",
       "cargos": [
@@ -4977,6 +4917,171 @@
       "id": "3c6b6092-b7bd-4159-a036-dd5f74d6ff19",
       "data_coleta": "2026-07-19T10:00:45.518145+00:00",
       "data_publicacao": "2026-07-19"
+    },
+    {
+      "instituicao": "TCE-SP",
+      "orgao": "Tribunal de Contas do Estado de São Paulo",
+      "cargos": [
+        "Auditor de Controle Externo"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/tce-sp-abre-concurso-com-vagas-para-auditor-de-controle-externo",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-20",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "86b3c1d9-bb83-423f-8cbb-c2732eedc403",
+      "data_coleta": "2026-07-20T10:59:21.111496+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Guarulhos - SP",
+      "orgao": "Prefeitura de Guarulhos - SP",
+      "cargos": [
+        "Auditor Fiscal VI"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guarulhos-sp-abre-10-vagas-para-auditor-fiscal-vi",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-20",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "8d56820c-d7dc-4c8d-b277-1123f132b3ce",
+      "data_coleta": "2026-07-20T10:59:21.111535+00:00"
+    },
+    {
+      "instituicao": "Câmara de Nilópolis - RJ",
+      "orgao": "Câmara de Nilópolis - RJ",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-nilopolis-rj-abre-concurso-com-35-vagas-imediatas-e-cadastro-de-reserva",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-20",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "5ebd66bd-a98b-4507-a9b2-747bc6235776",
+      "data_coleta": "2026-07-20T10:59:21.111582+00:00"
+    },
+    {
+      "instituicao": "UENP - PR",
+      "orgao": "Universidade Estadual de Ponta Grossa - PR",
+      "cargos": [
+        "Agente Universitário de Execução",
+        "Profissional"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/uenp-pr-abre-concursos-com-vagas-para-agentes-universitarios-de-execucao-e-profissionais",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-20",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "9acbb005-b87e-466b-b635-fc3bcc5fccd0",
+      "data_coleta": "2026-07-20T10:59:21.111679+00:00"
+    },
+    {
+      "instituicao": "SAPE - SC",
+      "orgao": "SAPE - SC",
+      "cargos": [
+        "Analista Técnico Administrativo II"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/sape-sc-abre-concurso-com-20-vagas-para-analista-tecnico-administrativo-ii",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-20",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "c2a7e1d7-d68b-4c26-99b2-635f8d8c947a",
+      "data_coleta": "2026-07-20T10:59:21.111706+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Cristalina - GO",
+      "orgao": "Prefeitura de Cristalina - GO",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cristalina-go-lanca-edital-de-concurso-publico-para-a-secretaria-de-educacao",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-20",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "cd95092a-6b03-465a-bd59-7de967348726",
+      "data_coleta": "2026-07-20T10:59:21.111731+00:00"
+    },
+    {
+      "instituicao": "5ª Região Militar",
+      "orgao": "PR",
+      "cargos": [
+        "Oficial",
+        "Sargento"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/5-regiao-militar-pr-exercito-abre-selecao-para-oficiais-e-sargentos",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-20",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "eff423bb-61f6-4815-a6e8-1b3dc86f2da1",
+      "data_coleta": "2026-07-20T10:59:21.111758+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Porto Velho",
+      "orgao": "RO",
+      "cargos": [
+        "Guarda Municipal"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-velho-ro-abre-concurso-com-50-vagas-para-guarda-municipal",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-20",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "e2df9bed-3f5c-486f-a3d1-5a764cd78e15",
+      "data_coleta": "2026-07-20T10:59:21.111931+00:00"
+    },
+    {
+      "instituicao": "CBMRR",
+      "orgao": "RR",
+      "cargos": [
+        "Soldado",
+        "Oficial"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cbmrr-rr-abre-concurso-publico-com-vagas-para-soldados-e-oficiais",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-20",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "7c1653f8-5590-45ef-a000-24f93e8fb16c",
+      "data_coleta": "2026-07-20T10:59:21.111951+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Sobral",
+      "orgao": "CE",
+      "cargos": [
+        "Guarda Civil Municipal"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sobral-ce-abre-concurso-para-guarda-civil-municipal",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-20",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "1ea31e76-a4bc-48e4-a8c4-49e65bd1476d",
+      "data_coleta": "2026-07-20T10:59:21.111992+00:00"
+    },
+    {
+      "instituicao": "SEAD e PM",
+      "orgao": "PI",
+      "cargos": [
+        "Soldado",
+        "Oficial Capelão"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/sead-e-pm-pi-anunciam-concurso-publico-para-soldado-e-oficial-capelao",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-20",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "8e5f2c1a-d207-4241-93e3-cce8959cd99b",
+      "data_coleta": "2026-07-20T10:59:21.112058+00:00"
     }
   ]
 }
