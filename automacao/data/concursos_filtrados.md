@@ -1,8 +1,8 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 20/07/2026_
+_Atualizado em 21/07/2026_
 
-Total: **9** concursos encontrados.
+Total: **10** concursos encontrados.
 
 ---
 
@@ -17,7 +17,7 @@ Total: **9** concursos encontrados.
 
 ---
 
-## FAURGS (4)
+## FAURGS (5)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -37,6 +37,12 @@ Total: **9** concursos encontrados.
 - **Cargos:** ANALISTA I (Produção Audiovisual), ASSISTENTE I (Assistente de Pesquisa Clínica), ASSISTENTE I (Assistente de Pesquisa em Bioinformática), FONOAUDIÓLOGO I (Disfagia), FONOAUDIÓLOGO I (Fonoterapia), MÉDICO I (Alergia e Imunologia), MÉDICO I (Medicina Paliativa), MÉDICO I (Psiquiatria da Infância e Adolescência), MÉDICO I (Tratamento da Dor), RELAÇÕES PÚBLICAS I, TÉCNICO DE ENFERMAGEM (Cuidados Coronarianos), TÉCNICO DE MANUTENÇÃO III (Técnico de Manutenção Predial Obras e Pintura)
 - **Órgão/Local:** RS, Porto Alegre - RS
 - **Encerramento:** 10/08/2026
+
+### IFSC - Instituto Federal de Santa Catarina
+[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1277-012026ifsc-institutofederaldesantacatarina)
+- **Cargos:** 01 - Administração - São Carlos, 02 - Administração - Xanxerê, 03 - Artes Cênicas - Palhoça Bilíngue, 04 - Artes Visuais - Canoinhas, 05 - Artes Visuais - Lages, 06 - Artes Visuais - São Miguel do Oeste, 07 - Automação Industrial - Caçador, 08 - Automação Industrial - Lages, 09 - Automação Industrial - Tubarão, 10 - Educação Física - Caçador, 11 - Educação Física - Lages, 12 - Educação Física - São Lourenço do Oeste, 13 - Educação Física - Xanxerê, 14 - Eletrônica Geral - Tubarão, 15 - Enologia - Urupema, 16 - Espanhol - Caçador, 17 - Fabricação Mecânica - Caçador, 18 - Fabricação Mecânica - Chapecó, 19 - Fabricação Mecânica - Lages, 20 - Física - Canoinhas, 21 - Física - Caçador, 22 - Física - São Carlos, 23 - Geografia - São Carlos, 24 - Geografia - Xanxerê, 25 - Geotécnica - Florianópolis, 26 - História - São Carlos, 27 - História - São Lourenço do Oeste, 28 - História - Xanxerê, 29 - Informática - Caçador, 30 - Informática - Xanxerê, 31 - Inglês - Jaraguá do Sul Centro, 32 - Instalações e Acionamentos - Caçador, 33 - Matemática - Canoinhas, 34 - Matemática - Caçador, 35 - Matemática - Lages, 36 - Matemática - Jaraguá do Sul RAU, 37 - Processos Têxteis - Jaraguá do Sul Centro, 38 - Produção Animal - São Miguel do Oeste, 39 - Projetos Mecânicos - Lages, 40 - Química Geral - São Carlos, 41 - Segurança e Higiene do Trabalho - Chapecó, 42 - Sistema de Energia - Florianópolis, 43 - Sociologia - Caçador
+- **Órgão/Local:** IFSC - Instituto Federal de Santa Catarina
+- **Encerramento:** 17/08/2026
 
 ---
 
