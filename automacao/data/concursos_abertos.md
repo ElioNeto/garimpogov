@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 21/07/2026_
+_Atualizado em 22/07/2026_
 
-Total: **345** concursos encontrados.
+Total: **346** concursos encontrados.
 
 ---
 
@@ -101,7 +101,7 @@ Total: **345** concursos encontrados.
 
 ---
 
-## FGV (53)
+## FGV (54)
 
 ### Concurso Público Nacional Unificado 2
 [🔗 Edital](https://conhecimento.fgv.br/cpnu2)
@@ -276,6 +276,10 @@ Total: **345** concursos encontrados.
 ### Exame de Qualificação Técnica (EQT) de 2026
 [🔗 Edital](https://conhecimento.fgv.br/exames/cfceqt/2026.2)
 - **Órgão/Local:** Brasil
+
+### FGV
+[🔗 Edital](https://conhecimento.fgv.br/)
+- **Órgão/Local:** Assembleia Legislativa do Estado de Santa Catarina
 
 ---
 
@@ -1263,12 +1267,6 @@ Total: **345** concursos encontrados.
 - **Salário máx.:** R$ 10.685,44
 - **Encerramento:** n/a
 
-### 11ª RM - Comando da 11ª Região Militar
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-11-regiao-militar-df-go-e-to-abre-selecao-para-oficiais-tecnicos-temporarios)
-- **Cargos:** Oficial Técnico, Técnico Temporário
-- **Órgão/Local:** DF, Goiás, Tocantins
-- **Encerramento:** 22/07/2026
-
 ### ITABIRAPREV
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/itabiraprev-mg-abre-concurso-public)
 - **Cargos:** Cargo Específico
@@ -1539,6 +1537,10 @@ Total: **345** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/sesau-al-retifica-concurso-para-especialistas-e-assistentes-em-saude)
 - **Cargos:** Especialistas, Assistentes em Saúde
 - **Órgão/Local:** AL
+
+### CONSUD - PR
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/consud-pr-republica-edital-de-concurso-publico)
+- **Órgão/Local:** PR, Parana - PR
 
 ---
 

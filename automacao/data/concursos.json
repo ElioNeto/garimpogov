@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-21T10:40:11.529764+00:00",
-    "total_concursos": 345
+    "ultima_coleta": "2026-07-22T10:39:20.820471+00:00",
+    "total_concursos": 346
   },
   "concursos": [
     {
@@ -4298,22 +4298,6 @@
       "data_coleta": "2026-07-07T10:59:27.319730+00:00"
     },
     {
-      "instituicao": "11ª RM - Comando da 11ª Região Militar",
-      "orgao": "DF, Goiás, Tocantins",
-      "cargos": [
-        "Oficial Técnico",
-        "Técnico Temporário"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://www.pciconcursos.com.br/noticias/comando-da-11-regiao-militar-df-go-e-to-abre-selecao-para-oficiais-tecnicos-temporarios",
-      "data_encerramento": "22/07/2026",
-      "data_publicacao": "2026-07-07",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "70614a6f-c66e-4c42-a7d3-ca26bff4ab3d",
-      "data_coleta": "2026-07-07T10:59:27.319784+00:00"
-    },
-    {
       "instituicao": "ITABIRAPREV",
       "orgao": "Minas Gerais",
       "cargos": [
@@ -5213,6 +5197,31 @@
       "fonte": "PCI",
       "id": "dea11aa9-fc75-4f05-809e-dc77106980b7",
       "data_coleta": "2026-07-21T10:40:11.529677+00:00"
+    },
+    {
+      "instituicao": "FGV",
+      "orgao": "Assembleia Legislativa do Estado de Santa Catarina",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br/",
+      "fonte": "FGV",
+      "status": "aberto",
+      "id": "52077f28-e293-4470-ae5c-fa27963d4c68",
+      "data_coleta": "2026-07-22T10:39:20.820152+00:00",
+      "data_publicacao": "2026-07-22"
+    },
+    {
+      "instituicao": "CONSUD - PR",
+      "orgao": "PR, Parana - PR",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/consud-pr-republica-edital-de-concurso-publico",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-22",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "7c0a80e7-55c7-4c00-84b8-4d5966ce7598",
+      "data_coleta": "2026-07-22T10:39:20.820374+00:00"
     }
   ]
 }
