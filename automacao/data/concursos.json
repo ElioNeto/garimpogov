@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-22T10:39:20.820471+00:00",
-    "total_concursos": 346
+    "ultima_coleta": "2026-07-23T10:31:46.827314+00:00",
+    "total_concursos": 357
   },
   "concursos": [
     {
@@ -4584,19 +4584,6 @@
       "data_coleta": "2026-07-14T10:08:18.460398+00:00"
     },
     {
-      "instituicao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
-      "orgao": "SP",
-      "cargos": [],
-      "salario_maximo": "R$ 12.154,19",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/famesp-abre-processos-seletivos-para-medicos-em-botucatu-sp",
-      "data_encerramento": "23/07/2026",
-      "data_publicacao": "14/07/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "e48c2100-18d0-46d8-a6b7-c514a894f26f",
-      "data_coleta": "2026-07-14T10:08:18.460448+00:00"
-    },
-    {
       "instituicao": "FMJ - Faculdade de Medicina de Jundiaí",
       "orgao": "SP",
       "cargos": [
@@ -5222,6 +5209,194 @@
       "fonte": "PCI",
       "id": "7c0a80e7-55c7-4c00-84b8-4d5966ce7598",
       "data_coleta": "2026-07-22T10:39:20.820374+00:00"
+    },
+    {
+      "instituicao": "Câmara de Mauá - SP",
+      "orgao": "Mauá - SP",
+      "cargos": [
+        "Agentes Legislativos"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-maua-sp-republica-edital-de-concurso-publico-para-agentes-legislativos",
+      "data_encerramento": null,
+      "data_publication": null,
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "cc9f78fb-c2f7-47d7-92de-72d376c7f860",
+      "data_coleta": "2026-07-23T10:31:46.826286+00:00",
+      "data_publicacao": "2026-07-23"
+    },
+    {
+      "instituicao": "CIDASG - MG",
+      "orgao": "MG",
+      "cargos": [
+        "Nível Médio",
+        "Nível Superior"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cidasg-mg-atualiza-edital-de-concurso-publico-para-cargos-de-nivel-medio-e-superior",
+      "data_encerramento": null,
+      "data_publication": null,
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "05346d04-2609-4d97-be8e-322ce398c191",
+      "data_coleta": "2026-07-23T10:31:46.826409+00:00",
+      "data_publicacao": "2026-07-23"
+    },
+    {
+      "instituicao": "Prefeitura de Ponta Grossa - PR",
+      "orgao": "Ponta Grossa - PR",
+      "cargos": [
+        "Nível Médio"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ponta-grossa-pr-divulga-retificacao-do-concurso-publico",
+      "data_encerramento": null,
+      "data_publication": null,
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "9c60d36b-d7b1-4399-8403-9b02f4848e0b",
+      "data_coleta": "2026-07-23T10:31:46.826446+00:00",
+      "data_publicacao": "2026-07-23"
+    },
+    {
+      "instituicao": "UENP - PR",
+      "orgao": "PR",
+      "cargos": [
+        "Agentes Universitários de Execução",
+        "Profissionais"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/uenp-pr-retifica-concursos-com-vagas-para-agentes-universitarios-de-execucao-e-profissionais",
+      "data_encerramento": null,
+      "data_publication": null,
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "9623f32f-c768-4e49-992d-3f644be2fd9b",
+      "data_coleta": "2026-07-23T10:31:46.826531+00:00",
+      "data_publicacao": "2026-07-23"
+    },
+    {
+      "instituicao": "Prefeitura de Novo Hamburgo - RS",
+      "orgao": "Novo Hamburgo - RS",
+      "cargos": [
+        "Nível Médio"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-hamburgo-rs-divulga-retificacao-de-concurso-publico",
+      "data_encerramento": null,
+      "data_publication": null,
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "912c8063-c9b5-4437-bd94-f3623e7285ac",
+      "data_coleta": "2026-07-23T10:31:46.826555+00:00",
+      "data_publicacao": "2026-07-23"
+    },
+    {
+      "instituicao": "ABGF",
+      "orgao": "Nacional",
+      "cargos": [
+        "Nível Superior"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/abgf-retifica-edital-de-concurso-publico-com-vagas-para-cargos-de-nivel-superior",
+      "data_encerramento": null,
+      "data_publication": null,
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "fd00f640-5996-471a-8f39-94ba814fdf94",
+      "data_coleta": "2026-07-23T10:31:46.826582+00:00",
+      "data_publicacao": "2026-07-23"
+    },
+    {
+      "instituicao": "Prefeitura de Cristalina - GO",
+      "orgao": "Cristalina - GO",
+      "cargos": [
+        "Secretaria de Educação"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cristalina-go-retifica-edital-de-concurso-publico-para-a-secretaria-de-educacao",
+      "data_encerramento": null,
+      "data_publication": null,
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "14d56aaf-8311-43a3-a169-30ff5cadde18",
+      "data_coleta": "2026-07-23T10:31:46.826601+00:00",
+      "data_publicacao": "2026-07-23"
+    },
+    {
+      "instituicao": "Prefeitura de Primavera do Leste - MT",
+      "orgao": "Primavera do Leste - MT",
+      "cargos": [
+        "Nível Médio"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-primavera-do-leste-mt-retifica-edital-de-concurso-publico",
+      "data_encerramento": null,
+      "data_publication": null,
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "a0751bf4-a5ba-468c-9868-27536fc38879",
+      "data_coleta": "2026-07-23T10:31:46.826621+00:00",
+      "data_publicacao": "2026-07-23"
+    },
+    {
+      "instituicao": "CBMRR - RR",
+      "orgao": "RR",
+      "cargos": [
+        "Soldados",
+        "Oficiais"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cbmrr-rr-abre-concurso-publico-com",
+      "data_encerramento": null,
+      "data_publication": null,
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "2960ce47-ee17-4e99-a056-01c6d67234f3",
+      "data_coleta": "2026-07-23T10:31:46.826691+00:00",
+      "data_publicacao": "2026-07-23"
+    },
+    {
+      "instituicao": "IBGE - Instituto Brasileiro de Geografia e Estatística",
+      "orgao": null,
+      "cargos": [],
+      "salario_maximo": "R$ 4.008,00",
+      "link_edital": "https",
+      "fonte": "PCI",
+      "status": "aberto",
+      "id": "e495c521-690a-4a1e-a00a-22671f1a1fef",
+      "data_coleta": "2026-07-23T10:31:46.827027+00:00",
+      "data_publicacao": "2026-07-23"
+    },
+    {
+      "instituicao": "PMMA",
+      "orgao": "PMMA",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/pmma-retifica-o-processo-seletivo-para-o-curso-de-formacao-de-oficiais",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-23",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "c8671ef1-7d66-4d0b-98f0-3fc8f6a49e05",
+      "data_coleta": "2026-07-23T10:31:46.827147+00:00"
+    },
+    {
+      "instituicao": "SEAP / SEAD",
+      "orgao": "SEAP / SEAD - RN",
+      "cargos": [
+        "Policial Penal",
+        "Especialista em Assistência Penitenciária"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/seap-sead-rn-republica-edital-de-concurso-publico-para-policial-penal-e-especialista-em-assistencia-penitenciaria",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-23",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "cb0e1fdd-2350-4d31-aee5-a4e7767aa914",
+      "data_coleta": "2026-07-23T10:31:46.827227+00:00"
     }
   ]
 }

@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 22/07/2026_
+_Atualizado em 23/07/2026_
 
-Total: **346** concursos encontrados.
+Total: **357** concursos encontrados.
 
 ---
 
@@ -283,7 +283,7 @@ Total: **346** concursos encontrados.
 
 ---
 
-## PCI (233)
+## PCI (244)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1352,12 +1352,6 @@ Total: **346** concursos encontrados.
 - **Salário máx.:** R$ 6.778,40
 - **Encerramento:** 24/07/2026
 
-### FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-abre-processos-seletivos-para-medicos-em-botucatu-sp)
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 12.154,19
-- **Encerramento:** 23/07/2026
-
 ### FMJ - Faculdade de Medicina de Jundiaí
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/faculdade-de-medicina-de-jundiai-sp-retifica-concurso-publico-com-vaga-para-enfermeiro)
 - **Cargos:** Enfermeiro
@@ -1541,6 +1535,64 @@ Total: **346** concursos encontrados.
 ### CONSUD - PR
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/consud-pr-republica-edital-de-concurso-publico)
 - **Órgão/Local:** PR, Parana - PR
+
+### Câmara de Mauá - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-maua-sp-republica-edital-de-concurso-publico-para-agentes-legislativos)
+- **Cargos:** Agentes Legislativos
+- **Órgão/Local:** Mauá - SP
+
+### CIDASG - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cidasg-mg-atualiza-edital-de-concurso-publico-para-cargos-de-nivel-medio-e-superior)
+- **Cargos:** Nível Médio, Nível Superior
+- **Órgão/Local:** MG
+
+### Prefeitura de Ponta Grossa - PR
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-ponta-grossa-pr-divulga-retificacao-do-concurso-publico)
+- **Cargos:** Nível Médio
+- **Órgão/Local:** Ponta Grossa - PR
+
+### UENP - PR
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/uenp-pr-retifica-concursos-com-vagas-para-agentes-universitarios-de-execucao-e-profissionais)
+- **Cargos:** Agentes Universitários de Execução, Profissionais
+- **Órgão/Local:** PR
+
+### Prefeitura de Novo Hamburgo - RS
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-hamburgo-rs-divulga-retificacao-de-concurso-publico)
+- **Cargos:** Nível Médio
+- **Órgão/Local:** Novo Hamburgo - RS
+
+### ABGF
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/abgf-retifica-edital-de-concurso-publico-com-vagas-para-cargos-de-nivel-superior)
+- **Cargos:** Nível Superior
+- **Órgão/Local:** Nacional
+
+### Prefeitura de Cristalina - GO
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-cristalina-go-retifica-edital-de-concurso-publico-para-a-secretaria-de-educacao)
+- **Cargos:** Secretaria de Educação
+- **Órgão/Local:** Cristalina - GO
+
+### Prefeitura de Primavera do Leste - MT
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-primavera-do-leste-mt-retifica-edital-de-concurso-publico)
+- **Cargos:** Nível Médio
+- **Órgão/Local:** Primavera do Leste - MT
+
+### CBMRR - RR
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cbmrr-rr-abre-concurso-publico-com)
+- **Cargos:** Soldados, Oficiais
+- **Órgão/Local:** RR
+
+### IBGE - Instituto Brasileiro de Geografia e Estatística
+[🔗 Edital](https)
+- **Salário máx.:** R$ 4.008,00
+
+### PMMA
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/pmma-retifica-o-processo-seletivo-para-o-curso-de-formacao-de-oficiais)
+- **Órgão/Local:** PMMA
+
+### SEAP / SEAD
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/seap-sead-rn-republica-edital-de-concurso-publico-para-policial-penal-e-especialista-em-assistencia-penitenciaria)
+- **Cargos:** Policial Penal, Especialista em Assistência Penitenciária
+- **Órgão/Local:** SEAP / SEAD - RN
 
 ---
 
