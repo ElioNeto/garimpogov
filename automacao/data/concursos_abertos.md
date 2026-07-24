@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 23/07/2026_
+_Atualizado em 24/07/2026_
 
-Total: **357** concursos encontrados.
+Total: **362** concursos encontrados.
 
 ---
 
@@ -24,7 +24,7 @@ Total: **357** concursos encontrados.
 
 ---
 
-## FAURGS (15)
+## FAURGS (16)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -98,6 +98,10 @@ Total: **357** concursos encontrados.
 - **Cargos:** C.01 - Técnico Mecânico de Manutenção Industrial, C.02 - Técnico Operacional
 - **Órgão/Local:** LAMEF
 - **Encerramento:** 24/08/2026
+
+### IFSC - INSTITUTO FEDERAL DE SANTA CATARINA
+[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1279-022026ifsc-institutofederaldesantacatarina)
+- **Cargos:** Arquiteto e Urbanista - Reitoria, Assistente de Alunos - Urupema, Assistente de Alunos - Caçador, Assistente de Alunos - São Lourenço do Oeste, Bibliotecário - Documentalista - Caçador, Engenheiro Civil - Lages, Engenheiro de Segurança do Trabalho - Reitoria, Técnico de Laboratório – Área: Automação - Chapecó, Técnico de Laboratório – Área: Ciências da Natureza - Caçador, Técnico de Laboratório – Área: Informática - Canoinhas, Técnico em Assuntos Educacionais - Canoinhas, Técnico em Assuntos Educacionais - Caçador, Técnico em Assuntos Educacionais - São Carlos, Técnico em Assuntos Educacionais - São Lourenço do Oeste, Técnico em Assuntos Educacionais - São Miguel do Oeste, Técnico em Assuntos Educacionais - Urupema, Tecnólogo em Gestão Pública - Tubarão
 
 ---
 
@@ -283,7 +287,7 @@ Total: **357** concursos encontrados.
 
 ---
 
-## PCI (244)
+## PCI (248)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1346,12 +1350,6 @@ Total: **357** concursos encontrados.
 - **Órgão/Local:** PI
 - **Salário máx.:** R$ 13.536,01
 
-### Câmara de Tabapuã
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-tabapua-sp-abre-concurso-publico-com-salarios-de-ate-6778)
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 6.778,40
-- **Encerramento:** 24/07/2026
-
 ### FMJ - Faculdade de Medicina de Jundiaí
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/faculdade-de-medicina-de-jundiai-sp-retifica-concurso-publico-com-vaga-para-enfermeiro)
 - **Cargos:** Enfermeiro
@@ -1593,6 +1591,38 @@ Total: **357** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/seap-sead-rn-republica-edital-de-concurso-publico-para-policial-penal-e-especialista-em-assistencia-penitenciaria)
 - **Cargos:** Policial Penal, Especialista em Assistência Penitenciária
 - **Órgão/Local:** SEAP / SEAD - RN
+
+### UNICAMP - Universidade Estadual de Campinas
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-para-pesquisador-na-area-de-ciencia-politica)
+- **Cargos:** Pesquisador
+- **Órgão/Local:** SÃO PAULO
+- **Salário máx.:** R$ 14.504,38
+- **Encerramento:** 21/08/2026
+
+### FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-sp-abre-processos-seletivos-com-vagas-para-diversas-areas)
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 4.934,38
+- **Encerramento:** 06/08/2026
+
+### FUNCABES - Fundação Caixa Beneficente dos Servidores da Universidade de Taubaté
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/funcabes-taubate-sp-abre-selecao-para-controlador-interno-escriturario-e-auxiliar-administrativo)
+- **Cargos:** Controlador Interno, Escriturário, Auxiliar Administrativo
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 3.542,75
+- **Encerramento:** 02/08/2026
+
+### FUNCAMP - Fundação de Desenvolvimento da Unicamp
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-publica-editais-de-processos-seletivos-para-profissionais-de-nivel-superior)
+- **Cargos:** Analista de Internacionalização Pleno, Analista de Qualidade de Software Júnior
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 5.699,00
+- **Encerramento:** 27/07/2026
+
+### SESAU - Secretaria de Estado da Saúde de Alagoas
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/sesau-al-retifica-concurso-para-especialistas-e-a)
+- **Cargos:** Especialistas em Saúde, Assistentes em Saúde
+- **Órgão/Local:** Alagoas - AL
 
 ---
 

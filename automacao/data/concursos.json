@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-23T10:31:46.827314+00:00",
-    "total_concursos": 357
+    "ultima_coleta": "2026-07-24T10:36:22.822891+00:00",
+    "total_concursos": 362
   },
   "concursos": [
     {
@@ -4571,19 +4571,6 @@
       "data_coleta": "2026-07-14T10:08:18.460162+00:00"
     },
     {
-      "instituicao": "Câmara de Tabapuã",
-      "orgao": "SP",
-      "cargos": [],
-      "salario_maximo": "R$ 6.778,40",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-tabapua-sp-abre-concurso-publico-com-salarios-de-ate-6778",
-      "data_encerramento": "24/07/2026",
-      "data_publicacao": "14/07/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "be48bcb4-cc57-4397-873a-f039638d0f0d",
-      "data_coleta": "2026-07-14T10:08:18.460398+00:00"
-    },
-    {
       "instituicao": "FMJ - Faculdade de Medicina de Jundiaí",
       "orgao": "SP",
       "cargos": [
@@ -5397,6 +5384,114 @@
       "fonte": "PCI",
       "id": "cb0e1fdd-2350-4d31-aee5-a4e7767aa914",
       "data_coleta": "2026-07-23T10:31:46.827227+00:00"
+    },
+    {
+      "instituicao": "IFSC - INSTITUTO FEDERAL DE SANTA CATARINA",
+      "orgao": null,
+      "cargos": [
+        "Arquiteto e Urbanista - Reitoria",
+        "Assistente de Alunos - Urupema",
+        "Assistente de Alunos - Caçador",
+        "Assistente de Alunos - São Lourenço do Oeste",
+        "Bibliotecário - Documentalista - Caçador",
+        "Engenheiro Civil - Lages",
+        "Engenheiro de Segurança do Trabalho - Reitoria",
+        "Técnico de Laboratório – Área: Automação - Chapecó",
+        "Técnico de Laboratório – Área: Ciências da Natureza - Caçador",
+        "Técnico de Laboratório – Área: Informática - Canoinhas",
+        "Técnico em Assuntos Educacionais - Canoinhas",
+        "Técnico em Assuntos Educacionais - Caçador",
+        "Técnico em Assuntos Educacionais - São Carlos",
+        "Técnico em Assuntos Educacionais - São Lourenço do Oeste",
+        "Técnico em Assuntos Educacionais - São Miguel do Oeste",
+        "Técnico em Assuntos Educacionais - Urupema",
+        "Tecnólogo em Gestão Pública - Tubarão"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosFaurgs/emandamento/1279-022026ifsc-institutofederaldesantacatarina",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-24",
+      "status": null,
+      "fonte": "FAURGS",
+      "id": "eb66ca18-66c6-4e47-8484-a00593f408ae",
+      "data_coleta": "2026-07-24T10:36:22.822079+00:00"
+    },
+    {
+      "instituicao": "UNICAMP - Universidade Estadual de Campinas",
+      "orgao": "SÃO PAULO",
+      "cargos": [
+        "Pesquisador"
+      ],
+      "salario_maximo": "R$ 14.504,38",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-para-pesquisador-na-area-de-ciencia-politica",
+      "data_encerramento": "21/08/2026",
+      "data_publicacao": "2026-07-24",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "a53154ea-8ca7-48b2-a6e2-44e5674d18f4",
+      "data_coleta": "2026-07-24T10:36:22.822301+00:00"
+    },
+    {
+      "instituicao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": "R$ 4.934,38",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/famesp-sp-abre-processos-seletivos-com-vagas-para-diversas-areas",
+      "data_encerramento": "06/08/2026",
+      "data_publicacao": "2026-07-24",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "adc8a2c2-26e7-420c-ae15-9aed7c41029a",
+      "data_coleta": "2026-07-24T10:36:22.822512+00:00"
+    },
+    {
+      "instituicao": "FUNCABES - Fundação Caixa Beneficente dos Servidores da Universidade de Taubaté",
+      "orgao": "SP",
+      "cargos": [
+        "Controlador Interno",
+        "Escriturário",
+        "Auxiliar Administrativo"
+      ],
+      "salario_maximo": "R$ 3.542,75",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/funcabes-taubate-sp-abre-selecao-para-controlador-interno-escriturario-e-auxiliar-administrativo",
+      "data_encerramento": "02/08/2026",
+      "data_publicacao": "2026-07-24",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "d9f62ef9-870d-4da0-ab4a-c9ddaa00ea05",
+      "data_coleta": "2026-07-24T10:36:22.822572+00:00"
+    },
+    {
+      "instituicao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+      "orgao": "SP",
+      "cargos": [
+        "Analista de Internacionalização Pleno",
+        "Analista de Qualidade de Software Júnior"
+      ],
+      "salario_maximo": "R$ 5.699,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/funcamp-sp-publica-editais-de-processos-seletivos-para-profissionais-de-nivel-superior",
+      "data_encerramento": "27/07/2026",
+      "data_publicacao": "2026-07-24",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "078319c2-061b-4aeb-a35f-6f0be68bdecd",
+      "data_coleta": "2026-07-24T10:36:22.822598+00:00"
+    },
+    {
+      "instituicao": "SESAU - Secretaria de Estado da Saúde de Alagoas",
+      "orgao": "Alagoas - AL",
+      "cargos": [
+        "Especialistas em Saúde",
+        "Assistentes em Saúde"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/sesau-al-retifica-concurso-para-especialistas-e-a",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-24",
+      "status": "retificado",
+      "fonte": "PCI",
+      "id": "6453940b-7cf7-46cb-b915-83effc4cf644",
+      "data_coleta": "2026-07-24T10:36:22.822738+00:00"
     }
   ]
 }

@@ -1,8 +1,8 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 23/07/2026_
+_Atualizado em 24/07/2026_
 
-Total: **10** concursos encontrados.
+Total: **12** concursos encontrados.
 
 ---
 
@@ -17,7 +17,7 @@ Total: **10** concursos encontrados.
 
 ---
 
-## FAURGS (5)
+## FAURGS (6)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -44,6 +44,10 @@ Total: **10** concursos encontrados.
 - **Órgão/Local:** IFSC - Instituto Federal de Santa Catarina
 - **Encerramento:** 17/08/2026
 
+### IFSC - INSTITUTO FEDERAL DE SANTA CATARINA
+[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1279-022026ifsc-institutofederaldesantacatarina)
+- **Cargos:** Arquiteto e Urbanista - Reitoria, Assistente de Alunos - Urupema, Assistente de Alunos - Caçador, Assistente de Alunos - São Lourenço do Oeste, Bibliotecário - Documentalista - Caçador, Engenheiro Civil - Lages, Engenheiro de Segurança do Trabalho - Reitoria, Técnico de Laboratório – Área: Automação - Chapecó, Técnico de Laboratório – Área: Ciências da Natureza - Caçador, Técnico de Laboratório – Área: Informática - Canoinhas, Técnico em Assuntos Educacionais - Canoinhas, Técnico em Assuntos Educacionais - Caçador, Técnico em Assuntos Educacionais - São Carlos, Técnico em Assuntos Educacionais - São Lourenço do Oeste, Técnico em Assuntos Educacionais - São Miguel do Oeste, Técnico em Assuntos Educacionais - Urupema, Tecnólogo em Gestão Pública - Tubarão
+
 ---
 
 ## FGV (1)
@@ -53,7 +57,7 @@ Total: **10** concursos encontrados.
 
 ---
 
-## PCI (2)
+## PCI (3)
 
 ### CRA - PR
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/cra-pr-retifica-concurso-publico-com-salarios-de-ate-10600)
@@ -65,6 +69,13 @@ Total: **10** concursos encontrados.
 ### DATAPREV - Empresa de Tecnologia e Informações da Previdência
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/dataprev-abre-concurso-publico-com-v)
 - **Salário máx.:** R$ 10.685,44
+
+### FUNCAMP - Fundação de Desenvolvimento da Unicamp
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-publica-editais-de-processos-seletivos-para-profissionais-de-nivel-superior)
+- **Cargos:** Analista de Internacionalização Pleno, Analista de Qualidade de Software Júnior
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 5.699,00
+- **Encerramento:** 27/07/2026
 
 ---
 
