@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 25/07/2026_
+_Atualizado em 26/07/2026_
 
-Total: **371** concursos encontrados.
+Total: **370** concursos encontrados.
 
 ---
 
@@ -311,7 +311,7 @@ Total: **371** concursos encontrados.
 
 ---
 
-## PCI (253)
+## PCI (252)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -983,13 +983,6 @@ Total: **371** concursos encontrados.
 - **Salário máx.:** R$ 16.458,70
 - **Encerramento:** não especificado
 
-### Câmara de Mauá
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-maua-sp-abre-concurso-publico-com-vagas-para-agente-legislativo)
-- **Cargos:** Agente Legislativo
-- **Órgão/Local:** São Paulo
-- **Salário máx.:** R$ 3.650,00
-- **Encerramento:** 26/07/2026
-
 ### Prefeitura de Paracatu - MG
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-paracatu-mg-publica-edital-retificado-de-concurso-publico-com-vagas-para-guarda-civil-municipal)
 - **Cargos:** Guarda Civil Municipal
@@ -1051,12 +1044,6 @@ Total: **371** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros)
 - **Cargos:** Engenheiro
 - **Órgão/Local:** Brasil
-
-### Câmara de Pirajuí
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-pirajui-sp-abre-concurso-publico-com-salarios-de-ate-5269)
-- **Órgão/Local:** SP, Pirajuí - SP
-- **Salário máx.:** R$ 5.269,45
-- **Encerramento:** 26/07/2026
 
 ### EMDURB - Empresa Municipal de Desenvolvimento Urbano de Ubatuba
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/emdurb-de-ubatuba-sp-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva)
@@ -1316,12 +1303,6 @@ Total: **371** concursos encontrados.
 - **Salário máx.:** R$ 8.500,00
 - **Encerramento:** 10/07 a 06/08/2026
 
-### Câmara de Tupi Paulista
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-tupi-paulista-sp-abre-concurso-com-salarios-de-ate-8485)
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 8.485,93
-- **Encerramento:** 26/07/2026
-
 ### Prefeitura de Santana de Parnaíba - SP
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-de-parnaiba-sp-abre)
 - **Órgão/Local:** SP, Santana de Parnaíba - SP
@@ -1339,12 +1320,6 @@ Total: **371** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/cbmma-ma-abre-edital-para-curso-de-formacao-de-oficiais)
 - **Cargos:** Curso de Formação de Oficiais
 - **Órgão/Local:** MA
-
-### Câmara de Pirajuí
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-pirajui-sp-divulga-retificacao-de-concurso-publico-com-salarios-de-ate-5269)
-- **Órgão/Local:** SP, Pirajuí - SP
-- **Salário máx.:** R$ 5.269,45
-- **Encerramento:** 26/07/2026
 
 ### EMDURB - Empresa Municipal de Desenvolvimento Urbano de Ubatuba
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/emdurb-ubatuba-sp-abre-concurso-publico)
@@ -1671,6 +1646,18 @@ Total: **371** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/tce-ma-publica-edital-de-concurso-publico-com-salarios-de-ate-20112)
 - **Órgão/Local:** Maranhão - MA
 - **Salário máx.:** R$ 20.112,20
+
+### CRA - PR
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cra-pr-prorroga-inscricoes-de-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva)
+- **Órgão/Local:** PR
+
+### CBMRR - RR
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cbmrr-rr-abre-concurso-publico-com-vagas)
+- **Órgão/Local:** RR
+
+### CBMRR
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cbmr-r-r-abre-concurso-publico-com-vagas)
+- **Órgão/Local:** CBMRR
 
 ---
 
