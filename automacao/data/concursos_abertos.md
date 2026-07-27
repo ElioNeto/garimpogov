@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 26/07/2026_
+_Atualizado em 27/07/2026_
 
-Total: **370** concursos encontrados.
+Total: **373** concursos encontrados.
 
 ---
 
@@ -311,7 +311,7 @@ Total: **370** concursos encontrados.
 
 ---
 
-## PCI (252)
+## PCI (255)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1611,13 +1611,6 @@ Total: **370** concursos encontrados.
 - **Salário máx.:** R$ 3.542,75
 - **Encerramento:** 02/08/2026
 
-### FUNCAMP - Fundação de Desenvolvimento da Unicamp
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-publica-editais-de-processos-seletivos-para-profissionais-de-nivel-superior)
-- **Cargos:** Analista de Internacionalização Pleno, Analista de Qualidade de Software Júnior
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 5.699,00
-- **Encerramento:** 27/07/2026
-
 ### SESAU - Secretaria de Estado da Saúde de Alagoas
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/sesau-al-retifica-concurso-para-especialistas-e-a)
 - **Cargos:** Especialistas em Saúde, Assistentes em Saúde
@@ -1658,6 +1651,33 @@ Total: **370** concursos encontrados.
 ### CBMRR
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/cbmr-r-r-abre-concurso-publico-com-vagas)
 - **Órgão/Local:** CBMRR
+
+### Câmara de Santa Lúcia
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-santa-lucia-sp-abre-concurso-publico-para-procurador-juridico-e-secretario-legislativo)
+- **Cargos:** Procurador Jurídico, Secretário Legislativo
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 4.365,04
+- **Encerramento:** 23/08/2026
+
+### FAMESP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-sp-abre-editais-de-processos-seletivos-para-diferentes-niveis-de-escolaridade)
+- **Órgão/Local:** Fundação para o Desenvolvimento Médico e Hospitalar
+- **Salário máx.:** R$ 4.212,80
+- **Encerramento:** 06/08/2026
+
+### FUNCAMP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-vaga-para-medico-ginecologista-oncologico-no-caism)
+- **Cargos:** Médico Ginecologista Oncológico
+- **Órgão/Local:** Fundação de Desenvolvimento da Unicamp
+- **Salário máx.:** R$ 8.223,63
+- **Encerramento:** 25/08/2026
+
+### FUNCAMP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-o-cargo-de-ux-designer-junior)
+- **Cargos:** UX Designer Júnior
+- **Órgão/Local:** Fundação de Desenvolvimento da Unicamp
+- **Salário máx.:** R$ 4.250,00
+- **Encerramento:** 04/08/2026
 
 ---
 

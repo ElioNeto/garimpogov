@@ -1,8 +1,8 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 26/07/2026_
+_Atualizado em 27/07/2026_
 
-Total: **15** concursos encontrados.
+Total: **14** concursos encontrados.
 
 ---
 
@@ -75,7 +75,7 @@ Total: **15** concursos encontrados.
 
 ---
 
-## PCI (3)
+## PCI (2)
 
 ### CRA - PR
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/cra-pr-retifica-concurso-publico-com-salarios-de-ate-10600)
@@ -87,13 +87,6 @@ Total: **15** concursos encontrados.
 ### DATAPREV - Empresa de Tecnologia e Informações da Previdência
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/dataprev-abre-concurso-publico-com-v)
 - **Salário máx.:** R$ 10.685,44
-
-### FUNCAMP - Fundação de Desenvolvimento da Unicamp
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-publica-editais-de-processos-seletivos-para-profissionais-de-nivel-superior)
-- **Cargos:** Analista de Internacionalização Pleno, Analista de Qualidade de Software Júnior
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 5.699,00
-- **Encerramento:** 27/07/2026
 
 ---
 

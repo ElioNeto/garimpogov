@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-26T10:15:08.167978+00:00",
-    "total_concursos": 370
+    "ultima_coleta": "2026-07-27T11:35:51.140984+00:00",
+    "total_concursos": 373
   },
   "concursos": [
     {
@@ -5408,22 +5408,6 @@
       "data_coleta": "2026-07-24T10:36:22.822572+00:00"
     },
     {
-      "instituicao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-      "orgao": "SP",
-      "cargos": [
-        "Analista de Internacionalização Pleno",
-        "Analista de Qualidade de Software Júnior"
-      ],
-      "salario_maximo": "R$ 5.699,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/funcamp-sp-publica-editais-de-processos-seletivos-para-profissionais-de-nivel-superior",
-      "data_encerramento": "27/07/2026",
-      "data_publicacao": "2026-07-24",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "078319c2-061b-4aeb-a35f-6f0be68bdecd",
-      "data_coleta": "2026-07-24T10:36:22.822598+00:00"
-    },
-    {
       "instituicao": "SESAU - Secretaria de Estado da Saúde de Alagoas",
       "orgao": "Alagoas - AL",
       "cargos": [
@@ -5678,6 +5662,65 @@
       "fonte": "PCI",
       "id": "89818538-f232-4c9e-bedd-69e65948e211",
       "data_coleta": "2026-07-26T10:15:08.167939+00:00"
+    },
+    {
+      "instituicao": "Câmara de Santa Lúcia",
+      "orgao": "SP",
+      "cargos": [
+        "Procurador Jurídico",
+        "Secretário Legislativo"
+      ],
+      "salario_maximo": "R$ 4.365,04",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-santa-lucia-sp-abre-concurso-publico-para-procurador-juridico-e-secretario-legislativo",
+      "data_encerramento": "23/08/2026",
+      "data_publicacao": "27/07/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "a86e7fa5-9d15-4a2e-a724-302e1667910f",
+      "data_coleta": "2026-07-27T11:35:51.140713+00:00"
+    },
+    {
+      "instituicao": "FAMESP",
+      "orgao": "Fundação para o Desenvolvimento Médico e Hospitalar",
+      "cargos": [],
+      "salario_maximo": "R$ 4.212,80",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/famesp-sp-abre-editais-de-processos-seletivos-para-diferentes-niveis-de-escolaridade",
+      "data_encerramento": "06/08/2026",
+      "data_publicacao": "27/07/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "25dc46e6-c96e-4cc4-819b-1ea85eda4129",
+      "data_coleta": "2026-07-27T11:35:51.140783+00:00"
+    },
+    {
+      "instituicao": "FUNCAMP",
+      "orgao": "Fundação de Desenvolvimento da Unicamp",
+      "cargos": [
+        "Médico Ginecologista Oncológico"
+      ],
+      "salario_maximo": "R$ 8.223,63",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-vaga-para-medico-ginecologista-oncologico-no-caism",
+      "data_encerramento": "25/08/2026",
+      "data_publicacao": "27/07/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "ef25a490-fde6-44d1-8b5f-cee7749096a9",
+      "data_coleta": "2026-07-27T11:35:51.140857+00:00"
+    },
+    {
+      "instituicao": "FUNCAMP",
+      "orgao": "Fundação de Desenvolvimento da Unicamp",
+      "cargos": [
+        "UX Designer Júnior"
+      ],
+      "salario_maximo": "R$ 4.250,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-o-cargo-de-ux-designer-junior",
+      "data_encerramento": "04/08/2026",
+      "data_publicacao": "27/07/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "9843093f-69f3-4fab-8f13-7945a71957d9",
+      "data_coleta": "2026-07-27T11:35:51.140883+00:00"
     }
   ]
 }
