@@ -1,6 +1,6 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 27/07/2026_
+_Atualizado em 28/07/2026_
 
 Total: **373** concursos encontrados.
 
@@ -1393,13 +1393,6 @@ Total: **373** concursos encontrados.
 - **Cargos:** Oficiais
 - **Órgão/Local:** MA
 
-### FAMESP
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-abre-vaga-para-tecnico-de-laboratorio-no-ame-de-itapetininga-sp)
-- **Cargos:** Técnico de Laboratório
-- **Órgão/Local:** Fundação para o Desenvolvimento Médico e Hospitalar
-- **Salário máx.:** R$ 1.622,54
-- **Encerramento:** 28/07/2026
-
 ### FEA
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/fea-sp-abre-processo-seletivo-para-vagas-imediatas-e-formacao-de-cadastro-de-reserva)
 - **Órgão/Local:** Fundação Educacional de Andradina
@@ -1678,6 +1671,11 @@ Total: **373** concursos encontrados.
 - **Órgão/Local:** Fundação de Desenvolvimento da Unicamp
 - **Salário máx.:** R$ 4.250,00
 - **Encerramento:** 04/08/2026
+
+### SEPLAG/SEDUC - AL
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/seplag-seduc)
+- **Cargos:** Professores
+- **Órgão/Local:** SEPLAG/SEDUC - AL
 
 ---
 

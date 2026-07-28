@@ -1,6 +1,6 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-27T11:35:51.140984+00:00",
+    "ultima_coleta": "2026-07-28T10:50:25.142241+00:00",
     "total_concursos": 373
   },
   "concursos": [
@@ -4655,21 +4655,6 @@
       "data_publicacao": "2026-07-16"
     },
     {
-      "instituicao": "FAMESP",
-      "orgao": "Fundação para o Desenvolvimento Médico e Hospitalar",
-      "cargos": [
-        "Técnico de Laboratório"
-      ],
-      "salario_maximo": "R$ 1.622,54",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/famesp-abre-vaga-para-tecnico-de-laboratorio-no-ame-de-itapetininga-sp",
-      "data_encerramento": "28/07/2026",
-      "data_publicacao": "2026-07-17",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "cbd28122-0094-4ea2-9aa5-bcf03b3a0be3",
-      "data_coleta": "2026-07-17T10:13:27.565372+00:00"
-    },
-    {
       "instituicao": "FEA",
       "orgao": "Fundação Educacional de Andradina",
       "cargos": [],
@@ -5721,6 +5706,21 @@
       "fonte": "PCI",
       "id": "9843093f-69f3-4fab-8f13-7945a71957d9",
       "data_coleta": "2026-07-27T11:35:51.140883+00:00"
+    },
+    {
+      "instituicao": "SEPLAG/SEDUC - AL",
+      "orgao": "SEPLAG/SEDUC - AL",
+      "cargos": [
+        "Professores"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/seplag-seduc",
+      "data_encerramento": null,
+      "data_publicacao": "28/07/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "2e017b2f-bacd-479f-901a-6dc492da4f61",
+      "data_coleta": "2026-07-28T10:50:25.141984+00:00"
     }
   ]
 }
