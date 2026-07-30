@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-28T10:50:25.142241+00:00",
-    "total_concursos": 373
+    "ultima_coleta": "2026-07-30T10:45:26.507112+00:00",
+    "total_concursos": 375
   },
   "concursos": [
     {
@@ -3483,21 +3483,6 @@
       "data_coleta": "2026-06-29T12:47:35.779247+00:00"
     },
     {
-      "instituicao": "Prefeitura de RN",
-      "orgao": "RN",
-      "cargos": [
-        "Superior"
-      ],
-      "salario_maximo": "R$ 9.004,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/ro-concursos-nordeste-#RO",
-      "data_encerramento": "30/07/2026",
-      "data_publicacao": "08/07/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "0ab403e7-83a7-4f71-b997-684e805c7837",
-      "data_coleta": "2026-06-29T12:47:35.779292+00:00"
-    },
-    {
       "instituicao": "Prefeitura de Pouso Alegre - MG",
       "orgao": "MG",
       "cargos": [
@@ -5721,6 +5706,49 @@
       "fonte": "PCI",
       "id": "2e017b2f-bacd-479f-901a-6dc492da4f61",
       "data_coleta": "2026-07-28T10:50:25.141984+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Embu das Artes",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": "R$ 4.166,79",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-embu-das-artes-sp-abre-concurso-publico-com-vagas-na-educacao",
+      "data_encerramento": "07/08/2026",
+      "data_publicacao": "2026-07-30",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "7bb7c38c-e066-4901-8de1-9f50e8891d86",
+      "data_coleta": "2026-07-30T10:45:26.506660+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Taubaté",
+      "orgao": "SP",
+      "cargos": [
+        "Diversas áreas"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-taubate-sp-retifica-concursos-publicos-com-vagas-para-diversas-areas",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-30",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "2c05eaa4-845e-4090-abcf-d89409dfd5f8",
+      "data_coleta": "2026-07-30T10:45:26.506781+00:00"
+    },
+    {
+      "instituicao": "ITABIRREV",
+      "orgao": "MG",
+      "cargos": [
+        "Diversos"
+      ],
+      "salario_maximo": "R$ 6.280,77",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/itabirprev-mg-abre-concurso-publico-com-salarios-de-ate-6280",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-30",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "dbbee3c6-5eb5-4c0a-9951-b8a27fd9e522",
+      "data_coleta": "2026-07-30T10:45:26.506831+00:00"
     }
   ]
 }

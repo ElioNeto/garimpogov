@@ -1,6 +1,6 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 29/07/2026_
+_Atualizado em 30/07/2026_
 
 Total: **14** concursos encontrados.
 

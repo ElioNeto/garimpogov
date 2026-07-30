@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 29/07/2026_
+_Atualizado em 30/07/2026_
 
-Total: **373** concursos encontrados.
+Total: **375** concursos encontrados.
 
 ---
 
@@ -311,7 +311,7 @@ Total: **373** concursos encontrados.
 
 ---
 
-## PCI (255)
+## PCI (257)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1076,13 +1076,6 @@ Total: **373** concursos encontrados.
 - **Salário máx.:** N/A
 - **Encerramento:** N/A
 
-### Prefeitura de RN
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/ro-concursos-nordeste-#RO)
-- **Cargos:** Superior
-- **Órgão/Local:** RN
-- **Salário máx.:** R$ 9.004,00
-- **Encerramento:** 30/07/2026
-
 ### Prefeitura de Pouso Alegre - MG
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-pouso-alegre-mg-retifica-edital-de-concurso-publico)
 - **Cargos:** Guarda Civil Municipal
@@ -1676,6 +1669,23 @@ Total: **373** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/seplag-seduc)
 - **Cargos:** Professores
 - **Órgão/Local:** SEPLAG/SEDUC - AL
+
+### Prefeitura de Embu das Artes
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-embu-das-artes-sp-abre-concurso-publico-com-vagas-na-educacao)
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 4.166,79
+- **Encerramento:** 07/08/2026
+
+### Prefeitura de Taubaté
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-taubate-sp-retifica-concursos-publicos-com-vagas-para-diversas-areas)
+- **Cargos:** Diversas áreas
+- **Órgão/Local:** SP
+
+### ITABIRREV
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/itabirprev-mg-abre-concurso-publico-com-salarios-de-ate-6280)
+- **Cargos:** Diversos
+- **Órgão/Local:** MG
+- **Salário máx.:** R$ 6.280,77
 
 ---
 
