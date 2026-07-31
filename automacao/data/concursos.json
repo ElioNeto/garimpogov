@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-30T10:45:26.507112+00:00",
-    "total_concursos": 375
+    "ultima_coleta": "2026-07-31T10:46:38.432129+00:00",
+    "total_concursos": 377
   },
   "concursos": [
     {
@@ -5749,6 +5749,34 @@
       "fonte": "PCI",
       "id": "dbbee3c6-5eb5-4c0a-9951-b8a27fd9e522",
       "data_coleta": "2026-07-30T10:45:26.506831+00:00"
+    },
+    {
+      "instituicao": "SEPLAG/SEDUC - AL",
+      "orgao": "AL, Alagoas - AL",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/seplag-seduc-al-retificam-concursos",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-31",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "89573031-b88d-4c50-acf6-61010c7a93c4",
+      "data_coleta": "2026-07-31T10:46:38.431950+00:00"
+    },
+    {
+      "instituicao": "SEPLAG/SEDUC-AL - Secretaria de Estado do Planejamento, Gestão e Patrimônio / Secretaria de Estado da Educação de Alagoas",
+      "orgao": "AL, Maceió - AL",
+      "cargos": [
+        "Diversos Cargos"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/seplag-seduc-al-retificam-concur",
+      "data_encerramento": null,
+      "data_publicacao": "2026-07-31",
+      "status": "retificado",
+      "fonte": "PCI",
+      "id": "3accd63c-306b-4f22-b753-276339bcdd23",
+      "data_coleta": "2026-07-31T10:46:38.432071+00:00"
     }
   ]
 }

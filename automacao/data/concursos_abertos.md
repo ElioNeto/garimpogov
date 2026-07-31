@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 30/07/2026_
+_Atualizado em 31/07/2026_
 
-Total: **375** concursos encontrados.
+Total: **377** concursos encontrados.
 
 ---
 
@@ -311,7 +311,7 @@ Total: **375** concursos encontrados.
 
 ---
 
-## PCI (257)
+## PCI (259)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1686,6 +1686,15 @@ Total: **375** concursos encontrados.
 - **Cargos:** Diversos
 - **Órgão/Local:** MG
 - **Salário máx.:** R$ 6.280,77
+
+### SEPLAG/SEDUC - AL
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/seplag-seduc-al-retificam-concursos)
+- **Órgão/Local:** AL, Alagoas - AL
+
+### SEPLAG/SEDUC-AL - Secretaria de Estado do Planejamento, Gestão e Patrimônio / Secretaria de Estado da Educação de Alagoas
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/seplag-seduc-al-retificam-concur)
+- **Cargos:** Diversos Cargos
+- **Órgão/Local:** AL, Maceió - AL
 
 ---
 
