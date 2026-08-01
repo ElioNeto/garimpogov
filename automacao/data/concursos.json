@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-07-31T10:46:38.432129+00:00",
-    "total_concursos": 377
+    "ultima_coleta": "2026-08-01T10:07:28.760563+00:00",
+    "total_concursos": 384
   },
   "concursos": [
     {
@@ -5028,22 +5028,6 @@
       "data_coleta": "2026-07-21T10:40:11.529098+00:00"
     },
     {
-      "instituicao": "Câmara de Monções",
-      "orgao": "SP, São Paulo - SP",
-      "cargos": [
-        "Diretor Geral",
-        "Controlador Interno"
-      ],
-      "salario_maximo": "R$ 6.000,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-moncoes-sp-abre-concurso-publico-para-diretor-geral-e-controlador-interno",
-      "data_encerramento": "01/08/2026",
-      "data_publicacao": "21/07/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "9a00907d-b98c-4daa-b85f-ba7581e04965",
-      "data_coleta": "2026-07-21T10:40:11.529199+00:00"
-    },
-    {
       "instituicao": "FUNCAMP",
       "orgao": "Fundação de Desenvolvimento da Unicamp",
       "cargos": [
@@ -5777,6 +5761,130 @@
       "fonte": "PCI",
       "id": "3accd63c-306b-4f22-b753-276339bcdd23",
       "data_coleta": "2026-07-31T10:46:38.432071+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Blumenau",
+      "orgao": "SC, Blumenau - SC",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.blumenau.sc.gov.br/secretarias/fundacao-cultural/fcblu/canta-sc-recebe-inscricoes-de-bandas-da-regiaao-atae-26-de-agosto84",
+      "data_encerramento": "26/08/2026",
+      "data_publicacao": "30/07/2026",
+      "status": "aberto",
+      "fonte": "PMBlumenau-SC",
+      "id": "c07b08db-1806-4587-9d29-b600f17e3735",
+      "data_coleta": "2026-08-01T10:07:28.760167+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Blumenau",
+      "orgao": "SC, Blumenau - SC",
+      "cargos": [
+        "Ginástica rítmica",
+        "Artes marciais",
+        "Luta",
+        "Judô",
+        "Vôlei",
+        "Futsal",
+        "Tênis",
+        "Tênis de mesa",
+        "Bicicross (BMX)",
+        "Skate street"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.blumenau.sc.gov.br/secretarias/fundacao-de-desportos/fmd/artes-marciais-e-ginaastica-raitmica-movimentam-a-programaacaao-dos-joguinhos-abertos-neste-saabado-dia-1ao9",
+      "data_encerramento": null,
+      "data_publicacao": "31/07/2026",
+      "status": "aberto",
+      "fonte": "PMBlumenau-SC",
+      "id": "894352ef-0c75-4473-9e27-1cf1311faf4c",
+      "data_coleta": "2026-08-01T10:07:28.760197+00:00"
+    },
+    {
+      "instituicao": "DEPA - Diretoria de Educação Preparatória e Assistencial (Exército)",
+      "orgao": null,
+      "cargos": [
+        "Aluno do 6º ano do Ensino Fundamental",
+        "Aluno do 1º ano do Ensino Médio"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/decex-brasil-selecao-para-colegios-militares-abre-vagas-em-diversas-cidades",
+      "data_encerramento": "17/09/2026",
+      "data_publicacao": "2026-08-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "beb5f021-ee1d-4508-b90a-eb33b3cd89dd",
+      "data_coleta": "2026-08-01T10:07:28.760309+00:00"
+    },
+    {
+      "instituicao": "DATAPREV - Empresa de Tecnologia e Informações da Previdência",
+      "orgao": null,
+      "cargos": [],
+      "salario_maximo": "R$ 10.685,44",
+      "link_edital": "https://www.pciconcursos.com.br/apostilas/dataprev",
+      "data_encerramento": "06/08/2026",
+      "data_publicacao": "2026-08-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "49550f19-0aa3-46d1-a410-5dad85c4e880",
+      "data_coleta": "2026-08-01T10:07:28.760357+00:00"
+    },
+    {
+      "instituicao": "DEPA - Diretoria de Educação Preparatória e Assistencial (Exército)",
+      "orgao": null,
+      "cargos": [
+        "Aluno do 6º ano do Ensino Fundamental",
+        "Aluno do 1º ano do Ensino Médio"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/apostilas/decex",
+      "data_encerramento": "17/09/2026",
+      "data_publicacao": "2026-08-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "0c893b57-5db1-430e-829c-72fbd7885a9a",
+      "data_coleta": "2026-08-01T10:07:28.760379+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Santos - SP",
+      "orgao": "Santos - SP",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santos-sp-abre-cinco-editais-de-concursos-publicos",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "5c49ec4c-08b0-41e2-bcd7-4e193619c3ce",
+      "data_coleta": "2026-08-01T10:07:28.760408+00:00"
+    },
+    {
+      "instituicao": "CREA-MG",
+      "orgao": "Minas Gerais",
+      "cargos": [],
+      "salario_maximo": "R$ 13.609,13",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/crea-mg-concurso-publico-oferece-vagas-com-salarios-iniciais-de-ate-13609",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "e83eaa26-228a-4b4a-b417-801f90e2fc32",
+      "data_coleta": "2026-08-01T10:07:28.760454+00:00"
+    },
+    {
+      "instituicao": "CBMRR - RR",
+      "orgao": "Roraima",
+      "cargos": [
+        "soldados",
+        "oficiais"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cbmrr-rr-abre-concurso-p",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "675eb256-342d-4344-bfa1-a6db58f4c5ad",
+      "data_coleta": "2026-08-01T10:07:28.760540+00:00"
     }
   ]
 }

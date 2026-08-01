@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 31/07/2026_
+_Atualizado em 01/08/2026_
 
-Total: **377** concursos encontrados.
+Total: **384** concursos encontrados.
 
 ---
 
@@ -311,7 +311,7 @@ Total: **377** concursos encontrados.
 
 ---
 
-## PCI (259)
+## PCI (264)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1492,13 +1492,6 @@ Total: **377** concursos encontrados.
 - **Salário máx.:** R$ 6.566,50
 - **Encerramento:** 07/08/2026
 
-### Câmara de Monções
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-moncoes-sp-abre-concurso-publico-para-diretor-geral-e-controlador-interno)
-- **Cargos:** Diretor Geral, Controlador Interno
-- **Órgão/Local:** SP, São Paulo - SP
-- **Salário máx.:** R$ 6.000,00
-- **Encerramento:** 01/08/2026
-
 ### FUNCAMP
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processos-seletivos-com-salarios-de-ate-4523)
 - **Cargos:** Analista de Recursos Humanos Júnior, Auxiliar de Serviços Gerais
@@ -1696,9 +1689,38 @@ Total: **377** concursos encontrados.
 - **Cargos:** Diversos Cargos
 - **Órgão/Local:** AL, Maceió - AL
 
+### DEPA - Diretoria de Educação Preparatória e Assistencial (Exército)
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/decex-brasil-selecao-para-colegios-militares-abre-vagas-em-diversas-cidades)
+- **Cargos:** Aluno do 6º ano do Ensino Fundamental, Aluno do 1º ano do Ensino Médio
+- **Encerramento:** 17/09/2026
+
+### DATAPREV - Empresa de Tecnologia e Informações da Previdência
+[🔗 Edital](https://www.pciconcursos.com.br/apostilas/dataprev)
+- **Salário máx.:** R$ 10.685,44
+- **Encerramento:** 06/08/2026
+
+### DEPA - Diretoria de Educação Preparatória e Assistencial (Exército)
+[🔗 Edital](https://www.pciconcursos.com.br/apostilas/decex)
+- **Cargos:** Aluno do 6º ano do Ensino Fundamental, Aluno do 1º ano do Ensino Médio
+- **Encerramento:** 17/09/2026
+
+### Prefeitura de Santos - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-santos-sp-abre-cinco-editais-de-concursos-publicos)
+- **Órgão/Local:** Santos - SP
+
+### CREA-MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/crea-mg-concurso-publico-oferece-vagas-com-salarios-iniciais-de-ate-13609)
+- **Órgão/Local:** Minas Gerais
+- **Salário máx.:** R$ 13.609,13
+
+### CBMRR - RR
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cbmrr-rr-abre-concurso-p)
+- **Cargos:** soldados, oficiais
+- **Órgão/Local:** Roraima
+
 ---
 
-## PMBlumenau-SC (6)
+## PMBlumenau-SC (8)
 
 ### Prefeitura de Blumenau
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/seidep/seidep/prefeitura-promove-tarde-danacante-para-pessoas-com-deficiaancia-em-blumenau)
@@ -1735,6 +1757,16 @@ Total: **377** concursos encontrados.
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/parque-vila-germanica/parque-vila-germanica/inscriacaoes-abertas-para-o-festival-de-danacas-germaanicas-da-oktoberfest-blumenau30)
 - **Cargos:** Participante, Dançarino
 - **Órgão/Local:** Parque Vila Germanica
+
+### Prefeitura de Blumenau
+[🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/fundacao-cultural/fcblu/canta-sc-recebe-inscricoes-de-bandas-da-regiaao-atae-26-de-agosto84)
+- **Órgão/Local:** SC, Blumenau - SC
+- **Encerramento:** 26/08/2026
+
+### Prefeitura de Blumenau
+[🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/fundacao-de-desportos/fmd/artes-marciais-e-ginaastica-raitmica-movimentam-a-programaacaao-dos-joguinhos-abertos-neste-saabado-dia-1ao9)
+- **Cargos:** Ginástica rítmica, Artes marciais, Luta, Judô, Vôlei, Futsal, Tênis, Tênis de mesa, Bicicross (BMX), Skate street
+- **Órgão/Local:** SC, Blumenau - SC
 
 ---
 
