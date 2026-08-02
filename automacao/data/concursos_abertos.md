@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 01/08/2026_
+_Atualizado em 02/08/2026_
 
-Total: **384** concursos encontrados.
+Total: **387** concursos encontrados.
 
 ---
 
@@ -311,7 +311,7 @@ Total: **384** concursos encontrados.
 
 ---
 
-## PCI (264)
+## PCI (267)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1583,13 +1583,6 @@ Total: **384** concursos encontrados.
 - **Salário máx.:** R$ 4.934,38
 - **Encerramento:** 06/08/2026
 
-### FUNCABES - Fundação Caixa Beneficente dos Servidores da Universidade de Taubaté
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/funcabes-taubate-sp-abre-selecao-para-controlador-interno-escriturario-e-auxiliar-administrativo)
-- **Cargos:** Controlador Interno, Escriturário, Auxiliar Administrativo
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 3.542,75
-- **Encerramento:** 02/08/2026
-
 ### SESAU - Secretaria de Estado da Saúde de Alagoas
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/sesau-al-retifica-concurso-para-especialistas-e-a)
 - **Cargos:** Especialistas em Saúde, Assistentes em Saúde
@@ -1717,6 +1710,29 @@ Total: **384** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/cbmrr-rr-abre-concurso-p)
 - **Cargos:** soldados, oficiais
 - **Órgão/Local:** Roraima
+
+### Câmara de Rifaina
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-rifaina-sp-abre-concurso-com-salarios-de-ate-7018)
+- **Órgão/Local:** Câmara de Rifaina
+- **Salário máx.:** R$ 7.018,00
+- **Encerramento:** 24/08/2026
+
+### CEMMIL - Consórcio Intermunicipal CEMMIL para o Desenvolvimento Sustentável
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/consorcio-intermunicipal-cemmil-sp-abre-selecao-para-a-casa-da-mulher)
+- **Cargos:** Assistente Social, Cuidadora, Educadora Social
+- **Órgão/Local:** Consórcio Intermunicipal CEMMIL para o Desenvolvimento Sustentável
+- **Salário máx.:** R$ 5.167,23
+- **Encerramento:** 10/08/2026
+
+### CIOP - Consórcio Intermunicipal do Oeste Paulista
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ciop-sp-abre-concurso-publico-para-diversos-cargos-com-salarios-de-ate-3741)
+- **Órgão/Local:** Consórcio Intermunicipal do Oeste Paulista
+- **Salário máx.:** R$ 3.741,88
+- **Encerramento:** 16/08/2026
+
+### SEAP - MA
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/seap-ma-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva)
+- **Órgão/Local:** MA, São Luís - MA
 
 ---
 

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-01T10:07:28.760563+00:00",
-    "total_concursos": 384
+    "ultima_coleta": "2026-08-02T10:14:58.112136+00:00",
+    "total_concursos": 387
   },
   "concursos": [
     {
@@ -5345,23 +5345,6 @@
       "data_coleta": "2026-07-24T10:36:22.822512+00:00"
     },
     {
-      "instituicao": "FUNCABES - Fundação Caixa Beneficente dos Servidores da Universidade de Taubaté",
-      "orgao": "SP",
-      "cargos": [
-        "Controlador Interno",
-        "Escriturário",
-        "Auxiliar Administrativo"
-      ],
-      "salario_maximo": "R$ 3.542,75",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/funcabes-taubate-sp-abre-selecao-para-controlador-interno-escriturario-e-auxiliar-administrativo",
-      "data_encerramento": "02/08/2026",
-      "data_publicacao": "2026-07-24",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "d9f62ef9-870d-4da0-ab4a-c9ddaa00ea05",
-      "data_coleta": "2026-07-24T10:36:22.822572+00:00"
-    },
-    {
       "instituicao": "SESAU - Secretaria de Estado da Saúde de Alagoas",
       "orgao": "Alagoas - AL",
       "cargos": [
@@ -5885,6 +5868,62 @@
       "fonte": "PCI",
       "id": "675eb256-342d-4344-bfa1-a6db58f4c5ad",
       "data_coleta": "2026-08-01T10:07:28.760540+00:00"
+    },
+    {
+      "instituicao": "Câmara de Rifaina",
+      "orgao": "Câmara de Rifaina",
+      "cargos": [],
+      "salario_maximo": "R$ 7.018,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-rifaina-sp-abre-concurso-com-salarios-de-ate-7018",
+      "data_encerramento": "24/08/2026",
+      "data_publicacao": "2026-08-02",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "9a5fab05-92f6-4d90-8ef3-c0e40b66af8e",
+      "data_coleta": "2026-08-02T10:14:58.111769+00:00"
+    },
+    {
+      "instituicao": "CEMMIL - Consórcio Intermunicipal CEMMIL para o Desenvolvimento Sustentável",
+      "orgao": "Consórcio Intermunicipal CEMMIL para o Desenvolvimento Sustentável",
+      "cargos": [
+        "Assistente Social",
+        "Cuidadora",
+        "Educadora Social"
+      ],
+      "salario_maximo": "R$ 5.167,23",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/consorcio-intermunicipal-cemmil-sp-abre-selecao-para-a-casa-da-mulher",
+      "data_encerramento": "10/08/2026",
+      "data_publicacao": "2026-08-02",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "622c341e-d83f-4697-8d27-2a526cb40ca1",
+      "data_coleta": "2026-08-02T10:14:58.111821+00:00"
+    },
+    {
+      "instituicao": "CIOP - Consórcio Intermunicipal do Oeste Paulista",
+      "orgao": "Consórcio Intermunicipal do Oeste Paulista",
+      "cargos": [],
+      "salario_maximo": "R$ 3.741,88",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/ciop-sp-abre-concurso-publico-para-diversos-cargos-com-salarios-de-ate-3741",
+      "data_encerramento": "16/08/2026",
+      "data_publicacao": "2026-08-02",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "ef2bb7bc-3b4b-4e70-8e2c-d3b6b21df37e",
+      "data_coleta": "2026-08-02T10:14:58.111842+00:00"
+    },
+    {
+      "instituicao": "SEAP - MA",
+      "orgao": "MA, São Luís - MA",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/seap-ma-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-02",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "9c4bfb14-3998-4e6b-98c6-51f5cfe7f090",
+      "data_coleta": "2026-08-02T10:14:58.112096+00:00"
     }
   ]
 }
