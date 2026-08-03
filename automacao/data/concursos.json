@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-02T10:14:58.112136+00:00",
-    "total_concursos": 387
+    "ultima_coleta": "2026-08-03T11:38:24.483083+00:00",
+    "total_concursos": 388
   },
   "concursos": [
     {
@@ -5924,6 +5924,18 @@
       "fonte": "PCI",
       "id": "9c4bfb14-3998-4e6b-98c6-51f5cfe7f090",
       "data_coleta": "2026-08-02T10:14:58.112096+00:00"
+    },
+    {
+      "instituicao": "SEAP - MA",
+      "orgao": "Maranhão - MA",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/seap-ma-abre-concurso-publico-com",
+      "fonte": "PCI",
+      "status": "aberto",
+      "id": "e993e54b-a0c5-4011-90ef-4209ab1a29ff",
+      "data_coleta": "2026-08-03T11:38:24.483046+00:00",
+      "data_publicacao": "2026-08-03"
     }
   ]
 }

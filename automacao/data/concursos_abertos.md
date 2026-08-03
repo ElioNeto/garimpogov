@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 02/08/2026_
+_Atualizado em 03/08/2026_
 
-Total: **387** concursos encontrados.
+Total: **388** concursos encontrados.
 
 ---
 
@@ -311,7 +311,7 @@ Total: **387** concursos encontrados.
 
 ---
 
-## PCI (267)
+## PCI (268)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1733,6 +1733,10 @@ Total: **387** concursos encontrados.
 ### SEAP - MA
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/seap-ma-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva)
 - **Órgão/Local:** MA, São Luís - MA
+
+### SEAP - MA
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/seap-ma-abre-concurso-publico-com)
+- **Órgão/Local:** Maranhão - MA
 
 ---
 
