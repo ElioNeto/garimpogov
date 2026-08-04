@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 03/08/2026_
+_Atualizado em 04/08/2026_
 
-Total: **388** concursos encontrados.
+Total: **392** concursos encontrados.
 
 ---
 
@@ -129,7 +129,7 @@ Total: **388** concursos encontrados.
 
 ---
 
-## FGV (54)
+## FGV (56)
 
 ### Concurso Público Nacional Unificado 2
 [🔗 Edital](https://conhecimento.fgv.br/cpnu2)
@@ -309,9 +309,15 @@ Total: **388** concursos encontrados.
 [🔗 Edital](https://conhecimento.fgv.br/)
 - **Órgão/Local:** Assembleia Legislativa do Estado de Santa Catarina
 
+### Secretaria de Estado de Saúde do Tocantins e Secretaria de Estado da Administração
+[🔗 Edital](https://conhecimento.fgv.br/concursos/sesto26)
+
+### Faculdade Evangélica Mackenzie do Paraná
+[🔗 Edital](https://conhecimento.fgv.br/processoseletivo/fempar27)
+
 ---
 
-## PCI (268)
+## PCI (270)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1644,13 +1650,6 @@ Total: **388** concursos encontrados.
 - **Salário máx.:** R$ 8.223,63
 - **Encerramento:** 25/08/2026
 
-### FUNCAMP
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-o-cargo-de-ux-designer-junior)
-- **Cargos:** UX Designer Júnior
-- **Órgão/Local:** Fundação de Desenvolvimento da Unicamp
-- **Salário máx.:** R$ 4.250,00
-- **Encerramento:** 04/08/2026
-
 ### SEPLAG/SEDUC - AL
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/seplag-seduc)
 - **Cargos:** Professores
@@ -1737,6 +1736,20 @@ Total: **388** concursos encontrados.
 ### SEAP - MA
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/seap-ma-abre-concurso-publico-com)
 - **Órgão/Local:** Maranhão - MA
+
+### FEUC - Fundação Educacional de São José do Rio Pardo
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/fundacao-educacional-de-sao-jose-do-rio-pardo-sp-abre)
+- **Órgão/Local:** SP, São José do Rio Pardo - SP
+
+### SESAU - AL - Secretaria Estadual de Saúde de Alagoas
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/sesau-al-retifica-concurso-para-especialistas-e-assistentes-em-saud)
+- **Cargos:** Especialistas, Assistentes em Saúde
+- **Órgão/Local:** AL, Alagoas - AL
+
+### SEAD e PM - PI
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/sead-e-pm-pi-retificam-concurso-publico-para-soldado-e-oficial-capelao)
+- **Cargos:** Soldado, Oficial Capelão
+- **Órgão/Local:** Piauí - PI
 
 ---
 

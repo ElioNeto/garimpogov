@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-03T11:38:24.483083+00:00",
-    "total_concursos": 388
+    "ultima_coleta": "2026-08-04T10:50:37.400826+00:00",
+    "total_concursos": 392
   },
   "concursos": [
     {
@@ -5645,21 +5645,6 @@
       "data_coleta": "2026-07-27T11:35:51.140857+00:00"
     },
     {
-      "instituicao": "FUNCAMP",
-      "orgao": "Fundação de Desenvolvimento da Unicamp",
-      "cargos": [
-        "UX Designer Júnior"
-      ],
-      "salario_maximo": "R$ 4.250,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-o-cargo-de-ux-designer-junior",
-      "data_encerramento": "04/08/2026",
-      "data_publicacao": "27/07/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "9843093f-69f3-4fab-8f13-7945a71957d9",
-      "data_coleta": "2026-07-27T11:35:51.140883+00:00"
-    },
-    {
       "instituicao": "SEPLAG/SEDUC - AL",
       "orgao": "SEPLAG/SEDUC - AL",
       "cargos": [
@@ -5936,6 +5921,77 @@
       "id": "e993e54b-a0c5-4011-90ef-4209ab1a29ff",
       "data_coleta": "2026-08-03T11:38:24.483046+00:00",
       "data_publicacao": "2026-08-03"
+    },
+    {
+      "instituicao": "Secretaria de Estado de Saúde do Tocantins e Secretaria de Estado da Administração",
+      "orgao": null,
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br/concursos/sesto26",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-04",
+      "status": null,
+      "fonte": "FGV",
+      "id": "4c0bbcfe-edac-485c-b342-daa32a2445e4",
+      "data_coleta": "2026-08-04T10:50:37.399903+00:00"
+    },
+    {
+      "instituicao": "Faculdade Evangélica Mackenzie do Paraná",
+      "orgao": null,
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br/processoseletivo/fempar27",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-04",
+      "status": null,
+      "fonte": "FGV",
+      "id": "9fb3f93f-afa2-4573-8b21-acedf3547317",
+      "data_coleta": "2026-08-04T10:50:37.399934+00:00"
+    },
+    {
+      "instituicao": "FEUC - Fundação Educacional de São José do Rio Pardo",
+      "orgao": "SP, São José do Rio Pardo - SP",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/fundacao-educacional-de-sao-jose-do-rio-pardo-sp-abre",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-04",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "24a3f3eb-4811-4125-bc7c-ae359a08d688",
+      "data_coleta": "2026-08-04T10:50:37.400438+00:00"
+    },
+    {
+      "instituicao": "SESAU - AL - Secretaria Estadual de Saúde de Alagoas",
+      "orgao": "AL, Alagoas - AL",
+      "cargos": [
+        "Especialistas",
+        "Assistentes em Saúde"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/sesau-al-retifica-concurso-para-especialistas-e-assistentes-em-saud",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-04",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "1f7bd82c-6a25-4f30-ba6a-42086cd1a9cd",
+      "data_coleta": "2026-08-04T10:50:37.400602+00:00"
+    },
+    {
+      "instituicao": "SEAD e PM - PI",
+      "orgao": "Piauí - PI",
+      "cargos": [
+        "Soldado",
+        "Oficial Capelão"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/sead-e-pm-pi-retificam-concurso-publico-para-soldado-e-oficial-capelao",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-04",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "e32a89e7-a536-4565-a48d-5042c4080717",
+      "data_coleta": "2026-08-04T10:50:37.400796+00:00"
     }
   ]
 }
