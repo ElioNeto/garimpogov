@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-04T10:50:37.400826+00:00",
-    "total_concursos": 392
+    "ultima_coleta": "2026-08-05T11:07:35.267416+00:00",
+    "total_concursos": 396
   },
   "concursos": [
     {
@@ -5992,6 +5992,58 @@
       "fonte": "PCI",
       "id": "e32a89e7-a536-4565-a48d-5042c4080717",
       "data_coleta": "2026-08-04T10:50:37.400796+00:00"
+    },
+    {
+      "instituicao": "Companhia de Processamento de Dados do Estado de São Paulo - Prodesp",
+      "orgao": "SP, São Paulo - SP",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://doe.sp.gov.br/relacoes-cargos",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-05",
+      "status": null,
+      "fonte": "DOE-SP",
+      "id": "1ab890ec-19f5-4a12-be2b-434857942782",
+      "data_coleta": "2026-08-05T11:07:35.266782+00:00"
+    },
+    {
+      "instituicao": "Prodesp",
+      "orgao": "SP, São Paulo - SP",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.imprensaoficial.com.br/suplementos/fazenda/IPVA2024/index.asp",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-05",
+      "status": null,
+      "fonte": "DOE-SP",
+      "id": "50ce739c-f291-416a-88f6-663a1a8808ea",
+      "data_coleta": "2026-08-05T11:07:35.266822+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Santos",
+      "orgao": "SP, Santos - SP",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santos-sp-divulga-retificacoes-de-concursos-publicos",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-05",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "0fd48e67-9e92-4321-89ab-9a9141625154",
+      "data_coleta": "2026-08-05T11:07:35.267083+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Salvador",
+      "orgao": "BA, Salvador - BA",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-salvador-ba-abre-concurso-publico-para-profissionais-da-educa",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-05",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "e634c479-9ac9-4e26-af6a-ffcfda322c06",
+      "data_coleta": "2026-08-05T11:07:35.267269+00:00"
     }
   ]
 }

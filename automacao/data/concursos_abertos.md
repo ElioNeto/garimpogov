@@ -1,8 +1,20 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 04/08/2026_
+_Atualizado em 05/08/2026_
 
-Total: **392** concursos encontrados.
+Total: **396** concursos encontrados.
+
+---
+
+## DOE-SP (2)
+
+### Companhia de Processamento de Dados do Estado de São Paulo - Prodesp
+[🔗 Edital](https://doe.sp.gov.br/relacoes-cargos)
+- **Órgão/Local:** SP, São Paulo - SP
+
+### Prodesp
+[🔗 Edital](https://www.imprensaoficial.com.br/suplementos/fazenda/IPVA2024/index.asp)
+- **Órgão/Local:** SP, São Paulo - SP
 
 ---
 
@@ -317,7 +329,7 @@ Total: **392** concursos encontrados.
 
 ---
 
-## PCI (270)
+## PCI (272)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1750,6 +1762,14 @@ Total: **392** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/sead-e-pm-pi-retificam-concurso-publico-para-soldado-e-oficial-capelao)
 - **Cargos:** Soldado, Oficial Capelão
 - **Órgão/Local:** Piauí - PI
+
+### Prefeitura de Santos
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-santos-sp-divulga-retificacoes-de-concursos-publicos)
+- **Órgão/Local:** SP, Santos - SP
+
+### Prefeitura de Salvador
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-salvador-ba-abre-concurso-publico-para-profissionais-da-educa)
+- **Órgão/Local:** BA, Salvador - BA
 
 ---
 
