@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 05/08/2026_
+_Atualizado em 06/08/2026_
 
-Total: **396** concursos encontrados.
+Total: **391** concursos encontrados.
 
 ---
 
@@ -329,7 +329,7 @@ Total: **396** concursos encontrados.
 
 ---
 
-## PCI (272)
+## PCI (267)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1069,13 +1069,6 @@ Total: **396** concursos encontrados.
 - **Salário máx.:** R$ 2.612,44
 - **Encerramento:** 10/08/2026
 
-### FMJ - Faculdade de Medicina de Jundiaí
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/faculdade-de-medicina-de-jundiai-sp-abre-concurso-publico-com-vaga-para-enfermeiro)
-- **Cargos:** Enfermeiro
-- **Órgão/Local:** SP, Jundiaí - SP
-- **Salário máx.:** R$ 10.748,35
-- **Encerramento:** 06/08/2026
-
 ### FUNCAMP - Fundação de Desenvolvimento da Unicamp
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/func)
 - **Órgão/Local:** SP, Campinas - SP
@@ -1360,13 +1353,6 @@ Total: **396** concursos encontrados.
 - **Órgão/Local:** PI
 - **Salário máx.:** R$ 13.536,01
 
-### FMJ - Faculdade de Medicina de Jundiaí
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/faculdade-de-medicina-de-jundiai-sp-retifica-concurso-publico-com-vaga-para-enfermeiro)
-- **Cargos:** Enfermeiro
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 10.748,35
-- **Encerramento:** 06/08/2026
-
 ### SESAU
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/sesau-al-ab)
 - **Cargos:** Especialistas, Assistentes em saúde
@@ -1403,12 +1389,6 @@ Total: **396** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/c)
 - **Cargos:** Oficiais
 - **Órgão/Local:** MA
-
-### FEA
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/fea-sp-abre-processo-seletivo-para-vagas-imediatas-e-formacao-de-cadastro-de-reserva)
-- **Órgão/Local:** Fundação Educacional de Andradina
-- **Salário máx.:** R$ 2.310,00
-- **Encerramento:** 06/08/2026
 
 ### Prefeitura de Primavera do Leste
 [🔗 Edital](https://www.pciconcursos.com.br/n)
@@ -1510,13 +1490,6 @@ Total: **396** concursos encontrados.
 - **Salário máx.:** R$ 6.566,50
 - **Encerramento:** 07/08/2026
 
-### FUNCAMP
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processos-seletivos-com-salarios-de-ate-4523)
-- **Cargos:** Analista de Recursos Humanos Júnior, Auxiliar de Serviços Gerais
-- **Órgão/Local:** Fundação de Desenvolvimento da Unicamp
-- **Salário máx.:** R$ 4.523,95
-- **Encerramento:** 06/08/2026
-
 ### Companhia Docas do Pará
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/companhia-docas-do-para-divulga-retificacoes-de-concursos-publicos)
 - **Órgão/Local:** PA
@@ -1595,12 +1568,6 @@ Total: **396** concursos encontrados.
 - **Salário máx.:** R$ 14.504,38
 - **Encerramento:** 21/08/2026
 
-### FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-sp-abre-processos-seletivos-com-vagas-para-diversas-areas)
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 4.934,38
-- **Encerramento:** 06/08/2026
-
 ### SESAU - Secretaria de Estado da Saúde de Alagoas
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/sesau-al-retifica-concurso-para-especialistas-e-a)
 - **Cargos:** Especialistas em Saúde, Assistentes em Saúde
@@ -1649,12 +1616,6 @@ Total: **396** concursos encontrados.
 - **Salário máx.:** R$ 4.365,04
 - **Encerramento:** 23/08/2026
 
-### FAMESP
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-sp-abre-editais-de-processos-seletivos-para-diferentes-niveis-de-escolaridade)
-- **Órgão/Local:** Fundação para o Desenvolvimento Médico e Hospitalar
-- **Salário máx.:** R$ 4.212,80
-- **Encerramento:** 06/08/2026
-
 ### FUNCAMP
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-vaga-para-medico-ginecologista-oncologico-no-caism)
 - **Cargos:** Médico Ginecologista Oncológico
@@ -1697,11 +1658,6 @@ Total: **396** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/decex-brasil-selecao-para-colegios-militares-abre-vagas-em-diversas-cidades)
 - **Cargos:** Aluno do 6º ano do Ensino Fundamental, Aluno do 1º ano do Ensino Médio
 - **Encerramento:** 17/09/2026
-
-### DATAPREV - Empresa de Tecnologia e Informações da Previdência
-[🔗 Edital](https://www.pciconcursos.com.br/apostilas/dataprev)
-- **Salário máx.:** R$ 10.685,44
-- **Encerramento:** 06/08/2026
 
 ### DEPA - Diretoria de Educação Preparatória e Assistencial (Exército)
 [🔗 Edital](https://www.pciconcursos.com.br/apostilas/decex)
@@ -1770,6 +1726,15 @@ Total: **396** concursos encontrados.
 ### Prefeitura de Salvador
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-salvador-ba-abre-concurso-publico-para-profissionais-da-educa)
 - **Órgão/Local:** BA, Salvador - BA
+
+### SAPE
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/sape-sc-retifica-edital-do-concurso-publico-para-analista-tecnico-administrativo-ii)
+- **Cargos:** Analista Técnico Administrativo II
+- **Órgão/Local:** SC, SAPE - Santa Catarina
+
+### SEAP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/seap-ma-abre-concurso-publ)
+- **Órgão/Local:** MA, SEAP - Maranhão
 
 ---
 

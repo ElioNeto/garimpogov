@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-05T11:07:35.267416+00:00",
-    "total_concursos": 396
+    "ultima_coleta": "2026-08-06T10:53:21.224878+00:00",
+    "total_concursos": 391
   },
   "concursos": [
     {
@@ -3424,21 +3424,6 @@
       "data_coleta": "2026-06-29T12:47:35.778953+00:00"
     },
     {
-      "instituicao": "FMJ - Faculdade de Medicina de Jundiaí",
-      "orgao": "SP, Jundiaí - SP",
-      "cargos": [
-        "Enfermeiro"
-      ],
-      "salario_maximo": "R$ 10.748,35",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/faculdade-de-medicina-de-jundiai-sp-abre-concurso-publico-com-vaga-para-enfermeiro",
-      "data_encerramento": "06/08/2026",
-      "data_publicacao": "29/06/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "bdf2fb01-0ae4-4e3b-bfe9-4328bf1cf5a7",
-      "data_coleta": "2026-06-29T12:47:35.779002+00:00"
-    },
-    {
       "instituicao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
       "orgao": "SP, Campinas - SP",
       "cargos": [],
@@ -4502,21 +4487,6 @@
       "data_coleta": "2026-07-14T10:08:18.460162+00:00"
     },
     {
-      "instituicao": "FMJ - Faculdade de Medicina de Jundiaí",
-      "orgao": "SP",
-      "cargos": [
-        "Enfermeiro"
-      ],
-      "salario_maximo": "R$ 10.748,35",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/faculdade-de-medicina-de-jundiai-sp-retifica-concurso-publico-com-vaga-para-enfermeiro",
-      "data_encerramento": "06/08/2026",
-      "data_publicacao": "14/07/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "75537832-0521-4247-a623-e8d73f72cb4a",
-      "data_coleta": "2026-07-14T10:08:18.460480+00:00"
-    },
-    {
       "instituicao": "SESAU",
       "orgao": "AL",
       "cargos": [
@@ -4638,19 +4608,6 @@
       "id": "ae2efc39-0f6a-441f-b5fd-468dfbcf6720",
       "data_coleta": "2026-07-16T10:44:35.286351+00:00",
       "data_publicacao": "2026-07-16"
-    },
-    {
-      "instituicao": "FEA",
-      "orgao": "Fundação Educacional de Andradina",
-      "cargos": [],
-      "salario_maximo": "R$ 2.310,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/fea-sp-abre-processo-seletivo-para-vagas-imediatas-e-formacao-de-cadastro-de-reserva",
-      "data_encerramento": "06/08/2026",
-      "data_publicacao": "2026-07-17",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "ab4ce9be-b303-4dc1-86d7-12f7943b6540",
-      "data_coleta": "2026-07-17T10:13:27.565400+00:00"
     },
     {
       "instituicao": "Prefeitura de Primavera do Leste",
@@ -5028,22 +4985,6 @@
       "data_coleta": "2026-07-21T10:40:11.529098+00:00"
     },
     {
-      "instituicao": "FUNCAMP",
-      "orgao": "Fundação de Desenvolvimento da Unicamp",
-      "cargos": [
-        "Analista de Recursos Humanos Júnior",
-        "Auxiliar de Serviços Gerais"
-      ],
-      "salario_maximo": "R$ 4.523,95",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processos-seletivos-com-salarios-de-ate-4523",
-      "data_encerramento": "06/08/2026",
-      "data_publicacao": "21/07/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "515b2d49-670f-44a1-b91f-4be25f40cdeb",
-      "data_coleta": "2026-07-21T10:40:11.529360+00:00"
-    },
-    {
       "instituicao": "Companhia Docas do Pará",
       "orgao": "PA",
       "cargos": [],
@@ -5332,19 +5273,6 @@
       "data_coleta": "2026-07-24T10:36:22.822301+00:00"
     },
     {
-      "instituicao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
-      "orgao": "SP",
-      "cargos": [],
-      "salario_maximo": "R$ 4.934,38",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/famesp-sp-abre-processos-seletivos-com-vagas-para-diversas-areas",
-      "data_encerramento": "06/08/2026",
-      "data_publicacao": "2026-07-24",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "adc8a2c2-26e7-420c-ae15-9aed7c41029a",
-      "data_coleta": "2026-07-24T10:36:22.822512+00:00"
-    },
-    {
       "instituicao": "SESAU - Secretaria de Estado da Saúde de Alagoas",
       "orgao": "Alagoas - AL",
       "cargos": [
@@ -5617,19 +5545,6 @@
       "data_coleta": "2026-07-27T11:35:51.140713+00:00"
     },
     {
-      "instituicao": "FAMESP",
-      "orgao": "Fundação para o Desenvolvimento Médico e Hospitalar",
-      "cargos": [],
-      "salario_maximo": "R$ 4.212,80",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/famesp-sp-abre-editais-de-processos-seletivos-para-diferentes-niveis-de-escolaridade",
-      "data_encerramento": "06/08/2026",
-      "data_publicacao": "27/07/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "25dc46e6-c96e-4cc4-819b-1ea85eda4129",
-      "data_coleta": "2026-07-27T11:35:51.140783+00:00"
-    },
-    {
       "instituicao": "FUNCAMP",
       "orgao": "Fundação de Desenvolvimento da Unicamp",
       "cargos": [
@@ -5782,19 +5697,6 @@
       "fonte": "PCI",
       "id": "beb5f021-ee1d-4508-b90a-eb33b3cd89dd",
       "data_coleta": "2026-08-01T10:07:28.760309+00:00"
-    },
-    {
-      "instituicao": "DATAPREV - Empresa de Tecnologia e Informações da Previdência",
-      "orgao": null,
-      "cargos": [],
-      "salario_maximo": "R$ 10.685,44",
-      "link_edital": "https://www.pciconcursos.com.br/apostilas/dataprev",
-      "data_encerramento": "06/08/2026",
-      "data_publicacao": "2026-08-01",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "49550f19-0aa3-46d1-a410-5dad85c4e880",
-      "data_coleta": "2026-08-01T10:07:28.760357+00:00"
     },
     {
       "instituicao": "DEPA - Diretoria de Educação Preparatória e Assistencial (Exército)",
@@ -6044,6 +5946,34 @@
       "fonte": "PCI",
       "id": "e634c479-9ac9-4e26-af6a-ffcfda322c06",
       "data_coleta": "2026-08-05T11:07:35.267269+00:00"
+    },
+    {
+      "instituicao": "SAPE",
+      "orgao": "SC, SAPE - Santa Catarina",
+      "cargos": [
+        "Analista Técnico Administrativo II"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/sape-sc-retifica-edital-do-concurso-publico-para-analista-tecnico-administrativo-ii",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-06",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "33aba584-cfbf-4fc1-91e7-15a9f5d54e73",
+      "data_coleta": "2026-08-06T10:53:21.224673+00:00"
+    },
+    {
+      "instituicao": "SEAP",
+      "orgao": "MA, SEAP - Maranhão",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/seap-ma-abre-concurso-publ",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-06",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "46cace4e-b6fe-4500-a72e-e35875a9d1a1",
+      "data_coleta": "2026-08-06T10:53:21.224753+00:00"
     }
   ]
 }
