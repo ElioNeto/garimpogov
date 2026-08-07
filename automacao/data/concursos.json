@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-06T10:53:21.224878+00:00",
-    "total_concursos": 391
+    "ultima_coleta": "2026-08-07T09:14:51.195941+00:00",
+    "total_concursos": 401
   },
   "concursos": [
     {
@@ -4972,19 +4972,6 @@
       "data_coleta": "2026-07-21T10:40:11.528915+00:00"
     },
     {
-      "instituicao": "Prefeitura de Andradina",
-      "orgao": "SP, São Paulo - SP",
-      "cargos": [],
-      "salario_maximo": "R$ 6.566,50",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-andradina-sp-retifica-concurso-publico-com-salarios-de-ate-6566",
-      "data_encerramento": "07/08/2026",
-      "data_publicacao": "21/07/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "21977294-3a4c-4118-95d4-d8873c2a662f",
-      "data_coleta": "2026-07-21T10:40:11.529098+00:00"
-    },
-    {
       "instituicao": "Companhia Docas do Pará",
       "orgao": "PA",
       "cargos": [],
@@ -5575,19 +5562,6 @@
       "data_coleta": "2026-07-28T10:50:25.141984+00:00"
     },
     {
-      "instituicao": "Prefeitura de Embu das Artes",
-      "orgao": "SP",
-      "cargos": [],
-      "salario_maximo": "R$ 4.166,79",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-embu-das-artes-sp-abre-concurso-publico-com-vagas-na-educacao",
-      "data_encerramento": "07/08/2026",
-      "data_publicacao": "2026-07-30",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "7bb7c38c-e066-4901-8de1-9f50e8891d86",
-      "data_coleta": "2026-07-30T10:45:26.506660+00:00"
-    },
-    {
       "instituicao": "Prefeitura de Taubaté",
       "orgao": "SP",
       "cargos": [
@@ -5974,6 +5948,170 @@
       "fonte": "PCI",
       "id": "46cace4e-b6fe-4500-a72e-e35875a9d1a1",
       "data_coleta": "2026-08-06T10:53:21.224753+00:00"
+    },
+    {
+      "instituicao": "Fundação Cultural de Blumenau",
+      "orgao": "SC, Blumenau - SC",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.blumenau.sc.gov.br/secretarias/fundacao-cultural/fcblu/6ao-edital-herbert-holetz-recebe-57-sugestaoes-dos-blumenauenses40",
+      "data_encerramento": null,
+      "data_publicacao": "05/08/2026",
+      "status": "aberto",
+      "fonte": "PMBlumenau-SC",
+      "id": "5aa5d6df-f7c8-4e5a-aeb7-3d374a004ece",
+      "data_coleta": "2026-08-07T09:14:51.194965+00:00"
+    },
+    {
+      "instituicao": "TCESP - Tribunal de Contas do Estado de São Paulo",
+      "orgao": "SP, São Paulo - SP",
+      "cargos": [
+        "Auditor de Controle Externo"
+      ],
+      "salario_maximo": "R$ 20.940,20",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/tce-sp-prorroga-inscricoes-do-concurso-publico-para-auditor-de-controle-externo",
+      "data_encerramento": "20/08/2026",
+      "data_publicacao": "2026-08-07",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "25ee1fad-c550-4ca5-951f-bbe4f45c99de",
+      "data_coleta": "2026-08-07T09:14:51.195147+00:00"
+    },
+    {
+      "instituicao": "Autarquia Municipal de Saúde de Itapecerica da Serra",
+      "orgao": "SP, Itapecerica da Serra - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 11.576,25",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/autarquia-municipal-de-saude-de-itapecerica-da-serra-sp-abre-concurso-publico-com-salarios-de-ate-11576",
+      "data_encerramento": "08/09/2026",
+      "data_publicacao": "2026-08-07",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "2ddb233d-effe-4cc6-9a5e-019fb8790ea7",
+      "data_coleta": "2026-08-07T09:14:51.195187+00:00"
+    },
+    {
+      "instituicao": "CIOP - Consórcio Intermunicipal do Oeste Paulista",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": "R$ 3.741,88",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/ciop-sp-divulga-retificacao-do-concurso-publico-com-salarios-de-ate-3741",
+      "data_encerramento": "16/08/2026",
+      "data_publicacao": "2026-08-07",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "bc8937d8-8b26-47e4-9766-1d7d07c0322f",
+      "data_coleta": "2026-08-07T09:14:51.195293+00:00"
+    },
+    {
+      "instituicao": "FEUC - Fundação Educacional de São José do Rio Pardo",
+      "orgao": "SP, São José do Rio Pardo - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 2.084,48",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/fundacao-educacional-de-sao-jose-do-rio-pardo-sp-abre-concurso-publico-para-formacao-de-cadastro-de-reserva",
+      "data_encerramento": "17/08/2026",
+      "data_publicacao": "2026-08-07",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "9680a3b6-a5d1-41da-a332-5210eff997f1",
+      "data_coleta": "2026-08-07T09:14:51.195340+00:00"
+    },
+    {
+      "instituicao": "FHSL - Fundação Hospital Santa Lydia",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": "R$ 4.248,98",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-abre-processo-seletivo-com-salarios-de-ate-4248",
+      "data_encerramento": "17/08/2026",
+      "data_publicacao": "2026-08-07",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "e4a3b21b-baeb-45de-9f8c-1d89ecb8a4d5",
+      "data_coleta": "2026-08-07T09:14:51.195369+00:00"
+    },
+    {
+      "instituicao": "FSA - Fundação Santo André",
+      "orgao": "SP, Santo André - SP",
+      "cargos": [
+        "Consultor Jurídico"
+      ],
+      "salario_maximo": "R$ 5.771,75",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-publico-para-o-cargo-de-consultor-juridico",
+      "data_encerramento": "03/09/2026",
+      "data_publicacao": "2026-08-07",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "59c727f7-4116-48b8-8256-20a386e0fe21",
+      "data_coleta": "2026-08-07T09:14:51.195399+00:00"
+    },
+    {
+      "instituicao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+      "orgao": "SP, Campinas - SP",
+      "cargos": [
+        "Analista Desenvolvedor Mobile Pleno"
+      ],
+      "salario_maximo": "R$ 7.492,43",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-analista-desenvolvedor-mobile-pleno",
+      "data_encerramento": "13/08/2026",
+      "data_publicacao": "2026-08-07",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "1ab41a5d-8476-4d6d-a999-b0a2f8075137",
+      "data_coleta": "2026-08-07T09:14:51.195445+00:00"
+    },
+    {
+      "instituicao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+      "orgao": "SP, Campinas - SP",
+      "cargos": [
+        "Médico Oncologista"
+      ],
+      "salario_maximo": "R$ 7.606,53",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-cargo-de-medico-oncologista-no-hc",
+      "data_encerramento": "18/08/2026",
+      "data_publicacao": "2026-08-07",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "cf59d703-387a-4200-8a0d-a1f8d216c62e",
+      "data_coleta": "2026-08-07T09:14:51.195474+00:00"
+    },
+    {
+      "instituicao": "ABGF",
+      "orgao": "Brasil",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/abgf-prorroga-inscricoes-do-concurso-publico-com-vagas-para-cargos-de-nivel-superior",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-07",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "a57448e1-14c6-4f72-aca8-7feddb9dff2c",
+      "data_coleta": "2026-08-07T09:14:51.195624+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Embu das Artes - SP",
+      "orgao": "Embu das Artes - SP",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-embu-das-artes-sp-abre-concurso-publico-com-vagas-na-educacao",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-07",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "c431076b-a568-4672-ac60-00117865e135",
+      "data_coleta": "2026-08-07T09:14:51.195779+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Andradina - SP",
+      "orgao": "Andradina - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 6.566,50",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-andradina-sp-retifica-concurso-publico-com-salarios-de-ate-6566",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-07",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "46ccb064-d590-4f85-b6dc-29ecd082ab91",
+      "data_coleta": "2026-08-07T09:14:51.195825+00:00"
     }
   ]
 }

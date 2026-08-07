@@ -1,8 +1,8 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 06/08/2026_
+_Atualizado em 07/08/2026_
 
-Total: **14** concursos encontrados.
+Total: **15** concursos encontrados.
 
 ---
 
@@ -75,7 +75,7 @@ Total: **14** concursos encontrados.
 
 ---
 
-## PCI (2)
+## PCI (3)
 
 ### CRA - PR
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/cra-pr-retifica-concurso-publico-com-salarios-de-ate-10600)
@@ -87,6 +87,13 @@ Total: **14** concursos encontrados.
 ### DATAPREV - Empresa de Tecnologia e Informações da Previdência
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/dataprev-abre-concurso-publico-com-v)
 - **Salário máx.:** R$ 10.685,44
+
+### FUNCAMP - Fundação de Desenvolvimento da Unicamp
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-analista-desenvolvedor-mobile-pleno)
+- **Cargos:** Analista Desenvolvedor Mobile Pleno
+- **Órgão/Local:** SP, Campinas - SP
+- **Salário máx.:** R$ 7.492,43
+- **Encerramento:** 13/08/2026
 
 ---
 

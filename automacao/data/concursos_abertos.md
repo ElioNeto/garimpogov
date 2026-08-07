@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 06/08/2026_
+_Atualizado em 07/08/2026_
 
-Total: **391** concursos encontrados.
+Total: **401** concursos encontrados.
 
 ---
 
@@ -329,7 +329,7 @@ Total: **391** concursos encontrados.
 
 ---
 
-## PCI (267)
+## PCI (276)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1484,12 +1484,6 @@ Total: **391** concursos encontrados.
 - **Cargos:** Soldado, Oficial Capelão
 - **Órgão/Local:** PI
 
-### Prefeitura de Andradina
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-andradina-sp-retifica-concurso-publico-com-salarios-de-ate-6566)
-- **Órgão/Local:** SP, São Paulo - SP
-- **Salário máx.:** R$ 6.566,50
-- **Encerramento:** 07/08/2026
-
 ### Companhia Docas do Pará
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/companhia-docas-do-para-divulga-retificacoes-de-concursos-publicos)
 - **Órgão/Local:** PA
@@ -1628,12 +1622,6 @@ Total: **391** concursos encontrados.
 - **Cargos:** Professores
 - **Órgão/Local:** SEPLAG/SEDUC - AL
 
-### Prefeitura de Embu das Artes
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-embu-das-artes-sp-abre-concurso-publico-com-vagas-na-educacao)
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 4.166,79
-- **Encerramento:** 07/08/2026
-
 ### Prefeitura de Taubaté
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-taubate-sp-retifica-concursos-publicos-com-vagas-para-diversas-areas)
 - **Cargos:** Diversas áreas
@@ -1736,9 +1724,74 @@ Total: **391** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/seap-ma-abre-concurso-publ)
 - **Órgão/Local:** MA, SEAP - Maranhão
 
+### TCESP - Tribunal de Contas do Estado de São Paulo
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/tce-sp-prorroga-inscricoes-do-concurso-publico-para-auditor-de-controle-externo)
+- **Cargos:** Auditor de Controle Externo
+- **Órgão/Local:** SP, São Paulo - SP
+- **Salário máx.:** R$ 20.940,20
+- **Encerramento:** 20/08/2026
+
+### Autarquia Municipal de Saúde de Itapecerica da Serra
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/autarquia-municipal-de-saude-de-itapecerica-da-serra-sp-abre-concurso-publico-com-salarios-de-ate-11576)
+- **Órgão/Local:** SP, Itapecerica da Serra - SP
+- **Salário máx.:** R$ 11.576,25
+- **Encerramento:** 08/09/2026
+
+### CIOP - Consórcio Intermunicipal do Oeste Paulista
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ciop-sp-divulga-retificacao-do-concurso-publico-com-salarios-de-ate-3741)
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 3.741,88
+- **Encerramento:** 16/08/2026
+
+### FEUC - Fundação Educacional de São José do Rio Pardo
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/fundacao-educacional-de-sao-jose-do-rio-pardo-sp-abre-concurso-publico-para-formacao-de-cadastro-de-reserva)
+- **Órgão/Local:** SP, São José do Rio Pardo - SP
+- **Salário máx.:** R$ 2.084,48
+- **Encerramento:** 17/08/2026
+
+### FHSL - Fundação Hospital Santa Lydia
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-abre-processo-seletivo-com-salarios-de-ate-4248)
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 4.248,98
+- **Encerramento:** 17/08/2026
+
+### FSA - Fundação Santo André
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-publico-para-o-cargo-de-consultor-juridico)
+- **Cargos:** Consultor Jurídico
+- **Órgão/Local:** SP, Santo André - SP
+- **Salário máx.:** R$ 5.771,75
+- **Encerramento:** 03/09/2026
+
+### FUNCAMP - Fundação de Desenvolvimento da Unicamp
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-analista-desenvolvedor-mobile-pleno)
+- **Cargos:** Analista Desenvolvedor Mobile Pleno
+- **Órgão/Local:** SP, Campinas - SP
+- **Salário máx.:** R$ 7.492,43
+- **Encerramento:** 13/08/2026
+
+### FUNCAMP - Fundação de Desenvolvimento da Unicamp
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-cargo-de-medico-oncologista-no-hc)
+- **Cargos:** Médico Oncologista
+- **Órgão/Local:** SP, Campinas - SP
+- **Salário máx.:** R$ 7.606,53
+- **Encerramento:** 18/08/2026
+
+### ABGF
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/abgf-prorroga-inscricoes-do-concurso-publico-com-vagas-para-cargos-de-nivel-superior)
+- **Órgão/Local:** Brasil
+
+### Prefeitura de Embu das Artes - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-embu-das-artes-sp-abre-concurso-publico-com-vagas-na-educacao)
+- **Órgão/Local:** Embu das Artes - SP
+
+### Prefeitura de Andradina - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-andradina-sp-retifica-concurso-publico-com-salarios-de-ate-6566)
+- **Órgão/Local:** Andradina - SP
+- **Salário máx.:** R$ 6.566,50
+
 ---
 
-## PMBlumenau-SC (8)
+## PMBlumenau-SC (9)
 
 ### Prefeitura de Blumenau
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/seidep/seidep/prefeitura-promove-tarde-danacante-para-pessoas-com-deficiaancia-em-blumenau)
@@ -1784,6 +1837,10 @@ Total: **391** concursos encontrados.
 ### Prefeitura de Blumenau
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/fundacao-de-desportos/fmd/artes-marciais-e-ginaastica-raitmica-movimentam-a-programaacaao-dos-joguinhos-abertos-neste-saabado-dia-1ao9)
 - **Cargos:** Ginástica rítmica, Artes marciais, Luta, Judô, Vôlei, Futsal, Tênis, Tênis de mesa, Bicicross (BMX), Skate street
+- **Órgão/Local:** SC, Blumenau - SC
+
+### Fundação Cultural de Blumenau
+[🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/fundacao-cultural/fcblu/6ao-edital-herbert-holetz-recebe-57-sugestaoes-dos-blumenauenses40)
 - **Órgão/Local:** SC, Blumenau - SC
 
 ---
