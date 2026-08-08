@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-07T09:14:51.195941+00:00",
-    "total_concursos": 401
+    "ultima_coleta": "2026-08-08T08:50:59.338315+00:00",
+    "total_concursos": 402
   },
   "concursos": [
     {
@@ -6112,6 +6112,22 @@
       "fonte": "PCI",
       "id": "46ccb064-d590-4f85-b6dc-29ecd082ab91",
       "data_coleta": "2026-08-07T09:14:51.195825+00:00"
+    },
+    {
+      "instituicao": "LAMEF",
+      "orgao": "LAMEF",
+      "cargos": [
+        "Engenheiro Sênior I de Poços",
+        "Engenheiro Profissional Júnior"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosFaurgs/emandamento/1280-092026lamef",
+      "data_encerramento": "13/08/2026",
+      "data_publicacao": "2026-08-08",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "f7bac832-1cb2-494b-9639-715b913503b6",
+      "data_coleta": "2026-08-08T08:50:59.337973+00:00"
     }
   ]
 }

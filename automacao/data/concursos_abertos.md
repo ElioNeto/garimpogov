@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 07/08/2026_
+_Atualizado em 08/08/2026_
 
-Total: **401** concursos encontrados.
+Total: **402** concursos encontrados.
 
 ---
 
@@ -36,7 +36,7 @@ Total: **401** concursos encontrados.
 
 ---
 
-## FAURGS (20)
+## FAURGS (21)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -138,6 +138,12 @@ Total: **401** concursos encontrados.
 - **Cargos:** ANALISTA I (Produção Audiovisual), ASSISTENTE I (Assistente de Pesquisa Clínica), ASSISTENTE I (Assistente de Pesquisa em Bioinformática), FONOAUDIÓLOGO I (Disfagia), FONOAUDIÓLOGO I (Fonoterapia), MÉDICO I (Alergia e Imunologia), MÉDICO I (Medicina Paliativa), MÉDICO I (Psiquiatria da Infância e Adolescência), MÉDICO I (Tratamento da Dor), RELAÇÕES PÚBLICAS I, TÉCNICO DE ENFERMAGEM (Cuidados Coronarianos), TÉCNICO DE MANUTENÇÃO III (Técnico de Manutenção Predial Obras e Pintura)
 - **Órgão/Local:** HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 - **Encerramento:** 10/08/2026
+
+### LAMEF
+[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1280-092026lamef)
+- **Cargos:** Engenheiro Sênior I de Poços, Engenheiro Profissional Júnior
+- **Órgão/Local:** LAMEF
+- **Encerramento:** 13/08/2026
 
 ---
 
