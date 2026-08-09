@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-08T08:50:59.338315+00:00",
-    "total_concursos": 402
+    "ultima_coleta": "2026-08-09T08:58:09.910458+00:00",
+    "total_concursos": 404
   },
   "concursos": [
     {
@@ -6128,6 +6128,33 @@
       "fonte": "FAURGS",
       "id": "f7bac832-1cb2-494b-9639-715b913503b6",
       "data_coleta": "2026-08-08T08:50:59.337973+00:00"
+    },
+    {
+      "instituicao": "Fundação Cultural de Blumenau",
+      "orgao": "Blumenau - SC",
+      "cargos": [
+        "Projetos Culturais"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.blumenau.sc.gov.br/secretarias/fundacao-cultural/fcblu/cultura-divulga-projetos-aprovados-na-etapa-seletiva-da-lei-aldir-blanc15",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-09",
+      "status": "concluído",
+      "fonte": "PMBlumenau-SC",
+      "id": "570c30c6-3f29-4d22-80fc-678e70ff7122",
+      "data_coleta": "2026-08-09T08:58:09.910220+00:00"
+    },
+    {
+      "instituicao": "DATAPREV - Empresa de Tecnologia e Informações da Previdência",
+      "orgao": "DATAPREV",
+      "cargos": [],
+      "salario_maximo": "R$ 10.685,44",
+      "link_edital": "https://www.pciconcursos",
+      "fonte": "PCI",
+      "status": "aberto",
+      "id": "dcd3da3d-5f01-4df6-9582-f7090c9f057a",
+      "data_coleta": "2026-08-09T08:58:09.910427+00:00",
+      "data_publicacao": "2026-08-09"
     }
   ]
 }

@@ -1,8 +1,8 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 08/08/2026_
+_Atualizado em 09/08/2026_
 
-Total: **15** concursos encontrados.
+Total: **16** concursos encontrados.
 
 ---
 
@@ -75,7 +75,7 @@ Total: **15** concursos encontrados.
 
 ---
 
-## PCI (3)
+## PCI (4)
 
 ### CRA - PR
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/cra-pr-retifica-concurso-publico-com-salarios-de-ate-10600)
@@ -94,6 +94,11 @@ Total: **15** concursos encontrados.
 - **Órgão/Local:** SP, Campinas - SP
 - **Salário máx.:** R$ 7.492,43
 - **Encerramento:** 13/08/2026
+
+### DATAPREV - Empresa de Tecnologia e Informações da Previdência
+[🔗 Edital](https://www.pciconcursos)
+- **Órgão/Local:** DATAPREV
+- **Salário máx.:** R$ 10.685,44
 
 ---
 
