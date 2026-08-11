@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-10T09:40:39.082881+00:00",
-    "total_concursos": 404
+    "ultima_coleta": "2026-08-11T09:09:37.112372+00:00",
+    "total_concursos": 405
   },
   "concursos": [
     {
@@ -6131,6 +6131,22 @@
       "fonte": "PCI",
       "id": "cf9ce270-999c-48de-8c9e-9fe3db4ea8e8",
       "data_coleta": "2026-08-10T09:40:39.082655+00:00"
+    },
+    {
+      "instituicao": "BANRISUL",
+      "orgao": "BANRISUL",
+      "cargos": [
+        "C01 - Engenheiro Sênior I de Poços",
+        "C02 - Engenheiro Profissional Júnior"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/1280-092026lamef",
+      "data_encerramento": null,
+      "data_publicacao": "07/08/2026",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "efff9cb9-1442-428d-a4e6-7e87d6415d35",
+      "data_coleta": "2026-08-11T09:09:37.111831+00:00"
     }
   ]
 }

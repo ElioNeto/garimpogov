@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 10/08/2026_
+_Atualizado em 11/08/2026_
 
-Total: **404** concursos encontrados.
+Total: **405** concursos encontrados.
 
 ---
 
@@ -36,7 +36,7 @@ Total: **404** concursos encontrados.
 
 ---
 
-## FAURGS (19)
+## FAURGS (20)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -132,6 +132,11 @@ Total: **404** concursos encontrados.
 - **Cargos:** Engenheiro Sênior I de Poços, Engenheiro Profissional Júnior
 - **Órgão/Local:** LAMEF
 - **Encerramento:** 13/08/2026
+
+### BANRISUL
+[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1280-092026lamef)
+- **Cargos:** C01 - Engenheiro Sênior I de Poços, C02 - Engenheiro Profissional Júnior
+- **Órgão/Local:** BANRISUL
 
 ---
 
