@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-11T09:09:37.112372+00:00",
-    "total_concursos": 405
+    "ultima_coleta": "2026-08-12T09:37:49.459951+00:00",
+    "total_concursos": 416
   },
   "concursos": [
     {
@@ -6147,6 +6147,176 @@
       "fonte": "FAURGS",
       "id": "efff9cb9-1442-428d-a4e6-7e87d6415d35",
       "data_coleta": "2026-08-11T09:09:37.111831+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Bauru",
+      "orgao": "SP, Bauru - SP",
+      "cargos": [
+        "merendeira",
+        "médico",
+        "professor de arte"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bauru-sp-abre-concursos-com-vagas-para-merendeira-medico-e-professor-de-arte",
+      "data_encerramento": "17/09/2026",
+      "data_publicacao": "2026-08-12",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "49863358-38dc-4853-8be4-f46fc00c0fcc",
+      "data_coleta": "2026-08-12T09:37:49.459632+00:00"
+    },
+    {
+      "instituicao": "SEPLAG",
+      "orgao": "AL, Alagoas - AL",
+      "cargos": [
+        "Agente",
+        "Escrivão"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/seplag-al-publica-edital-de-concurso-publico-para-agente-e-escrivao-na-policia-civil",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-12",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "1649e951-8ca3-4575-8d5a-ddefff50b9c0",
+      "data_coleta": "2026-08-12T09:37:49.459671+00:00"
+    },
+    {
+      "instituicao": "Polícia Civil",
+      "orgao": "BA, Bahia - BA",
+      "cargos": [
+        "Delegado",
+        "Investigador",
+        "Escrivão"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/policia-civil-ba-abre-concurso-publico-para-delegado-investigador-e-escrivao",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-12",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "0c9e13ac-53fb-456f-bf33-1917559fe529",
+      "data_coleta": "2026-08-12T09:37:49.459690+00:00"
+    },
+    {
+      "instituicao": "Polícia Civil",
+      "orgao": "MA, Mato Grosso do Sul - MA",
+      "cargos": [
+        "Delegado"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/policia-civil-ma-abre-concurso-publico-com-58-vagas-imediatas-para-delegado",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-12",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "e014ec0b-1b4c-4a4b-8fb6-10648eb6571e",
+      "data_coleta": "2026-08-12T09:37:49.459708+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Guapimirim",
+      "orgao": "RJ, Guapimirim - RJ",
+      "cargos": [
+        "Professor"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guapimirim-rj-abre-concurso-publico-com-vagas-para-professores",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-12",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "a16371fb-0ce4-4e94-9a4d-8eca3ed22b7b",
+      "data_coleta": "2026-08-12T09:37:49.459745+00:00"
+    },
+    {
+      "instituicao": "Polícia Civil - PR",
+      "orgao": "PR, Curitiba - PR",
+      "cargos": [
+        "Cargos diversos"
+      ],
+      "salario_maximo": "R$ 26.876,48",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/policia-civil-pr-retifica-edital-de-concurso-publico-com-remuneracoes-de-ate-26876",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-12",
+      "status": "retificado",
+      "fonte": "PCI",
+      "id": "701cf333-41a2-4483-8be1-85c54c162313",
+      "data_coleta": "2026-08-12T09:37:49.459792+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Canela",
+      "orgao": "RS, Canela - RS",
+      "cargos": [
+        "Cargos diversos"
+      ],
+      "salario_maximo": "R$ 5.130,63",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canela-rs-abre-concurso-com-remuneracao-de-ate-5130",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-12",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "a75910ae-3dbf-498c-bbcd-09745c75b43d",
+      "data_coleta": "2026-08-12T09:37:49.459811+00:00"
+    },
+    {
+      "instituicao": "Câmara e Prefeitura de Trindade",
+      "orgao": "GO, Trindade - GO",
+      "cargos": [
+        "Cargos diversos"
+      ],
+      "salario_maximo": "R$ 7.500,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-e-prefeitura-de-trindade-go-abrem-vagas-com-salarios-de-ate-7500",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-12",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "cee76a3d-4b6b-4fa5-a2a4-bf7c30944f17",
+      "data_coleta": "2026-08-12T09:37:49.459831+00:00"
+    },
+    {
+      "instituicao": "CAER - RR",
+      "orgao": "RR, Boa Vista - RR",
+      "cargos": [
+        "Cargos diversos"
+      ],
+      "salario_maximo": "R$ 4.554,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/caer-rr-abre-concurso-publico-com-salarios-ate-4554",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-12",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "6bbcbbec-e93b-4b88-b0ff-ffe1cb55b750",
+      "data_coleta": "2026-08-12T09:37:49.459861+00:00"
+    },
+    {
+      "instituicao": "Polícia Civil - MA",
+      "orgao": "MA",
+      "cargos": [
+        "Oficial Investigador"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/policia-civil-ma-abre-concurso-publico-com-vagas-para-oficial-investigador",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-12",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "99bb01ce-3157-4a4b-8378-26552952ec19",
+      "data_coleta": "2026-08-12T09:37:49.459905+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Aracaju",
+      "orgao": "SE, Aracaju - SE",
+      "cargos": [
+        "Guarda Municipal"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aracaju-se-reabre-inscricoes-do-concurso-para-guarda-municipal",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-12",
+      "status": "reaberto",
+      "fonte": "PCI",
+      "id": "e5fef0b0-94d4-43a0-ba4a-698d567adff2",
+      "data_coleta": "2026-08-12T09:37:49.459929+00:00"
     }
   ]
 }

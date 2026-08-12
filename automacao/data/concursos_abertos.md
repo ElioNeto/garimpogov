@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 11/08/2026_
+_Atualizado em 12/08/2026_
 
-Total: **405** concursos encontrados.
+Total: **416** concursos encontrados.
 
 ---
 
@@ -328,7 +328,7 @@ Total: **405** concursos encontrados.
 
 ---
 
-## PCI (279)
+## PCI (290)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1806,6 +1806,66 @@ Total: **405** concursos encontrados.
 - **Órgão/Local:** São Paulo - SP
 - **Salário máx.:** R$ 1.932,12
 - **Encerramento:** 24/08/2026
+
+### Prefeitura de Bauru
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-bauru-sp-abre-concursos-com-vagas-para-merendeira-medico-e-professor-de-arte)
+- **Cargos:** merendeira, médico, professor de arte
+- **Órgão/Local:** SP, Bauru - SP
+- **Encerramento:** 17/09/2026
+
+### SEPLAG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/seplag-al-publica-edital-de-concurso-publico-para-agente-e-escrivao-na-policia-civil)
+- **Cargos:** Agente, Escrivão
+- **Órgão/Local:** AL, Alagoas - AL
+
+### Polícia Civil
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/policia-civil-ba-abre-concurso-publico-para-delegado-investigador-e-escrivao)
+- **Cargos:** Delegado, Investigador, Escrivão
+- **Órgão/Local:** BA, Bahia - BA
+
+### Polícia Civil
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/policia-civil-ma-abre-concurso-publico-com-58-vagas-imediatas-para-delegado)
+- **Cargos:** Delegado
+- **Órgão/Local:** MA, Mato Grosso do Sul - MA
+
+### Prefeitura de Guapimirim
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-guapimirim-rj-abre-concurso-publico-com-vagas-para-professores)
+- **Cargos:** Professor
+- **Órgão/Local:** RJ, Guapimirim - RJ
+
+### Polícia Civil - PR
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/policia-civil-pr-retifica-edital-de-concurso-publico-com-remuneracoes-de-ate-26876)
+- **Cargos:** Cargos diversos
+- **Órgão/Local:** PR, Curitiba - PR
+- **Salário máx.:** R$ 26.876,48
+
+### Prefeitura de Canela
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-canela-rs-abre-concurso-com-remuneracao-de-ate-5130)
+- **Cargos:** Cargos diversos
+- **Órgão/Local:** RS, Canela - RS
+- **Salário máx.:** R$ 5.130,63
+
+### Câmara e Prefeitura de Trindade
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-e-prefeitura-de-trindade-go-abrem-vagas-com-salarios-de-ate-7500)
+- **Cargos:** Cargos diversos
+- **Órgão/Local:** GO, Trindade - GO
+- **Salário máx.:** R$ 7.500,00
+
+### CAER - RR
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/caer-rr-abre-concurso-publico-com-salarios-ate-4554)
+- **Cargos:** Cargos diversos
+- **Órgão/Local:** RR, Boa Vista - RR
+- **Salário máx.:** R$ 4.554,00
+
+### Polícia Civil - MA
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/policia-civil-ma-abre-concurso-publico-com-vagas-para-oficial-investigador)
+- **Cargos:** Oficial Investigador
+- **Órgão/Local:** MA
+
+### Prefeitura de Aracaju
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-aracaju-se-reabre-inscricoes-do-concurso-para-guarda-municipal)
+- **Cargos:** Guarda Municipal
+- **Órgão/Local:** SE, Aracaju - SE
 
 ---
 
