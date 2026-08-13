@@ -1,6 +1,6 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 12/08/2026_
+_Atualizado em 13/08/2026_
 
 Total: **416** concursos encontrados.
 
@@ -36,7 +36,7 @@ Total: **416** concursos encontrados.
 
 ---
 
-## FAURGS (20)
+## FAURGS (19)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -126,12 +126,6 @@ Total: **416** concursos encontrados.
 - **Cargos:** Técnico Mecânico de Manutenção Industrial, Técnico Operacional
 - **Órgão/Local:** LAMEF
 - **Encerramento:** 24/08/2026
-
-### LAMEF
-[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1280-092026lamef)
-- **Cargos:** Engenheiro Sênior I de Poços, Engenheiro Profissional Júnior
-- **Órgão/Local:** LAMEF
-- **Encerramento:** 13/08/2026
 
 ### BANRISUL
 [🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1280-092026lamef)
@@ -328,7 +322,7 @@ Total: **416** concursos encontrados.
 
 ---
 
-## PCI (290)
+## PCI (291)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1749,13 +1743,6 @@ Total: **416** concursos encontrados.
 - **Encerramento:** 03/09/2026
 
 ### FUNCAMP - Fundação de Desenvolvimento da Unicamp
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-analista-desenvolvedor-mobile-pleno)
-- **Cargos:** Analista Desenvolvedor Mobile Pleno
-- **Órgão/Local:** SP, Campinas - SP
-- **Salário máx.:** R$ 7.492,43
-- **Encerramento:** 13/08/2026
-
-### FUNCAMP - Fundação de Desenvolvimento da Unicamp
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-cargo-de-medico-oncologista-no-hc)
 - **Cargos:** Médico Oncologista
 - **Órgão/Local:** SP, Campinas - SP
@@ -1866,6 +1853,17 @@ Total: **416** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-aracaju-se-reabre-inscricoes-do-concurso-para-guarda-municipal)
 - **Cargos:** Guarda Municipal
 - **Órgão/Local:** SE, Aracaju - SE
+
+### Transpetro
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/transpetro-publica-editais-de-processos-seletivos-para-diversos-cargos)
+- **Órgão/Local:** Petrobras Transporte S.A.
+- **Encerramento:** 14/09/2026
+
+### Câmara de Martinópolis
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-martinopolis-sp-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva)
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 5.995,65
+- **Encerramento:** 27/09/2026
 
 ---
 

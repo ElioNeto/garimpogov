@@ -1,6 +1,6 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-12T09:37:49.459951+00:00",
+    "ultima_coleta": "2026-08-13T09:31:10.140899+00:00",
     "total_concursos": 416
   },
   "concursos": [
@@ -5966,21 +5966,6 @@
       "instituicao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
       "orgao": "SP, Campinas - SP",
       "cargos": [
-        "Analista Desenvolvedor Mobile Pleno"
-      ],
-      "salario_maximo": "R$ 7.492,43",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-analista-desenvolvedor-mobile-pleno",
-      "data_encerramento": "13/08/2026",
-      "data_publicacao": "2026-08-07",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "1ab41a5d-8476-4d6d-a999-b0a2f8075137",
-      "data_coleta": "2026-08-07T09:14:51.195445+00:00"
-    },
-    {
-      "instituicao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-      "orgao": "SP, Campinas - SP",
-      "cargos": [
         "Médico Oncologista"
       ],
       "salario_maximo": "R$ 7.606,53",
@@ -6030,22 +6015,6 @@
       "fonte": "PCI",
       "id": "46ccb064-d590-4f85-b6dc-29ecd082ab91",
       "data_coleta": "2026-08-07T09:14:51.195825+00:00"
-    },
-    {
-      "instituicao": "LAMEF",
-      "orgao": "LAMEF",
-      "cargos": [
-        "Engenheiro Sênior I de Poços",
-        "Engenheiro Profissional Júnior"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://portalfaurgs.com.br/concursosFaurgs/emandamento/1280-092026lamef",
-      "data_encerramento": "13/08/2026",
-      "data_publicacao": "2026-08-08",
-      "status": "aberto",
-      "fonte": "FAURGS",
-      "id": "f7bac832-1cb2-494b-9639-715b913503b6",
-      "data_coleta": "2026-08-08T08:50:59.337973+00:00"
     },
     {
       "instituicao": "Fundação Cultural de Blumenau",
@@ -6317,6 +6286,32 @@
       "fonte": "PCI",
       "id": "e5fef0b0-94d4-43a0-ba4a-698d567adff2",
       "data_coleta": "2026-08-12T09:37:49.459929+00:00"
+    },
+    {
+      "instituicao": "Transpetro",
+      "orgao": "Petrobras Transporte S.A.",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/transpetro-publica-editais-de-processos-seletivos-para-diversos-cargos",
+      "data_encerramento": "14/09/2026",
+      "data_publicacao": "2026-08-13",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "6d8f11a9-527b-463e-9f11-245432bd97c9",
+      "data_coleta": "2026-08-13T09:31:10.140453+00:00"
+    },
+    {
+      "instituicao": "Câmara de Martinópolis",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": "R$ 5.995,65",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-martinopolis-sp-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
+      "data_encerramento": "27/09/2026",
+      "data_publicacao": "2026-08-13",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "089d698a-9750-4f9a-a26f-a8904de69b6e",
+      "data_coleta": "2026-08-13T09:31:10.140601+00:00"
     }
   ]
 }
