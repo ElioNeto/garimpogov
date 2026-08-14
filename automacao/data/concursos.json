@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-13T09:31:10.140899+00:00",
-    "total_concursos": 416
+    "ultima_coleta": "2026-08-14T09:27:56.423269+00:00",
+    "total_concursos": 422
   },
   "concursos": [
     {
@@ -6312,6 +6312,93 @@
       "fonte": "PCI",
       "id": "089d698a-9750-4f9a-a26f-a8904de69b6e",
       "data_coleta": "2026-08-13T09:31:10.140601+00:00"
+    },
+    {
+      "instituicao": "LAMEF",
+      "orgao": null,
+      "cargos": [
+        "Engenheiro Sênior I de Poços",
+        "Engenheiro Profissional Júnior"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosFaurgs/emandamento/1280-092026lamef",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-14",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "0ef0c16a-b1c6-4bef-98d6-5a7cc78e93ab",
+      "data_coleta": "2026-08-14T09:27:56.422807+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Limeira - SP",
+      "orgao": "Prefeitura de Limeira - SP",
+      "cargos": [
+        "Professor Substituto"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-limeira-sp-publica-edital-de-processo-seletivo-para-professores-substitutos",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-14",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "6b99815a-1d05-4b2b-9945-295a048aa59a",
+      "data_coleta": "2026-08-14T09:27:56.423137+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Itupeva - SP",
+      "orgao": "Prefeitura de Itupeva - SP",
+      "cargos": [
+        "Guarda Civil Municipal"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itupeva-sp-abre-concurso-publico-para-guarda-civil-municipal",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-14",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "e6c8f7b5-b14f-4229-8e69-89fbd9daefa8",
+      "data_coleta": "2026-08-14T09:27:56.423155+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Diadema - SP",
+      "orgao": "Prefeitura de Diadema - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 4.512,75",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-diadema-sp-divulga-concursos-publicos-com-salarios-de-ate-4512",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-14",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "40a01ba5-c29c-4ece-a7eb-39d65ca96133",
+      "data_coleta": "2026-08-14T09:27:56.423172+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Paulínia - SP",
+      "orgao": "Prefeitura de Paulínia - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 7.350,75",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paulinia-sp-retifica-edital-de-processo-seletivo-com-salarios-de-ate-7350",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-14",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "83fb7266-1d6e-4630-826a-9310bff53fff",
+      "data_coleta": "2026-08-14T09:27:56.423186+00:00"
+    },
+    {
+      "instituicao": "TCE-SP",
+      "orgao": "TCE-SP",
+      "cargos": [
+        "Auditor de Controle Externo"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/tce-sp-divulga-retificacao-do-concurso-publico-para-auditor-de-controle-externo",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-14",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "f63f9940-93e7-4079-8427-6f3a7b55e4de",
+      "data_coleta": "2026-08-14T09:27:56.423199+00:00"
     }
   ]
 }

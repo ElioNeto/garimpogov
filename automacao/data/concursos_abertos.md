@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 13/08/2026_
+_Atualizado em 14/08/2026_
 
-Total: **416** concursos encontrados.
+Total: **422** concursos encontrados.
 
 ---
 
@@ -36,7 +36,7 @@ Total: **416** concursos encontrados.
 
 ---
 
-## FAURGS (19)
+## FAURGS (20)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -131,6 +131,10 @@ Total: **416** concursos encontrados.
 [🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1280-092026lamef)
 - **Cargos:** C01 - Engenheiro Sênior I de Poços, C02 - Engenheiro Profissional Júnior
 - **Órgão/Local:** BANRISUL
+
+### LAMEF
+[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1280-092026lamef)
+- **Cargos:** Engenheiro Sênior I de Poços, Engenheiro Profissional Júnior
 
 ---
 
@@ -322,7 +326,7 @@ Total: **416** concursos encontrados.
 
 ---
 
-## PCI (291)
+## PCI (296)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1864,6 +1868,31 @@ Total: **416** concursos encontrados.
 - **Órgão/Local:** SP
 - **Salário máx.:** R$ 5.995,65
 - **Encerramento:** 27/09/2026
+
+### Prefeitura de Limeira - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-limeira-sp-publica-edital-de-processo-seletivo-para-professores-substitutos)
+- **Cargos:** Professor Substituto
+- **Órgão/Local:** Prefeitura de Limeira - SP
+
+### Prefeitura de Itupeva - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-itupeva-sp-abre-concurso-publico-para-guarda-civil-municipal)
+- **Cargos:** Guarda Civil Municipal
+- **Órgão/Local:** Prefeitura de Itupeva - SP
+
+### Prefeitura de Diadema - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-diadema-sp-divulga-concursos-publicos-com-salarios-de-ate-4512)
+- **Órgão/Local:** Prefeitura de Diadema - SP
+- **Salário máx.:** R$ 4.512,75
+
+### Prefeitura de Paulínia - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-paulinia-sp-retifica-edital-de-processo-seletivo-com-salarios-de-ate-7350)
+- **Órgão/Local:** Prefeitura de Paulínia - SP
+- **Salário máx.:** R$ 7.350,75
+
+### TCE-SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/tce-sp-divulga-retificacao-do-concurso-publico-para-auditor-de-controle-externo)
+- **Cargos:** Auditor de Controle Externo
+- **Órgão/Local:** TCE-SP
 
 ---
 
