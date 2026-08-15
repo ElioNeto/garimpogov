@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 14/08/2026_
+_Atualizado em 15/08/2026_
 
-Total: **422** concursos encontrados.
+Total: **428** concursos encontrados.
 
 ---
 
@@ -36,7 +36,7 @@ Total: **422** concursos encontrados.
 
 ---
 
-## FAURGS (20)
+## FAURGS (21)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -135,6 +135,10 @@ Total: **422** concursos encontrados.
 ### LAMEF
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1280-092026lamef)
 - **Cargos:** Engenheiro Sênior I de Poços, Engenheiro Profissional Júnior
+
+### LAMEF
+[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1281-102026lamef)
+- **Cargos:** Técnico em Usinagem I
 
 ---
 
@@ -326,7 +330,7 @@ Total: **422** concursos encontrados.
 
 ---
 
-## PCI (296)
+## PCI (301)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1893,6 +1897,38 @@ Total: **422** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/tce-sp-divulga-retificacao-do-concurso-publico-para-auditor-de-controle-externo)
 - **Cargos:** Auditor de Controle Externo
 - **Órgão/Local:** TCE-SP
+
+### Prefeitura de Limeira
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-limeira-sp-publica-editais-de-concursos-com-vagas-em-diversas-areas)
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 12.873,46
+- **Encerramento:** 31/08/2026
+
+### CIMPS - Consórcio Intermunicipal de Políticas Sociais
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cimps-sp-abre-concurso-publico-para-auxiliar-administrativo-e-gerente-administrativo)
+- **Cargos:** Auxiliar Administrativo, Gerente Administrativo
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 7.500,00
+- **Encerramento:** 18/09/2026
+
+### Consórcio Intermunicipal Três Rios
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/consorcio-intermunicipal-tres-rios-sp-abre-vagas-para-diversos-niveis-de-escolaridade)
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 2.954,03
+- **Encerramento:** 24/08/2026
+
+### CRECI - Conselho Regional de Corretores de Imóveis do Estado de São Paulo
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/creci-sp-anuncia-concurso-publico-com-salarios-de-ate-9940)
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 9.940,00
+- **Encerramento:** 21/08/2026
+
+### FAMAR - Marília
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/famar-sp-abre-selecao-para-cargo-de-medico-na-area-de-cirurgia-geral-e-do-trauma)
+- **Cargos:** Médico
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 140,00
+- **Encerramento:** 16/08/2026
 
 ---
 

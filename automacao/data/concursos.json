@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-14T09:27:56.423269+00:00",
-    "total_concursos": 422
+    "ultima_coleta": "2026-08-15T08:44:05.767267+00:00",
+    "total_concursos": 428
   },
   "concursos": [
     {
@@ -6399,6 +6399,91 @@
       "fonte": "PCI",
       "id": "f63f9940-93e7-4079-8427-6f3a7b55e4de",
       "data_coleta": "2026-08-14T09:27:56.423199+00:00"
+    },
+    {
+      "instituicao": "LAMEF",
+      "orgao": null,
+      "cargos": [
+        "Técnico em Usinagem I"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosFaurgs/emandamento/1281-102026lamef",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-15",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "292a32e7-31b4-44de-9e6d-2627d7fce555",
+      "data_coleta": "2026-08-15T08:44:05.766254+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Limeira",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": "R$ 12.873,46",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-limeira-sp-publica-editais-de-concursos-com-vagas-em-diversas-areas",
+      "data_encerramento": "31/08/2026",
+      "data_publicacao": "2026-08-15",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "293b26ab-8bdd-4b73-93e9-7c70bf883c71",
+      "data_coleta": "2026-08-15T08:44:05.766629+00:00"
+    },
+    {
+      "instituicao": "CIMPS - Consórcio Intermunicipal de Políticas Sociais",
+      "orgao": "SP",
+      "cargos": [
+        "Auxiliar Administrativo",
+        "Gerente Administrativo"
+      ],
+      "salario_maximo": "R$ 7.500,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cimps-sp-abre-concurso-publico-para-auxiliar-administrativo-e-gerente-administrativo",
+      "data_encerramento": "18/09/2026",
+      "data_publicacao": "17/08/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "66482493-1935-4f11-91f4-149188d9ad64",
+      "data_coleta": "2026-08-15T08:44:05.766766+00:00"
+    },
+    {
+      "instituicao": "Consórcio Intermunicipal Três Rios",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": "R$ 2.954,03",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/consorcio-intermunicipal-tres-rios-sp-abre-vagas-para-diversos-niveis-de-escolaridade",
+      "data_encerramento": "24/08/2026",
+      "data_publicacao": "2026-08-15",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "3ddc77cd-80eb-4249-8419-72a976ba11ab",
+      "data_coleta": "2026-08-15T08:44:05.766804+00:00"
+    },
+    {
+      "instituicao": "CRECI - Conselho Regional de Corretores de Imóveis do Estado de São Paulo",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": "R$ 9.940,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/creci-sp-anuncia-concurso-publico-com-salarios-de-ate-9940",
+      "data_encerramento": "21/08/2026",
+      "data_publicacao": "2026-08-15",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "f53c7dee-fab4-4a1b-86e3-9e63c000fad7",
+      "data_coleta": "2026-08-15T08:44:05.766830+00:00"
+    },
+    {
+      "instituicao": "FAMAR - Marília",
+      "orgao": "SP",
+      "cargos": [
+        "Médico"
+      ],
+      "salario_maximo": "R$ 140,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/famar-sp-abre-selecao-para-cargo-de-medico-na-area-de-cirurgia-geral-e-do-trauma",
+      "data_encerramento": "16/08/2026",
+      "data_publicacao": "2026-08-15",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "ecde8fb7-2cf5-4feb-8ee7-346b34a6cbb6",
+      "data_coleta": "2026-08-15T08:44:05.766877+00:00"
     }
   ]
 }
