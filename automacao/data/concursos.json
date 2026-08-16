@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-15T08:44:05.767267+00:00",
-    "total_concursos": 428
+    "ultima_coleta": "2026-08-16T09:00:40.796314+00:00",
+    "total_concursos": 425
   },
   "concursos": [
     {
@@ -5679,19 +5679,6 @@
       "data_coleta": "2026-08-02T10:14:58.111769+00:00"
     },
     {
-      "instituicao": "CIOP - Consórcio Intermunicipal do Oeste Paulista",
-      "orgao": "Consórcio Intermunicipal do Oeste Paulista",
-      "cargos": [],
-      "salario_maximo": "R$ 3.741,88",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/ciop-sp-abre-concurso-publico-para-diversos-cargos-com-salarios-de-ate-3741",
-      "data_encerramento": "16/08/2026",
-      "data_publicacao": "2026-08-02",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "ef2bb7bc-3b4b-4e70-8e2c-d3b6b21df37e",
-      "data_coleta": "2026-08-02T10:14:58.111842+00:00"
-    },
-    {
       "instituicao": "SEAP - MA",
       "orgao": "MA, São Luís - MA",
       "cargos": [],
@@ -5907,19 +5894,6 @@
       "fonte": "PCI",
       "id": "2ddb233d-effe-4cc6-9a5e-019fb8790ea7",
       "data_coleta": "2026-08-07T09:14:51.195187+00:00"
-    },
-    {
-      "instituicao": "CIOP - Consórcio Intermunicipal do Oeste Paulista",
-      "orgao": "SP",
-      "cargos": [],
-      "salario_maximo": "R$ 3.741,88",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/ciop-sp-divulga-retificacao-do-concurso-publico-com-salarios-de-ate-3741",
-      "data_encerramento": "16/08/2026",
-      "data_publicacao": "2026-08-07",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "bc8937d8-8b26-47e4-9766-1d7d07c0322f",
-      "data_coleta": "2026-08-07T09:14:51.195293+00:00"
     },
     {
       "instituicao": "FEUC - Fundação Educacional de São José do Rio Pardo",
@@ -6469,21 +6443,6 @@
       "fonte": "PCI",
       "id": "f53c7dee-fab4-4a1b-86e3-9e63c000fad7",
       "data_coleta": "2026-08-15T08:44:05.766830+00:00"
-    },
-    {
-      "instituicao": "FAMAR - Marília",
-      "orgao": "SP",
-      "cargos": [
-        "Médico"
-      ],
-      "salario_maximo": "R$ 140,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/famar-sp-abre-selecao-para-cargo-de-medico-na-area-de-cirurgia-geral-e-do-trauma",
-      "data_encerramento": "16/08/2026",
-      "data_publicacao": "2026-08-15",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "ecde8fb7-2cf5-4feb-8ee7-346b34a6cbb6",
-      "data_coleta": "2026-08-15T08:44:05.766877+00:00"
     }
   ]
 }

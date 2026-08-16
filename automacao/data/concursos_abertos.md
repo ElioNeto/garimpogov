@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 15/08/2026_
+_Atualizado em 16/08/2026_
 
-Total: **428** concursos encontrados.
+Total: **425** concursos encontrados.
 
 ---
 
@@ -330,7 +330,7 @@ Total: **428** concursos encontrados.
 
 ---
 
-## PCI (301)
+## PCI (298)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1667,12 +1667,6 @@ Total: **428** concursos encontrados.
 - **Salário máx.:** R$ 7.018,00
 - **Encerramento:** 24/08/2026
 
-### CIOP - Consórcio Intermunicipal do Oeste Paulista
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/ciop-sp-abre-concurso-publico-para-diversos-cargos-com-salarios-de-ate-3741)
-- **Órgão/Local:** Consórcio Intermunicipal do Oeste Paulista
-- **Salário máx.:** R$ 3.741,88
-- **Encerramento:** 16/08/2026
-
 ### SEAP - MA
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/seap-ma-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva)
 - **Órgão/Local:** MA, São Luís - MA
@@ -1724,12 +1718,6 @@ Total: **428** concursos encontrados.
 - **Órgão/Local:** SP, Itapecerica da Serra - SP
 - **Salário máx.:** R$ 11.576,25
 - **Encerramento:** 08/09/2026
-
-### CIOP - Consórcio Intermunicipal do Oeste Paulista
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/ciop-sp-divulga-retificacao-do-concurso-publico-com-salarios-de-ate-3741)
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 3.741,88
-- **Encerramento:** 16/08/2026
 
 ### FEUC - Fundação Educacional de São José do Rio Pardo
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/fundacao-educacional-de-sao-jose-do-rio-pardo-sp-abre-concurso-publico-para-formacao-de-cadastro-de-reserva)
@@ -1922,13 +1910,6 @@ Total: **428** concursos encontrados.
 - **Órgão/Local:** SP
 - **Salário máx.:** R$ 9.940,00
 - **Encerramento:** 21/08/2026
-
-### FAMAR - Marília
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/famar-sp-abre-selecao-para-cargo-de-medico-na-area-de-cirurgia-geral-e-do-trauma)
-- **Cargos:** Médico
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 140,00
-- **Encerramento:** 16/08/2026
 
 ---
 
