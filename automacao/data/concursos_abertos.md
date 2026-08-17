@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 16/08/2026_
+_Atualizado em 17/08/2026_
 
-Total: **425** concursos encontrados.
+Total: **423** concursos encontrados.
 
 ---
 
@@ -36,7 +36,7 @@ Total: **425** concursos encontrados.
 
 ---
 
-## FAURGS (21)
+## FAURGS (19)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -93,12 +93,6 @@ Total: **425** concursos encontrados.
 - **Cargos:** Engenheiro Sênior I de Poços, Engenheiro Profissional Júnior, Pesquisador Mestre em Engenharia Química
 - **Órgão/Local:** LAMEF
 
-### IFSC - Instituto Federal de Santa Catarina
-[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1277-012026ifsc-institutofederaldesantacatarina)
-- **Cargos:** 01 - Administração - São Carlos, 02 - Administração - Xanxerê, 03 - Artes Cênicas - Palhoça Bilíngue, 04 - Artes Visuais - Canoinhas, 05 - Artes Visuais - Lages, 06 - Artes Visuais - São Miguel do Oeste, 07 - Automação Industrial - Caçador, 08 - Automação Industrial - Lages, 09 - Automação Industrial - Tubarão, 10 - Educação Física - Caçador, 11 - Educação Física - Lages, 12 - Educação Física - São Lourenço do Oeste, 13 - Educação Física - Xanxerê, 14 - Eletrônica Geral - Tubarão, 15 - Enologia - Urupema, 16 - Espanhol - Caçador, 17 - Fabricação Mecânica - Caçador, 18 - Fabricação Mecânica - Chapecó, 19 - Fabricação Mecânica - Lages, 20 - Física - Canoinhas, 21 - Física - Caçador, 22 - Física - São Carlos, 23 - Geografia - São Carlos, 24 - Geografia - Xanxerê, 25 - Geotécnica - Florianópolis, 26 - História - São Carlos, 27 - História - São Lourenço do Oeste, 28 - História - Xanxerê, 29 - Informática - Caçador, 30 - Informática - Xanxerê, 31 - Inglês - Jaraguá do Sul Centro, 32 - Instalações e Acionamentos - Caçador, 33 - Matemática - Canoinhas, 34 - Matemática - Caçador, 35 - Matemática - Lages, 36 - Matemática - Jaraguá do Sul RAU, 37 - Processos Têxteis - Jaraguá do Sul Centro, 38 - Produção Animal - São Miguel do Oeste, 39 - Projetos Mecânicos - Lages, 40 - Química Geral - São Carlos, 41 - Segurança e Higiene do Trabalho - Chapecó, 42 - Sistema de Energia - Florianópolis, 43 - Sociologia - Caçador
-- **Órgão/Local:** IFSC - Instituto Federal de Santa Catarina
-- **Encerramento:** 17/08/2026
-
 ### LAMEF
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1278-082026lamef)
 - **Cargos:** C.01 - Técnico Mecânico de Manutenção Industrial, C.02 - Técnico Operacional
@@ -108,18 +102,6 @@ Total: **425** concursos encontrados.
 ### IFSC - INSTITUTO FEDERAL DE SANTA CATARINA
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1279-022026ifsc-institutofederaldesantacatarina)
 - **Cargos:** Arquiteto e Urbanista - Reitoria, Assistente de Alunos - Urupema, Assistente de Alunos - Caçador, Assistente de Alunos - São Lourenço do Oeste, Bibliotecário - Documentalista - Caçador, Engenheiro Civil - Lages, Engenheiro de Segurança do Trabalho - Reitoria, Técnico de Laboratório – Área: Automação - Chapecó, Técnico de Laboratório – Área: Ciências da Natureza - Caçador, Técnico de Laboratório – Área: Informática - Canoinhas, Técnico em Assuntos Educacionais - Canoinhas, Técnico em Assuntos Educacionais - Caçador, Técnico em Assuntos Educacionais - São Carlos, Técnico em Assuntos Educacionais - São Lourenço do Oeste, Técnico em Assuntos Educacionais - São Miguel do Oeste, Técnico em Assuntos Educacionais - Urupema, Tecnólogo em Gestão Pública - Tubarão
-
-### IFSC - INSTITUTO FEDERAL DE SANTA CATARINA
-[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1279-022026ifsc-institutofederaldesantacatarina)
-- **Cargos:** Arquiteto e Urbanista - Reitoria, Assistente de Alunos - Urupema, Assistente de Alunos - Caçador, Assistente de Alunos - São Lourenço do Oeste, Bibliotecário - Documentalista - Caçador, Engenheiro Civil - Lages, Engenheiro de Segurança do Trabalho - Reitoria, Técnico de Laboratório – Área: Automação - Chapecó, Técnico de Laboratório – Área: Ciências da Natureza - Caçador, Técnico de Laboratório – Área: Informática - Canoinhas, Técnico em Assuntos Educacionais - Canoinhas, Técnico em Assuntos Educacionais - Caçador, Técnico em Assuntos Educacionais - São Carlos, Técnico em Assuntos Educacionais - São Lourenço do Oeste, Técnico em Assuntos Educacionais - São Miguel do Oeste, Técnico em Assuntos Educacionais - Urupema, Tecnólogo em Gestão Pública - Tubarão
-- **Órgão/Local:** IFSC - INSTITUTO FEDERAL DE SANTA CATARINA
-- **Encerramento:** 17/08/2026
-
-### IFSC - INSTITUTO FEDERAL DE SANTA CATARINA
-[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1277-012026ifsc-institutofederaldesantacatarina)
-- **Cargos:** Administração - São Carlos, Administração - Xanxerê, Artes Cênicas - Palhoça Bilíngue, Artes Visuais - Canoinhas, Artes Visuais - Lages, Artes Visuais - São Miguel do Oeste, Automação Industrial - Caçador, Automação Industrial - Lages, Automação Industrial - Tubarão, Educação Física - Caçador, Educação Física - Lages, Educação Física - São Lourenço do Oeste, Educação Física - Xanxerê, Eletrônica Geral - Tubarão, Enologia - Urupema, Espanhol - Caçador, Fabricação Mecânica - Caçador, Fabricação Mecânica - Chapecó, Fabricação Mecânica - Lages, Física - Canoinhas, Física - Caçador, Física - São Carlos, Geografia - São Carlos, Geografia - Xanxerê, Geotécnica - Florianópolis, História - São Carlos, História - São Lourenço do Oeste, História - Xanxerê, Informática - Caçador, Informática - Xanxerê, Inglês - Jaraguá do Sul Centro, Instalações e Acionamentos - Caçador, Matemática - Canoinhas, Matemática - Caçador, Matemática - Lages, Matemática - Jaraguá do Sul, Processos Têxteis - Jaraguá do Sul Centro, Produção Animal - São Miguel do Oeste, Projetos Mecânicos - Lages, Química Geral - São Carlos, Segurança e Higiene do Trabalho - Chapecó, Sistema de Energia - Florianópolis, Sociologia - Caçador
-- **Órgão/Local:** IFSC - INSTITUTO FEDERAL DE SANTA CATARINA
-- **Encerramento:** 17/08/2026
 
 ### LAMEF
 [🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1278-082026lamef)
@@ -139,6 +121,12 @@ Total: **425** concursos encontrados.
 ### LAMEF
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1281-102026lamef)
 - **Cargos:** Técnico em Usinagem I
+
+### Lamef
+[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1281-102026lamef)
+- **Cargos:** Técnico Mecânico de Manutenção Industrial, Técnico Operacional, Engenheiro Sênior I de Poços, Técnico em Usinagem I
+- **Órgão/Local:** Lamef
+- **Encerramento:** 25/08/2026
 
 ---
 
@@ -330,7 +318,7 @@ Total: **425** concursos encontrados.
 
 ---
 
-## PCI (298)
+## PCI (296)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1719,18 +1707,6 @@ Total: **425** concursos encontrados.
 - **Salário máx.:** R$ 11.576,25
 - **Encerramento:** 08/09/2026
 
-### FEUC - Fundação Educacional de São José do Rio Pardo
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/fundacao-educacional-de-sao-jose-do-rio-pardo-sp-abre-concurso-publico-para-formacao-de-cadastro-de-reserva)
-- **Órgão/Local:** SP, São José do Rio Pardo - SP
-- **Salário máx.:** R$ 2.084,48
-- **Encerramento:** 17/08/2026
-
-### FHSL - Fundação Hospital Santa Lydia
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-abre-processo-seletivo-com-salarios-de-ate-4248)
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 4.248,98
-- **Encerramento:** 17/08/2026
-
 ### FSA - Fundação Santo André
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-publico-para-o-cargo-de-consultor-juridico)
 - **Cargos:** Consultor Jurídico
@@ -1775,13 +1751,6 @@ Total: **425** concursos encontrados.
 - **Órgão/Local:** São Paulo - SP
 - **Salário máx.:** R$ 5.383,87
 - **Encerramento:** 21/08/2026
-
-### Fundação Hospital Santa Lydia
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-abre-vaga-para-profissional-de-educacao-fisica-na-saude)
-- **Cargos:** Profissional de Educação Física na Saúde
-- **Órgão/Local:** São Paulo - SP
-- **Salário máx.:** R$ 2.405,66
-- **Encerramento:** 17/08/2026
 
 ### Guarulhos - Município de Guarulhos
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-guarulhos-sp-abre-concurso-publico-para-o-cargo-de-guarda-vidas)
@@ -1911,9 +1880,13 @@ Total: **425** concursos encontrados.
 - **Salário máx.:** R$ 9.940,00
 - **Encerramento:** 21/08/2026
 
+### Prefeitura de Santos - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-santos-sp-divulga-retificacoes-de-concursos-)
+- **Órgão/Local:** Santos - SP
+
 ---
 
-## PMBlumenau-SC (10)
+## PMBlumenau-SC (12)
 
 ### Prefeitura de Blumenau
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/seidep/seidep/prefeitura-promove-tarde-danacante-para-pessoas-com-deficiaancia-em-blumenau)
@@ -1969,6 +1942,16 @@ Total: **425** concursos encontrados.
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/fundacao-cultural/fcblu/cultura-divulga-projetos-aprovados-na-etapa-seletiva-da-lei-aldir-blanc15)
 - **Cargos:** Projetos Culturais
 - **Órgão/Local:** Blumenau - SC
+
+### Prefeitura de Blumenau
+[🔗 Edital](https://www.blumenau.sc.gov.br/governo/seidep/seidep/paratleta-e-treinadora-de-blumenau-saao-convocados-para-seleacaao-brasileira-de-atletismo-para-surdos46)
+- **Cargos:** Atleta de Atletismo para Surdos
+- **Órgão/Local:** SEIDEP, Blumenau - SC
+
+### Prefeitura de Blumenau
+[🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/sec...)
+- **Cargos:** Atleta de Futsal, Atleta de Vôlei
+- **Órgão/Local:** SEIDEP, Blumenau - SC
 
 ---
 

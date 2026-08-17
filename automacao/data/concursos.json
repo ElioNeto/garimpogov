@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-16T09:00:40.796314+00:00",
-    "total_concursos": 425
+    "ultima_coleta": "2026-08-17T09:01:28.596742+00:00",
+    "total_concursos": 423
   },
   "concursos": [
     {
@@ -4860,63 +4860,6 @@
       "data_coleta": "2026-07-20T10:59:21.112058+00:00"
     },
     {
-      "instituicao": "IFSC - Instituto Federal de Santa Catarina",
-      "orgao": "IFSC - Instituto Federal de Santa Catarina",
-      "cargos": [
-        "01 - Administração - São Carlos",
-        "02 - Administração - Xanxerê",
-        "03 - Artes Cênicas - Palhoça Bilíngue",
-        "04 - Artes Visuais - Canoinhas",
-        "05 - Artes Visuais - Lages",
-        "06 - Artes Visuais - São Miguel do Oeste",
-        "07 - Automação Industrial - Caçador",
-        "08 - Automação Industrial - Lages",
-        "09 - Automação Industrial - Tubarão",
-        "10 - Educação Física - Caçador",
-        "11 - Educação Física - Lages",
-        "12 - Educação Física - São Lourenço do Oeste",
-        "13 - Educação Física - Xanxerê",
-        "14 - Eletrônica Geral - Tubarão",
-        "15 - Enologia - Urupema",
-        "16 - Espanhol - Caçador",
-        "17 - Fabricação Mecânica - Caçador",
-        "18 - Fabricação Mecânica - Chapecó",
-        "19 - Fabricação Mecânica - Lages",
-        "20 - Física - Canoinhas",
-        "21 - Física - Caçador",
-        "22 - Física - São Carlos",
-        "23 - Geografia - São Carlos",
-        "24 - Geografia - Xanxerê",
-        "25 - Geotécnica - Florianópolis",
-        "26 - História - São Carlos",
-        "27 - História - São Lourenço do Oeste",
-        "28 - História - Xanxerê",
-        "29 - Informática - Caçador",
-        "30 - Informática - Xanxerê",
-        "31 - Inglês - Jaraguá do Sul Centro",
-        "32 - Instalações e Acionamentos - Caçador",
-        "33 - Matemática - Canoinhas",
-        "34 - Matemática - Caçador",
-        "35 - Matemática - Lages",
-        "36 - Matemática - Jaraguá do Sul RAU",
-        "37 - Processos Têxteis - Jaraguá do Sul Centro",
-        "38 - Produção Animal - São Miguel do Oeste",
-        "39 - Projetos Mecânicos - Lages",
-        "40 - Química Geral - São Carlos",
-        "41 - Segurança e Higiene do Trabalho - Chapecó",
-        "42 - Sistema de Energia - Florianópolis",
-        "43 - Sociologia - Caçador"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://portalfaurgs.com.br/concursosFaurgs/emandamento/1277-012026ifsc-institutofederaldesantacatarina",
-      "data_encerramento": "17/08/2026",
-      "data_publicacao": "2026-07-21",
-      "status": "aberto",
-      "fonte": "FAURGS",
-      "id": "fd2766d5-ff49-4e3f-b14e-0f57cf85d4be",
-      "data_coleta": "2026-07-21T10:40:11.528865+00:00"
-    },
-    {
       "instituicao": "LAMEF",
       "orgao": "LAMEF",
       "cargos": [
@@ -5235,94 +5178,6 @@
       "fonte": "PCI",
       "id": "6453940b-7cf7-46cb-b915-83effc4cf644",
       "data_coleta": "2026-07-24T10:36:22.822738+00:00"
-    },
-    {
-      "instituicao": "IFSC - INSTITUTO FEDERAL DE SANTA CATARINA",
-      "orgao": "IFSC - INSTITUTO FEDERAL DE SANTA CATARINA",
-      "cargos": [
-        "Arquiteto e Urbanista - Reitoria",
-        "Assistente de Alunos - Urupema",
-        "Assistente de Alunos - Caçador",
-        "Assistente de Alunos - São Lourenço do Oeste",
-        "Bibliotecário - Documentalista - Caçador",
-        "Engenheiro Civil - Lages",
-        "Engenheiro de Segurança do Trabalho - Reitoria",
-        "Técnico de Laboratório – Área: Automação - Chapecó",
-        "Técnico de Laboratório – Área: Ciências da Natureza - Caçador",
-        "Técnico de Laboratório – Área: Informática - Canoinhas",
-        "Técnico em Assuntos Educacionais - Canoinhas",
-        "Técnico em Assuntos Educacionais - Caçador",
-        "Técnico em Assuntos Educacionais - São Carlos",
-        "Técnico em Assuntos Educacionais - São Lourenço do Oeste",
-        "Técnico em Assuntos Educacionais - São Miguel do Oeste",
-        "Técnico em Assuntos Educacionais - Urupema",
-        "Tecnólogo em Gestão Pública - Tubarão"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/1279-022026ifsc-institutofederaldesantacatarina",
-      "data_encerramento": "17/08/2026",
-      "data_publicacao": "21/07/2026",
-      "status": "aberto",
-      "fonte": "FAURGS",
-      "id": "ee716c49-5a59-44d4-87d7-98866a974660",
-      "data_coleta": "2026-07-25T09:54:48.178992+00:00"
-    },
-    {
-      "instituicao": "IFSC - INSTITUTO FEDERAL DE SANTA CATARINA",
-      "orgao": "IFSC - INSTITUTO FEDERAL DE SANTA CATARINA",
-      "cargos": [
-        "Administração - São Carlos",
-        "Administração - Xanxerê",
-        "Artes Cênicas - Palhoça Bilíngue",
-        "Artes Visuais - Canoinhas",
-        "Artes Visuais - Lages",
-        "Artes Visuais - São Miguel do Oeste",
-        "Automação Industrial - Caçador",
-        "Automação Industrial - Lages",
-        "Automação Industrial - Tubarão",
-        "Educação Física - Caçador",
-        "Educação Física - Lages",
-        "Educação Física - São Lourenço do Oeste",
-        "Educação Física - Xanxerê",
-        "Eletrônica Geral - Tubarão",
-        "Enologia - Urupema",
-        "Espanhol - Caçador",
-        "Fabricação Mecânica - Caçador",
-        "Fabricação Mecânica - Chapecó",
-        "Fabricação Mecânica - Lages",
-        "Física - Canoinhas",
-        "Física - Caçador",
-        "Física - São Carlos",
-        "Geografia - São Carlos",
-        "Geografia - Xanxerê",
-        "Geotécnica - Florianópolis",
-        "História - São Carlos",
-        "História - São Lourenço do Oeste",
-        "História - Xanxerê",
-        "Informática - Caçador",
-        "Informática - Xanxerê",
-        "Inglês - Jaraguá do Sul Centro",
-        "Instalações e Acionamentos - Caçador",
-        "Matemática - Canoinhas",
-        "Matemática - Caçador",
-        "Matemática - Lages",
-        "Matemática - Jaraguá do Sul",
-        "Processos Têxteis - Jaraguá do Sul Centro",
-        "Produção Animal - São Miguel do Oeste",
-        "Projetos Mecânicos - Lages",
-        "Química Geral - São Carlos",
-        "Segurança e Higiene do Trabalho - Chapecó",
-        "Sistema de Energia - Florianópolis",
-        "Sociologia - Caçador"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/1277-012026ifsc-institutofederaldesantacatarina",
-      "data_encerramento": "17/08/2026",
-      "data_publicacao": "20/07/2026",
-      "status": "aberto",
-      "fonte": "FAURGS",
-      "id": "05f660a5-5247-4a49-b392-7e07b0ab658d",
-      "data_coleta": "2026-07-25T09:54:48.179061+00:00"
     },
     {
       "instituicao": "LAMEF",
@@ -5896,32 +5751,6 @@
       "data_coleta": "2026-08-07T09:14:51.195187+00:00"
     },
     {
-      "instituicao": "FEUC - Fundação Educacional de São José do Rio Pardo",
-      "orgao": "SP, São José do Rio Pardo - SP",
-      "cargos": [],
-      "salario_maximo": "R$ 2.084,48",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/fundacao-educacional-de-sao-jose-do-rio-pardo-sp-abre-concurso-publico-para-formacao-de-cadastro-de-reserva",
-      "data_encerramento": "17/08/2026",
-      "data_publicacao": "2026-08-07",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "9680a3b6-a5d1-41da-a332-5210eff997f1",
-      "data_coleta": "2026-08-07T09:14:51.195340+00:00"
-    },
-    {
-      "instituicao": "FHSL - Fundação Hospital Santa Lydia",
-      "orgao": "SP",
-      "cargos": [],
-      "salario_maximo": "R$ 4.248,98",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-abre-processo-seletivo-com-salarios-de-ate-4248",
-      "data_encerramento": "17/08/2026",
-      "data_publicacao": "2026-08-07",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "e4a3b21b-baeb-45de-9f8c-1d89ecb8a4d5",
-      "data_coleta": "2026-08-07T09:14:51.195369+00:00"
-    },
-    {
       "instituicao": "FSA - Fundação Santo André",
       "orgao": "SP, Santo André - SP",
       "cargos": [
@@ -6044,21 +5873,6 @@
       "fonte": "PCI",
       "id": "b7b8b8f6-3b24-4764-915f-593731a682b2",
       "data_coleta": "2026-08-10T09:40:39.082597+00:00"
-    },
-    {
-      "instituicao": "Fundação Hospital Santa Lydia",
-      "orgao": "São Paulo - SP",
-      "cargos": [
-        "Profissional de Educação Física na Saúde"
-      ],
-      "salario_maximo": "R$ 2.405,66",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-abre-vaga-para-profissional-de-educacao-fisica-na-saude",
-      "data_encerramento": "17/08/2026",
-      "data_publicacao": "10/08/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "23a4c37d-ef39-4e56-9175-48bf2d3fe67a",
-      "data_coleta": "2026-08-10T09:40:39.082625+00:00"
     },
     {
       "instituicao": "Guarulhos - Município de Guarulhos",
@@ -6443,6 +6257,67 @@
       "fonte": "PCI",
       "id": "f53c7dee-fab4-4a1b-86e3-9e63c000fad7",
       "data_coleta": "2026-08-15T08:44:05.766830+00:00"
+    },
+    {
+      "instituicao": "Lamef",
+      "orgao": "Lamef",
+      "cargos": [
+        "Técnico Mecânico de Manutenção Industrial",
+        "Técnico Operacional",
+        "Engenheiro Sênior I de Poços",
+        "Técnico em Usinagem I"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/1281-102026lamef",
+      "data_encerramento": "25/08/2026",
+      "data_publicacao": "08/2026",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "2588957c-e3c3-4ec9-9f58-36c47bc41c13",
+      "data_coleta": "2026-08-17T09:01:28.595945+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Blumenau",
+      "orgao": "SEIDEP, Blumenau - SC",
+      "cargos": [
+        "Atleta de Atletismo para Surdos"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.blumenau.sc.gov.br/governo/seidep/seidep/paratleta-e-treinadora-de-blumenau-saao-convocados-para-seleacaao-brasileira-de-atletismo-para-surdos46",
+      "data_encerramento": null,
+      "data_publicacao": "12/08/2026",
+      "status": "aberto",
+      "fonte": "PMBlumenau-SC",
+      "id": "9bcca950-e869-4cd8-84f5-0ff4600ea1b0",
+      "data_coleta": "2026-08-17T09:01:28.595971+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Blumenau",
+      "orgao": "SEIDEP, Blumenau - SC",
+      "cargos": [
+        "Atleta de Futsal",
+        "Atleta de Vôlei"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.blumenau.sc.gov.br/secretarias/sec...",
+      "data_encerramento": null,
+      "data_publicacao": "10/08/2026",
+      "status": "aberto",
+      "fonte": "PMBlumenau-SC",
+      "id": "e22a9d28-ac32-4efa-9575-667d46c2c131",
+      "data_coleta": "2026-08-17T09:01:28.595989+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Santos - SP",
+      "orgao": "Santos - SP",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santos-sp-divulga-retificacoes-de-concursos-",
+      "fonte": "PCI",
+      "status": "aberto",
+      "id": "173e4547-002b-4966-acf4-27bd88ef61cb",
+      "data_coleta": "2026-08-17T09:01:28.596316+00:00",
+      "data_publicacao": "2026-08-17"
     }
   ]
 }

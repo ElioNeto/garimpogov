@@ -1,8 +1,8 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 16/08/2026_
+_Atualizado em 17/08/2026_
 
-Total: **14** concursos encontrados.
+Total: **11** concursos encontrados.
 
 ---
 
@@ -17,7 +17,7 @@ Total: **14** concursos encontrados.
 
 ---
 
-## FAURGS (7)
+## FAURGS (4)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -32,27 +32,9 @@ Total: **14** concursos encontrados.
 - **Cargos:** PS 01 - ANALISTA DE TI I (Cibersegurança), PS 02 - BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Análise de Metabólitos), PS 03 - BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Citogenética), PS 04 - BIÓLOGO I, BIOMÉDICO I ou FARMACÊUTICO-BIOQUÍMICO I (Erros Inatos do Metabolismo), PS 05 - ENFERMEIRO I (Enfermeiro do Trabalho), PS 06 - ENFERMEIRO I (Internação Clínica Adulto), PS 07 - ENFERMEIRO I (Internação Cirúrgica Adulto ), PS 08 - MÉDICO I (Emergência Adulto), PS 09 - MÉDICO I (Geriatria), PS 10 - MÉDICO I (Neurofisiologia Clínica), PS 11 - MÉDICO I (Pediatria), PS 12 - MÉDICO I (Pneumologia: Polissonografia), PS 13 - MÉDICO I (Transplante Hepático), PS 14 - NUTRICIONISTA I (Atenção Básica), PS 15 - ASSISTENTE ADMINISTRATIVO I (Vigilante), PS 16 - TÉCNICO DE ENFERMAGEM (Centro Obstétrico e Internação Obstétrica), PS 17 - TÉCNICO DE LABORATÓRIO (Diagnóstico Laboratorial), PS 18 - TÉCNICO EM SAÚDE BUCAL
 - **Órgão/Local:** HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 
-### IFSC - Instituto Federal de Santa Catarina
-[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1277-012026ifsc-institutofederaldesantacatarina)
-- **Cargos:** 01 - Administração - São Carlos, 02 - Administração - Xanxerê, 03 - Artes Cênicas - Palhoça Bilíngue, 04 - Artes Visuais - Canoinhas, 05 - Artes Visuais - Lages, 06 - Artes Visuais - São Miguel do Oeste, 07 - Automação Industrial - Caçador, 08 - Automação Industrial - Lages, 09 - Automação Industrial - Tubarão, 10 - Educação Física - Caçador, 11 - Educação Física - Lages, 12 - Educação Física - São Lourenço do Oeste, 13 - Educação Física - Xanxerê, 14 - Eletrônica Geral - Tubarão, 15 - Enologia - Urupema, 16 - Espanhol - Caçador, 17 - Fabricação Mecânica - Caçador, 18 - Fabricação Mecânica - Chapecó, 19 - Fabricação Mecânica - Lages, 20 - Física - Canoinhas, 21 - Física - Caçador, 22 - Física - São Carlos, 23 - Geografia - São Carlos, 24 - Geografia - Xanxerê, 25 - Geotécnica - Florianópolis, 26 - História - São Carlos, 27 - História - São Lourenço do Oeste, 28 - História - Xanxerê, 29 - Informática - Caçador, 30 - Informática - Xanxerê, 31 - Inglês - Jaraguá do Sul Centro, 32 - Instalações e Acionamentos - Caçador, 33 - Matemática - Canoinhas, 34 - Matemática - Caçador, 35 - Matemática - Lages, 36 - Matemática - Jaraguá do Sul RAU, 37 - Processos Têxteis - Jaraguá do Sul Centro, 38 - Produção Animal - São Miguel do Oeste, 39 - Projetos Mecânicos - Lages, 40 - Química Geral - São Carlos, 41 - Segurança e Higiene do Trabalho - Chapecó, 42 - Sistema de Energia - Florianópolis, 43 - Sociologia - Caçador
-- **Órgão/Local:** IFSC - Instituto Federal de Santa Catarina
-- **Encerramento:** 17/08/2026
-
 ### IFSC - INSTITUTO FEDERAL DE SANTA CATARINA
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1279-022026ifsc-institutofederaldesantacatarina)
 - **Cargos:** Arquiteto e Urbanista - Reitoria, Assistente de Alunos - Urupema, Assistente de Alunos - Caçador, Assistente de Alunos - São Lourenço do Oeste, Bibliotecário - Documentalista - Caçador, Engenheiro Civil - Lages, Engenheiro de Segurança do Trabalho - Reitoria, Técnico de Laboratório – Área: Automação - Chapecó, Técnico de Laboratório – Área: Ciências da Natureza - Caçador, Técnico de Laboratório – Área: Informática - Canoinhas, Técnico em Assuntos Educacionais - Canoinhas, Técnico em Assuntos Educacionais - Caçador, Técnico em Assuntos Educacionais - São Carlos, Técnico em Assuntos Educacionais - São Lourenço do Oeste, Técnico em Assuntos Educacionais - São Miguel do Oeste, Técnico em Assuntos Educacionais - Urupema, Tecnólogo em Gestão Pública - Tubarão
-
-### IFSC - INSTITUTO FEDERAL DE SANTA CATARINA
-[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1279-022026ifsc-institutofederaldesantacatarina)
-- **Cargos:** Arquiteto e Urbanista - Reitoria, Assistente de Alunos - Urupema, Assistente de Alunos - Caçador, Assistente de Alunos - São Lourenço do Oeste, Bibliotecário - Documentalista - Caçador, Engenheiro Civil - Lages, Engenheiro de Segurança do Trabalho - Reitoria, Técnico de Laboratório – Área: Automação - Chapecó, Técnico de Laboratório – Área: Ciências da Natureza - Caçador, Técnico de Laboratório – Área: Informática - Canoinhas, Técnico em Assuntos Educacionais - Canoinhas, Técnico em Assuntos Educacionais - Caçador, Técnico em Assuntos Educacionais - São Carlos, Técnico em Assuntos Educacionais - São Lourenço do Oeste, Técnico em Assuntos Educacionais - São Miguel do Oeste, Técnico em Assuntos Educacionais - Urupema, Tecnólogo em Gestão Pública - Tubarão
-- **Órgão/Local:** IFSC - INSTITUTO FEDERAL DE SANTA CATARINA
-- **Encerramento:** 17/08/2026
-
-### IFSC - INSTITUTO FEDERAL DE SANTA CATARINA
-[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1277-012026ifsc-institutofederaldesantacatarina)
-- **Cargos:** Administração - São Carlos, Administração - Xanxerê, Artes Cênicas - Palhoça Bilíngue, Artes Visuais - Canoinhas, Artes Visuais - Lages, Artes Visuais - São Miguel do Oeste, Automação Industrial - Caçador, Automação Industrial - Lages, Automação Industrial - Tubarão, Educação Física - Caçador, Educação Física - Lages, Educação Física - São Lourenço do Oeste, Educação Física - Xanxerê, Eletrônica Geral - Tubarão, Enologia - Urupema, Espanhol - Caçador, Fabricação Mecânica - Caçador, Fabricação Mecânica - Chapecó, Fabricação Mecânica - Lages, Física - Canoinhas, Física - Caçador, Física - São Carlos, Geografia - São Carlos, Geografia - Xanxerê, Geotécnica - Florianópolis, História - São Carlos, História - São Lourenço do Oeste, História - Xanxerê, Informática - Caçador, Informática - Xanxerê, Inglês - Jaraguá do Sul Centro, Instalações e Acionamentos - Caçador, Matemática - Canoinhas, Matemática - Caçador, Matemática - Lages, Matemática - Jaraguá do Sul, Processos Têxteis - Jaraguá do Sul Centro, Produção Animal - São Miguel do Oeste, Projetos Mecânicos - Lages, Química Geral - São Carlos, Segurança e Higiene do Trabalho - Chapecó, Sistema de Energia - Florianópolis, Sociologia - Caçador
-- **Órgão/Local:** IFSC - INSTITUTO FEDERAL DE SANTA CATARINA
-- **Encerramento:** 17/08/2026
 
 ---
 
