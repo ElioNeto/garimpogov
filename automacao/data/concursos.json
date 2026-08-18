@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-17T09:01:28.596742+00:00",
-    "total_concursos": 423
+    "ultima_coleta": "2026-08-18T09:10:30.516439+00:00",
+    "total_concursos": 427
   },
   "concursos": [
     {
@@ -5766,21 +5766,6 @@
       "data_coleta": "2026-08-07T09:14:51.195399+00:00"
     },
     {
-      "instituicao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-      "orgao": "SP, Campinas - SP",
-      "cargos": [
-        "Médico Oncologista"
-      ],
-      "salario_maximo": "R$ 7.606,53",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-cargo-de-medico-oncologista-no-hc",
-      "data_encerramento": "18/08/2026",
-      "data_publicacao": "2026-08-07",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "cf59d703-387a-4200-8a0d-a1f8d216c62e",
-      "data_coleta": "2026-08-07T09:14:51.195474+00:00"
-    },
-    {
       "instituicao": "ABGF",
       "orgao": "Brasil",
       "cargos": [],
@@ -6318,6 +6303,79 @@
       "id": "173e4547-002b-4966-acf4-27bd88ef61cb",
       "data_coleta": "2026-08-17T09:01:28.596316+00:00",
       "data_publicacao": "2026-08-17"
+    },
+    {
+      "instituicao": "DEPA - Diretoria de Educação Preparatória e Assistencial (Exército)",
+      "orgao": "Nacional",
+      "cargos": [
+        "Aluno do 6º ano do Ensino Fundamental",
+        "Aluno do 1º ano do Ensino Médio"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/decex-brasil-divulga-retificacao-de-processo-seletivo-para-colegios-militares",
+      "data_encerramento": "17/09/2026",
+      "data_publicacao": "2026-08-18",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "732b123e-bb39-41c9-9bc6-e360de8fa851",
+      "data_coleta": "2026-08-18T09:10:30.515772+00:00"
+    },
+    {
+      "instituicao": "Autarquia Municipal de Saúde de Itapecerica da Serra",
+      "orgao": "SP, Itapecerica da Serra - SP",
+      "cargos": [
+        "Agente Comunitário de Saúde"
+      ],
+      "salario_maximo": "R$ 3.242,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/autarquia-municipal-de-saude-de-itapecerica-da-serra-sp-abre-vagas-para-agente-comunitario-de-saude",
+      "data_encerramento": "14/09/2026",
+      "data_publicacao": "2026-08-18",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "74fa7b23-787d-4ac6-8a06-ac01fb06e89a",
+      "data_coleta": "2026-08-18T09:10:30.515975+00:00"
+    },
+    {
+      "instituicao": "CONDERG - Consórcio de Desenvolvimento da Região de Governo de São João da Boa Vista",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": "R$ 6.009,98",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/conderg-sp-abre-processo-seletivo-com-salarios-de-ate-6009",
+      "data_encerramento": "10/09/2026",
+      "data_publicacao": "2026-08-18",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "940185ee-3f56-43e2-a246-070d64fe37f1",
+      "data_coleta": "2026-08-18T09:10:30.516084+00:00"
+    },
+    {
+      "instituicao": "DAAEA - Departamento Autônomo de Água e Esgoto de Avanhandava",
+      "orgao": "SP",
+      "cargos": [
+        "Auxiliar de Tratamento de Água",
+        "Operador de Máquina"
+      ],
+      "salario_maximo": "R$ 2.045,46",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/daaea-de-avanhandava-sp-abre-concurso-para-auxiliar-de-tratamento-de-agua-e-operador-de-maquina",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-18",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "fa2e21a3-e257-497f-81a4-1283344c31f6",
+      "data_coleta": "2026-08-18T09:10:30.516176+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Santos",
+      "orgao": "SP, Santos - SP",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santos-sp-divulga-retificacoes-de-concursos-publicus",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-18",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "766b70a1-4c4d-4614-8e78-f992c7e6921f",
+      "data_coleta": "2026-08-18T09:10:30.516390+00:00"
     }
   ]
 }

@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 17/08/2026_
+_Atualizado em 18/08/2026_
 
-Total: **423** concursos encontrados.
+Total: **427** concursos encontrados.
 
 ---
 
@@ -318,7 +318,7 @@ Total: **423** concursos encontrados.
 
 ---
 
-## PCI (296)
+## PCI (300)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1714,13 +1714,6 @@ Total: **423** concursos encontrados.
 - **Salário máx.:** R$ 5.771,75
 - **Encerramento:** 03/09/2026
 
-### FUNCAMP - Fundação de Desenvolvimento da Unicamp
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-cargo-de-medico-oncologista-no-hc)
-- **Cargos:** Médico Oncologista
-- **Órgão/Local:** SP, Campinas - SP
-- **Salário máx.:** R$ 7.606,53
-- **Encerramento:** 18/08/2026
-
 ### ABGF
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/abgf-prorroga-inscricoes-do-concurso-publico-com-vagas-para-cargos-de-nivel-superior)
 - **Órgão/Local:** Brasil
@@ -1883,6 +1876,35 @@ Total: **423** concursos encontrados.
 ### Prefeitura de Santos - SP
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-santos-sp-divulga-retificacoes-de-concursos-)
 - **Órgão/Local:** Santos - SP
+
+### DEPA - Diretoria de Educação Preparatória e Assistencial (Exército)
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/decex-brasil-divulga-retificacao-de-processo-seletivo-para-colegios-militares)
+- **Cargos:** Aluno do 6º ano do Ensino Fundamental, Aluno do 1º ano do Ensino Médio
+- **Órgão/Local:** Nacional
+- **Encerramento:** 17/09/2026
+
+### Autarquia Municipal de Saúde de Itapecerica da Serra
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/autarquia-municipal-de-saude-de-itapecerica-da-serra-sp-abre-vagas-para-agente-comunitario-de-saude)
+- **Cargos:** Agente Comunitário de Saúde
+- **Órgão/Local:** SP, Itapecerica da Serra - SP
+- **Salário máx.:** R$ 3.242,00
+- **Encerramento:** 14/09/2026
+
+### CONDERG - Consórcio de Desenvolvimento da Região de Governo de São João da Boa Vista
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/conderg-sp-abre-processo-seletivo-com-salarios-de-ate-6009)
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 6.009,98
+- **Encerramento:** 10/09/2026
+
+### DAAEA - Departamento Autônomo de Água e Esgoto de Avanhandava
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/daaea-de-avanhandava-sp-abre-concurso-para-auxiliar-de-tratamento-de-agua-e-operador-de-maquina)
+- **Cargos:** Auxiliar de Tratamento de Água, Operador de Máquina
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 2.045,46
+
+### Prefeitura de Santos
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-santos-sp-divulga-retificacoes-de-concursos-publicus)
+- **Órgão/Local:** SP, Santos - SP
 
 ---
 
