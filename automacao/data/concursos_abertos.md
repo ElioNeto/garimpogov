@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 18/08/2026_
+_Atualizado em 19/08/2026_
 
-Total: **427** concursos encontrados.
+Total: **435** concursos encontrados.
 
 ---
 
@@ -318,7 +318,7 @@ Total: **427** concursos encontrados.
 
 ---
 
-## PCI (300)
+## PCI (305)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1906,9 +1906,40 @@ Total: **427** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-santos-sp-divulga-retificacoes-de-concursos-publicus)
 - **Órgão/Local:** SP, Santos - SP
 
+### AgSUS - Agência Brasileira de Apoio à Gestão do SUS
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/agsus-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva-no-projeto-sesmt)
+- **Cargos:** Técnico, Superior
+- **Órgão/Local:** NACIONAL
+- **Salário máx.:** R$ 10.302,00
+- **Encerramento:** 16/10/2026
+
+### AgSUS - Agência Brasileira de Apoio à Gestão do SUS
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/agsus-abre-selecao-para-psicologo-com-remuneracao-de-8800)
+- **Cargos:** Psicólogo
+- **Órgão/Local:** NACIONAL
+- **Salário máx.:** R$ 8.800,00
+- **Encerramento:** 18/09/2026
+
+### Prefeitura da Estância Balneária de Ilhabela
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-ilhabela-sp-retifica-edital-de-concurso-publico-com-remuneracoes-de-ate-12579)
+- **Cargos:** Fundamental, Médio, Superior
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 12.579,96
+- **Encerramento:** 10/09/2026
+
+### AgSUS - Agência Brasileira de Apoio à Gestão do SUS
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/agsus-abre-processo-seletivo-para-formacao-de-c cadastro-de-reserva-no-projeto-sesmt)
+- **Salário máx.:** R$ 10.302,00
+- **Encerramento:** 16/10/2026
+
+### Prefeitura de Marialva - PR
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-marialva-pr-abre-concurso-publico-com-salarios-de-ate-6768)
+- **Órgão/Local:** PR, Marialva - PR
+- **Salário máx.:** R$ 6.768,66
+
 ---
 
-## PMBlumenau-SC (12)
+## PMBlumenau-SC (15)
 
 ### Prefeitura de Blumenau
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/seidep/seidep/prefeitura-promove-tarde-danacante-para-pessoas-com-deficiaancia-em-blumenau)
@@ -1974,6 +2005,21 @@ Total: **427** concursos encontrados.
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/sec...)
 - **Cargos:** Atleta de Futsal, Atleta de Vôlei
 - **Órgão/Local:** SEIDEP, Blumenau - SC
+
+### Prefeitura de Blumenau
+[🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/seidep/seidep/prefeitura-de-blumenau-abre-inscriacaoes-para-curso-intermediaario-de-informaatica-para-pessoas-com-deficiaancia13)
+- **Órgão/Local:** Blumenau, SC
+- **Encerramento:** 25/08/2026
+
+### Prefeitura de Blumenau
+[🔗 Edital](https://www.blumenau.sc.gov.br/governo/seidep/seidep/paradesporto-de-blumenau-embarca-rumo-a-chapecao-disputar-os-parajasc99)
+- **Órgão/Local:** Blumenau, SC
+- **Encerramento:** 23/08/2026
+
+### Prefeitura de Blumenau
+[🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/secretaria-de-educacao/semed/blumenau-conquista-37-medalhas-na-etapa-estadual-da-olimpaiada-de-matemaatica98)
+- **Órgão/Local:** Blumenau, SC
+- **Encerramento:** 23/08/2026
 
 ---
 

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-18T09:10:30.516439+00:00",
-    "total_concursos": 427
+    "ultima_coleta": "2026-08-19T08:53:48.300695+00:00",
+    "total_concursos": 435
   },
   "concursos": [
     {
@@ -6376,6 +6376,119 @@
       "fonte": "PCI",
       "id": "766b70a1-4c4d-4614-8e78-f992c7e6921f",
       "data_coleta": "2026-08-18T09:10:30.516390+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Blumenau",
+      "orgao": "Blumenau, SC",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.blumenau.sc.gov.br/secretarias/seidep/seidep/prefeitura-de-blumenau-abre-inscriacaoes-para-curso-intermediaario-de-informaatica-para-pessoas-com-deficiaancia13",
+      "data_encerramento": "25/08/2026",
+      "data_publicacao": "14/08/2026",
+      "status": "aberto",
+      "fonte": "PMBlumenau-SC",
+      "id": "42010ff5-bb15-4bb2-b647-01903e8dc679",
+      "data_coleta": "2026-08-19T08:53:48.299987+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Blumenau",
+      "orgao": "Blumenau, SC",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.blumenau.sc.gov.br/governo/seidep/seidep/paradesporto-de-blumenau-embarca-rumo-a-chapecao-disputar-os-parajasc99",
+      "data_encerramento": "23/08/2026",
+      "data_publicacao": "14/08/2026",
+      "status": "aberto",
+      "fonte": "PMBlumenau-SC",
+      "id": "db722512-41d0-4139-ab79-af28c90c3d77",
+      "data_coleta": "2026-08-19T08:53:48.300028+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Blumenau",
+      "orgao": "Blumenau, SC",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.blumenau.sc.gov.br/secretarias/secretaria-de-educacao/semed/blumenau-conquista-37-medalhas-na-etapa-estadual-da-olimpaiada-de-matemaatica98",
+      "data_encerramento": "23/08/2026",
+      "data_publicacao": "13/08/2026",
+      "status": "aberto",
+      "fonte": "PMBlumenau-SC",
+      "id": "d894fefd-0965-4797-8654-3e146dee6850",
+      "data_coleta": "2026-08-19T08:53:48.300057+00:00"
+    },
+    {
+      "instituicao": "AgSUS - Agência Brasileira de Apoio à Gestão do SUS",
+      "orgao": "NACIONAL",
+      "cargos": [
+        "Técnico",
+        "Superior"
+      ],
+      "salario_maximo": "R$ 10.302,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/agsus-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva-no-projeto-sesmt",
+      "data_encerramento": "16/10/2026",
+      "data_publicacao": "19/08/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "ff40cd3a-07b2-457c-a3d5-7daff36b43c5",
+      "data_coleta": "2026-08-19T08:53:48.300111+00:00"
+    },
+    {
+      "instituicao": "AgSUS - Agência Brasileira de Apoio à Gestão do SUS",
+      "orgao": "NACIONAL",
+      "cargos": [
+        "Psicólogo"
+      ],
+      "salario_maximo": "R$ 8.800,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/agsus-abre-selecao-para-psicologo-com-remuneracao-de-8800",
+      "data_encerramento": "18/09/2026",
+      "data_publicacao": "19/08/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "a80d0c82-a94c-4468-bcc7-b6b707a1538e",
+      "data_coleta": "2026-08-19T08:53:48.300138+00:00"
+    },
+    {
+      "instituicao": "Prefeitura da Estância Balneária de Ilhabela",
+      "orgao": "SP",
+      "cargos": [
+        "Fundamental",
+        "Médio",
+        "Superior"
+      ],
+      "salario_maximo": "R$ 12.579,96",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ilhabela-sp-retifica-edital-de-concurso-publico-com-remuneracoes-de-ate-12579",
+      "data_encerramento": "10/09/2026",
+      "data_publicacao": "19/08/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "cec70e2c-3a58-408a-b8e4-892db6b5506a",
+      "data_coleta": "2026-08-19T08:53:48.300259+00:00"
+    },
+    {
+      "instituicao": "AgSUS - Agência Brasileira de Apoio à Gestão do SUS",
+      "orgao": null,
+      "cargos": [],
+      "salario_maximo": "R$ 10.302,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/agsus-abre-processo-seletivo-para-formacao-de-c cadastro-de-reserva-no-projeto-sesmt",
+      "data_encerramento": "16/10/2026",
+      "data_publicacao": "2026-08-19",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "3adb44e7-a60f-4e46-826d-995f207ebe09",
+      "data_coleta": "2026-08-19T08:53:48.300502+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Marialva - PR",
+      "orgao": "PR, Marialva - PR",
+      "cargos": [],
+      "salario_maximo": "R$ 6.768,66",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marialva-pr-abre-concurso-publico-com-salarios-de-ate-6768",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-19",
+      "status": null,
+      "fonte": "PCI",
+      "id": "41e82094-aae9-4cd1-8345-9ca9384b223f",
+      "data_coleta": "2026-08-19T08:53:48.300639+00:00"
     }
   ]
 }
