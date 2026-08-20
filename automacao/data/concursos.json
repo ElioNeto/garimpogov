@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-19T08:53:48.300695+00:00",
-    "total_concursos": 435
+    "ultima_coleta": "2026-08-20T09:03:23.101204+00:00",
+    "total_concursos": 443
   },
   "concursos": [
     {
@@ -5723,21 +5723,6 @@
       "data_coleta": "2026-08-07T09:14:51.194965+00:00"
     },
     {
-      "instituicao": "TCESP - Tribunal de Contas do Estado de São Paulo",
-      "orgao": "SP, São Paulo - SP",
-      "cargos": [
-        "Auditor de Controle Externo"
-      ],
-      "salario_maximo": "R$ 20.940,20",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/tce-sp-prorroga-inscricoes-do-concurso-publico-para-auditor-de-controle-externo",
-      "data_encerramento": "20/08/2026",
-      "data_publicacao": "2026-08-07",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "25ee1fad-c550-4ca5-951f-bbe4f45c99de",
-      "data_coleta": "2026-08-07T09:14:51.195147+00:00"
-    },
-    {
       "instituicao": "Autarquia Municipal de Saúde de Itapecerica da Serra",
       "orgao": "SP, Itapecerica da Serra - SP",
       "cargos": [],
@@ -6489,6 +6474,169 @@
       "fonte": "PCI",
       "id": "41e82094-aae9-4cd1-8345-9ca9384b223f",
       "data_coleta": "2026-08-19T08:53:48.300639+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Blumenau",
+      "orgao": "Blumenau, SC",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.blumenau.sc.gov.br/governo/fundacao-de-desportos/fmd/blumenau-conquista-primeiro-trofaeu-geral-da-histaoria-na-copa-brasil-ouro-de-taanis-de-mesa59",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-20",
+      "status": "aberto",
+      "fonte": "PMBlumenau-SC",
+      "id": "b10b3385-4122-451f-8dba-1b6adc4c8a7f",
+      "data_coleta": "2026-08-20T09:03:23.100540+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Blumenau",
+      "orgao": "Blumenau, SC",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.blumenau.sc.gov.br/secretarias/fundacao-do-meio-ambiente/faema/blumenau-abre-inscriacaoes-para-entidades-participarem-da-semana-da-aagua-202699",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-20",
+      "status": "aberto",
+      "fonte": "PMBlumenau-SC",
+      "id": "16bd0af1-6415-4c62-ac28-5eba4b5bc780",
+      "data_coleta": "2026-08-20T09:03:23.100573+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Blumenau",
+      "orgao": "Blumenau, SC",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.blumenau.sc.gov.br/secretarias/parque-vila-germanica/parque-vila-germanica/inscriacaoes-para-o-festival-de-danacas-germaanicas-da-oktoberfest-terminam-nesta-teraca-feira-dia-1898",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-20",
+      "status": "aberto",
+      "fonte": "PMBlumenau-SC",
+      "id": "9f261081-04ff-4818-932e-d5c6754815f2",
+      "data_coleta": "2026-08-20T09:03:23.100588+00:00"
+    },
+    {
+      "instituicao": "IFSC - INSTITUTO FEDERAL DE SANTA CATARINA",
+      "orgao": "IFSC",
+      "cargos": [
+        "Administração - São Carlos",
+        "Administração - Xanxerê",
+        "Artes Cênicas - Palhoça Bilíngue",
+        "Artes Visuais - Canoinhas",
+        "Artes Visuais - Lages",
+        "Artes Visuais - São Miguel do Oeste",
+        "Automação Industrial - Caçador",
+        "Automação Industrial - Lages",
+        "Automação Industrial - Tubarão",
+        "Educação Física - Caçador",
+        "Educação Física - Lages",
+        "Educação Física - São Lourenço do Oeste",
+        "Educação Física - Xanxerê",
+        "Eletrônica Geral - Tubarão",
+        "Enologia - Urupema",
+        "Espanhol - Caçador",
+        "Fabricação Mecânica - Caçador",
+        "Fabricação Mecânica - Chapecó",
+        "Fabricação Mecânica - Lages",
+        "Física - Canoinhas",
+        "Física - Caçador",
+        "Física - São Carlos",
+        "Geografia - São Carlos",
+        "Geografia - Xanxerê",
+        "Geotécnica - Florianópolis",
+        "História - São Carlos",
+        "História - São Lourenço do Oeste",
+        "História - Xanxerê",
+        "Informática - Caçador",
+        "Informática - Xanxerê",
+        "Inglês - Jaraguá do Sul Centro",
+        "Instalações e Acionamentos - Caçador",
+        "Matemática - Canoinhas",
+        "Matemática - Caçador",
+        "Matemática - Lages",
+        "Matemática - Jaraguá do Sul RAU",
+        "Processos Têxteis - Jaraguá do Sul Centro",
+        "Produção Animal - São Miguel do Oeste",
+        "Projetos Mecânicos - Lages",
+        "Química Geral - São Carlos",
+        "Segurança e Higiene do Trabalho - Chapecó",
+        "Sistema de Energia - Florianópolis",
+        "Sociologia - Caçador"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosFaurgs/emandamento/1277-012026ifsc-institutofederaldesantacatarina",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-20",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "43d9fdf5-80f1-4e7e-b611-3b40b10058e3",
+      "data_coleta": "2026-08-20T09:03:23.100678+00:00"
+    },
+    {
+      "instituicao": "Transpetro - Petrobras Transporte S.A.",
+      "orgao": null,
+      "cargos": [],
+      "salario_maximo": "R$ 15.034,81",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/transpetro-publica-editais-retificados-de-processos-seletivos-para-diversos-cargos",
+      "data_encerramento": "14/09/2026",
+      "data_publicacao": "2026-08-20",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "7a561c8f-7750-4c51-bf0b-3d131a730cca",
+      "data_coleta": "2026-08-20T09:03:23.100724+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Limeira",
+      "orgao": "SP",
+      "cargos": [
+        "Professor Substituto"
+      ],
+      "salario_maximo": "R$ 30,00 por hora-aula",
+      "link_edital": "https://www.pciconcursos.com.br/apostilas/prefeitura-de-limeira-sp",
+      "data_encerramento": "24/08/2026",
+      "data_publicacao": "2026-08-20",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "030e20ad-a101-4829-805c-8fbf4f8cb985",
+      "data_coleta": "2026-08-20T09:03:23.100852+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Cristalina",
+      "orgao": "Cristalina - GO",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cristalina-go-retifica-edital-de-concurso-publico-para-a-s",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-20",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "e3f5302f-13a9-499a-bf9a-6b7f721e5db1",
+      "data_coleta": "2026-08-20T09:03:23.101038+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Chapada dos Guimarães",
+      "orgao": "MT, Chapada dos Guimarães - MT",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-chapada-dos-guimaraes-mt-divulga-retificacao-de-concurso-publico",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-20",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "8f0c3de4-a796-4693-8b52-9890b209712f",
+      "data_coleta": "2026-08-20T09:03:23.101153+00:00"
+    },
+    {
+      "instituicao": "Governo do Tocantins",
+      "orgao": "TO",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/governo-do-tocantins-to-retifica-edital-de-concurso-com-vagas-de-nivel-medio-e-superior",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-20",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "74c1a20e-e8e2-4b85-9446-455684db08e8",
+      "data_coleta": "2026-08-20T09:03:23.101174+00:00"
     }
   ]
 }

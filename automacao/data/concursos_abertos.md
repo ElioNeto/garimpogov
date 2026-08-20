@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 19/08/2026_
+_Atualizado em 20/08/2026_
 
-Total: **435** concursos encontrados.
+Total: **443** concursos encontrados.
 
 ---
 
@@ -36,7 +36,7 @@ Total: **435** concursos encontrados.
 
 ---
 
-## FAURGS (19)
+## FAURGS (20)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -127,6 +127,11 @@ Total: **435** concursos encontrados.
 - **Cargos:** Técnico Mecânico de Manutenção Industrial, Técnico Operacional, Engenheiro Sênior I de Poços, Técnico em Usinagem I
 - **Órgão/Local:** Lamef
 - **Encerramento:** 25/08/2026
+
+### IFSC - INSTITUTO FEDERAL DE SANTA CATARINA
+[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1277-012026ifsc-institutofederaldesantacatarina)
+- **Cargos:** Administração - São Carlos, Administração - Xanxerê, Artes Cênicas - Palhoça Bilíngue, Artes Visuais - Canoinhas, Artes Visuais - Lages, Artes Visuais - São Miguel do Oeste, Automação Industrial - Caçador, Automação Industrial - Lages, Automação Industrial - Tubarão, Educação Física - Caçador, Educação Física - Lages, Educação Física - São Lourenço do Oeste, Educação Física - Xanxerê, Eletrônica Geral - Tubarão, Enologia - Urupema, Espanhol - Caçador, Fabricação Mecânica - Caçador, Fabricação Mecânica - Chapecó, Fabricação Mecânica - Lages, Física - Canoinhas, Física - Caçador, Física - São Carlos, Geografia - São Carlos, Geografia - Xanxerê, Geotécnica - Florianópolis, História - São Carlos, História - São Lourenço do Oeste, História - Xanxerê, Informática - Caçador, Informática - Xanxerê, Inglês - Jaraguá do Sul Centro, Instalações e Acionamentos - Caçador, Matemática - Canoinhas, Matemática - Caçador, Matemática - Lages, Matemática - Jaraguá do Sul RAU, Processos Têxteis - Jaraguá do Sul Centro, Produção Animal - São Miguel do Oeste, Projetos Mecânicos - Lages, Química Geral - São Carlos, Segurança e Higiene do Trabalho - Chapecó, Sistema de Energia - Florianópolis, Sociologia - Caçador
+- **Órgão/Local:** IFSC
 
 ---
 
@@ -318,7 +323,7 @@ Total: **435** concursos encontrados.
 
 ---
 
-## PCI (305)
+## PCI (309)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1694,13 +1699,6 @@ Total: **435** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/seap-ma-abre-concurso-publ)
 - **Órgão/Local:** MA, SEAP - Maranhão
 
-### TCESP - Tribunal de Contas do Estado de São Paulo
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/tce-sp-prorroga-inscricoes-do-concurso-publico-para-auditor-de-controle-externo)
-- **Cargos:** Auditor de Controle Externo
-- **Órgão/Local:** SP, São Paulo - SP
-- **Salário máx.:** R$ 20.940,20
-- **Encerramento:** 20/08/2026
-
 ### Autarquia Municipal de Saúde de Itapecerica da Serra
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/autarquia-municipal-de-saude-de-itapecerica-da-serra-sp-abre-concurso-publico-com-salarios-de-ate-11576)
 - **Órgão/Local:** SP, Itapecerica da Serra - SP
@@ -1937,9 +1935,33 @@ Total: **435** concursos encontrados.
 - **Órgão/Local:** PR, Marialva - PR
 - **Salário máx.:** R$ 6.768,66
 
+### Transpetro - Petrobras Transporte S.A.
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/transpetro-publica-editais-retificados-de-processos-seletivos-para-diversos-cargos)
+- **Salário máx.:** R$ 15.034,81
+- **Encerramento:** 14/09/2026
+
+### Prefeitura de Limeira
+[🔗 Edital](https://www.pciconcursos.com.br/apostilas/prefeitura-de-limeira-sp)
+- **Cargos:** Professor Substituto
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 30,00 por hora-aula
+- **Encerramento:** 24/08/2026
+
+### Prefeitura de Cristalina
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-cristalina-go-retifica-edital-de-concurso-publico-para-a-s)
+- **Órgão/Local:** Cristalina - GO
+
+### Prefeitura de Chapada dos Guimarães
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-chapada-dos-guimaraes-mt-divulga-retificacao-de-concurso-publico)
+- **Órgão/Local:** MT, Chapada dos Guimarães - MT
+
+### Governo do Tocantins
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/governo-do-tocantins-to-retifica-edital-de-concurso-com-vagas-de-nivel-medio-e-superior)
+- **Órgão/Local:** TO
+
 ---
 
-## PMBlumenau-SC (15)
+## PMBlumenau-SC (18)
 
 ### Prefeitura de Blumenau
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/seidep/seidep/prefeitura-promove-tarde-danacante-para-pessoas-com-deficiaancia-em-blumenau)
@@ -2020,6 +2042,18 @@ Total: **435** concursos encontrados.
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/secretaria-de-educacao/semed/blumenau-conquista-37-medalhas-na-etapa-estadual-da-olimpaiada-de-matemaatica98)
 - **Órgão/Local:** Blumenau, SC
 - **Encerramento:** 23/08/2026
+
+### Prefeitura de Blumenau
+[🔗 Edital](https://www.blumenau.sc.gov.br/governo/fundacao-de-desportos/fmd/blumenau-conquista-primeiro-trofaeu-geral-da-histaoria-na-copa-brasil-ouro-de-taanis-de-mesa59)
+- **Órgão/Local:** Blumenau, SC
+
+### Prefeitura de Blumenau
+[🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/fundacao-do-meio-ambiente/faema/blumenau-abre-inscriacaoes-para-entidades-participarem-da-semana-da-aagua-202699)
+- **Órgão/Local:** Blumenau, SC
+
+### Prefeitura de Blumenau
+[🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/parque-vila-germanica/parque-vila-germanica/inscriacaoes-para-o-festival-de-danacas-germaanicas-da-oktoberfest-terminam-nesta-teraca-feira-dia-1898)
+- **Órgão/Local:** Blumenau, SC
 
 ---
 
