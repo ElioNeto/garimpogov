@@ -1,6 +1,6 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 20/08/2026_
+_Atualizado em 21/08/2026_
 
 Total: **443** concursos encontrados.
 
@@ -1543,13 +1543,6 @@ Total: **443** concursos encontrados.
 - **Cargos:** Policial Penal, Especialista em Assistência Penitenciária
 - **Órgão/Local:** SEAP / SEAD - RN
 
-### UNICAMP - Universidade Estadual de Campinas
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-para-pesquisador-na-area-de-ciencia-politica)
-- **Cargos:** Pesquisador
-- **Órgão/Local:** SÃO PAULO
-- **Salário máx.:** R$ 14.504,38
-- **Encerramento:** 21/08/2026
-
 ### SESAU - Secretaria de Estado da Saúde de Alagoas
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/sesau-al-retifica-concurso-para-especialistas-e-a)
 - **Cargos:** Especialistas em Saúde, Assistentes em Saúde
@@ -1736,13 +1729,6 @@ Total: **443** concursos encontrados.
 - **Salário máx.:** R$ 7.104,30
 - **Encerramento:** 29/09/2026
 
-### FUNCAMP - Fundação de Desenvolvimento da Unicamp
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-programador-de-sistemas-junior)
-- **Cargos:** Programador de Sistemas Júnior
-- **Órgão/Local:** São Paulo - SP
-- **Salário máx.:** R$ 5.383,87
-- **Encerramento:** 21/08/2026
-
 ### Guarulhos - Município de Guarulhos
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-guarulhos-sp-abre-concurso-publico-para-o-cargo-de-guarda-vidas)
 - **Cargos:** Guarda-Vidas
@@ -1865,12 +1851,6 @@ Total: **443** concursos encontrados.
 - **Salário máx.:** R$ 2.954,03
 - **Encerramento:** 24/08/2026
 
-### CRECI - Conselho Regional de Corretores de Imóveis do Estado de São Paulo
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/creci-sp-anuncia-concurso-publico-com-salarios-de-ate-9940)
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 9.940,00
-- **Encerramento:** 21/08/2026
-
 ### Prefeitura de Santos - SP
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-santos-sp-divulga-retificacoes-de-concursos-)
 - **Órgão/Local:** Santos - SP
@@ -1958,6 +1938,21 @@ Total: **443** concursos encontrados.
 ### Governo do Tocantins
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/governo-do-tocantins-to-retifica-edital-de-concurso-com-vagas-de-nivel-medio-e-superior)
 - **Órgão/Local:** TO
+
+### INOVA OZ
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/inova-oz-sp-abre-concurso-publico-com-salarios-de-ate-5435)
+- **Cargos:** Cargos diversos
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 5.435,64
+
+### Prefeitura de Limeira - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-limeira-sp-publica-edital-de-processo-seletivo-for-professores-substitutos)
+- **Cargos:** Professor substituto
+- **Órgão/Local:** SP, Sao Paulo - SP
+
+### Prefeitura de Chapada dos Guimarães - MT
+[🔗 Edital](https://www.pciconcursos.com.br/)
+- **Órgão/Local:** MT, Mato Grosso - MT
 
 ---
 

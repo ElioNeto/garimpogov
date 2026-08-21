@@ -1,8 +1,8 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 20/08/2026_
+_Atualizado em 21/08/2026_
 
-Total: **12** concursos encontrados.
+Total: **11** concursos encontrados.
 
 ---
 
@@ -50,7 +50,7 @@ Total: **12** concursos encontrados.
 
 ---
 
-## PCI (4)
+## PCI (3)
 
 ### CRA - PR
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/cra-pr-retifica-concurso-publico-com-salarios-de-ate-10600)
@@ -67,13 +67,6 @@ Total: **12** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos)
 - **Órgão/Local:** DATAPREV
 - **Salário máx.:** R$ 10.685,44
-
-### FUNCAMP - Fundação de Desenvolvimento da Unicamp
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-programador-de-sistemas-junior)
-- **Cargos:** Programador de Sistemas Júnior
-- **Órgão/Local:** São Paulo - SP
-- **Salário máx.:** R$ 5.383,87
-- **Encerramento:** 21/08/2026
 
 ---
 

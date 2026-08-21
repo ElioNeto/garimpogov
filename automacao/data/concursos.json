@@ -1,6 +1,6 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-20T09:03:23.101204+00:00",
+    "ultima_coleta": "2026-08-21T09:16:48.669850+00:00",
     "total_concursos": 443
   },
   "concursos": [
@@ -5149,21 +5149,6 @@
       "data_coleta": "2026-07-24T10:36:22.822079+00:00"
     },
     {
-      "instituicao": "UNICAMP - Universidade Estadual de Campinas",
-      "orgao": "SÃO PAULO",
-      "cargos": [
-        "Pesquisador"
-      ],
-      "salario_maximo": "R$ 14.504,38",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-para-pesquisador-na-area-de-ciencia-politica",
-      "data_encerramento": "21/08/2026",
-      "data_publicacao": "2026-07-24",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "a53154ea-8ca7-48b2-a6e2-44e5674d18f4",
-      "data_coleta": "2026-07-24T10:36:22.822301+00:00"
-    },
-    {
       "instituicao": "SESAU - Secretaria de Estado da Saúde de Alagoas",
       "orgao": "Alagoas - AL",
       "cargos": [
@@ -5830,21 +5815,6 @@
       "data_coleta": "2026-08-10T09:40:39.082413+00:00"
     },
     {
-      "instituicao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-      "orgao": "São Paulo - SP",
-      "cargos": [
-        "Programador de Sistemas Júnior"
-      ],
-      "salario_maximo": "R$ 5.383,87",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-programador-de-sistemas-junior",
-      "data_encerramento": "21/08/2026",
-      "data_publicacao": "10/08/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "b7b8b8f6-3b24-4764-915f-593731a682b2",
-      "data_coleta": "2026-08-10T09:40:39.082597+00:00"
-    },
-    {
       "instituicao": "Guarulhos - Município de Guarulhos",
       "orgao": "São Paulo - SP",
       "cargos": [
@@ -6214,19 +6184,6 @@
       "fonte": "PCI",
       "id": "3ddc77cd-80eb-4249-8419-72a976ba11ab",
       "data_coleta": "2026-08-15T08:44:05.766804+00:00"
-    },
-    {
-      "instituicao": "CRECI - Conselho Regional de Corretores de Imóveis do Estado de São Paulo",
-      "orgao": "SP",
-      "cargos": [],
-      "salario_maximo": "R$ 9.940,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/creci-sp-anuncia-concurso-publico-com-salarios-de-ate-9940",
-      "data_encerramento": "21/08/2026",
-      "data_publicacao": "2026-08-15",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "f53c7dee-fab4-4a1b-86e3-9e63c000fad7",
-      "data_coleta": "2026-08-15T08:44:05.766830+00:00"
     },
     {
       "instituicao": "Lamef",
@@ -6637,6 +6594,49 @@
       "fonte": "PCI",
       "id": "74c1a20e-e8e2-4b85-9446-455684db08e8",
       "data_coleta": "2026-08-20T09:03:23.101174+00:00"
+    },
+    {
+      "instituicao": "INOVA OZ",
+      "orgao": "SP",
+      "cargos": [
+        "Cargos diversos"
+      ],
+      "salario_maximo": "R$ 5.435,64",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/inova-oz-sp-abre-concurso-publico-com-salarios-de-ate-5435",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-21",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "0b8b5132-b47a-46b7-98ec-332e07b6c4f8",
+      "data_coleta": "2026-08-21T09:16:48.669499+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Limeira - SP",
+      "orgao": "SP, Sao Paulo - SP",
+      "cargos": [
+        "Professor substituto"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-limeira-sp-publica-edital-de-processo-seletivo-for-professores-substitutos",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-21",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "f06e33bf-15d9-438e-a172-a20352bcdcb9",
+      "data_coleta": "2026-08-21T09:16:48.669688+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Chapada dos Guimarães - MT",
+      "orgao": "MT, Mato Grosso - MT",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-21",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "e13019f2-ddbe-4b2c-b2bf-c0196a0b76ac",
+      "data_coleta": "2026-08-21T09:16:48.669781+00:00"
     }
   ]
 }
