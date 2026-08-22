@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-21T09:16:48.669850+00:00",
-    "total_concursos": 443
+    "ultima_coleta": "2026-08-22T08:52:15.627874+00:00",
+    "total_concursos": 449
   },
   "concursos": [
     {
@@ -6637,6 +6637,86 @@
       "fonte": "PCI",
       "id": "e13019f2-ddbe-4b2c-b2bf-c0196a0b76ac",
       "data_coleta": "2026-08-21T09:16:48.669781+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Paulínia",
+      "orgao": "SP, Paulínia - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 7.350,75",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paulinia-sp-prorroga-inscricoes-de-processo-seletivo-com-salarios-de-ate-7350",
+      "data_encerramento": "26/08/2026",
+      "data_publicacao": "22/08/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "efaa99f9-7eb6-4884-983a-51f4dcc1148e",
+      "data_coleta": "2026-08-22T08:52:15.627476+00:00"
+    },
+    {
+      "instituicao": "Câmara de José Bonifácio",
+      "orgao": "SP, José Bonifácio - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 6.100,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-jose-bonifacio-sp-abre-concurso-publico-com-salarios-de-ate-6100",
+      "data_encerramento": "16/09/2026",
+      "data_publicacao": "22/08/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "6a4437ec-78f9-4d51-ba82-dccb17723320",
+      "data_coleta": "2026-08-22T08:52:15.627529+00:00"
+    },
+    {
+      "instituicao": "Câmara de Vargem Grande do Sul",
+      "orgao": "SP, Vargem Grande do Sul - SP",
+      "cargos": [
+        "Analista Contábil"
+      ],
+      "salario_maximo": "R$ 6.624,76",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-vargem-grande-do-sul-sp-abre-vaga-para-analista-contabil",
+      "data_encerramento": "08/09/2026",
+      "data_publicacao": "22/08/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "e83bc084-4cac-46d4-96ca-09bb2709f200",
+      "data_coleta": "2026-08-22T08:52:15.627591+00:00"
+    },
+    {
+      "instituicao": "Câmara e Prefeitura de Trindade - GO",
+      "orgao": "Câmara e Prefeitura de Trindade - GO",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-e-prefeitura-de-trindade-go-divulgam-retificacoes-do-processo-seletivo-e-do-concurso-publico",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-22",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "14ee7cd6-0682-431b-b3e6-552201be6885",
+      "data_coleta": "2026-08-22T08:52:15.627784+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Abaetetuba - PA",
+      "orgao": "Prefeitura de Abaetetuba - PA",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-abaetetuba-pa-divulga-nova-retificacao-de-concurso-publico",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-22",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "556e6732-6770-4d8d-915d-2f0d1c619500",
+      "data_coleta": "2026-08-22T08:52:15.627827+00:00"
+    },
+    {
+      "instituicao": "CAER - RR",
+      "orgao": "CAER - RR",
+      "cargos": [],
+      "salario_maximo": "R$ 4.554,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/caer-rr-abre-concurso-publico-com-salario",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-22",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "264f7fd9-546a-4781-a073-9b33c85201e1",
+      "data_coleta": "2026-08-22T08:52:15.627844+00:00"
     }
   ]
 }

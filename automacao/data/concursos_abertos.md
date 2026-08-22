@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 21/08/2026_
+_Atualizado em 22/08/2026_
 
-Total: **443** concursos encontrados.
+Total: **449** concursos encontrados.
 
 ---
 
@@ -323,7 +323,7 @@ Total: **443** concursos encontrados.
 
 ---
 
-## PCI (309)
+## PCI (315)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1953,6 +1953,38 @@ Total: **443** concursos encontrados.
 ### Prefeitura de Chapada dos Guimarães - MT
 [🔗 Edital](https://www.pciconcursos.com.br/)
 - **Órgão/Local:** MT, Mato Grosso - MT
+
+### Prefeitura de Paulínia
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-paulinia-sp-prorroga-inscricoes-de-processo-seletivo-com-salarios-de-ate-7350)
+- **Órgão/Local:** SP, Paulínia - SP
+- **Salário máx.:** R$ 7.350,75
+- **Encerramento:** 26/08/2026
+
+### Câmara de José Bonifácio
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-jose-bonifacio-sp-abre-concurso-publico-com-salarios-de-ate-6100)
+- **Órgão/Local:** SP, José Bonifácio - SP
+- **Salário máx.:** R$ 6.100,00
+- **Encerramento:** 16/09/2026
+
+### Câmara de Vargem Grande do Sul
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-vargem-grande-do-sul-sp-abre-vaga-para-analista-contabil)
+- **Cargos:** Analista Contábil
+- **Órgão/Local:** SP, Vargem Grande do Sul - SP
+- **Salário máx.:** R$ 6.624,76
+- **Encerramento:** 08/09/2026
+
+### Câmara e Prefeitura de Trindade - GO
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-e-prefeitura-de-trindade-go-divulgam-retificacoes-do-processo-seletivo-e-do-concurso-publico)
+- **Órgão/Local:** Câmara e Prefeitura de Trindade - GO
+
+### Prefeitura de Abaetetuba - PA
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-abaetetuba-pa-divulga-nova-retificacao-de-concurso-publico)
+- **Órgão/Local:** Prefeitura de Abaetetuba - PA
+
+### CAER - RR
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/caer-rr-abre-concurso-publico-com-salario)
+- **Órgão/Local:** CAER - RR
+- **Salário máx.:** R$ 4.554,00
 
 ---
 
