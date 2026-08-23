@@ -1,6 +1,6 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-22T08:52:15.627874+00:00",
+    "ultima_coleta": "2026-08-23T08:46:33.531476+00:00",
     "total_concursos": 449
   },
   "concursos": [
@@ -5291,22 +5291,6 @@
       "data_coleta": "2026-07-26T10:15:08.167939+00:00"
     },
     {
-      "instituicao": "Câmara de Santa Lúcia",
-      "orgao": "SP",
-      "cargos": [
-        "Procurador Jurídico",
-        "Secretário Legislativo"
-      ],
-      "salario_maximo": "R$ 4.365,04",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-santa-lucia-sp-abre-concurso-publico-para-procurador-juridico-e-secretario-legislativo",
-      "data_encerramento": "23/08/2026",
-      "data_publicacao": "27/07/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "a86e7fa5-9d15-4a2e-a724-302e1667910f",
-      "data_coleta": "2026-07-27T11:35:51.140713+00:00"
-    },
-    {
       "instituicao": "FUNCAMP",
       "orgao": "Fundação de Desenvolvimento da Unicamp",
       "cargos": [
@@ -6333,32 +6317,6 @@
       "data_coleta": "2026-08-19T08:53:48.299987+00:00"
     },
     {
-      "instituicao": "Prefeitura de Blumenau",
-      "orgao": "Blumenau, SC",
-      "cargos": [],
-      "salario_maximo": null,
-      "link_edital": "https://www.blumenau.sc.gov.br/governo/seidep/seidep/paradesporto-de-blumenau-embarca-rumo-a-chapecao-disputar-os-parajasc99",
-      "data_encerramento": "23/08/2026",
-      "data_publicacao": "14/08/2026",
-      "status": "aberto",
-      "fonte": "PMBlumenau-SC",
-      "id": "db722512-41d0-4139-ab79-af28c90c3d77",
-      "data_coleta": "2026-08-19T08:53:48.300028+00:00"
-    },
-    {
-      "instituicao": "Prefeitura de Blumenau",
-      "orgao": "Blumenau, SC",
-      "cargos": [],
-      "salario_maximo": null,
-      "link_edital": "https://www.blumenau.sc.gov.br/secretarias/secretaria-de-educacao/semed/blumenau-conquista-37-medalhas-na-etapa-estadual-da-olimpaiada-de-matemaatica98",
-      "data_encerramento": "23/08/2026",
-      "data_publicacao": "13/08/2026",
-      "status": "aberto",
-      "fonte": "PMBlumenau-SC",
-      "id": "d894fefd-0965-4797-8654-3e146dee6850",
-      "data_coleta": "2026-08-19T08:53:48.300057+00:00"
-    },
-    {
       "instituicao": "AgSUS - Agência Brasileira de Apoio à Gestão do SUS",
       "orgao": "NACIONAL",
       "cargos": [
@@ -6717,6 +6675,47 @@
       "fonte": "PCI",
       "id": "264f7fd9-546a-4781-a073-9b33c85201e1",
       "data_coleta": "2026-08-22T08:52:15.627844+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Diadema - SP",
+      "orgao": "Prefeitura de Diadema - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 4.512,75",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-diadema-sp-divulga-concours-publicos-com-salarios-de-ate-4512",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-23",
+      "fonte": "PCI",
+      "status": "aberto",
+      "id": "efaa343e-e5b7-44b3-b834-6f00cdb91783",
+      "data_coleta": "2026-08-23T08:46:33.530984+00:00"
+    },
+    {
+      "instituicao": "AgSUS",
+      "orgao": null,
+      "cargos": [
+        "Psicólogo"
+      ],
+      "salario_maximo": "R$ 8.800,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/agsus-abre-selecao-para-psicologo-com-remunacao-de-8800",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-23",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "13d7fc5c-50f0-4524-af77-d099c8606550",
+      "data_coleta": "2026-08-23T08:46:33.531345+00:00"
+    },
+    {
+      "instituicao": "UFPE",
+      "orgao": null,
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/ufpe-publica-retificacao-do-concurso-para-cargos-tecnico-administrativos",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-23",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "e84b1451-4898-4d76-8fea-867bc07ba800",
+      "data_coleta": "2026-08-23T08:46:33.531437+00:00"
     }
   ]
 }

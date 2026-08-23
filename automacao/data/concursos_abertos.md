@@ -1,6 +1,6 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 22/08/2026_
+_Atualizado em 23/08/2026_
 
 Total: **449** concursos encontrados.
 
@@ -323,7 +323,7 @@ Total: **449** concursos encontrados.
 
 ---
 
-## PCI (315)
+## PCI (317)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1584,13 +1584,6 @@ Total: **449** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/cbmr-r-r-abre-concurso-publico-com-vagas)
 - **Órgão/Local:** CBMRR
 
-### Câmara de Santa Lúcia
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-santa-lucia-sp-abre-concurso-publico-para-procurador-juridico-e-secretario-legislativo)
-- **Cargos:** Procurador Jurídico, Secretário Legislativo
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 4.365,04
-- **Encerramento:** 23/08/2026
-
 ### FUNCAMP
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-vaga-para-medico-ginecologista-oncologico-no-caism)
 - **Cargos:** Médico Ginecologista Oncológico
@@ -1986,9 +1979,22 @@ Total: **449** concursos encontrados.
 - **Órgão/Local:** CAER - RR
 - **Salário máx.:** R$ 4.554,00
 
+### Prefeitura de Diadema - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-diadema-sp-divulga-concours-publicos-com-salarios-de-ate-4512)
+- **Órgão/Local:** Prefeitura de Diadema - SP
+- **Salário máx.:** R$ 4.512,75
+
+### AgSUS
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/agsus-abre-selecao-para-psicologo-com-remunacao-de-8800)
+- **Cargos:** Psicólogo
+- **Salário máx.:** R$ 8.800,00
+
+### UFPE
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ufpe-publica-retificacao-do-concurso-para-cargos-tecnico-administrativos)
+
 ---
 
-## PMBlumenau-SC (18)
+## PMBlumenau-SC (16)
 
 ### Prefeitura de Blumenau
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/seidep/seidep/prefeitura-promove-tarde-danacante-para-pessoas-com-deficiaancia-em-blumenau)
@@ -2059,16 +2065,6 @@ Total: **449** concursos encontrados.
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/seidep/seidep/prefeitura-de-blumenau-abre-inscriacaoes-para-curso-intermediaario-de-informaatica-para-pessoas-com-deficiaancia13)
 - **Órgão/Local:** Blumenau, SC
 - **Encerramento:** 25/08/2026
-
-### Prefeitura de Blumenau
-[🔗 Edital](https://www.blumenau.sc.gov.br/governo/seidep/seidep/paradesporto-de-blumenau-embarca-rumo-a-chapecao-disputar-os-parajasc99)
-- **Órgão/Local:** Blumenau, SC
-- **Encerramento:** 23/08/2026
-
-### Prefeitura de Blumenau
-[🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/secretaria-de-educacao/semed/blumenau-conquista-37-medalhas-na-etapa-estadual-da-olimpaiada-de-matemaatica98)
-- **Órgão/Local:** Blumenau, SC
-- **Encerramento:** 23/08/2026
 
 ### Prefeitura de Blumenau
 [🔗 Edital](https://www.blumenau.sc.gov.br/governo/fundacao-de-desportos/fmd/blumenau-conquista-primeiro-trofaeu-geral-da-histaoria-na-copa-brasil-ouro-de-taanis-de-mesa59)
