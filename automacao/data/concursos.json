@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-23T08:46:33.531476+00:00",
-    "total_concursos": 449
+    "ultima_coleta": "2026-08-24T09:09:21.159189+00:00",
+    "total_concursos": 445
   },
   "concursos": [
     {
@@ -4860,22 +4860,6 @@
       "data_coleta": "2026-07-20T10:59:21.112058+00:00"
     },
     {
-      "instituicao": "LAMEF",
-      "orgao": "LAMEF",
-      "cargos": [
-        "C.01 - Técnico Mecânico de Manutenção Industrial",
-        "C.02 - Técnico Operacional"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://portalfaurgs.com.br/concursosFaurgs/emandamento/1278-082026lamef",
-      "data_encerramento": "24/08/2026",
-      "data_publicacao": "2026-07-21",
-      "status": "aberto",
-      "fonte": "FAURGS",
-      "id": "35b6733f-d886-44e1-a460-167308343ab0",
-      "data_coleta": "2026-07-21T10:40:11.528915+00:00"
-    },
-    {
       "instituicao": "Companhia Docas do Pará",
       "orgao": "PA",
       "cargos": [],
@@ -5163,22 +5147,6 @@
       "fonte": "PCI",
       "id": "6453940b-7cf7-46cb-b915-83effc4cf644",
       "data_coleta": "2026-07-24T10:36:22.822738+00:00"
-    },
-    {
-      "instituicao": "LAMEF",
-      "orgao": "LAMEF",
-      "cargos": [
-        "Técnico Mecânico de Manutenção Industrial",
-        "Técnico Operacional"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/1278-082026lamef",
-      "data_encerramento": "24/08/2026",
-      "data_publicacao": "20/07/2026",
-      "status": "aberto",
-      "fonte": "FAURGS",
-      "id": "708386b6-6565-4cba-85a2-8fe42ec5e06b",
-      "data_coleta": "2026-07-25T09:54:48.179083+00:00"
     },
     {
       "instituicao": "DMAE de Uberlândia",
@@ -5490,19 +5458,6 @@
       "data_coleta": "2026-08-01T10:07:28.760540+00:00"
     },
     {
-      "instituicao": "Câmara de Rifaina",
-      "orgao": "Câmara de Rifaina",
-      "cargos": [],
-      "salario_maximo": "R$ 7.018,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-rifaina-sp-abre-concurso-com-salarios-de-ate-7018",
-      "data_encerramento": "24/08/2026",
-      "data_publicacao": "2026-08-02",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "9a5fab05-92f6-4d90-8ef3-c0e40b66af8e",
-      "data_coleta": "2026-08-02T10:14:58.111769+00:00"
-    },
-    {
       "instituicao": "SEAP - MA",
       "orgao": "MA, São Luís - MA",
       "cargos": [],
@@ -5797,21 +5752,6 @@
       "fonte": "PCI",
       "id": "8e2701d5-e8a2-452c-8b4c-448686744d58",
       "data_coleta": "2026-08-10T09:40:39.082413+00:00"
-    },
-    {
-      "instituicao": "Guarulhos - Município de Guarulhos",
-      "orgao": "São Paulo - SP",
-      "cargos": [
-        "Guarda-Vidas"
-      ],
-      "salario_maximo": "R$ 1.932,12",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guarulhos-sp-abre-concurso-publico-para-o-cargo-de-guarda-vidas",
-      "data_encerramento": "24/08/2026",
-      "data_publicacao": "10/08/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "cf9ce270-999c-48de-8c9e-9fe3db4ea8e8",
-      "data_coleta": "2026-08-10T09:40:39.082655+00:00"
     },
     {
       "instituicao": "BANRISUL",
@@ -6157,19 +6097,6 @@
       "data_coleta": "2026-08-15T08:44:05.766766+00:00"
     },
     {
-      "instituicao": "Consórcio Intermunicipal Três Rios",
-      "orgao": "SP",
-      "cargos": [],
-      "salario_maximo": "R$ 2.954,03",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/consorcio-intermunicipal-tres-rios-sp-abre-vagas-para-diversos-niveis-de-escolaridade",
-      "data_encerramento": "24/08/2026",
-      "data_publicacao": "2026-08-15",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "3ddc77cd-80eb-4249-8419-72a976ba11ab",
-      "data_coleta": "2026-08-15T08:44:05.766804+00:00"
-    },
-    {
       "instituicao": "Lamef",
       "orgao": "Lamef",
       "cargos": [
@@ -6500,21 +6427,6 @@
       "data_coleta": "2026-08-20T09:03:23.100724+00:00"
     },
     {
-      "instituicao": "Prefeitura de Limeira",
-      "orgao": "SP",
-      "cargos": [
-        "Professor Substituto"
-      ],
-      "salario_maximo": "R$ 30,00 por hora-aula",
-      "link_edital": "https://www.pciconcursos.com.br/apostilas/prefeitura-de-limeira-sp",
-      "data_encerramento": "24/08/2026",
-      "data_publicacao": "2026-08-20",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "030e20ad-a101-4829-805c-8fbf4f8cb985",
-      "data_coleta": "2026-08-20T09:03:23.100852+00:00"
-    },
-    {
       "instituicao": "Prefeitura de Cristalina",
       "orgao": "Cristalina - GO",
       "cargos": [],
@@ -6716,6 +6628,93 @@
       "fonte": "PCI",
       "id": "e84b1451-4898-4d76-8fea-867bc07ba800",
       "data_coleta": "2026-08-23T08:46:33.531437+00:00"
+    },
+    {
+      "instituicao": "IFSC - INSTITUTO FEDERAL DE SANTA CATARINA",
+      "orgao": "IFSC - Santa Catarina - SC",
+      "cargos": [
+        "Arquiteto e Urbanista - Reitoria",
+        "Assistente de Alunos - Urupema",
+        "Assistente de Alunos - Caçador",
+        "Assistente de Alunos - São Lourenço do Oeste",
+        "Bibliotecário - Documentalista - Caçador",
+        "Engenheiro Civil - Lages",
+        "Engenheiro de Segurança do Trabalho - Reitoria",
+        "Técnico de Laboratório – Área: Automação - Chapecó",
+        "Técnico de Laboratório – Área: Ciências da Natureza - Caçador",
+        "Técnico em Assuntos Educacionais - Canoinhas",
+        "Técnico em Assuntos Educacionais - Caçador",
+        "Técnico em Assuntos Educacionais - São Carlos",
+        "Técnico em Assuntos Educacionais - São Lourenço do Oeste",
+        "Técnico em Assuntos Educacionais - São Miguel do Oeste",
+        "Técnico em Assuntos Educacionais - Urupema",
+        "Tecnólogo em Gestão Pública - Tubarão"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/1279-022026ifsc-institutofederaldesantacatarina",
+      "data_encerramento": "25/08/2026",
+      "data_publicacao": "01/06/2026",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "d021126a-4d37-408f-9f76-e2106b4b997a",
+      "data_coleta": "2026-08-24T09:09:21.158975+00:00"
+    },
+    {
+      "instituicao": "IFSC - INSTITUTO FEDERAL DE SANTA CATARINA",
+      "orgao": "IFSC - Santa Catarina - SC",
+      "cargos": [
+        "Administração - São Carlos",
+        "Administração - Xanxerê",
+        "Artes Cênicas - Palhoça Bilíngue",
+        "Artes Visuais - Canoinhas",
+        "Artes Visuais - Lages",
+        "Artes Visuais - São Miguel do Oeste",
+        "Automação Industrial - Caçador",
+        "Automação Industrial - Lages",
+        "Automação Industrial - Tubarão",
+        "Educação Física - Caçador",
+        "Educação Física - Lages",
+        "Educação Física - São Lourenço do Oeste",
+        "Educação Física - Xanxerê",
+        "Eletrônica Geral - Tubarão",
+        "Enologia - Urupema",
+        "Espanhol - Caçador",
+        "Fabricação Mecânica - Caçador",
+        "Fabricação Mecânica - Chapecó",
+        "Fabricação Mecânica - Lages",
+        "Física - Canoinhas",
+        "Física - Caçador",
+        "Física - São Carlos",
+        "Geografia - São Carlos",
+        "Geografia - Xanxerê",
+        "Geotécnica - Florianópolis",
+        "História - São Carlos",
+        "História - São Lourenço do Oeste",
+        "História - Xanxerê",
+        "Informática - Caçador",
+        "Informática - Xanxerê",
+        "Inglês - Jaraguá do Sul Centro",
+        "Instalações e Acionamentos - Caçador",
+        "Matemática - Canoinhas",
+        "Matemática - Caçador",
+        "Matemática - Lages",
+        "Matemática - Jaraguá do Sul RAU",
+        "Processos Têxteis - Jaraguá do Sul Centro",
+        "Produção Animal - São Miguel do Oeste",
+        "Projetos Mecânicos - Lages",
+        "Química Geral - São Carlos",
+        "Segurança e Higiene do Trabalho - Chapecó",
+        "Sistema de Energia - Florianópolis",
+        "Sociologia - Caçador"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/1277-012026ifsc-institutofederaldesantacatarina",
+      "data_encerramento": "25/08/2026",
+      "data_publicacao": "01/06/2026",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "dd87c661-c321-4f0d-95d8-4665fc56cd6a",
+      "data_coleta": "2026-08-24T09:09:21.159061+00:00"
     }
   ]
 }

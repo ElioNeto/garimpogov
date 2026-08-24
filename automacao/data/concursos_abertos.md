@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 23/08/2026_
+_Atualizado em 24/08/2026_
 
-Total: **449** concursos encontrados.
+Total: **445** concursos encontrados.
 
 ---
 
@@ -93,21 +93,9 @@ Total: **449** concursos encontrados.
 - **Cargos:** Engenheiro Sênior I de Poços, Engenheiro Profissional Júnior, Pesquisador Mestre em Engenharia Química
 - **Órgão/Local:** LAMEF
 
-### LAMEF
-[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1278-082026lamef)
-- **Cargos:** C.01 - Técnico Mecânico de Manutenção Industrial, C.02 - Técnico Operacional
-- **Órgão/Local:** LAMEF
-- **Encerramento:** 24/08/2026
-
 ### IFSC - INSTITUTO FEDERAL DE SANTA CATARINA
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1279-022026ifsc-institutofederaldesantacatarina)
 - **Cargos:** Arquiteto e Urbanista - Reitoria, Assistente de Alunos - Urupema, Assistente de Alunos - Caçador, Assistente de Alunos - São Lourenço do Oeste, Bibliotecário - Documentalista - Caçador, Engenheiro Civil - Lages, Engenheiro de Segurança do Trabalho - Reitoria, Técnico de Laboratório – Área: Automação - Chapecó, Técnico de Laboratório – Área: Ciências da Natureza - Caçador, Técnico de Laboratório – Área: Informática - Canoinhas, Técnico em Assuntos Educacionais - Canoinhas, Técnico em Assuntos Educacionais - Caçador, Técnico em Assuntos Educacionais - São Carlos, Técnico em Assuntos Educacionais - São Lourenço do Oeste, Técnico em Assuntos Educacionais - São Miguel do Oeste, Técnico em Assuntos Educacionais - Urupema, Tecnólogo em Gestão Pública - Tubarão
-
-### LAMEF
-[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1278-082026lamef)
-- **Cargos:** Técnico Mecânico de Manutenção Industrial, Técnico Operacional
-- **Órgão/Local:** LAMEF
-- **Encerramento:** 24/08/2026
 
 ### BANRISUL
 [🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1280-092026lamef)
@@ -132,6 +120,18 @@ Total: **449** concursos encontrados.
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1277-012026ifsc-institutofederaldesantacatarina)
 - **Cargos:** Administração - São Carlos, Administração - Xanxerê, Artes Cênicas - Palhoça Bilíngue, Artes Visuais - Canoinhas, Artes Visuais - Lages, Artes Visuais - São Miguel do Oeste, Automação Industrial - Caçador, Automação Industrial - Lages, Automação Industrial - Tubarão, Educação Física - Caçador, Educação Física - Lages, Educação Física - São Lourenço do Oeste, Educação Física - Xanxerê, Eletrônica Geral - Tubarão, Enologia - Urupema, Espanhol - Caçador, Fabricação Mecânica - Caçador, Fabricação Mecânica - Chapecó, Fabricação Mecânica - Lages, Física - Canoinhas, Física - Caçador, Física - São Carlos, Geografia - São Carlos, Geografia - Xanxerê, Geotécnica - Florianópolis, História - São Carlos, História - São Lourenço do Oeste, História - Xanxerê, Informática - Caçador, Informática - Xanxerê, Inglês - Jaraguá do Sul Centro, Instalações e Acionamentos - Caçador, Matemática - Canoinhas, Matemática - Caçador, Matemática - Lages, Matemática - Jaraguá do Sul RAU, Processos Têxteis - Jaraguá do Sul Centro, Produção Animal - São Miguel do Oeste, Projetos Mecânicos - Lages, Química Geral - São Carlos, Segurança e Higiene do Trabalho - Chapecó, Sistema de Energia - Florianópolis, Sociologia - Caçador
 - **Órgão/Local:** IFSC
+
+### IFSC - INSTITUTO FEDERAL DE SANTA CATARINA
+[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1279-022026ifsc-institutofederaldesantacatarina)
+- **Cargos:** Arquiteto e Urbanista - Reitoria, Assistente de Alunos - Urupema, Assistente de Alunos - Caçador, Assistente de Alunos - São Lourenço do Oeste, Bibliotecário - Documentalista - Caçador, Engenheiro Civil - Lages, Engenheiro de Segurança do Trabalho - Reitoria, Técnico de Laboratório – Área: Automação - Chapecó, Técnico de Laboratório – Área: Ciências da Natureza - Caçador, Técnico em Assuntos Educacionais - Canoinhas, Técnico em Assuntos Educacionais - Caçador, Técnico em Assuntos Educacionais - São Carlos, Técnico em Assuntos Educacionais - São Lourenço do Oeste, Técnico em Assuntos Educacionais - São Miguel do Oeste, Técnico em Assuntos Educacionais - Urupema, Tecnólogo em Gestão Pública - Tubarão
+- **Órgão/Local:** IFSC - Santa Catarina - SC
+- **Encerramento:** 25/08/2026
+
+### IFSC - INSTITUTO FEDERAL DE SANTA CATARINA
+[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1277-012026ifsc-institutofederaldesantacatarina)
+- **Cargos:** Administração - São Carlos, Administração - Xanxerê, Artes Cênicas - Palhoça Bilíngue, Artes Visuais - Canoinhas, Artes Visuais - Lages, Artes Visuais - São Miguel do Oeste, Automação Industrial - Caçador, Automação Industrial - Lages, Automação Industrial - Tubarão, Educação Física - Caçador, Educação Física - Lages, Educação Física - São Lourenço do Oeste, Educação Física - Xanxerê, Eletrônica Geral - Tubarão, Enologia - Urupema, Espanhol - Caçador, Fabricação Mecânica - Caçador, Fabricação Mecânica - Chapecó, Fabricação Mecânica - Lages, Física - Canoinhas, Física - Caçador, Física - São Carlos, Geografia - São Carlos, Geografia - Xanxerê, Geotécnica - Florianópolis, História - São Carlos, História - São Lourenço do Oeste, História - Xanxerê, Informática - Caçador, Informática - Xanxerê, Inglês - Jaraguá do Sul Centro, Instalações e Acionamentos - Caçador, Matemática - Canoinhas, Matemática - Caçador, Matemática - Lages, Matemática - Jaraguá do Sul RAU, Processos Têxteis - Jaraguá do Sul Centro, Produção Animal - São Miguel do Oeste, Projetos Mecânicos - Lages, Química Geral - São Carlos, Segurança e Higiene do Trabalho - Chapecó, Sistema de Energia - Florianópolis, Sociologia - Caçador
+- **Órgão/Local:** IFSC - Santa Catarina - SC
+- **Encerramento:** 25/08/2026
 
 ---
 
@@ -323,7 +323,7 @@ Total: **449** concursos encontrados.
 
 ---
 
-## PCI (317)
+## PCI (313)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1640,12 +1640,6 @@ Total: **449** concursos encontrados.
 - **Cargos:** soldados, oficiais
 - **Órgão/Local:** Roraima
 
-### Câmara de Rifaina
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-rifaina-sp-abre-concurso-com-salarios-de-ate-7018)
-- **Órgão/Local:** Câmara de Rifaina
-- **Salário máx.:** R$ 7.018,00
-- **Encerramento:** 24/08/2026
-
 ### SEAP - MA
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/seap-ma-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva)
 - **Órgão/Local:** MA, São Luís - MA
@@ -1721,13 +1715,6 @@ Total: **449** concursos encontrados.
 - **Órgão/Local:** São Paulo - SP
 - **Salário máx.:** R$ 7.104,30
 - **Encerramento:** 29/09/2026
-
-### Guarulhos - Município de Guarulhos
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-guarulhos-sp-abre-concurso-publico-para-o-cargo-de-guarda-vidas)
-- **Cargos:** Guarda-Vidas
-- **Órgão/Local:** São Paulo - SP
-- **Salário máx.:** R$ 1.932,12
-- **Encerramento:** 24/08/2026
 
 ### Prefeitura de Bauru
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-bauru-sp-abre-concursos-com-vagas-para-merendeira-medico-e-professor-de-arte)
@@ -1838,12 +1825,6 @@ Total: **449** concursos encontrados.
 - **Salário máx.:** R$ 7.500,00
 - **Encerramento:** 18/09/2026
 
-### Consórcio Intermunicipal Três Rios
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/consorcio-intermunicipal-tres-rios-sp-abre-vagas-para-diversos-niveis-de-escolaridade)
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 2.954,03
-- **Encerramento:** 24/08/2026
-
 ### Prefeitura de Santos - SP
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-santos-sp-divulga-retificacoes-de-concursos-)
 - **Órgão/Local:** Santos - SP
@@ -1912,13 +1893,6 @@ Total: **449** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/transpetro-publica-editais-retificados-de-processos-seletivos-para-diversos-cargos)
 - **Salário máx.:** R$ 15.034,81
 - **Encerramento:** 14/09/2026
-
-### Prefeitura de Limeira
-[🔗 Edital](https://www.pciconcursos.com.br/apostilas/prefeitura-de-limeira-sp)
-- **Cargos:** Professor Substituto
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 30,00 por hora-aula
-- **Encerramento:** 24/08/2026
 
 ### Prefeitura de Cristalina
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-cristalina-go-retifica-edital-de-concurso-publico-para-a-s)
