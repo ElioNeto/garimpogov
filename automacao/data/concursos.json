@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-24T09:09:21.159189+00:00",
-    "total_concursos": 445
+    "ultima_coleta": "2026-08-25T08:55:02.143666+00:00",
+    "total_concursos": 446
   },
   "concursos": [
     {
@@ -5259,21 +5259,6 @@
       "data_coleta": "2026-07-26T10:15:08.167939+00:00"
     },
     {
-      "instituicao": "FUNCAMP",
-      "orgao": "Fundação de Desenvolvimento da Unicamp",
-      "cargos": [
-        "Médico Ginecologista Oncológico"
-      ],
-      "salario_maximo": "R$ 8.223,63",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-vaga-para-medico-ginecologista-oncologico-no-caism",
-      "data_encerramento": "25/08/2026",
-      "data_publicacao": "27/07/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "ef25a490-fde6-44d1-8b5f-cee7749096a9",
-      "data_coleta": "2026-07-27T11:35:51.140857+00:00"
-    },
-    {
       "instituicao": "SEPLAG/SEDUC - AL",
       "orgao": "SEPLAG/SEDUC - AL",
       "cargos": [
@@ -6097,24 +6082,6 @@
       "data_coleta": "2026-08-15T08:44:05.766766+00:00"
     },
     {
-      "instituicao": "Lamef",
-      "orgao": "Lamef",
-      "cargos": [
-        "Técnico Mecânico de Manutenção Industrial",
-        "Técnico Operacional",
-        "Engenheiro Sênior I de Poços",
-        "Técnico em Usinagem I"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/1281-102026lamef",
-      "data_encerramento": "25/08/2026",
-      "data_publicacao": "08/2026",
-      "status": "aberto",
-      "fonte": "FAURGS",
-      "id": "2588957c-e3c3-4ec9-9f58-36c47bc41c13",
-      "data_coleta": "2026-08-17T09:01:28.595945+00:00"
-    },
-    {
       "instituicao": "Prefeitura de Blumenau",
       "orgao": "SEIDEP, Blumenau - SC",
       "cargos": [
@@ -6229,19 +6196,6 @@
       "fonte": "PCI",
       "id": "766b70a1-4c4d-4614-8e78-f992c7e6921f",
       "data_coleta": "2026-08-18T09:10:30.516390+00:00"
-    },
-    {
-      "instituicao": "Prefeitura de Blumenau",
-      "orgao": "Blumenau, SC",
-      "cargos": [],
-      "salario_maximo": null,
-      "link_edital": "https://www.blumenau.sc.gov.br/secretarias/seidep/seidep/prefeitura-de-blumenau-abre-inscriacaoes-para-curso-intermediaario-de-informaatica-para-pessoas-com-deficiaancia13",
-      "data_encerramento": "25/08/2026",
-      "data_publicacao": "14/08/2026",
-      "status": "aberto",
-      "fonte": "PMBlumenau-SC",
-      "id": "42010ff5-bb15-4bb2-b647-01903e8dc679",
-      "data_coleta": "2026-08-19T08:53:48.299987+00:00"
     },
     {
       "instituicao": "AgSUS - Agência Brasileira de Apoio à Gestão do SUS",
@@ -6630,91 +6584,82 @@
       "data_coleta": "2026-08-23T08:46:33.531437+00:00"
     },
     {
-      "instituicao": "IFSC - INSTITUTO FEDERAL DE SANTA CATARINA",
-      "orgao": "IFSC - Santa Catarina - SC",
-      "cargos": [
-        "Arquiteto e Urbanista - Reitoria",
-        "Assistente de Alunos - Urupema",
-        "Assistente de Alunos - Caçador",
-        "Assistente de Alunos - São Lourenço do Oeste",
-        "Bibliotecário - Documentalista - Caçador",
-        "Engenheiro Civil - Lages",
-        "Engenheiro de Segurança do Trabalho - Reitoria",
-        "Técnico de Laboratório – Área: Automação - Chapecó",
-        "Técnico de Laboratório – Área: Ciências da Natureza - Caçador",
-        "Técnico em Assuntos Educacionais - Canoinhas",
-        "Técnico em Assuntos Educacionais - Caçador",
-        "Técnico em Assuntos Educacionais - São Carlos",
-        "Técnico em Assuntos Educacionais - São Lourenço do Oeste",
-        "Técnico em Assuntos Educacionais - São Miguel do Oeste",
-        "Técnico em Assuntos Educacionais - Urupema",
-        "Tecnólogo em Gestão Pública - Tubarão"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/1279-022026ifsc-institutofederaldesantacatarina",
-      "data_encerramento": "25/08/2026",
-      "data_publicacao": "01/06/2026",
+      "instituicao": "Câmara de Assis",
+      "orgao": "SP, Assis - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 8.510,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-assis-sp-abre-concurso-publico-com-salarios-de-ate-8510",
+      "data_encerramento": "08/10/2026",
+      "data_publicacao": "2026-08-25",
       "status": "aberto",
-      "fonte": "FAURGS",
-      "id": "d021126a-4d37-408f-9f76-e2106b4b997a",
-      "data_coleta": "2026-08-24T09:09:21.158975+00:00"
+      "fonte": "PCI",
+      "id": "1df6bee9-cc37-4ec8-b09a-6d4318de32ee",
+      "data_coleta": "2026-08-25T08:55:02.143195+00:00"
     },
     {
-      "instituicao": "IFSC - INSTITUTO FEDERAL DE SANTA CATARINA",
-      "orgao": "IFSC - Santa Catarina - SC",
-      "cargos": [
-        "Administração - São Carlos",
-        "Administração - Xanxerê",
-        "Artes Cênicas - Palhoça Bilíngue",
-        "Artes Visuais - Canoinhas",
-        "Artes Visuais - Lages",
-        "Artes Visuais - São Miguel do Oeste",
-        "Automação Industrial - Caçador",
-        "Automação Industrial - Lages",
-        "Automação Industrial - Tubarão",
-        "Educação Física - Caçador",
-        "Educação Física - Lages",
-        "Educação Física - São Lourenço do Oeste",
-        "Educação Física - Xanxerê",
-        "Eletrônica Geral - Tubarão",
-        "Enologia - Urupema",
-        "Espanhol - Caçador",
-        "Fabricação Mecânica - Caçador",
-        "Fabricação Mecânica - Chapecó",
-        "Fabricação Mecânica - Lages",
-        "Física - Canoinhas",
-        "Física - Caçador",
-        "Física - São Carlos",
-        "Geografia - São Carlos",
-        "Geografia - Xanxerê",
-        "Geotécnica - Florianópolis",
-        "História - São Carlos",
-        "História - São Lourenço do Oeste",
-        "História - Xanxerê",
-        "Informática - Caçador",
-        "Informática - Xanxerê",
-        "Inglês - Jaraguá do Sul Centro",
-        "Instalações e Acionamentos - Caçador",
-        "Matemática - Canoinhas",
-        "Matemática - Caçador",
-        "Matemática - Lages",
-        "Matemática - Jaraguá do Sul RAU",
-        "Processos Têxteis - Jaraguá do Sul Centro",
-        "Produção Animal - São Miguel do Oeste",
-        "Projetos Mecânicos - Lages",
-        "Química Geral - São Carlos",
-        "Segurança e Higiene do Trabalho - Chapecó",
-        "Sistema de Energia - Florianópolis",
-        "Sociologia - Caçador"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/1277-012026ifsc-institutofederaldesantacatarina",
-      "data_encerramento": "25/08/2026",
-      "data_publicacao": "01/06/2026",
+      "instituicao": "Câmara de Colômbia",
+      "orgao": "SP, Colômbia - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 7.825,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-colombia-sp-abre-concurso-publico-com-salarios-de-ate-7825",
+      "data_encerramento": "23/09/2026",
+      "data_publicacao": "2026-08-25",
       "status": "aberto",
-      "fonte": "FAURGS",
-      "id": "dd87c661-c321-4f0d-95d8-4665fc56cd6a",
-      "data_coleta": "2026-08-24T09:09:21.159061+00:00"
+      "fonte": "PCI",
+      "id": "73c4429a-7367-4395-b607-c8b29f7cc2fa",
+      "data_coleta": "2026-08-25T08:55:02.143239+00:00"
+    },
+    {
+      "instituicao": "CRECI - Conselho Regional de Corretores de Imóveis do Estado de São Paulo",
+      "orgao": "SP",
+      "cargos": [],
+      "salario_maximo": "R$ 9.940,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/creci-sp-anuncia-concurso-publico-com-salarios-de-ate-9940",
+      "data_encerramento": "21/09/2026",
+      "data_publicacao": "2026-08-25",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "e57eeaeb-b990-43b4-bd59-7fa6737b17b5",
+      "data_coleta": "2026-08-25T08:55:02.143358+00:00"
+    },
+    {
+      "instituicao": "EMDAEP - Empresa de Desenvolvimento, Água, Esgoto e Pavimentação de Dracena",
+      "orgao": "SP, Dracena - SP",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/emdaep-de-dracena-sp-abre-concurso-com-vagas-ime",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-25",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "914d92da-188f-42ce-ad01-0964efce5476",
+      "data_coleta": "2026-08-25T08:55:02.143402+00:00"
+    },
+    {
+      "instituicao": "Governo do Tocantins",
+      "orgao": "TO",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/governo-do-tocantins-to-retifica-edital-de-concurso-com-vagas-de-nivel-medio-e-su",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-25",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "52a1fdae-1e34-497d-a942-dd20862090f3",
+      "data_coleta": "2026-08-25T08:55:02.143529+00:00"
+    },
+    {
+      "instituicao": "AgSUS",
+      "orgao": null,
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/agsus-abre-processo-seletivo-para-formacao-de-cCadastro-de-reserva-no-projeto-sesmt",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-25",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "28ae3c4d-a808-4f91-adbb-cd1a95696d27",
+      "data_coleta": "2026-08-25T08:55:02.143638+00:00"
     }
   ]
 }
