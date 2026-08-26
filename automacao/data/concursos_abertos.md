@@ -1,6 +1,6 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 25/08/2026_
+_Atualizado em 26/08/2026_
 
 Total: **446** concursos encontrados.
 
@@ -117,7 +117,7 @@ Total: **446** concursos encontrados.
 
 ---
 
-## FGV (56)
+## FGV (58)
 
 ### Concurso Público Nacional Unificado 2
 [🔗 Edital](https://conhecimento.fgv.br/cpnu2)
@@ -303,9 +303,19 @@ Total: **446** concursos encontrados.
 ### Faculdade Evangélica Mackenzie do Paraná
 [🔗 Edital](https://conhecimento.fgv.br/processoseletivo/fempar27)
 
+### FGV Conhecimento
+[🔗 Edital](https://conhecimento.fgv.br/exames/enam/6exame)
+- **Cargos:** Juiz
+- **Órgão/Local:** Exame Nacional da Magistratura - ENAM (2026.2)
+
+### FGV Conhecimento
+[🔗 Edital](https://conhecimento.fgv.br/concursos/trf5juiz26)
+- **Cargos:** Juiz Federal Substituto
+- **Órgão/Local:** TRF5 - Tribunal Regional Federal da 5ª Região
+
 ---
 
-## PCI (318)
+## PCI (317)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1896,12 +1906,6 @@ Total: **446** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/)
 - **Órgão/Local:** MT, Mato Grosso - MT
 
-### Prefeitura de Paulínia
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-paulinia-sp-prorroga-inscricoes-de-processo-seletivo-com-salarios-de-ate-7350)
-- **Órgão/Local:** SP, Paulínia - SP
-- **Salário máx.:** R$ 7.350,75
-- **Encerramento:** 26/08/2026
-
 ### Câmara de José Bonifácio
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-jose-bonifacio-sp-abre-concurso-publico-com-salarios-de-ate-6100)
 - **Órgão/Local:** SP, José Bonifácio - SP
@@ -1972,7 +1976,7 @@ Total: **446** concursos encontrados.
 
 ---
 
-## PMBlumenau-SC (15)
+## PMBlumenau-SC (14)
 
 ### Prefeitura de Blumenau
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/seidep/seidep/prefeitura-promove-tarde-danacante-para-pessoas-com-deficiaancia-em-blumenau)
@@ -2009,11 +2013,6 @@ Total: **446** concursos encontrados.
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/parque-vila-germanica/parque-vila-germanica/inscriacaoes-abertas-para-o-festival-de-danacas-germaanicas-da-oktoberfest-blumenau30)
 - **Cargos:** Participante, Dançarino
 - **Órgão/Local:** Parque Vila Germanica
-
-### Prefeitura de Blumenau
-[🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/fundacao-cultural/fcblu/canta-sc-recebe-inscricoes-de-bandas-da-regiaao-atae-26-de-agosto84)
-- **Órgão/Local:** SC, Blumenau - SC
-- **Encerramento:** 26/08/2026
 
 ### Prefeitura de Blumenau
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/fundacao-de-desportos/fmd/artes-marciais-e-ginaastica-raitmica-movimentam-a-programaacaao-dos-joguinhos-abertos-neste-saabado-dia-1ao9)

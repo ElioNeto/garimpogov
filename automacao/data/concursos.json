@@ -1,6 +1,6 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-25T08:55:02.143666+00:00",
+    "ultima_coleta": "2026-08-26T08:59:35.467151+00:00",
     "total_concursos": 446
   },
   "concursos": [
@@ -5334,19 +5334,6 @@
     {
       "instituicao": "Prefeitura de Blumenau",
       "orgao": "SC, Blumenau - SC",
-      "cargos": [],
-      "salario_maximo": null,
-      "link_edital": "https://www.blumenau.sc.gov.br/secretarias/fundacao-cultural/fcblu/canta-sc-recebe-inscricoes-de-bandas-da-regiaao-atae-26-de-agosto84",
-      "data_encerramento": "26/08/2026",
-      "data_publicacao": "30/07/2026",
-      "status": "aberto",
-      "fonte": "PMBlumenau-SC",
-      "id": "c07b08db-1806-4587-9d29-b600f17e3735",
-      "data_coleta": "2026-08-01T10:07:28.760167+00:00"
-    },
-    {
-      "instituicao": "Prefeitura de Blumenau",
-      "orgao": "SC, Blumenau - SC",
       "cargos": [
         "Ginástica rítmica",
         "Artes marciais",
@@ -6463,19 +6450,6 @@
       "data_coleta": "2026-08-21T09:16:48.669781+00:00"
     },
     {
-      "instituicao": "Prefeitura de Paulínia",
-      "orgao": "SP, Paulínia - SP",
-      "cargos": [],
-      "salario_maximo": "R$ 7.350,75",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paulinia-sp-prorroga-inscricoes-de-processo-seletivo-com-salarios-de-ate-7350",
-      "data_encerramento": "26/08/2026",
-      "data_publicacao": "22/08/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "efaa99f9-7eb6-4884-983a-51f4dcc1148e",
-      "data_coleta": "2026-08-22T08:52:15.627476+00:00"
-    },
-    {
       "instituicao": "Câmara de José Bonifácio",
       "orgao": "SP, José Bonifácio - SP",
       "cargos": [],
@@ -6660,6 +6634,36 @@
       "fonte": "PCI",
       "id": "28ae3c4d-a808-4f91-adbb-cd1a95696d27",
       "data_coleta": "2026-08-25T08:55:02.143638+00:00"
+    },
+    {
+      "instituicao": "FGV Conhecimento",
+      "orgao": "Exame Nacional da Magistratura - ENAM (2026.2)",
+      "cargos": [
+        "Juiz"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br/exames/enam/6exame",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-26",
+      "status": "aberto",
+      "fonte": "FGV",
+      "id": "1246f981-d22b-45ec-8acb-00ecafe24196",
+      "data_coleta": "2026-08-26T08:59:35.466352+00:00"
+    },
+    {
+      "instituicao": "FGV Conhecimento",
+      "orgao": "TRF5 - Tribunal Regional Federal da 5ª Região",
+      "cargos": [
+        "Juiz Federal Substituto"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br/concursos/trf5juiz26",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-26",
+      "status": "aberto",
+      "fonte": "FGV",
+      "id": "a62f3f09-2266-49ae-a938-7e531a2393c0",
+      "data_coleta": "2026-08-26T08:59:35.466385+00:00"
     }
   ]
 }
