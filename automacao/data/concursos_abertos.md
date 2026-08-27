@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 26/08/2026_
+_Atualizado em 27/08/2026_
 
-Total: **446** concursos encontrados.
+Total: **450** concursos encontrados.
 
 ---
 
@@ -36,7 +36,7 @@ Total: **446** concursos encontrados.
 
 ---
 
-## FAURGS (17)
+## FAURGS (18)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -114,6 +114,11 @@ Total: **446** concursos encontrados.
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1277-012026ifsc-institutofederaldesantacatarina)
 - **Cargos:** Administração - São Carlos, Administração - Xanxerê, Artes Cênicas - Palhoça Bilíngue, Artes Visuais - Canoinhas, Artes Visuais - Lages, Artes Visuais - São Miguel do Oeste, Automação Industrial - Caçador, Automação Industrial - Lages, Automação Industrial - Tubarão, Educação Física - Caçador, Educação Física - Lages, Educação Física - São Lourenço do Oeste, Educação Física - Xanxerê, Eletrônica Geral - Tubarão, Enologia - Urupema, Espanhol - Caçador, Fabricação Mecânica - Caçador, Fabricação Mecânica - Chapecó, Fabricação Mecânica - Lages, Física - Canoinhas, Física - Caçador, Física - São Carlos, Geografia - São Carlos, Geografia - Xanxerê, Geotécnica - Florianópolis, História - São Carlos, História - São Lourenço do Oeste, História - Xanxerê, Informática - Caçador, Informática - Xanxerê, Inglês - Jaraguá do Sul Centro, Instalações e Acionamentos - Caçador, Matemática - Canoinhas, Matemática - Caçador, Matemática - Lages, Matemática - Jaraguá do Sul RAU, Processos Têxteis - Jaraguá do Sul Centro, Produção Animal - São Miguel do Oeste, Projetos Mecânicos - Lages, Química Geral - São Carlos, Segurança e Higiene do Trabalho - Chapecó, Sistema de Energia - Florianópolis, Sociologia - Caçador
 - **Órgão/Local:** IFSC
+
+### LAMEF
+[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1278-082026lamef)
+- **Cargos:** C.01 - Técnico Mecânico de Manutenção Industrial, C.02 - Técnico Operacional
+- **Órgão/Local:** RS, Porto Alegre - RS
 
 ---
 
@@ -315,7 +320,7 @@ Total: **446** concursos encontrados.
 
 ---
 
-## PCI (317)
+## PCI (320)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1973,6 +1978,24 @@ Total: **446** concursos encontrados.
 
 ### AgSUS
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/agsus-abre-processo-seletivo-para-formacao-de-cCadastro-de-reserva-no-projeto-sesmt)
+
+### Câmara de Itaju
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-itaju-sp-abre-concurso-publico-para-agente-administrativo)
+- **Cargos:** Agente Administrativo
+- **Órgão/Local:** SP, São Paulo - SP
+- **Salário máx.:** R$ 3.242,00
+- **Encerramento:** 25/09/2026
+
+### EMDAEP - Empresa de Desenvolvimento, Água, Esgoto e Pavimentação de Dracena
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/emdaep-de-dracena-sp-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva)
+- **Órgão/Local:** SP, São Paulo - SP
+- **Salário máx.:** R$ 5.604,96
+- **Encerramento:** 13/09/2026
+
+### SEAP - MA
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/seap-ma-abre-concurso-publico-com-vagas-imediatas-e-cada)
+- **Cargos:** Diversos Cargos
+- **Órgão/Local:** MA
 
 ---
 

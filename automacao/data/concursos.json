@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-26T08:59:35.467151+00:00",
-    "total_concursos": 446
+    "ultima_coleta": "2026-08-27T18:56:39.436008+00:00",
+    "total_concursos": 450
   },
   "concursos": [
     {
@@ -6664,6 +6664,65 @@
       "fonte": "FGV",
       "id": "a62f3f09-2266-49ae-a938-7e531a2393c0",
       "data_coleta": "2026-08-26T08:59:35.466385+00:00"
+    },
+    {
+      "instituicao": "LAMEF",
+      "orgao": "RS, Porto Alegre - RS",
+      "cargos": [
+        "C.01 - Técnico Mecânico de Manutenção Industrial",
+        "C.02 - Técnico Operacional"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosFaurgs/emandamento/1278-082026lamef",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-27",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "e49dc1dd-8000-4b83-8c67-cdb86a26e135",
+      "data_coleta": "2026-08-27T18:56:39.435445+00:00"
+    },
+    {
+      "instituicao": "Câmara de Itaju",
+      "orgao": "SP, São Paulo - SP",
+      "cargos": [
+        "Agente Administrativo"
+      ],
+      "salario_maximo": "R$ 3.242,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-itaju-sp-abre-concurso-publico-para-agente-administrativo",
+      "data_encerramento": "25/09/2026",
+      "data_publicacao": "2026-08-27",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "f4c2f496-d6e2-4bd7-9d64-f6b4f266c812",
+      "data_coleta": "2026-08-27T18:56:39.435674+00:00"
+    },
+    {
+      "instituicao": "EMDAEP - Empresa de Desenvolvimento, Água, Esgoto e Pavimentação de Dracena",
+      "orgao": "SP, São Paulo - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 5.604,96",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/emdaep-de-dracena-sp-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
+      "data_encerramento": "13/09/2026",
+      "data_publicacao": "2026-08-27",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "1da75bc1-e076-4615-aea0-eb1c40c18e34",
+      "data_coleta": "2026-08-27T18:56:39.435783+00:00"
+    },
+    {
+      "instituicao": "SEAP - MA",
+      "orgao": "MA",
+      "cargos": [
+        "Diversos Cargos"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/seap-ma-abre-concurso-publico-com-vagas-imediatas-e-cada",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-27",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "03472bcf-c92b-49ed-9e88-71994aaefdeb",
+      "data_coleta": "2026-08-27T18:56:39.435924+00:00"
     }
   ]
 }
