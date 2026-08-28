@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 27/08/2026_
+_Atualizado em 28/08/2026_
 
-Total: **450** concursos encontrados.
+Total: **452** concursos encontrados.
 
 ---
 
@@ -320,7 +320,7 @@ Total: **450** concursos encontrados.
 
 ---
 
-## PCI (320)
+## PCI (322)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1996,6 +1996,20 @@ Total: **450** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/seap-ma-abre-concurso-publico-com-vagas-imediatas-e-cada)
 - **Cargos:** Diversos Cargos
 - **Órgão/Local:** MA
+
+### Câmara de José Bonifácio
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-jose-bonifacio-sp-divulga-retificacao-de-concurso-publico)
+- **Cargos:** Diversos Cargos
+- **Órgão/Local:** SP, José Bonifácio - SP
+- **Salário máx.:** R$ 6.100,00
+- **Encerramento:** 16/09/2026
+
+### FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-sp-abre-processos-seletivos-com-salarios-de-ate-6077-em-botucatu)
+- **Cargos:** Diversos Cargos
+- **Órgão/Local:** SP, Botucatu - SP
+- **Salário máx.:** R$ 6.077,09
+- **Encerramento:** 08/09/2026
 
 ---
 

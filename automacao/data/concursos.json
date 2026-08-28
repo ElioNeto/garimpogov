@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-27T18:56:39.436008+00:00",
-    "total_concursos": 450
+    "ultima_coleta": "2026-08-28T19:58:09.536658+00:00",
+    "total_concursos": 452
   },
   "concursos": [
     {
@@ -6723,6 +6723,36 @@
       "fonte": "PCI",
       "id": "03472bcf-c92b-49ed-9e88-71994aaefdeb",
       "data_coleta": "2026-08-27T18:56:39.435924+00:00"
+    },
+    {
+      "instituicao": "Câmara de José Bonifácio",
+      "orgao": "SP, José Bonifácio - SP",
+      "cargos": [
+        "Diversos Cargos"
+      ],
+      "salario_maximo": "R$ 6.100,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-jose-bonifacio-sp-divulga-retificacao-de-concurso-publico",
+      "data_encerramento": "16/09/2026",
+      "data_publicacao": "2026-08-28",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "4af8943d-b8ea-41e8-aa0c-000ac03da6c4",
+      "data_coleta": "2026-08-28T19:58:09.536190+00:00"
+    },
+    {
+      "instituicao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
+      "orgao": "SP, Botucatu - SP",
+      "cargos": [
+        "Diversos Cargos"
+      ],
+      "salario_maximo": "R$ 6.077,09",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/famesp-sp-abre-processos-seletivos-com-salarios-de-ate-6077-em-botucatu",
+      "data_encerramento": "08/09/2026",
+      "data_publicacao": "2026-08-28",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "765618c1-cf68-42d2-84dd-36c0187d6be1",
+      "data_coleta": "2026-08-28T19:58:09.536346+00:00"
     }
   ]
 }
