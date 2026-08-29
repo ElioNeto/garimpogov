@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 28/08/2026_
+_Atualizado em 29/08/2026_
 
-Total: **452** concursos encontrados.
+Total: **453** concursos encontrados.
 
 ---
 
@@ -36,7 +36,7 @@ Total: **452** concursos encontrados.
 
 ---
 
-## FAURGS (18)
+## FAURGS (19)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -119,6 +119,11 @@ Total: **452** concursos encontrados.
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1278-082026lamef)
 - **Cargos:** C.01 - Técnico Mecânico de Manutenção Industrial, C.02 - Técnico Operacional
 - **Órgão/Local:** RS, Porto Alegre - RS
+
+### Hospital de Clínicas de Porto Alegre
+[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1276-022026hospitaldeclinicasdeportoalegre)
+- **Cargos:** PS 19 – ANALISTA I (Produção Audiovisual), PS 20 – ASSISTENTE I (Assistente de Pesquisa Clínica), PS 21 – ASSISTENTE I (Assistente de Pesquisa em Bioinformática), PS 22 – FONOAUDIÓLOGO I (Disfagia), PS 23 – FONOAUDIÓLOGO I (Fonoterapia), PS 24 – MÉDICO I (Alergia e Imunologia), PS 25 – MÉDICO I (Medicina Paliativa), PS 26 – MÉDICO I (Psiquiatria da Infância e Adolescência), PS 27 – MÉDICO I (Tratamento da Dor), PS 28 – RELAÇÕES PÚBLICAS I, PS 29 – TÉCNICO DE ENFERMAGEM (Cuidados Coronarianos), PS 30 – TÉCNICO DE MANUTENÇÃO III (Técnico de Manutenção Predial Obras e Pintura)
+- **Órgão/Local:** Hospital de Clínicas de Porto Alegre
 
 ---
 
