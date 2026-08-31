@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-29T13:45:17.707910+00:00",
-    "total_concursos": 453
+    "ultima_coleta": "2026-08-31T16:03:27.609223+00:00",
+    "total_concursos": 461
   },
   "concursos": [
     {
@@ -6040,19 +6040,6 @@
       "data_coleta": "2026-08-15T08:44:05.766254+00:00"
     },
     {
-      "instituicao": "Prefeitura de Limeira",
-      "orgao": "SP",
-      "cargos": [],
-      "salario_maximo": "R$ 12.873,46",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-limeira-sp-publica-editais-de-concursos-com-vagas-em-diversas-areas",
-      "data_encerramento": "31/08/2026",
-      "data_publicacao": "2026-08-15",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "293b26ab-8bdd-4b73-93e9-7c70bf883c71",
-      "data_coleta": "2026-08-15T08:44:05.766629+00:00"
-    },
-    {
       "instituicao": "CIMPS - Consórcio Intermunicipal de Políticas Sociais",
       "orgao": "SP",
       "cargos": [
@@ -6779,6 +6766,132 @@
       "fonte": "FAURGS",
       "id": "2fa568f0-a98b-4e62-a1f3-c772ab29e73e",
       "data_coleta": "2026-08-29T13:45:17.707637+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Limeira - SP",
+      "orgao": "SP, Limeira - SP",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-limeira-sp-publica-editais-de-concursos-com-vagas-em-diversas-areas",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-31",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "633583df-ba5f-4bac-a577-d63c515944d4",
+      "data_coleta": "2026-08-31T16:03:27.608691+00:00"
+    },
+    {
+      "instituicao": "SES e IASERJ - RJ",
+      "orgao": "RJ, Rio de Janeiro - RJ",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/ses-e-iaserj-rj-abrem-concurso-publico-com-vagas-de-nivel-medio-e-superior",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-31",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "2a019fe1-034e-4731-87a2-6416d3c9fe84",
+      "data_coleta": "2026-08-31T16:03:27.608742+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Contagem - MG",
+      "orgao": "MG, Contagem - MG",
+      "cargos": [],
+      "salario_maximo": "R$ 13.305,57",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-contagem-mg-abre-concurso-publico-com-salarios-de-ate-13305",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-31",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "5dba2987-42cf-411a-8446-855a4dc0f6bf",
+      "data_coleta": "2026-08-31T16:03:27.608773+00:00"
+    },
+    {
+      "instituicao": "EMATER - MG",
+      "orgao": "MG, Belo Horizonte - MG",
+      "cargos": [],
+      "salario_maximo": "R$ 7.321,75",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/emater-mg-anuncia-concurso-publico-com-salarios-de-ate-7321",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-31",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "cadc481f-10bd-430a-8127-00b7174ab82e",
+      "data_coleta": "2026-08-31T16:03:27.608795+00:00"
+    },
+    {
+      "instituicao": "Câmara de Ponta Porã - MS",
+      "orgao": "MS, Ponta Porã - MS",
+      "cargos": [],
+      "salario_maximo": "R$ 7.999,59",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-ponta-pora-ms-abre-concurso-publico-com-salarios-de-ate-7999",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-31",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "94878337-00e5-447f-9862-0f6417edebac",
+      "data_coleta": "2026-08-31T16:03:27.608855+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Conceição do Almeida - BA",
+      "orgao": "BA, Conceição do Almeida - BA",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-conceicao-do-almeida-ba-abre-concurso-publico-com-vagas-para-diversos-cargos",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-31",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "38c6cb29-be9a-43dd-a5e2-d04bb45e31a2",
+      "data_coleta": "2026-08-31T16:03:27.608914+00:00"
+    },
+    {
+      "instituicao": "Polícia Civil - BA",
+      "orgao": "BA, Bahia - BA",
+      "cargos": [
+        "Delegado",
+        "Investigador",
+        "Escrivão"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/policia-civil-ba-abre-concurso-publico-para-delegado-investigador-e-escriva",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-31",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "40ee2ab3-b5d9-4152-8f4e-eb145554ed11",
+      "data_coleta": "2026-08-31T16:03:27.608936+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Cruz do Espírito Santo",
+      "orgao": "Prefeitura de Cruz do Espírito Santo - PB",
+      "cargos": [
+        "Diversas áreas"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cruz-do-espirito-santo-pb-abre-concurso-publico-com-vagas-para-diversas-areas",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-31",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "78bab8a3-1da1-42e2-9d3d-3c843f3baaa9",
+      "data_coleta": "2026-08-31T16:03:27.609156+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Caruaru",
+      "orgao": "Prefeitura de Caruaru - PE",
+      "cargos": [
+        "Auditor",
+        "Analista Fiscal"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caruaru-pe-abre-concurso-publico-para-auditores-e-analistas-fiscais",
+      "data_encerramento": null,
+      "data_publicacao": "2026-08-31",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "44c595c6-d6b0-4d72-9e39-13aaf786e7dc",
+      "data_coleta": "2026-08-31T16:03:27.609177+00:00"
     }
   ]
 }

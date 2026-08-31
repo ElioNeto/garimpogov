@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 30/08/2026_
+_Atualizado em 31/08/2026_
 
-Total: **453** concursos encontrados.
+Total: **461** concursos encontrados.
 
 ---
 
@@ -325,7 +325,7 @@ Total: **453** concursos encontrados.
 
 ---
 
-## PCI (322)
+## PCI (330)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1807,12 +1807,6 @@ Total: **453** concursos encontrados.
 - **Cargos:** Auditor de Controle Externo
 - **Órgão/Local:** TCE-SP
 
-### Prefeitura de Limeira
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-limeira-sp-publica-editais-de-concursos-com-vagas-em-diversas-areas)
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 12.873,46
-- **Encerramento:** 31/08/2026
-
 ### CIMPS - Consórcio Intermunicipal de Políticas Sociais
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/cimps-sp-abre-concurso-publico-para-auxiliar-administrativo-e-gerente-administrativo)
 - **Cargos:** Auxiliar Administrativo, Gerente Administrativo
@@ -2015,6 +2009,48 @@ Total: **453** concursos encontrados.
 - **Órgão/Local:** SP, Botucatu - SP
 - **Salário máx.:** R$ 6.077,09
 - **Encerramento:** 08/09/2026
+
+### Prefeitura de Limeira - SP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-limeira-sp-publica-editais-de-concursos-com-vagas-em-diversas-areas)
+- **Órgão/Local:** SP, Limeira - SP
+
+### SES e IASERJ - RJ
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ses-e-iaserj-rj-abrem-concurso-publico-com-vagas-de-nivel-medio-e-superior)
+- **Órgão/Local:** RJ, Rio de Janeiro - RJ
+
+### Prefeitura de Contagem - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-contagem-mg-abre-concurso-publico-com-salarios-de-ate-13305)
+- **Órgão/Local:** MG, Contagem - MG
+- **Salário máx.:** R$ 13.305,57
+
+### EMATER - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/emater-mg-anuncia-concurso-publico-com-salarios-de-ate-7321)
+- **Órgão/Local:** MG, Belo Horizonte - MG
+- **Salário máx.:** R$ 7.321,75
+
+### Câmara de Ponta Porã - MS
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-ponta-pora-ms-abre-concurso-publico-com-salarios-de-ate-7999)
+- **Órgão/Local:** MS, Ponta Porã - MS
+- **Salário máx.:** R$ 7.999,59
+
+### Prefeitura de Conceição do Almeida - BA
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-conceicao-do-almeida-ba-abre-concurso-publico-com-vagas-para-diversos-cargos)
+- **Órgão/Local:** BA, Conceição do Almeida - BA
+
+### Polícia Civil - BA
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/policia-civil-ba-abre-concurso-publico-para-delegado-investigador-e-escriva)
+- **Cargos:** Delegado, Investigador, Escrivão
+- **Órgão/Local:** BA, Bahia - BA
+
+### Prefeitura de Cruz do Espírito Santo
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-cruz-do-espirito-santo-pb-abre-concurso-publico-com-vagas-para-diversas-areas)
+- **Cargos:** Diversas áreas
+- **Órgão/Local:** Prefeitura de Cruz do Espírito Santo - PB
+
+### Prefeitura de Caruaru
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-caruaru-pe-abre-concurso-publico-para-auditores-e-analistas-fiscais)
+- **Cargos:** Auditor, Analista Fiscal
+- **Órgão/Local:** Prefeitura de Caruaru - PE
 
 ---
 
