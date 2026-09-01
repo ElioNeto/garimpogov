@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-08-31T16:03:27.609223+00:00",
-    "total_concursos": 461
+    "ultima_coleta": "2026-09-01T13:16:46.840110+00:00",
+    "total_concursos": 467
   },
   "concursos": [
     {
@@ -6892,6 +6892,97 @@
       "fonte": "PCI",
       "id": "44c595c6-d6b0-4d72-9e39-13aaf786e7dc",
       "data_coleta": "2026-08-31T16:03:27.609177+00:00"
+    },
+    {
+      "instituicao": "LAPAV",
+      "orgao": null,
+      "cargos": [
+        "Técnico de Obras",
+        "Laboratorista"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosFaurgs/emandamento/1282-112026lapav",
+      "data_encerramento": "07/09/2026",
+      "data_publicacao": "2026-09-01",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "c488e87a-184d-44fb-b59a-2cd1b7cf77f0",
+      "data_coleta": "2026-09-01T13:16:46.839211+00:00"
+    },
+    {
+      "instituicao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
+      "orgao": "SP, Bauru - SP",
+      "cargos": [
+        "Diversos Cargos"
+      ],
+      "salario_maximo": "R$ 3.789,08",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/famesp-sp-abre-processos-seletivos-com-vagas-para-diversas-areas-em-bauru",
+      "data_encerramento": "08/09/2026",
+      "data_publicacao": "2026-09-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "f6cca78c-9577-4f48-ac36-81e6b5921e02",
+      "data_coleta": "2026-09-01T13:16:46.839629+00:00"
+    },
+    {
+      "instituicao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
+      "orgao": "SP, Botucatu - SP",
+      "cargos": [
+        "Médico Neurologista Clínico"
+      ],
+      "salario_maximo": "R$ 6.077,09",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/famesp-anuncia-processo-seletivo-para-medico-neurologista-clinico-em-botucatu-sp",
+      "data_encerramento": "14/09/2026",
+      "data_publicacao": "02/09/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "a98a22e2-d324-414b-a8b2-2f48b9afc7aa",
+      "data_coleta": "2026-09-01T13:16:46.839659+00:00"
+    },
+    {
+      "instituicao": "FHSL - Fundação Hospital Santa Lydia",
+      "orgao": "SP, Ribeirão Preto - SP",
+      "cargos": [
+        "Diversos Cargos"
+      ],
+      "salario_maximo": "R$ 5.060,92",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-abre-processo-seletivo-com-salarios-de-ate-5060",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "5b369f6e-48f8-430b-97ff-97e0c767ab62",
+      "data_coleta": "2026-09-01T13:16:46.839680+00:00"
+    },
+    {
+      "instituicao": "SEDUC e SEPLAG - CE",
+      "orgao": "CE",
+      "cargos": [
+        "Professor"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/seduc-e-seplag-ce-abrem-concurso-publico-com-vagas-para-professores",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "152147e5-599c-48e0-a838-c0d14e0da81c",
+      "data_coleta": "2026-09-01T13:16:46.839835+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Guapimirim - RJ",
+      "orgao": "RJ, Guapimirim - RJ",
+      "cargos": [
+        "Professor"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guapimirim-rj-abre-concurso-publico-com-vag",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-01",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "7db283fd-a5f5-42b4-83fe-bdf00e7f1f3a",
+      "data_coleta": "2026-09-01T13:16:46.840079+00:00"
     }
   ]
 }

@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 31/08/2026_
+_Atualizado em 01/09/2026_
 
-Total: **461** concursos encontrados.
+Total: **467** concursos encontrados.
 
 ---
 
@@ -36,7 +36,7 @@ Total: **461** concursos encontrados.
 
 ---
 
-## FAURGS (19)
+## FAURGS (20)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -124,6 +124,11 @@ Total: **461** concursos encontrados.
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1276-022026hospitaldeclinicasdeportoalegre)
 - **Cargos:** PS 19 – ANALISTA I (Produção Audiovisual), PS 20 – ASSISTENTE I (Assistente de Pesquisa Clínica), PS 21 – ASSISTENTE I (Assistente de Pesquisa em Bioinformática), PS 22 – FONOAUDIÓLOGO I (Disfagia), PS 23 – FONOAUDIÓLOGO I (Fonoterapia), PS 24 – MÉDICO I (Alergia e Imunologia), PS 25 – MÉDICO I (Medicina Paliativa), PS 26 – MÉDICO I (Psiquiatria da Infância e Adolescência), PS 27 – MÉDICO I (Tratamento da Dor), PS 28 – RELAÇÕES PÚBLICAS I, PS 29 – TÉCNICO DE ENFERMAGEM (Cuidados Coronarianos), PS 30 – TÉCNICO DE MANUTENÇÃO III (Técnico de Manutenção Predial Obras e Pintura)
 - **Órgão/Local:** Hospital de Clínicas de Porto Alegre
+
+### LAPAV
+[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1282-112026lapav)
+- **Cargos:** Técnico de Obras, Laboratorista
+- **Encerramento:** 07/09/2026
 
 ---
 
@@ -325,7 +330,7 @@ Total: **461** concursos encontrados.
 
 ---
 
-## PCI (330)
+## PCI (335)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -2051,6 +2056,36 @@ Total: **461** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-caruaru-pe-abre-concurso-publico-para-auditores-e-analistas-fiscais)
 - **Cargos:** Auditor, Analista Fiscal
 - **Órgão/Local:** Prefeitura de Caruaru - PE
+
+### FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-sp-abre-processos-seletivos-com-vagas-para-diversas-areas-em-bauru)
+- **Cargos:** Diversos Cargos
+- **Órgão/Local:** SP, Bauru - SP
+- **Salário máx.:** R$ 3.789,08
+- **Encerramento:** 08/09/2026
+
+### FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-anuncia-processo-seletivo-para-medico-neurologista-clinico-em-botucatu-sp)
+- **Cargos:** Médico Neurologista Clínico
+- **Órgão/Local:** SP, Botucatu - SP
+- **Salário máx.:** R$ 6.077,09
+- **Encerramento:** 14/09/2026
+
+### FHSL - Fundação Hospital Santa Lydia
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-abre-processo-seletivo-com-salarios-de-ate-5060)
+- **Cargos:** Diversos Cargos
+- **Órgão/Local:** SP, Ribeirão Preto - SP
+- **Salário máx.:** R$ 5.060,92
+
+### SEDUC e SEPLAG - CE
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/seduc-e-seplag-ce-abrem-concurso-publico-com-vagas-para-professores)
+- **Cargos:** Professor
+- **Órgão/Local:** CE
+
+### Prefeitura de Guapimirim - RJ
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-guapimirim-rj-abre-concurso-publico-com-vag)
+- **Cargos:** Professor
+- **Órgão/Local:** RJ, Guapimirim - RJ
 
 ---
 
