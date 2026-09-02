@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 01/09/2026_
+_Atualizado em 02/09/2026_
 
-Total: **467** concursos encontrados.
+Total: **476** concursos encontrados.
 
 ---
 
@@ -132,7 +132,7 @@ Total: **467** concursos encontrados.
 
 ---
 
-## FGV (58)
+## FGV (62)
 
 ### Concurso Público Nacional Unificado 2
 [🔗 Edital](https://conhecimento.fgv.br/cpnu2)
@@ -328,9 +328,29 @@ Total: **467** concursos encontrados.
 - **Cargos:** Juiz Federal Substituto
 - **Órgão/Local:** TRF5 - Tribunal Regional Federal da 5ª Região
 
+### Secretaria de Planejamento e Gestão do Estado do Rio de Janeiro
+[🔗 Edital](https://conhecimento.fgv.br/concursos/seplagrj)
+- **Cargos:** Cargos a definir
+- **Órgão/Local:** RJ, Rio de Janeiro - RJ
+
+### Secretaria de Estado de Planejamento e Administração e Secretaria de Estado de Educação do Pará
+[🔗 Edital](https://conhecimento.fgv.br/concursos/seducpa26)
+- **Cargos:** Cargos a definir
+- **Órgão/Local:** PA, Belém - PA
+
+### Tribunal de Justiça do Estado do Rio Grande do Sul
+[🔗 Edital](https://conhecimento.fgv.br/concursos/tjrsjuiz26)
+- **Cargos:** Juiz Substituto
+- **Órgão/Local:** RS, Porto Alegre - RS
+
+### Exame Nacional dos Cartórios
+[🔗 Edital](https://conhecimento.fgv.br/exames/enac/4exame)
+- **Cargos:** Cartórios
+- **Órgão/Local:** Nacional
+
 ---
 
-## PCI (335)
+## PCI (340)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -2086,6 +2106,29 @@ Total: **467** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-guapimirim-rj-abre-concurso-publico-com-vag)
 - **Cargos:** Professor
 - **Órgão/Local:** RJ, Guapimirim - RJ
+
+### DMAE de Uberlândia - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/dmae-de-uberlandia)
+- **Órgão/Local:** DMAE de Uberlândia - MG
+
+### Prefeitura de Paracatu
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-paracatu-mg-prorroga-inscricoes-do-concurso-publico-com-salarios-de-ate-9600)
+- **Órgão/Local:** MG, Minas Gerais - MG
+- **Salário máx.:** R$ 9.600,00
+
+### Prefeitura de Chapada dos Guimarães
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-chapada-d)
+- **Órgão/Local:** MT, Mato Grosso - MT
+
+### Autarquia Municipal de Saúde de Itapecerica da Serra
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/autarquia-municipal-de-saude-de-itapecerica-da-serra-sp-abre-concurso-publico-com-s)
+- **Órgão/Local:** SP, Itapecerica da Serra - SP
+- **Salário máx.:** R$ 11.576,25
+
+### Prefeitura de Guapimirim
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/p)
+- **Cargos:** Professor
+- **Órgão/Local:** RJ
 
 ---
 

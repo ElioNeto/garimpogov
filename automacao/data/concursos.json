@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-09-01T13:16:46.840110+00:00",
-    "total_concursos": 467
+    "ultima_coleta": "2026-09-02T12:46:11.521573+00:00",
+    "total_concursos": 476
   },
   "concursos": [
     {
@@ -6983,6 +6983,130 @@
       "fonte": "PCI",
       "id": "7db283fd-a5f5-42b4-83fe-bdf00e7f1f3a",
       "data_coleta": "2026-09-01T13:16:46.840079+00:00"
+    },
+    {
+      "instituicao": "Secretaria de Planejamento e Gestão do Estado do Rio de Janeiro",
+      "orgao": "RJ, Rio de Janeiro - RJ",
+      "cargos": [
+        "Cargos a definir"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br/concursos/seplagrj",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-02",
+      "status": "aberto",
+      "fonte": "FGV",
+      "id": "c8d10b21-c972-400d-8984-a1c3c0b00592",
+      "data_coleta": "2026-09-02T12:46:11.521061+00:00"
+    },
+    {
+      "instituicao": "Secretaria de Estado de Planejamento e Administração e Secretaria de Estado de Educação do Pará",
+      "orgao": "PA, Belém - PA",
+      "cargos": [
+        "Cargos a definir"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br/concursos/seducpa26",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-02",
+      "status": "aberto",
+      "fonte": "FGV",
+      "id": "d0bfec3a-386f-4fc0-ad3d-5c515f5935f3",
+      "data_coleta": "2026-09-02T12:46:11.521095+00:00"
+    },
+    {
+      "instituicao": "Tribunal de Justiça do Estado do Rio Grande do Sul",
+      "orgao": "RS, Porto Alegre - RS",
+      "cargos": [
+        "Juiz Substituto"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br/concursos/tjrsjuiz26",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-02",
+      "status": "aberto",
+      "fonte": "FGV",
+      "id": "97bed6a0-cfdd-41f4-bd88-d85984ec94ed",
+      "data_coleta": "2026-09-02T12:46:11.521111+00:00"
+    },
+    {
+      "instituicao": "Exame Nacional dos Cartórios",
+      "orgao": "Nacional",
+      "cargos": [
+        "Cartórios"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br/exames/enac/4exame",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-02",
+      "status": "aberto",
+      "fonte": "FGV",
+      "id": "27d369af-ce15-41e3-8367-3a1a2189d3d1",
+      "data_coleta": "2026-09-02T12:46:11.521129+00:00"
+    },
+    {
+      "instituicao": "DMAE de Uberlândia - MG",
+      "orgao": "DMAE de Uberlândia - MG",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/dmae-de-uberlandia",
+      "fonte": "PCI",
+      "status": "aberto",
+      "id": "401d2baf-f564-4e4f-a2f2-62ac306cbf6e",
+      "data_coleta": "2026-09-02T12:46:11.521393+00:00",
+      "data_publicacao": "2026-09-02"
+    },
+    {
+      "instituicao": "Prefeitura de Paracatu",
+      "orgao": "MG, Minas Gerais - MG",
+      "cargos": [],
+      "salario_maximo": "R$ 9.600,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paracatu-mg-prorroga-inscricoes-do-concurso-publico-com-salarios-de-ate-9600",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-02",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "ce7d7796-a26c-4155-8c3e-e82bcef30f8c",
+      "data_coleta": "2026-09-02T12:46:11.521449+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Chapada dos Guimarães",
+      "orgao": "MT, Mato Grosso - MT",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-chapada-d",
+      "fonte": "PCI",
+      "status": "aberto",
+      "id": "92feed40-7591-4e60-b324-ea9492cb7374",
+      "data_coleta": "2026-09-02T12:46:11.521481+00:00",
+      "data_publicacao": "2026-09-02"
+    },
+    {
+      "instituicao": "Autarquia Municipal de Saúde de Itapecerica da Serra",
+      "orgao": "SP, Itapecerica da Serra - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 11.576,25",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/autarquia-municipal-de-saude-de-itapecerica-da-serra-sp-abre-concurso-publico-com-s",
+      "fonte": "PCI",
+      "status": "aberto",
+      "id": "82ca6570-5c94-4c4b-a979-01da6f963308",
+      "data_coleta": "2026-09-02T12:46:11.521494+00:00",
+      "data_publicacao": "2026-09-02"
+    },
+    {
+      "instituicao": "Prefeitura de Guapimirim",
+      "orgao": "RJ",
+      "cargos": [
+        "Professor"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/p",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-02",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "a66942d5-d518-4cd2-87f4-aad2da2a0b1d",
+      "data_coleta": "2026-09-02T12:46:11.521551+00:00"
     }
   ]
 }
