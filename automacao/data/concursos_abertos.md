@@ -1,6 +1,6 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 02/09/2026_
+_Atualizado em 03/09/2026_
 
 Total: **476** concursos encontrados.
 
@@ -1705,13 +1705,6 @@ Total: **476** concursos encontrados.
 - **Salário máx.:** R$ 11.576,25
 - **Encerramento:** 08/09/2026
 
-### FSA - Fundação Santo André
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-publico-para-o-cargo-de-consultor-juridico)
-- **Cargos:** Consultor Jurídico
-- **Órgão/Local:** SP, Santo André - SP
-- **Salário máx.:** R$ 5.771,75
-- **Encerramento:** 03/09/2026
-
 ### ABGF
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/abgf-prorroga-inscricoes-do-concurso-publico-com-vagas-para-cargos-de-nivel-superior)
 - **Órgão/Local:** Brasil
@@ -2129,6 +2122,10 @@ Total: **476** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/p)
 - **Cargos:** Professor
 - **Órgão/Local:** RJ
+
+### SEAP - MA
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/seap-ma-abre-concurso-public)
+- **Órgão/Local:** MA, São Luís - MA
 
 ---
 

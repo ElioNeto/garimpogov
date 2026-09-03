@@ -1,6 +1,6 @@
 {
   "meta": {
-    "ultima_coleta": "2026-09-02T12:46:11.521573+00:00",
+    "ultima_coleta": "2026-09-03T12:47:41.425124+00:00",
     "total_concursos": 476
   },
   "concursos": [
@@ -5632,21 +5632,6 @@
       "data_coleta": "2026-08-07T09:14:51.195187+00:00"
     },
     {
-      "instituicao": "FSA - Fundação Santo André",
-      "orgao": "SP, Santo André - SP",
-      "cargos": [
-        "Consultor Jurídico"
-      ],
-      "salario_maximo": "R$ 5.771,75",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-publico-para-o-cargo-de-consultor-juridico",
-      "data_encerramento": "03/09/2026",
-      "data_publicacao": "2026-08-07",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "59c727f7-4116-48b8-8256-20a386e0fe21",
-      "data_coleta": "2026-08-07T09:14:51.195399+00:00"
-    },
-    {
       "instituicao": "ABGF",
       "orgao": "Brasil",
       "cargos": [],
@@ -7107,6 +7092,19 @@
       "fonte": "PCI",
       "id": "a66942d5-d518-4cd2-87f4-aad2da2a0b1d",
       "data_coleta": "2026-09-02T12:46:11.521551+00:00"
+    },
+    {
+      "instituicao": "SEAP - MA",
+      "orgao": "MA, São Luís - MA",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/seap-ma-abre-concurso-public",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-03",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "33baac51-a259-4858-9428-16446b75b8f1",
+      "data_coleta": "2026-09-03T12:47:41.424839+00:00"
     }
   ]
 }
