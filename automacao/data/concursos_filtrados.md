@@ -1,8 +1,8 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 03/09/2026_
+_Atualizado em 04/09/2026_
 
-Total: **12** concursos encontrados.
+Total: **15** concursos encontrados.
 
 ---
 
@@ -17,7 +17,7 @@ Total: **12** concursos encontrados.
 
 ---
 
-## FAURGS (6)
+## FAURGS (9)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -45,6 +45,21 @@ Total: **12** concursos encontrados.
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1276-022026hospitaldeclinicasdeportoalegre)
 - **Cargos:** PS 19 – ANALISTA I (Produção Audiovisual), PS 20 – ASSISTENTE I (Assistente de Pesquisa Clínica), PS 21 – ASSISTENTE I (Assistente de Pesquisa em Bioinformática), PS 22 – FONOAUDIÓLOGO I (Disfagia), PS 23 – FONOAUDIÓLOGO I (Fonoterapia), PS 24 – MÉDICO I (Alergia e Imunologia), PS 25 – MÉDICO I (Medicina Paliativa), PS 26 – MÉDICO I (Psiquiatria da Infância e Adolescência), PS 27 – MÉDICO I (Tratamento da Dor), PS 28 – RELAÇÕES PÚBLICAS I, PS 29 – TÉCNICO DE ENFERMAGEM (Cuidados Coronarianos), PS 30 – TÉCNICO DE MANUTENÇÃO III (Técnico de Manutenção Predial Obras e Pintura)
 - **Órgão/Local:** Hospital de Clínicas de Porto Alegre
+
+### IFSC - Instituto Federal de Santa Catarina
+[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1279-022026ifsc-institutofederaldesantacatarina)
+- **Cargos:** Arquiteto e Urbanista - Reitoria, Assistente de Alunos - Urupema, Assistente de Alunos - Caçador, Assistente de Alunos - São Lourenço do Oeste, Bibliotecário - Documentalista - Caçador, Engenheiro Civil - Lages, Engenheiro de Segurança do Trabalho - Reitoria, Técnico de Laboratório – Área: Automação - Chapecó, Técnico de Laboratório – Área: Ciências da Natureza - Caçador, Técnico de Laboratório – Área: Informática - Canoinhas, Técnico em Assuntos Educacionais - Canoinhas, Técnico em Assuntos Educacionais - Caçador, Técnico em Assuntos Educacionais - São Carlos, Técnico em Assuntos Educacionais - São Lourenço do Oeste, Técnico em Assuntos Educacionais - São Miguel do Oeste, Técnico em Assuntos Educacionais - Urupema, Tecnólogo em Gestão Pública - Tubarão, Engenheiro Sênior I de Poços, Engenheiro Profissional Júnior
+- **Órgão/Local:** Portalfaurgs
+
+### PS 19
+[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1277-012026ifsc-institutofederaldesantacatarina)
+- **Cargos:** Analista I (Produção Audiovisual), Assistente I (Assistente de Pesquisa Clínica), Assistente I (Assistente de Pesquisa em Bioinformática), FONOAUDIOLOGO I (Disfagia), FONOAUDIOLOGO I (Fonoterapia), MÉDICO I (Alergia e Imunologia), MÉDICO I (Medicina Paliativa), MÉDICO I (Psiquiatria da Infância e Adolescência), MÉDICO I (Tratamento da Dor), RELAÇÕES PÚBLICAS I, TÉCNICO DE ENFERMAGEM (Cuidados Coronarianos), TÉCNICO DE MANUTENÇÃO III (Técnico de Manutenção Predial Obras e Pintura)
+- **Órgão/Local:** Portalfaurgs
+
+### PS 36
+[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1277-012026ifsc)
+- **Cargos:** Analista I (Produção Audiovisual), Assistente I (Assistente de Pesquisa Clínica), Assistente I (Assistente de Pesquisa em Bioinformática), FONOAUDIOLOGO I (Disfagia), FONOAUDIOLOGO I (Fonoterapia), MÉDICO I (Alergia e Imunologia), MÉDICO I (Medicina Paliativa), MÉDICO I (Psiquiatria da Infância e Adolescência), MÉDICO I (Tratamento da Dor), RELAÇÕES PÚBLICAS I, TÉCNICO DE ENFERMAGEM (Cuidados Coronarianos), TÉCNICO DE MANUTENÇÃO III (Técnico de Manutenção Predial Obras e Pintura)
+- **Órgão/Local:** Portalfaurgs
 
 ---
 

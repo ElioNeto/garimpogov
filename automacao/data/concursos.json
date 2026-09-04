@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-09-03T12:47:41.425124+00:00",
-    "total_concursos": 476
+    "ultima_coleta": "2026-09-04T12:36:44.878547+00:00",
+    "total_concursos": 482
   },
   "concursos": [
     {
@@ -7105,6 +7105,135 @@
       "fonte": "PCI",
       "id": "33baac51-a259-4858-9428-16446b75b8f1",
       "data_coleta": "2026-09-03T12:47:41.424839+00:00"
+    },
+    {
+      "instituicao": "LAPAV",
+      "orgao": "Portalfaurgs",
+      "cargos": [
+        "Técnico de Obras",
+        "Laboratorista"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/1282-112026lapav",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-04",
+      "status": "em andamento",
+      "fonte": "FAURGS",
+      "id": "69a00428-848e-4a4e-91df-428a192ca8fb",
+      "data_coleta": "2026-09-04T12:36:44.877875+00:00"
+    },
+    {
+      "instituicao": "LAMEF",
+      "orgao": "Portalfaurgs",
+      "cargos": [
+        "Técnico em Usinagem I",
+        "Engenheiro Sênior I de Poços",
+        "Engenheiro Profissional Júnior"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/1281-102026lamef",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-04",
+      "status": "em andamento",
+      "fonte": "FAURGS",
+      "id": "ec585677-c1fb-4417-9e61-9202a04835e0",
+      "data_coleta": "2026-09-04T12:36:44.877923+00:00"
+    },
+    {
+      "instituicao": "IFSC - Instituto Federal de Santa Catarina",
+      "orgao": "Portalfaurgs",
+      "cargos": [
+        "Arquiteto e Urbanista - Reitoria",
+        "Assistente de Alunos - Urupema",
+        "Assistente de Alunos - Caçador",
+        "Assistente de Alunos - São Lourenço do Oeste",
+        "Bibliotecário - Documentalista - Caçador",
+        "Engenheiro Civil - Lages",
+        "Engenheiro de Segurança do Trabalho - Reitoria",
+        "Técnico de Laboratório – Área: Automação - Chapecó",
+        "Técnico de Laboratório – Área: Ciências da Natureza - Caçador",
+        "Técnico de Laboratório – Área: Informática - Canoinhas",
+        "Técnico em Assuntos Educacionais - Canoinhas",
+        "Técnico em Assuntos Educacionais - Caçador",
+        "Técnico em Assuntos Educacionais - São Carlos",
+        "Técnico em Assuntos Educacionais - São Lourenço do Oeste",
+        "Técnico em Assuntos Educacionais - São Miguel do Oeste",
+        "Técnico em Assuntos Educacionais - Urupema",
+        "Tecnólogo em Gestão Pública - Tubarão",
+        "Engenheiro Sênior I de Poços",
+        "Engenheiro Profissional Júnior"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/1279-022026ifsc-institutofederaldesantacatarina",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-04",
+      "status": "em andamento",
+      "fonte": "FAURGS",
+      "id": "120bbf49-5fc4-4a40-a486-dda365cf209b",
+      "data_coleta": "2026-09-04T12:36:44.877967+00:00"
+    },
+    {
+      "instituicao": "PS 19",
+      "orgao": "Portalfaurgs",
+      "cargos": [
+        "Analista I (Produção Audiovisual)",
+        "Assistente I (Assistente de Pesquisa Clínica)",
+        "Assistente I (Assistente de Pesquisa em Bioinformática)",
+        "FONOAUDIOLOGO I (Disfagia)",
+        "FONOAUDIOLOGO I (Fonoterapia)",
+        "MÉDICO I (Alergia e Imunologia)",
+        "MÉDICO I (Medicina Paliativa)",
+        "MÉDICO I (Psiquiatria da Infância e Adolescência)",
+        "MÉDICO I (Tratamento da Dor)",
+        "RELAÇÕES PÚBLICAS I",
+        "TÉCNICO DE ENFERMAGEM (Cuidados Coronarianos)",
+        "TÉCNICO DE MANUTENÇÃO III (Técnico de Manutenção Predial Obras e Pintura)"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/1277-012026ifsc-institutofederaldesantacatarina",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-04",
+      "status": "em andamento",
+      "fonte": "FAURGS",
+      "id": "f09d1536-b74a-4d18-85cb-04bf0c083625",
+      "data_coleta": "2026-09-04T12:36:44.877990+00:00"
+    },
+    {
+      "instituicao": "PS 36",
+      "orgao": "Portalfaurgs",
+      "cargos": [
+        "Analista I (Produção Audiovisual)",
+        "Assistente I (Assistente de Pesquisa Clínica)",
+        "Assistente I (Assistente de Pesquisa em Bioinformática)",
+        "FONOAUDIOLOGO I (Disfagia)",
+        "FONOAUDIOLOGO I (Fonoterapia)",
+        "MÉDICO I (Alergia e Imunologia)",
+        "MÉDICO I (Medicina Paliativa)",
+        "MÉDICO I (Psiquiatria da Infância e Adolescência)",
+        "MÉDICO I (Tratamento da Dor)",
+        "RELAÇÕES PÚBLICAS I",
+        "TÉCNICO DE ENFERMAGEM (Cuidados Coronarianos)",
+        "TÉCNICO DE MANUTENÇÃO III (Técnico de Manutenção Predial Obras e Pintura)"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosfaurgs/emandamento/1277-012026ifsc",
+      "fonte": "FAURGS",
+      "status": "aberto",
+      "id": "587b01c6-8c90-413c-b2ea-c07efd0ebb9a",
+      "data_coleta": "2026-09-04T12:36:44.878199+00:00",
+      "data_publicacao": "2026-09-04"
+    },
+    {
+      "instituicao": "NAV Brasil Serviços de Navegação Aérea S.A.",
+      "orgao": null,
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br/concursos/navbrasil",
+      "fonte": "FGV",
+      "status": "aberto",
+      "id": "3b619ea0-0a4c-4d3f-a507-07fe10683987",
+      "data_coleta": "2026-09-04T12:36:44.878277+00:00",
+      "data_publicacao": "2026-09-04"
     }
   ]
 }

@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 03/09/2026_
+_Atualizado em 04/09/2026_
 
-Total: **476** concursos encontrados.
+Total: **482** concursos encontrados.
 
 ---
 
@@ -36,7 +36,7 @@ Total: **476** concursos encontrados.
 
 ---
 
-## FAURGS (20)
+## FAURGS (25)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -130,9 +130,34 @@ Total: **476** concursos encontrados.
 - **Cargos:** Técnico de Obras, Laboratorista
 - **Encerramento:** 07/09/2026
 
+### LAPAV
+[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1282-112026lapav)
+- **Cargos:** Técnico de Obras, Laboratorista
+- **Órgão/Local:** Portalfaurgs
+
+### LAMEF
+[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1281-102026lamef)
+- **Cargos:** Técnico em Usinagem I, Engenheiro Sênior I de Poços, Engenheiro Profissional Júnior
+- **Órgão/Local:** Portalfaurgs
+
+### IFSC - Instituto Federal de Santa Catarina
+[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1279-022026ifsc-institutofederaldesantacatarina)
+- **Cargos:** Arquiteto e Urbanista - Reitoria, Assistente de Alunos - Urupema, Assistente de Alunos - Caçador, Assistente de Alunos - São Lourenço do Oeste, Bibliotecário - Documentalista - Caçador, Engenheiro Civil - Lages, Engenheiro de Segurança do Trabalho - Reitoria, Técnico de Laboratório – Área: Automação - Chapecó, Técnico de Laboratório – Área: Ciências da Natureza - Caçador, Técnico de Laboratório – Área: Informática - Canoinhas, Técnico em Assuntos Educacionais - Canoinhas, Técnico em Assuntos Educacionais - Caçador, Técnico em Assuntos Educacionais - São Carlos, Técnico em Assuntos Educacionais - São Lourenço do Oeste, Técnico em Assuntos Educacionais - São Miguel do Oeste, Técnico em Assuntos Educacionais - Urupema, Tecnólogo em Gestão Pública - Tubarão, Engenheiro Sênior I de Poços, Engenheiro Profissional Júnior
+- **Órgão/Local:** Portalfaurgs
+
+### PS 19
+[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1277-012026ifsc-institutofederaldesantacatarina)
+- **Cargos:** Analista I (Produção Audiovisual), Assistente I (Assistente de Pesquisa Clínica), Assistente I (Assistente de Pesquisa em Bioinformática), FONOAUDIOLOGO I (Disfagia), FONOAUDIOLOGO I (Fonoterapia), MÉDICO I (Alergia e Imunologia), MÉDICO I (Medicina Paliativa), MÉDICO I (Psiquiatria da Infância e Adolescência), MÉDICO I (Tratamento da Dor), RELAÇÕES PÚBLICAS I, TÉCNICO DE ENFERMAGEM (Cuidados Coronarianos), TÉCNICO DE MANUTENÇÃO III (Técnico de Manutenção Predial Obras e Pintura)
+- **Órgão/Local:** Portalfaurgs
+
+### PS 36
+[🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1277-012026ifsc)
+- **Cargos:** Analista I (Produção Audiovisual), Assistente I (Assistente de Pesquisa Clínica), Assistente I (Assistente de Pesquisa em Bioinformática), FONOAUDIOLOGO I (Disfagia), FONOAUDIOLOGO I (Fonoterapia), MÉDICO I (Alergia e Imunologia), MÉDICO I (Medicina Paliativa), MÉDICO I (Psiquiatria da Infância e Adolescência), MÉDICO I (Tratamento da Dor), RELAÇÕES PÚBLICAS I, TÉCNICO DE ENFERMAGEM (Cuidados Coronarianos), TÉCNICO DE MANUTENÇÃO III (Técnico de Manutenção Predial Obras e Pintura)
+- **Órgão/Local:** Portalfaurgs
+
 ---
 
-## FGV (62)
+## FGV (63)
 
 ### Concurso Público Nacional Unificado 2
 [🔗 Edital](https://conhecimento.fgv.br/cpnu2)
@@ -347,6 +372,9 @@ Total: **476** concursos encontrados.
 [🔗 Edital](https://conhecimento.fgv.br/exames/enac/4exame)
 - **Cargos:** Cartórios
 - **Órgão/Local:** Nacional
+
+### NAV Brasil Serviços de Navegação Aérea S.A.
+[🔗 Edital](https://conhecimento.fgv.br/concursos/navbrasil)
 
 ---
 
