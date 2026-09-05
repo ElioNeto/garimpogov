@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-09-04T12:36:44.878547+00:00",
-    "total_concursos": 482
+    "ultima_coleta": "2026-09-05T11:45:53.474276+00:00",
+    "total_concursos": 488
   },
   "concursos": [
     {
@@ -7234,6 +7234,88 @@
       "id": "3b619ea0-0a4c-4d3f-a507-07fe10683987",
       "data_coleta": "2026-09-04T12:36:44.878277+00:00",
       "data_publicacao": "2026-09-04"
+    },
+    {
+      "instituicao": "AgSUS - Agência Brasileira de Apoio à Gestão do SUS",
+      "orgao": "NACIONAL",
+      "cargos": [],
+      "salario_maximo": "R$ 10.302,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/agsus-retifica-processo-seletivo-para-formacao-de-cadastro-de-reserva-no-projeto-sesmt",
+      "data_encerramento": "09 a 22/09/2026",
+      "data_publicacao": "2026-09-05",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "d8712a10-c753-4660-bda4-6fc0f475f016",
+      "data_coleta": "2026-09-05T11:45:53.473675+00:00"
+    },
+    {
+      "instituicao": "AgSUS - Agência Brasileira de Apoio à Gestão do SUS",
+      "orgao": "NACIONAL",
+      "cargos": [
+        "Psicólogo"
+      ],
+      "salario_maximo": "R$ 8.800,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/agsus-retifica-processo-seletivo-para-psicologos",
+      "data_encerramento": "16/09 a 16/10/2026",
+      "data_publicacao": "2026-09-05",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "39d142cf-1358-4e6c-820a-fea868ab58fa",
+      "data_coleta": "2026-09-05T11:45:53.473730+00:00"
+    },
+    {
+      "instituicao": "Câmara da Estância Balneária de Itanhaém",
+      "orgao": "SP, São Paulo - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 7.097,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-itanhaem-sp-abre-concurso-publico-com-salarios-de-ate-7097",
+      "data_encerramento": "14/09 a 19/10/2026",
+      "data_publicacao": "2026-09-05",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "2c092e05-02c3-48e2-9071-1eef9fb182b5",
+      "data_coleta": "2026-09-05T11:45:53.473842+00:00"
+    },
+    {
+      "instituicao": "Câmara de Colômbia",
+      "orgao": "SP, São Paulo - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 7.825,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-colombia-sp-publica-edital-retificado-de-concurso-publico",
+      "data_encerramento": "23/09/2026",
+      "data_publicacao": "2026-09-05",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "d79c74bc-c533-4ff5-94d2-fc3a020dee39",
+      "data_coleta": "2026-09-05T11:45:53.473884+00:00"
+    },
+    {
+      "instituicao": "Câmara de Garça",
+      "orgao": "SP, São Paulo - SP",
+      "cargos": [
+        "Técnico Legislativo"
+      ],
+      "salario_maximo": "R$ 3.378,77",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-garca-sp-abre-concurso-publico-para-tecnico-legislativo",
+      "data_encerramento": "07/10/2026",
+      "data_publicacao": "2026-09-05",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "cf67c56e-224b-4136-9e7e-bf7cd04c4aba",
+      "data_coleta": "2026-09-05T11:45:53.473910+00:00"
+    },
+    {
+      "instituicao": "Câmara de Rio das Pedras",
+      "orgao": "SP, São Paulo - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 5.856,50",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-rio-das-pedras-sp-abre-concurso-com-salarios-de-ate-5856-50",
+      "data_encerramento": "06/10/2026",
+      "data_publicacao": "2026-09-05",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "74c22332-ee74-4ed3-b361-51e836ce263c",
+      "data_coleta": "2026-09-05T11:45:53.473974+00:00"
     }
   ]
 }

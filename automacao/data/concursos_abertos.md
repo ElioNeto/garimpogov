@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 04/09/2026_
+_Atualizado em 05/09/2026_
 
-Total: **482** concursos encontrados.
+Total: **488** concursos encontrados.
 
 ---
 
@@ -378,7 +378,7 @@ Total: **482** concursos encontrados.
 
 ---
 
-## PCI (340)
+## PCI (346)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -2154,6 +2154,44 @@ Total: **482** concursos encontrados.
 ### SEAP - MA
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/seap-ma-abre-concurso-public)
 - **Órgão/Local:** MA, São Luís - MA
+
+### AgSUS - Agência Brasileira de Apoio à Gestão do SUS
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/agsus-retifica-processo-seletivo-para-formacao-de-cadastro-de-reserva-no-projeto-sesmt)
+- **Órgão/Local:** NACIONAL
+- **Salário máx.:** R$ 10.302,00
+- **Encerramento:** 09 a 22/09/2026
+
+### AgSUS - Agência Brasileira de Apoio à Gestão do SUS
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/agsus-retifica-processo-seletivo-para-psicologos)
+- **Cargos:** Psicólogo
+- **Órgão/Local:** NACIONAL
+- **Salário máx.:** R$ 8.800,00
+- **Encerramento:** 16/09 a 16/10/2026
+
+### Câmara da Estância Balneária de Itanhaém
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-itanhaem-sp-abre-concurso-publico-com-salarios-de-ate-7097)
+- **Órgão/Local:** SP, São Paulo - SP
+- **Salário máx.:** R$ 7.097,00
+- **Encerramento:** 14/09 a 19/10/2026
+
+### Câmara de Colômbia
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-colombia-sp-publica-edital-retificado-de-concurso-publico)
+- **Órgão/Local:** SP, São Paulo - SP
+- **Salário máx.:** R$ 7.825,00
+- **Encerramento:** 23/09/2026
+
+### Câmara de Garça
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-garca-sp-abre-concurso-publico-para-tecnico-legislativo)
+- **Cargos:** Técnico Legislativo
+- **Órgão/Local:** SP, São Paulo - SP
+- **Salário máx.:** R$ 3.378,77
+- **Encerramento:** 07/10/2026
+
+### Câmara de Rio das Pedras
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-rio-das-pedras-sp-abre-concurso-com-salarios-de-ate-5856-50)
+- **Órgão/Local:** SP, São Paulo - SP
+- **Salário máx.:** R$ 5.856,50
+- **Encerramento:** 06/10/2026
 
 ---
 
