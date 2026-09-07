@@ -1,6 +1,6 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 06/09/2026_
+_Atualizado em 07/09/2026_
 
 Total: **488** concursos encontrados.
 
@@ -36,7 +36,7 @@ Total: **488** concursos encontrados.
 
 ---
 
-## FAURGS (25)
+## FAURGS (24)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -124,11 +124,6 @@ Total: **488** concursos encontrados.
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1276-022026hospitaldeclinicasdeportoalegre)
 - **Cargos:** PS 19 – ANALISTA I (Produção Audiovisual), PS 20 – ASSISTENTE I (Assistente de Pesquisa Clínica), PS 21 – ASSISTENTE I (Assistente de Pesquisa em Bioinformática), PS 22 – FONOAUDIÓLOGO I (Disfagia), PS 23 – FONOAUDIÓLOGO I (Fonoterapia), PS 24 – MÉDICO I (Alergia e Imunologia), PS 25 – MÉDICO I (Medicina Paliativa), PS 26 – MÉDICO I (Psiquiatria da Infância e Adolescência), PS 27 – MÉDICO I (Tratamento da Dor), PS 28 – RELAÇÕES PÚBLICAS I, PS 29 – TÉCNICO DE ENFERMAGEM (Cuidados Coronarianos), PS 30 – TÉCNICO DE MANUTENÇÃO III (Técnico de Manutenção Predial Obras e Pintura)
 - **Órgão/Local:** Hospital de Clínicas de Porto Alegre
-
-### LAPAV
-[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1282-112026lapav)
-- **Cargos:** Técnico de Obras, Laboratorista
-- **Encerramento:** 07/09/2026
 
 ### LAPAV
 [🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1282-112026lapav)
@@ -378,7 +373,7 @@ Total: **488** concursos encontrados.
 
 ---
 
-## PCI (346)
+## PCI (347)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -2192,6 +2187,11 @@ Total: **488** concursos encontrados.
 - **Órgão/Local:** SP, São Paulo - SP
 - **Salário máx.:** R$ 5.856,50
 - **Encerramento:** 06/10/2026
+
+### Prefeitura de Caruaru - PE
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-caruaru-pe-ab)
+- **Cargos:** Auditor, Analista Fiscal
+- **Órgão/Local:** Caruaru, PE
 
 ---
 

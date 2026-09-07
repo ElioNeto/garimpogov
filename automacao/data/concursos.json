@@ -1,6 +1,6 @@
 {
   "meta": {
-    "ultima_coleta": "2026-09-05T11:45:53.474276+00:00",
+    "ultima_coleta": "2026-09-07T14:17:36.127213+00:00",
     "total_concursos": 488
   },
   "concursos": [
@@ -6879,22 +6879,6 @@
       "data_coleta": "2026-08-31T16:03:27.609177+00:00"
     },
     {
-      "instituicao": "LAPAV",
-      "orgao": null,
-      "cargos": [
-        "Técnico de Obras",
-        "Laboratorista"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://portalfaurgs.com.br/concursosFaurgs/emandamento/1282-112026lapav",
-      "data_encerramento": "07/09/2026",
-      "data_publicacao": "2026-09-01",
-      "status": "aberto",
-      "fonte": "FAURGS",
-      "id": "c488e87a-184d-44fb-b59a-2cd1b7cf77f0",
-      "data_coleta": "2026-09-01T13:16:46.839211+00:00"
-    },
-    {
       "instituicao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
       "orgao": "SP, Bauru - SP",
       "cargos": [
@@ -7316,6 +7300,21 @@
       "fonte": "PCI",
       "id": "74c22332-ee74-4ed3-b361-51e836ce263c",
       "data_coleta": "2026-09-05T11:45:53.473974+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Caruaru - PE",
+      "orgao": "Caruaru, PE",
+      "cargos": [
+        "Auditor",
+        "Analista Fiscal"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caruaru-pe-ab",
+      "fonte": "PCI",
+      "status": "aberto",
+      "id": "d8e2924b-f63b-48f0-88c6-c94b3cb65319",
+      "data_coleta": "2026-09-07T14:17:36.127134+00:00",
+      "data_publicacao": "2026-09-07"
     }
   ]
 }
