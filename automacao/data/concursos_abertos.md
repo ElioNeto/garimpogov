@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 07/09/2026_
+_Atualizado em 08/09/2026_
 
-Total: **488** concursos encontrados.
+Total: **485** concursos encontrados.
 
 ---
 
@@ -373,7 +373,7 @@ Total: **488** concursos encontrados.
 
 ---
 
-## PCI (347)
+## PCI (344)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1722,12 +1722,6 @@ Total: **488** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/seap-ma-abre-concurso-publ)
 - **Órgão/Local:** MA, SEAP - Maranhão
 
-### Autarquia Municipal de Saúde de Itapecerica da Serra
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/autarquia-municipal-de-saude-de-itapecerica-da-serra-sp-abre-concurso-publico-com-salarios-de-ate-11576)
-- **Órgão/Local:** SP, Itapecerica da Serra - SP
-- **Salário máx.:** R$ 11.576,25
-- **Encerramento:** 08/09/2026
-
 ### ABGF
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/abgf-prorroga-inscricoes-do-concurso-publico-com-vagas-para-cargos-de-nivel-superior)
 - **Órgão/Local:** Brasil
@@ -1957,13 +1951,6 @@ Total: **488** concursos encontrados.
 - **Salário máx.:** R$ 6.100,00
 - **Encerramento:** 16/09/2026
 
-### Câmara de Vargem Grande do Sul
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-vargem-grande-do-sul-sp-abre-vaga-para-analista-contabil)
-- **Cargos:** Analista Contábil
-- **Órgão/Local:** SP, Vargem Grande do Sul - SP
-- **Salário máx.:** R$ 6.624,76
-- **Encerramento:** 08/09/2026
-
 ### Câmara e Prefeitura de Trindade - GO
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-e-prefeitura-de-trindade-go-divulgam-retificacoes-do-processo-seletivo-e-do-concurso-publico)
 - **Órgão/Local:** Câmara e Prefeitura de Trindade - GO
@@ -2044,13 +2031,6 @@ Total: **488** concursos encontrados.
 - **Salário máx.:** R$ 6.100,00
 - **Encerramento:** 16/09/2026
 
-### FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-sp-abre-processos-seletivos-com-salarios-de-ate-6077-em-botucatu)
-- **Cargos:** Diversos Cargos
-- **Órgão/Local:** SP, Botucatu - SP
-- **Salário máx.:** R$ 6.077,09
-- **Encerramento:** 08/09/2026
-
 ### Prefeitura de Limeira - SP
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-limeira-sp-publica-editais-de-concursos-com-vagas-em-diversas-areas)
 - **Órgão/Local:** SP, Limeira - SP
@@ -2092,13 +2072,6 @@ Total: **488** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-caruaru-pe-abre-concurso-publico-para-auditores-e-analistas-fiscais)
 - **Cargos:** Auditor, Analista Fiscal
 - **Órgão/Local:** Prefeitura de Caruaru - PE
-
-### FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-sp-abre-processos-seletivos-com-vagas-para-diversas-areas-em-bauru)
-- **Cargos:** Diversos Cargos
-- **Órgão/Local:** SP, Bauru - SP
-- **Salário máx.:** R$ 3.789,08
-- **Encerramento:** 08/09/2026
 
 ### FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-anuncia-processo-seletivo-para-medico-neurologista-clinico-em-botucatu-sp)
@@ -2192,6 +2165,11 @@ Total: **488** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-caruaru-pe-ab)
 - **Cargos:** Auditor, Analista Fiscal
 - **Órgão/Local:** Caruaru, PE
+
+### Autarquia Municipal de Saúde de Itapecerica da Serra
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/autarquia-municipal-de-saude-de-itapecerica-da-serra-sp-abre-concurso-publico-com-salarios-de-ate-11576)
+- **Órgão/Local:** Autarquia Municipal de Saúde de Itapecerica da Serra - SP
+- **Salário máx.:** R$ 11.576,25
 
 ---
 

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-09-07T14:17:36.127213+00:00",
-    "total_concursos": 488
+    "ultima_coleta": "2026-09-08T13:27:32.035639+00:00",
+    "total_concursos": 485
   },
   "concursos": [
     {
@@ -5619,19 +5619,6 @@
       "data_coleta": "2026-08-07T09:14:51.194965+00:00"
     },
     {
-      "instituicao": "Autarquia Municipal de Saúde de Itapecerica da Serra",
-      "orgao": "SP, Itapecerica da Serra - SP",
-      "cargos": [],
-      "salario_maximo": "R$ 11.576,25",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/autarquia-municipal-de-saude-de-itapecerica-da-serra-sp-abre-concurso-publico-com-salarios-de-ate-11576",
-      "data_encerramento": "08/09/2026",
-      "data_publicacao": "2026-08-07",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "2ddb233d-effe-4cc6-9a5e-019fb8790ea7",
-      "data_coleta": "2026-08-07T09:14:51.195187+00:00"
-    },
-    {
       "instituicao": "ABGF",
       "orgao": "Brasil",
       "cargos": [],
@@ -6435,21 +6422,6 @@
       "data_coleta": "2026-08-22T08:52:15.627529+00:00"
     },
     {
-      "instituicao": "Câmara de Vargem Grande do Sul",
-      "orgao": "SP, Vargem Grande do Sul - SP",
-      "cargos": [
-        "Analista Contábil"
-      ],
-      "salario_maximo": "R$ 6.624,76",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-vargem-grande-do-sul-sp-abre-vaga-para-analista-contabil",
-      "data_encerramento": "08/09/2026",
-      "data_publicacao": "22/08/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "e83bc084-4cac-46d4-96ca-09bb2709f200",
-      "data_coleta": "2026-08-22T08:52:15.627591+00:00"
-    },
-    {
       "instituicao": "Câmara e Prefeitura de Trindade - GO",
       "orgao": "Câmara e Prefeitura de Trindade - GO",
       "cargos": [],
@@ -6712,21 +6684,6 @@
       "data_coleta": "2026-08-28T19:58:09.536190+00:00"
     },
     {
-      "instituicao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
-      "orgao": "SP, Botucatu - SP",
-      "cargos": [
-        "Diversos Cargos"
-      ],
-      "salario_maximo": "R$ 6.077,09",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/famesp-sp-abre-processos-seletivos-com-salarios-de-ate-6077-em-botucatu",
-      "data_encerramento": "08/09/2026",
-      "data_publicacao": "2026-08-28",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "765618c1-cf68-42d2-84dd-36c0187d6be1",
-      "data_coleta": "2026-08-28T19:58:09.536346+00:00"
-    },
-    {
       "instituicao": "Hospital de Clínicas de Porto Alegre",
       "orgao": "Hospital de Clínicas de Porto Alegre",
       "cargos": [
@@ -6877,21 +6834,6 @@
       "fonte": "PCI",
       "id": "44c595c6-d6b0-4d72-9e39-13aaf786e7dc",
       "data_coleta": "2026-08-31T16:03:27.609177+00:00"
-    },
-    {
-      "instituicao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
-      "orgao": "SP, Bauru - SP",
-      "cargos": [
-        "Diversos Cargos"
-      ],
-      "salario_maximo": "R$ 3.789,08",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/famesp-sp-abre-processos-seletivos-com-vagas-para-diversas-areas-em-bauru",
-      "data_encerramento": "08/09/2026",
-      "data_publicacao": "2026-09-01",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "f6cca78c-9577-4f48-ac36-81e6b5921e02",
-      "data_coleta": "2026-09-01T13:16:46.839629+00:00"
     },
     {
       "instituicao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
@@ -7315,6 +7257,19 @@
       "id": "d8e2924b-f63b-48f0-88c6-c94b3cb65319",
       "data_coleta": "2026-09-07T14:17:36.127134+00:00",
       "data_publicacao": "2026-09-07"
+    },
+    {
+      "instituicao": "Autarquia Municipal de Saúde de Itapecerica da Serra",
+      "orgao": "Autarquia Municipal de Saúde de Itapecerica da Serra - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 11.576,25",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/autarquia-municipal-de-saude-de-itapecerica-da-serra-sp-abre-concurso-publico-com-salarios-de-ate-11576",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-08",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "18428180-6ab9-40b3-a3d8-fad283205a76",
+      "data_coleta": "2026-09-08T13:27:32.035468+00:00"
     }
   ]
 }
