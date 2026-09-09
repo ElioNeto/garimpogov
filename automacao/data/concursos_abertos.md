@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 08/09/2026_
+_Atualizado em 09/09/2026_
 
-Total: **485** concursos encontrados.
+Total: **487** concursos encontrados.
 
 ---
 
@@ -36,7 +36,7 @@ Total: **485** concursos encontrados.
 
 ---
 
-## FAURGS (24)
+## FAURGS (25)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -149,6 +149,10 @@ Total: **485** concursos encontrados.
 [🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1277-012026ifsc)
 - **Cargos:** Analista I (Produção Audiovisual), Assistente I (Assistente de Pesquisa Clínica), Assistente I (Assistente de Pesquisa em Bioinformática), FONOAUDIOLOGO I (Disfagia), FONOAUDIOLOGO I (Fonoterapia), MÉDICO I (Alergia e Imunologia), MÉDICO I (Medicina Paliativa), MÉDICO I (Psiquiatria da Infância e Adolescência), MÉDICO I (Tratamento da Dor), RELAÇÕES PÚBLICAS I, TÉCNICO DE ENFERMAGEM (Cuidados Coronarianos), TÉCNICO DE MANUTENÇÃO III (Técnico de Manutenção Predial Obras e Pintura)
 - **Órgão/Local:** Portalfaurgs
+
+### LAPAV
+[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1282-112026lapav)
+- **Cargos:** Técnico de Obras, Laboratorista
 
 ---
 
@@ -373,7 +377,7 @@ Total: **485** concursos encontrados.
 
 ---
 
-## PCI (344)
+## PCI (345)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -2170,6 +2174,11 @@ Total: **485** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/autarquia-municipal-de-saude-de-itapecerica-da-serra-sp-abre-concurso-publico-com-salarios-de-ate-11576)
 - **Órgão/Local:** Autarquia Municipal de Saúde de Itapecerica da Serra - SP
 - **Salário máx.:** R$ 11.576,25
+
+### Polícia Civil
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/policia-civil-ba-prorroga-inscricoes-do-concurso-publico-para-delegado-investigador-e-escrivao)
+- **Cargos:** Delegado, Investigador, Escrivão
+- **Órgão/Local:** Bahia - BA
 
 ---
 

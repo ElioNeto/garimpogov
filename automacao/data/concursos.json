@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-09-08T13:27:32.035639+00:00",
-    "total_concursos": 485
+    "ultima_coleta": "2026-09-09T12:55:06.995368+00:00",
+    "total_concursos": 487
   },
   "concursos": [
     {
@@ -7270,6 +7270,39 @@
       "fonte": "PCI",
       "id": "18428180-6ab9-40b3-a3d8-fad283205a76",
       "data_coleta": "2026-09-08T13:27:32.035468+00:00"
+    },
+    {
+      "instituicao": "Polícia Civil",
+      "orgao": "Bahia - BA",
+      "cargos": [
+        "Delegado",
+        "Investigador",
+        "Escrivão"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/policia-civil-ba-prorroga-inscricoes-do-concurso-publico-para-delegado-investigador-e-escrivao",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-09",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "8a31dc45-1887-46a6-bd6a-46a40725f71b",
+      "data_coleta": "2026-09-09T12:55:06.995039+00:00"
+    },
+    {
+      "instituicao": "LAPAV",
+      "orgao": null,
+      "cargos": [
+        "Técnico de Obras",
+        "Laboratorista"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosFaurgs/emandamento/1282-112026lapav",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-09",
+      "status": null,
+      "fonte": "FAURGS",
+      "id": "4dad67b2-7d87-4036-8867-95048893fdb0",
+      "data_coleta": "2026-09-09T12:55:06.995251+00:00"
     }
   ]
 }
