@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-09-09T12:55:06.995368+00:00",
-    "total_concursos": 487
+    "ultima_coleta": "2026-09-10T12:53:59.589292+00:00",
+    "total_concursos": 486
   },
   "concursos": [
     {
@@ -6102,19 +6102,6 @@
       "data_coleta": "2026-08-18T09:10:30.515975+00:00"
     },
     {
-      "instituicao": "CONDERG - Consórcio de Desenvolvimento da Região de Governo de São João da Boa Vista",
-      "orgao": "SP",
-      "cargos": [],
-      "salario_maximo": "R$ 6.009,98",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/conderg-sp-abre-processo-seletivo-com-salarios-de-ate-6009",
-      "data_encerramento": "10/09/2026",
-      "data_publicacao": "2026-08-18",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "940185ee-3f56-43e2-a246-070d64fe37f1",
-      "data_coleta": "2026-08-18T09:10:30.516084+00:00"
-    },
-    {
       "instituicao": "DAAEA - Departamento Autônomo de Água e Esgoto de Avanhandava",
       "orgao": "SP",
       "cargos": [
@@ -6173,23 +6160,6 @@
       "fonte": "PCI",
       "id": "a80d0c82-a94c-4468-bcc7-b6b707a1538e",
       "data_coleta": "2026-08-19T08:53:48.300138+00:00"
-    },
-    {
-      "instituicao": "Prefeitura da Estância Balneária de Ilhabela",
-      "orgao": "SP",
-      "cargos": [
-        "Fundamental",
-        "Médio",
-        "Superior"
-      ],
-      "salario_maximo": "R$ 12.579,96",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ilhabela-sp-retifica-edital-de-concurso-publico-com-remuneracoes-de-ate-12579",
-      "data_encerramento": "10/09/2026",
-      "data_publicacao": "19/08/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "cec70e2c-3a58-408a-b8e4-892db6b5506a",
-      "data_coleta": "2026-08-19T08:53:48.300259+00:00"
     },
     {
       "instituicao": "AgSUS - Agência Brasileira de Apoio à Gestão do SUS",
@@ -7303,6 +7273,18 @@
       "fonte": "FAURGS",
       "id": "4dad67b2-7d87-4036-8867-95048893fdb0",
       "data_coleta": "2026-09-09T12:55:06.995251+00:00"
+    },
+    {
+      "instituicao": "Câmara da Estância Balneária de Itanhaém",
+      "orgao": "SP, São Paulo - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 7.097,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-itanhaem-sp-abre-concurso-publico-com-salarios-de-ate-7",
+      "fonte": "PCI",
+      "status": "aberto",
+      "id": "d3ddaa7d-6078-4cd6-8527-905a57b88afe",
+      "data_coleta": "2026-09-10T12:53:59.589250+00:00",
+      "data_publicacao": "2026-09-10"
     }
   ]
 }

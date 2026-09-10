@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 09/09/2026_
+_Atualizado em 10/09/2026_
 
-Total: **487** concursos encontrados.
+Total: **486** concursos encontrados.
 
 ---
 
@@ -377,7 +377,7 @@ Total: **487** concursos encontrados.
 
 ---
 
-## PCI (345)
+## PCI (344)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1870,12 +1870,6 @@ Total: **487** concursos encontrados.
 - **Salário máx.:** R$ 3.242,00
 - **Encerramento:** 14/09/2026
 
-### CONDERG - Consórcio de Desenvolvimento da Região de Governo de São João da Boa Vista
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/conderg-sp-abre-processo-seletivo-com-salarios-de-ate-6009)
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 6.009,98
-- **Encerramento:** 10/09/2026
-
 ### DAAEA - Departamento Autônomo de Água e Esgoto de Avanhandava
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/daaea-de-avanhandava-sp-abre-concurso-para-auxiliar-de-tratamento-de-agua-e-operador-de-maquina)
 - **Cargos:** Auxiliar de Tratamento de Água, Operador de Máquina
@@ -1899,13 +1893,6 @@ Total: **487** concursos encontrados.
 - **Órgão/Local:** NACIONAL
 - **Salário máx.:** R$ 8.800,00
 - **Encerramento:** 18/09/2026
-
-### Prefeitura da Estância Balneária de Ilhabela
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-ilhabela-sp-retifica-edital-de-concurso-publico-com-remuneracoes-de-ate-12579)
-- **Cargos:** Fundamental, Médio, Superior
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 12.579,96
-- **Encerramento:** 10/09/2026
 
 ### AgSUS - Agência Brasileira de Apoio à Gestão do SUS
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/agsus-abre-processo-seletivo-para-formacao-de-c cadastro-de-reserva-no-projeto-sesmt)
@@ -2179,6 +2166,11 @@ Total: **487** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/policia-civil-ba-prorroga-inscricoes-do-concurso-publico-para-delegado-investigador-e-escrivao)
 - **Cargos:** Delegado, Investigador, Escrivão
 - **Órgão/Local:** Bahia - BA
+
+### Câmara da Estância Balneária de Itanhaém
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-itanhaem-sp-abre-concurso-publico-com-salarios-de-ate-7)
+- **Órgão/Local:** SP, São Paulo - SP
+- **Salário máx.:** R$ 7.097,00
 
 ---
 
