@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-09-10T12:53:59.589292+00:00",
-    "total_concursos": 486
+    "ultima_coleta": "2026-09-11T12:44:45.451994+00:00",
+    "total_concursos": 489
   },
   "concursos": [
     {
@@ -7285,6 +7285,48 @@
       "id": "d3ddaa7d-6078-4cd6-8527-905a57b88afe",
       "data_coleta": "2026-09-10T12:53:59.589250+00:00",
       "data_publicacao": "2026-09-10"
+    },
+    {
+      "instituicao": "EGBA - Empresa Gráfica da Bahia",
+      "orgao": "BA, Bahia - BA",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.ba.gov.br/egba/ouvidoria",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-11",
+      "status": null,
+      "fonte": "DOE-BA",
+      "id": "45ee1c35-a071-467f-bd2d-b27a9b5e6622",
+      "data_coleta": "2026-09-11T12:44:45.451407+00:00"
+    },
+    {
+      "instituicao": "Transpetro - Petrobras Transporte S.A.",
+      "orgao": "NACIONAL",
+      "cargos": [],
+      "salario_maximo": "R$ 15.034,81",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/transpetro-publica-retificacoes-de-processos-seletivos-para-diversos-cargos",
+      "data_encerramento": "14/09/2026",
+      "data_publicacao": "2026-09-11",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "fe95229c-6261-4cc5-9c3e-1f576212c29b",
+      "data_coleta": "2026-09-11T12:44:45.451584+00:00"
+    },
+    {
+      "instituicao": "Câmara de Estrela do Norte",
+      "orgao": "SP",
+      "cargos": [
+        "Encarregado Administrativo",
+        "Contínuo"
+      ],
+      "salario_maximo": "R$ 3.627,34",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-estrela-do-norte-sp-abre-concurso-publico-para-continuo-e-encarregado-administrativo",
+      "data_encerramento": "18/10/2026",
+      "data_publicacao": "2026-09-11",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "c08a4a13-b35e-4e6e-bba3-e5e246dc2e76",
+      "data_coleta": "2026-09-11T12:44:45.451735+00:00"
     }
   ]
 }

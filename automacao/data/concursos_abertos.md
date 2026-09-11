@@ -1,8 +1,16 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 10/09/2026_
+_Atualizado em 11/09/2026_
 
-Total: **486** concursos encontrados.
+Total: **489** concursos encontrados.
+
+---
+
+## DOE-BA (1)
+
+### EGBA - Empresa Gráfica da Bahia
+[🔗 Edital](https://www.ba.gov.br/egba/ouvidoria)
+- **Órgão/Local:** BA, Bahia - BA
 
 ---
 
@@ -377,7 +385,7 @@ Total: **486** concursos encontrados.
 
 ---
 
-## PCI (344)
+## PCI (346)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -2171,6 +2179,19 @@ Total: **486** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-itanhaem-sp-abre-concurso-publico-com-salarios-de-ate-7)
 - **Órgão/Local:** SP, São Paulo - SP
 - **Salário máx.:** R$ 7.097,00
+
+### Transpetro - Petrobras Transporte S.A.
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/transpetro-publica-retificacoes-de-processos-seletivos-para-diversos-cargos)
+- **Órgão/Local:** NACIONAL
+- **Salário máx.:** R$ 15.034,81
+- **Encerramento:** 14/09/2026
+
+### Câmara de Estrela do Norte
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-estrela-do-norte-sp-abre-concurso-publico-para-continuo-e-encarregado-administrativo)
+- **Cargos:** Encarregado Administrativo, Contínuo
+- **Órgão/Local:** SP
+- **Salário máx.:** R$ 3.627,34
+- **Encerramento:** 18/10/2026
 
 ---
 
