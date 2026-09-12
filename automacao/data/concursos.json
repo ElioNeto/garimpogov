@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-09-11T12:44:45.451994+00:00",
-    "total_concursos": 489
+    "ultima_coleta": "2026-09-12T12:10:47.536154+00:00",
+    "total_concursos": 490
   },
   "concursos": [
     {
@@ -7327,6 +7327,19 @@
       "fonte": "PCI",
       "id": "c08a4a13-b35e-4e6e-bba3-e5e246dc2e76",
       "data_coleta": "2026-09-11T12:44:45.451735+00:00"
+    },
+    {
+      "instituicao": "AgSUS - Agência Brasileira de Apoio à Gestão do SUS",
+      "orgao": "Nacional",
+      "cargos": [],
+      "salario_maximo": "R$ 10.302,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/agsus-retifica-processo-seletivo-para-formacao-de-cnpj-de-reserva-no-projeto-sesmt",
+      "data_encerramento": "22/09/2026",
+      "data_publicacao": "2026-09-12",
+      "status": null,
+      "fonte": "PCI",
+      "id": "2207ffb4-d35f-4496-aafe-c173740094f8",
+      "data_coleta": "2026-09-12T12:10:47.535755+00:00"
     }
   ]
 }
