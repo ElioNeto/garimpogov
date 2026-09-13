@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 12/09/2026_
+_Atualizado em 13/09/2026_
 
-Total: **490** concursos encontrados.
+Total: **497** concursos encontrados.
 
 ---
 
@@ -385,7 +385,7 @@ Total: **490** concursos encontrados.
 
 ---
 
-## PCI (347)
+## PCI (353)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -2012,12 +2012,6 @@ Total: **490** concursos encontrados.
 - **Salário máx.:** R$ 3.242,00
 - **Encerramento:** 25/09/2026
 
-### EMDAEP - Empresa de Desenvolvimento, Água, Esgoto e Pavimentação de Dracena
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/emdaep-de-dracena-sp-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva)
-- **Órgão/Local:** SP, São Paulo - SP
-- **Salário máx.:** R$ 5.604,96
-- **Encerramento:** 13/09/2026
-
 ### SEAP - MA
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/seap-ma-abre-concurso-publico-com-vagas-imediatas-e-cada)
 - **Cargos:** Diversos Cargos
@@ -2199,9 +2193,46 @@ Total: **490** concursos encontrados.
 - **Salário máx.:** R$ 10.302,00
 - **Encerramento:** 22/09/2026
 
+### Prefeitura de Andradina
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-andradina-sp-retifica-concurso-publico-para-profissionais-da-educacao)
+- **Órgão/Local:** São Paulo - SP
+- **Salário máx.:** R$ 7.341,23
+- **Encerramento:** 23/09/2026
+
+### SETEC - Serviços Técnicos Gerais de Campinas
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/setec-campinas-sp-abre-concurso-publico-com-salarios-de-ate-10428)
+- **Órgão/Local:** São Paulo - SP
+- **Salário máx.:** R$ 10.428,05
+- **Encerramento:** 04/12/2026
+
+### Consórcio Intermunicipal de Saúde "08 de Abril"
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/consorcio-intermunicipal-de-saude-08-de-abril-sp-abre-processo-seletivo-para-diversas-areas)
+- **Órgão/Local:** São Paulo - SP
+- **Salário máx.:** R$ 4.567,06
+- **Encerramento:** 15/10/2026
+
+### DETRAN - Departamento Estadual de Trânsito de São Paulo
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/detran-sp-abre-concurso-com-145-vagas-para-agentes-estaduais-de-transito)
+- **Cargos:** Agente Estadual de Trânsito
+- **Órgão/Local:** São Paulo - SP
+- **Salário máx.:** R$ 5.702,18
+- **Encerramento:** 07/10/2026
+
+### FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-anuncia-processo-seletivo-para-medic)
+- **Órgão/Local:** São Paulo - SP
+
+### SEPLAD e SEDUC
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/seplad-e-seduc-pa-abrem-concurso-publico-com-vagas-para-diversas-areas-de-atuacao)
+- **Órgão/Local:** PA
+
+### IFPI
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/ifpi-abre-concurso-publico-para-cargos-tecnico-administrativos-em-educacao)
+- **Órgão/Local:** PI
+
 ---
 
-## PMBlumenau-SC (14)
+## PMBlumenau-SC (15)
 
 ### Prefeitura de Blumenau
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/seidep/seidep/prefeitura-promove-tarde-danacante-para-pessoas-com-deficiaancia-em-blumenau)
@@ -2274,6 +2305,11 @@ Total: **490** concursos encontrados.
 ### Prefeitura de Blumenau
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/parque-vila-germanica/parque-vila-germanica/inscriacaoes-para-o-festival-de-danacas-germaanicas-da-oktoberfest-terminam-nesta-teraca-feira-dia-1898)
 - **Órgão/Local:** Blumenau, SC
+
+### Prefeitura de Blumenau
+[🔗 Edital](https://www.blumenau.sc.gov.br/secao/servicos)
+- **Cargos:** Requerer Licença para Tratamento de Saúde do Servidor, Declarar Bens
+- **Órgão/Local:** Blumenau, SP
 
 ---
 
