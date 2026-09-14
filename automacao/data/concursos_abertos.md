@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 13/09/2026_
+_Atualizado em 14/09/2026_
 
-Total: **497** concursos encontrados.
+Total: **498** concursos encontrados.
 
 ---
 
@@ -385,7 +385,7 @@ Total: **497** concursos encontrados.
 
 ---
 
-## PCI (353)
+## PCI (350)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1818,11 +1818,6 @@ Total: **497** concursos encontrados.
 - **Cargos:** Guarda Municipal
 - **Órgão/Local:** SE, Aracaju - SE
 
-### Transpetro
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/transpetro-publica-editais-de-processos-seletivos-para-diversos-cargos)
-- **Órgão/Local:** Petrobras Transporte S.A.
-- **Encerramento:** 14/09/2026
-
 ### Câmara de Martinópolis
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-martinopolis-sp-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva)
 - **Órgão/Local:** SP
@@ -1871,13 +1866,6 @@ Total: **497** concursos encontrados.
 - **Órgão/Local:** Nacional
 - **Encerramento:** 17/09/2026
 
-### Autarquia Municipal de Saúde de Itapecerica da Serra
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/autarquia-municipal-de-saude-de-itapecerica-da-serra-sp-abre-vagas-para-agente-comunitario-de-saude)
-- **Cargos:** Agente Comunitário de Saúde
-- **Órgão/Local:** SP, Itapecerica da Serra - SP
-- **Salário máx.:** R$ 3.242,00
-- **Encerramento:** 14/09/2026
-
 ### DAAEA - Departamento Autônomo de Água e Esgoto de Avanhandava
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/daaea-de-avanhandava-sp-abre-concurso-para-auxiliar-de-tratamento-de-agua-e-operador-de-maquina)
 - **Cargos:** Auxiliar de Tratamento de Água, Operador de Máquina
@@ -1911,11 +1899,6 @@ Total: **497** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-marialva-pr-abre-concurso-publico-com-salarios-de-ate-6768)
 - **Órgão/Local:** PR, Marialva - PR
 - **Salário máx.:** R$ 6.768,66
-
-### Transpetro - Petrobras Transporte S.A.
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/transpetro-publica-editais-retificados-de-processos-seletivos-para-diversos-cargos)
-- **Salário máx.:** R$ 15.034,81
-- **Encerramento:** 14/09/2026
 
 ### Prefeitura de Cristalina
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-cristalina-go-retifica-edital-de-concurso-publico-para-a-s)
@@ -2066,13 +2049,6 @@ Total: **497** concursos encontrados.
 - **Cargos:** Auditor, Analista Fiscal
 - **Órgão/Local:** Prefeitura de Caruaru - PE
 
-### FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-anuncia-processo-seletivo-para-medico-neurologista-clinico-em-botucatu-sp)
-- **Cargos:** Médico Neurologista Clínico
-- **Órgão/Local:** SP, Botucatu - SP
-- **Salário máx.:** R$ 6.077,09
-- **Encerramento:** 14/09/2026
-
 ### FHSL - Fundação Hospital Santa Lydia
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-abre-processo-seletivo-com-salarios-de-ate-5060)
 - **Cargos:** Diversos Cargos
@@ -2174,12 +2150,6 @@ Total: **497** concursos encontrados.
 - **Órgão/Local:** SP, São Paulo - SP
 - **Salário máx.:** R$ 7.097,00
 
-### Transpetro - Petrobras Transporte S.A.
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/transpetro-publica-retificacoes-de-processos-seletivos-para-diversos-cargos)
-- **Órgão/Local:** NACIONAL
-- **Salário máx.:** R$ 15.034,81
-- **Encerramento:** 14/09/2026
-
 ### Câmara de Estrela do Norte
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-estrela-do-norte-sp-abre-concurso-publico-para-continuo-e-encarregado-administrativo)
 - **Cargos:** Encarregado Administrativo, Contínuo
@@ -2230,9 +2200,21 @@ Total: **497** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/ifpi-abre-concurso-publico-para-cargos-tecnico-administrativos-em-educacao)
 - **Órgão/Local:** PI
 
+### Transpetro
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/transpetro-publica-retificacoes-de-processos-seletivos-para-diversos-cargos)
+- **Órgão/Local:** NACIONAL
+- **Salário máx.:** R$ 15.034,81
+- **Encerramento:** 21/09/2026
+
+### FAMESP
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-anuncia-processo)
+- **Cargos:** Médico Neurologista Clínico
+- **Órgão/Local:** SP, Botucatu - SP
+- **Salário máx.:** R$ 6.077,09
+
 ---
 
-## PMBlumenau-SC (15)
+## PMBlumenau-SC (19)
 
 ### Prefeitura de Blumenau
 [🔗 Edital](https://www.blumenau.sc.gov.br/secretarias/seidep/seidep/prefeitura-promove-tarde-danacante-para-pessoas-com-deficiaancia-em-blumenau)
@@ -2310,6 +2292,23 @@ Total: **497** concursos encontrados.
 [🔗 Edital](https://www.blumenau.sc.gov.br/secao/servicos)
 - **Cargos:** Requerer Licença para Tratamento de Saúde do Servidor, Declarar Bens
 - **Órgão/Local:** Blumenau, SP
+
+### Prefeitura de Blumenau
+[🔗 Edital](https://www.blumenau.sc.gov.br/secao/governo-prefeito)
+- **Cargos:** Prefeito, Vice-Prefeita
+- **Órgão/Local:** Blumenau, SC
+
+### Conselho Municipal de Blumenau
+[🔗 Edital](https://www.blumenau.sc.gov.br/secao/conselhos-municipais)
+- **Órgão/Local:** Blumenau, SC
+
+### Prefeitura de Blumenau
+[🔗 Edital](https://www.blumenau.sc.gov.br/secao/planos-municipais)
+- **Órgão/Local:** Blumenau, SC
+
+### Departamento de Defesa Civil
+[🔗 Edital](https://www.blumenau.sc.gov.br/secao/defesacivil)
+- **Órgão/Local:** Blumenau, SC
 
 ---
 
