@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 14/09/2026_
+_Atualizado em 15/09/2026_
 
-Total: **498** concursos encontrados.
+Total: **501** concursos encontrados.
 
 ---
 
@@ -44,7 +44,7 @@ Total: **498** concursos encontrados.
 
 ---
 
-## FAURGS (25)
+## FAURGS (28)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -161,6 +161,20 @@ Total: **498** concursos encontrados.
 ### LAPAV
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1282-112026lapav)
 - **Cargos:** Técnico de Obras, Laboratorista
+
+### LACT
+[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1283-122026lact)
+- **Cargos:** COLETADOR I
+- **Órgão/Local:** LACT
+- **Encerramento:** 25/09/2026
+
+### FAURGS
+[🔗 Edital](https://portalfaurgs.com.br/Portal/Aluno/Acesso)
+- **Cargos:** Bolsista, Acadêmico, Coordenador
+
+### FAURGS
+[🔗 Edital](https://portalfaurgs.com.br/Portal/Acadêmico)
+- **Cargos:** Bolsista, Acadêmico, Coordenador
 
 ---
 

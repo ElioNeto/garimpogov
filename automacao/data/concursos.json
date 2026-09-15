@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-09-14T14:48:29.941748+00:00",
-    "total_concursos": 498
+    "ultima_coleta": "2026-09-15T13:18:12.005110+00:00",
+    "total_concursos": 501
   },
   "concursos": [
     {
@@ -7448,6 +7448,55 @@
       "id": "10468418-b920-4c31-bae8-d38da8780b9d",
       "data_coleta": "2026-09-14T14:48:29.941449+00:00",
       "data_publicacao": "2026-09-14"
+    },
+    {
+      "instituicao": "LACT",
+      "orgao": "LACT",
+      "cargos": [
+        "COLETADOR I"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosFaurgs/emandamento/1283-122026lact",
+      "data_encerramento": "25/09/2026",
+      "data_publicacao": "14/09/2026",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "64381b2c-418b-4104-8074-0d6e22f4697c",
+      "data_coleta": "2026-09-15T13:18:12.004644+00:00"
+    },
+    {
+      "instituicao": "FAURGS",
+      "orgao": null,
+      "cargos": [
+        "Bolsista",
+        "Acadêmico",
+        "Coordenador"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/Portal/Aluno/Acesso",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-15",
+      "status": null,
+      "fonte": "FAURGS",
+      "id": "ce2360a5-115a-4014-b81f-7d5adf86e9b1",
+      "data_coleta": "2026-09-15T13:18:12.004783+00:00"
+    },
+    {
+      "instituicao": "FAURGS",
+      "orgao": null,
+      "cargos": [
+        "Bolsista",
+        "Acadêmico",
+        "Coordenador"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/Portal/Acadêmico",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-15",
+      "status": null,
+      "fonte": "FAURGS",
+      "id": "b83dbc66-a17c-4f61-90d8-04af004cf90a",
+      "data_coleta": "2026-09-15T13:18:12.004816+00:00"
     }
   ]
 }
