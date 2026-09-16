@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 15/09/2026_
+_Atualizado em 16/09/2026_
 
-Total: **501** concursos encontrados.
+Total: **503** concursos encontrados.
 
 ---
 
@@ -399,7 +399,7 @@ Total: **501** concursos encontrados.
 
 ---
 
-## PCI (350)
+## PCI (352)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1941,12 +1941,6 @@ Total: **501** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/)
 - **Órgão/Local:** MT, Mato Grosso - MT
 
-### Câmara de José Bonifácio
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-jose-bonifacio-sp-abre-concurso-publico-com-salarios-de-ate-6100)
-- **Órgão/Local:** SP, José Bonifácio - SP
-- **Salário máx.:** R$ 6.100,00
-- **Encerramento:** 16/09/2026
-
 ### Câmara e Prefeitura de Trindade - GO
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-e-prefeitura-de-trindade-go-divulgam-retificacoes-do-processo-seletivo-e-do-concurso-publico)
 - **Órgão/Local:** Câmara e Prefeitura de Trindade - GO
@@ -2013,13 +2007,6 @@ Total: **501** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/seap-ma-abre-concurso-publico-com-vagas-imediatas-e-cada)
 - **Cargos:** Diversos Cargos
 - **Órgão/Local:** MA
-
-### Câmara de José Bonifácio
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-jose-bonifacio-sp-divulga-retificacao-de-concurso-publico)
-- **Cargos:** Diversos Cargos
-- **Órgão/Local:** SP, José Bonifácio - SP
-- **Salário máx.:** R$ 6.100,00
-- **Encerramento:** 16/09/2026
 
 ### Prefeitura de Limeira - SP
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-limeira-sp-publica-editais-de-concursos-com-vagas-em-diversas-areas)
@@ -2225,6 +2212,31 @@ Total: **501** concursos encontrados.
 - **Cargos:** Médico Neurologista Clínico
 - **Órgão/Local:** SP, Botucatu - SP
 - **Salário máx.:** R$ 6.077,09
+
+### Câmara de Itápolis
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-itapolis-sp-abre-concurso-publico-para-tecnico-de-som-e-imagem)
+- **Cargos:** Técnico de Som e Imagem
+- **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 3.043,13
+- **Encerramento:** 02/10/2026
+
+### Câmara de Jeriquara
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-jeriquara-sp-abre-concurso-para-o-cargo-de-controlador-interno)
+- **Cargos:** Controlador Interno
+- **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 2.664,61
+- **Encerramento:** 12/10/2026
+
+### FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-sp-abre-quatro-processos-seletivos-com-vagas-para-botucatu)
+- **Órgão/Local:** SP, Sao Paulo - SP
+- **Salário máx.:** R$ 6.077,09
+- **Encerramento:** 25/09/2026
+
+### EMATER - MG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/emater-mg-anuncia-retificacao-de-concurso-publico-com-salarios-de-ate-7321)
+- **Órgão/Local:** MG
+- **Salário máx.:** R$ 7.321,75
 
 ---
 

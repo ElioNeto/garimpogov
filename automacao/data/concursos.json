@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-09-15T13:18:12.005110+00:00",
-    "total_concursos": 501
+    "ultima_coleta": "2026-09-16T13:14:42.248541+00:00",
+    "total_concursos": 503
   },
   "concursos": [
     {
@@ -6338,19 +6338,6 @@
       "data_coleta": "2026-08-21T09:16:48.669781+00:00"
     },
     {
-      "instituicao": "Câmara de José Bonifácio",
-      "orgao": "SP, José Bonifácio - SP",
-      "cargos": [],
-      "salario_maximo": "R$ 6.100,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-jose-bonifacio-sp-abre-concurso-publico-com-salarios-de-ate-6100",
-      "data_encerramento": "16/09/2026",
-      "data_publicacao": "22/08/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "6a4437ec-78f9-4d51-ba82-dccb17723320",
-      "data_coleta": "2026-08-22T08:52:15.627529+00:00"
-    },
-    {
       "instituicao": "Câmara e Prefeitura de Trindade - GO",
       "orgao": "Câmara e Prefeitura de Trindade - GO",
       "cargos": [],
@@ -6583,21 +6570,6 @@
       "fonte": "PCI",
       "id": "03472bcf-c92b-49ed-9e88-71994aaefdeb",
       "data_coleta": "2026-08-27T18:56:39.435924+00:00"
-    },
-    {
-      "instituicao": "Câmara de José Bonifácio",
-      "orgao": "SP, José Bonifácio - SP",
-      "cargos": [
-        "Diversos Cargos"
-      ],
-      "salario_maximo": "R$ 6.100,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-jose-bonifacio-sp-divulga-retificacao-de-concurso-publico",
-      "data_encerramento": "16/09/2026",
-      "data_publicacao": "2026-08-28",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "4af8943d-b8ea-41e8-aa0c-000ac03da6c4",
-      "data_coleta": "2026-08-28T19:58:09.536190+00:00"
     },
     {
       "instituicao": "Hospital de Clínicas de Porto Alegre",
@@ -7497,6 +7469,62 @@
       "fonte": "FAURGS",
       "id": "b83dbc66-a17c-4f61-90d8-04af004cf90a",
       "data_coleta": "2026-09-15T13:18:12.004816+00:00"
+    },
+    {
+      "instituicao": "Câmara de Itápolis",
+      "orgao": "SP, Sao Paulo - SP",
+      "cargos": [
+        "Técnico de Som e Imagem"
+      ],
+      "salario_maximo": "R$ 3.043,13",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-itapolis-sp-abre-concurso-publico-para-tecnico-de-som-e-imagem",
+      "data_encerramento": "02/10/2026",
+      "data_publicacao": "2026-09-16",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "c375eba1-c951-48c3-a39e-a786cdc80d67",
+      "data_coleta": "2026-09-16T13:14:42.248093+00:00"
+    },
+    {
+      "instituicao": "Câmara de Jeriquara",
+      "orgao": "SP, Sao Paulo - SP",
+      "cargos": [
+        "Controlador Interno"
+      ],
+      "salario_maximo": "R$ 2.664,61",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-jeriquara-sp-abre-concurso-para-o-cargo-de-controlador-interno",
+      "data_encerramento": "12/10/2026",
+      "data_publicacao": "2026-09-16",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "0ccaad27-5be8-4442-8b44-bd10d0e92fa1",
+      "data_coleta": "2026-09-16T13:14:42.248148+00:00"
+    },
+    {
+      "instituicao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
+      "orgao": "SP, Sao Paulo - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 6.077,09",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/famesp-sp-abre-quatro-processos-seletivos-com-vagas-para-botucatu",
+      "data_encerramento": "25/09/2026",
+      "data_publicacao": "2026-09-16",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "91c9900e-cc0e-42c3-ae35-8f3aace79d9b",
+      "data_coleta": "2026-09-16T13:14:42.248326+00:00"
+    },
+    {
+      "instituicao": "EMATER - MG",
+      "orgao": "MG",
+      "cargos": [],
+      "salario_maximo": "R$ 7.321,75",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/emater-mg-anuncia-retificacao-de-concurso-publico-com-salarios-de-ate-7321",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-16",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "6c1345ab-5d6b-44ea-a79b-261e9f49becb",
+      "data_coleta": "2026-09-16T13:14:42.248372+00:00"
     }
   ]
 }
