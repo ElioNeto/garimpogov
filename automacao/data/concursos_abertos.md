@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 16/09/2026_
+_Atualizado em 17/09/2026_
 
-Total: **503** concursos encontrados.
+Total: **504** concursos encontrados.
 
 ---
 
@@ -399,7 +399,7 @@ Total: **503** concursos encontrados.
 
 ---
 
-## PCI (352)
+## PCI (353)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1685,16 +1685,6 @@ Total: **503** concursos encontrados.
 - **Cargos:** Diversos Cargos
 - **Órgão/Local:** AL, Maceió - AL
 
-### DEPA - Diretoria de Educação Preparatória e Assistencial (Exército)
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/decex-brasil-selecao-para-colegios-militares-abre-vagas-em-diversas-cidades)
-- **Cargos:** Aluno do 6º ano do Ensino Fundamental, Aluno do 1º ano do Ensino Médio
-- **Encerramento:** 17/09/2026
-
-### DEPA - Diretoria de Educação Preparatória e Assistencial (Exército)
-[🔗 Edital](https://www.pciconcursos.com.br/apostilas/decex)
-- **Cargos:** Aluno do 6º ano do Ensino Fundamental, Aluno do 1º ano do Ensino Médio
-- **Encerramento:** 17/09/2026
-
 ### Prefeitura de Santos - SP
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-santos-sp-abre-cinco-editais-de-concursos-publicos)
 - **Órgão/Local:** Santos - SP
@@ -1771,12 +1761,6 @@ Total: **503** concursos encontrados.
 - **Órgão/Local:** São Paulo - SP
 - **Salário máx.:** R$ 7.104,30
 - **Encerramento:** 29/09/2026
-
-### Prefeitura de Bauru
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-bauru-sp-abre-concursos-com-vagas-para-merendeira-medico-e-professor-de-arte)
-- **Cargos:** merendeira, médico, professor de arte
-- **Órgão/Local:** SP, Bauru - SP
-- **Encerramento:** 17/09/2026
 
 ### SEPLAG
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/seplag-al-publica-edital-de-concurso-publico-para-agente-e-escrivao-na-policia-civil)
@@ -1873,12 +1857,6 @@ Total: **503** concursos encontrados.
 ### Prefeitura de Santos - SP
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-santos-sp-divulga-retificacoes-de-concursos-)
 - **Órgão/Local:** Santos - SP
-
-### DEPA - Diretoria de Educação Preparatória e Assistencial (Exército)
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/decex-brasil-divulga-retificacao-de-processo-seletivo-para-colegios-militares)
-- **Cargos:** Aluno do 6º ano do Ensino Fundamental, Aluno do 1º ano do Ensino Médio
-- **Órgão/Local:** Nacional
-- **Encerramento:** 17/09/2026
 
 ### DAAEA - Departamento Autônomo de Água e Esgoto de Avanhandava
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/daaea-de-avanhandava-sp-abre-concurso-para-auxiliar-de-tratamento-de-agua-e-operador-de-maquina)
@@ -2237,6 +2215,28 @@ Total: **503** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/emater-mg-anuncia-retificacao-de-concurso-publico-com-salarios-de-ate-7321)
 - **Órgão/Local:** MG
 - **Salário máx.:** R$ 7.321,75
+
+### Prefeitura de Guarulhos
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-guarulhos-sp-abre-quatro-concursos-publicos-com-salarios-de-ate-4297)
+- **Órgão/Local:** SP, Guarulhos - SP
+- **Salário máx.:** R$ 4.297,75
+
+### Prefeitura de Valença
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-valenca-rj-abre-concurso-publico-para-professores)
+- **Cargos:** Professor
+- **Órgão/Local:** RJ, Valença - RJ
+
+### SEPLAG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/seplag-rj-publica-retificacoes-do-concurso-com-60-vagas-para-cargos-de-nivel-superior)
+- **Órgão/Local:** RJ, Rio de Janeiro - RJ
+
+### Prefeitura de Vilhena
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-vilhena-ro-retifica-o-edital-de-processo-seletivo-para-agentes-de-saude-e-de-endemias)
+- **Cargos:** Agente de Saúde, Agente de Endemias
+- **Órgão/Local:** RO, Vilhena - RO
+
+### DEPA - Diretoria de Educação Preparatória e Assistencial (Exército)
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/decex-brasil-divulga-retificacao-de-processo-seletivo-para-colegios-militares)
 
 ---
 

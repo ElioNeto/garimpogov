@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-09-16T13:14:42.248541+00:00",
-    "total_concursos": 503
+    "ultima_coleta": "2026-09-17T13:16:16.228854+00:00",
+    "total_concursos": 504
   },
   "concursos": [
     {
@@ -5356,38 +5356,6 @@
       "data_coleta": "2026-08-01T10:07:28.760197+00:00"
     },
     {
-      "instituicao": "DEPA - Diretoria de Educação Preparatória e Assistencial (Exército)",
-      "orgao": null,
-      "cargos": [
-        "Aluno do 6º ano do Ensino Fundamental",
-        "Aluno do 1º ano do Ensino Médio"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://www.pciconcursos.com.br/noticias/decex-brasil-selecao-para-colegios-militares-abre-vagas-em-diversas-cidades",
-      "data_encerramento": "17/09/2026",
-      "data_publicacao": "2026-08-01",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "beb5f021-ee1d-4508-b90a-eb33b3cd89dd",
-      "data_coleta": "2026-08-01T10:07:28.760309+00:00"
-    },
-    {
-      "instituicao": "DEPA - Diretoria de Educação Preparatória e Assistencial (Exército)",
-      "orgao": null,
-      "cargos": [
-        "Aluno do 6º ano do Ensino Fundamental",
-        "Aluno do 1º ano do Ensino Médio"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://www.pciconcursos.com.br/apostilas/decex",
-      "data_encerramento": "17/09/2026",
-      "data_publicacao": "2026-08-01",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "0c893b57-5db1-430e-829c-72fbd7885a9a",
-      "data_coleta": "2026-08-01T10:07:28.760379+00:00"
-    },
-    {
       "instituicao": "Prefeitura de Santos - SP",
       "orgao": "Santos - SP",
       "cargos": [],
@@ -5712,23 +5680,6 @@
       "fonte": "FAURGS",
       "id": "efff9cb9-1442-428d-a4e6-7e87d6415d35",
       "data_coleta": "2026-08-11T09:09:37.111831+00:00"
-    },
-    {
-      "instituicao": "Prefeitura de Bauru",
-      "orgao": "SP, Bauru - SP",
-      "cargos": [
-        "merendeira",
-        "médico",
-        "professor de arte"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bauru-sp-abre-concursos-com-vagas-para-merendeira-medico-e-professor-de-arte",
-      "data_encerramento": "17/09/2026",
-      "data_publicacao": "2026-08-12",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "49863358-38dc-4853-8be4-f46fc00c0fcc",
-      "data_coleta": "2026-08-12T09:37:49.459632+00:00"
     },
     {
       "instituicao": "SEPLAG",
@@ -6056,22 +6007,6 @@
       "id": "173e4547-002b-4966-acf4-27bd88ef61cb",
       "data_coleta": "2026-08-17T09:01:28.596316+00:00",
       "data_publicacao": "2026-08-17"
-    },
-    {
-      "instituicao": "DEPA - Diretoria de Educação Preparatória e Assistencial (Exército)",
-      "orgao": "Nacional",
-      "cargos": [
-        "Aluno do 6º ano do Ensino Fundamental",
-        "Aluno do 1º ano do Ensino Médio"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://www.pciconcursos.com.br/noticias/decex-brasil-divulga-retificacao-de-processo-seletivo-para-colegios-militares",
-      "data_encerramento": "17/09/2026",
-      "data_publicacao": "2026-08-18",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "732b123e-bb39-41c9-9bc6-e360de8fa851",
-      "data_coleta": "2026-08-18T09:10:30.515772+00:00"
     },
     {
       "instituicao": "DAAEA - Departamento Autônomo de Água e Esgoto de Avanhandava",
@@ -7525,6 +7460,76 @@
       "fonte": "PCI",
       "id": "6c1345ab-5d6b-44ea-a79b-261e9f49becb",
       "data_coleta": "2026-09-16T13:14:42.248372+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Guarulhos",
+      "orgao": "SP, Guarulhos - SP",
+      "cargos": [],
+      "salario_maximo": "R$ 4.297,75",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guarulhos-sp-abre-quatro-concursos-publicos-com-salarios-de-ate-4297",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-17",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "55b4846c-5f83-43b5-b7f0-b1f7a01ad91f",
+      "data_coleta": "2026-09-17T13:16:16.228458+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Valença",
+      "orgao": "RJ, Valença - RJ",
+      "cargos": [
+        "Professor"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-valenca-rj-abre-concurso-publico-para-professores",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-17",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "ada9936e-fc8b-464c-ac51-ef3726ba6d55",
+      "data_coleta": "2026-09-17T13:16:16.228495+00:00"
+    },
+    {
+      "instituicao": "SEPLAG",
+      "orgao": "RJ, Rio de Janeiro - RJ",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/seplag-rj-publica-retificacoes-do-concurso-com-60-vagas-para-cargos-de-nivel-superior",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-17",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "04a190dd-2a81-45e8-bdaa-2216dd0c6633",
+      "data_coleta": "2026-09-17T13:16:16.228519+00:00"
+    },
+    {
+      "instituicao": "Prefeitura de Vilhena",
+      "orgao": "RO, Vilhena - RO",
+      "cargos": [
+        "Agente de Saúde",
+        "Agente de Endemias"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vilhena-ro-retifica-o-edital-de-processo-seletivo-para-agentes-de-saude-e-de-endemias",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-17",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "7ebfb9ad-8110-47eb-ac76-35b7e673652d",
+      "data_coleta": "2026-09-17T13:16:16.228591+00:00"
+    },
+    {
+      "instituicao": "DEPA - Diretoria de Educação Preparatória e Assistencial (Exército)",
+      "orgao": null,
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/decex-brasil-divulga-retificacao-de-processo-seletivo-para-colegios-militares",
+      "data_encerramento": null,
+      "data_publicacao": "17/09/2026",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "680a9c65-bca6-46cb-8eb7-72131d4c0586",
+      "data_coleta": "2026-09-17T13:16:16.228688+00:00"
     }
   ]
 }
