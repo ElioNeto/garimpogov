@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-09-17T13:16:16.228854+00:00",
-    "total_concursos": 504
+    "ultima_coleta": "2026-09-18T12:56:58.022499+00:00",
+    "total_concursos": 503
   },
   "concursos": [
     {
@@ -5950,22 +5950,6 @@
       "data_coleta": "2026-08-15T08:44:05.766254+00:00"
     },
     {
-      "instituicao": "CIMPS - Consórcio Intermunicipal de Políticas Sociais",
-      "orgao": "SP",
-      "cargos": [
-        "Auxiliar Administrativo",
-        "Gerente Administrativo"
-      ],
-      "salario_maximo": "R$ 7.500,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/cimps-sp-abre-concurso-publico-para-auxiliar-administrativo-e-gerente-administrativo",
-      "data_encerramento": "18/09/2026",
-      "data_publicacao": "17/08/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "66482493-1935-4f11-91f4-149188d9ad64",
-      "data_coleta": "2026-08-15T08:44:05.766766+00:00"
-    },
-    {
       "instituicao": "Prefeitura de Blumenau",
       "orgao": "SEIDEP, Blumenau - SC",
       "cargos": [
@@ -6052,21 +6036,6 @@
       "fonte": "PCI",
       "id": "ff40cd3a-07b2-457c-a3d5-7daff36b43c5",
       "data_coleta": "2026-08-19T08:53:48.300111+00:00"
-    },
-    {
-      "instituicao": "AgSUS - Agência Brasileira de Apoio à Gestão do SUS",
-      "orgao": "NACIONAL",
-      "cargos": [
-        "Psicólogo"
-      ],
-      "salario_maximo": "R$ 8.800,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/agsus-abre-selecao-para-psicologo-com-remuneracao-de-8800",
-      "data_encerramento": "18/09/2026",
-      "data_publicacao": "19/08/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "a80d0c82-a94c-4468-bcc7-b6b707a1538e",
-      "data_coleta": "2026-08-19T08:53:48.300138+00:00"
     },
     {
       "instituicao": "AgSUS - Agência Brasileira de Apoio à Gestão do SUS",
@@ -7530,6 +7499,21 @@
       "fonte": "PCI",
       "id": "680a9c65-bca6-46cb-8eb7-72131d4c0586",
       "data_coleta": "2026-09-17T13:16:16.228688+00:00"
+    },
+    {
+      "instituicao": "Funai",
+      "orgao": null,
+      "cargos": [
+        "Especialistas Temporários em Proteção Territorial"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/funai-retifica-processo-seletivo-para-especialistas-temporarios-em-protecao-territorial",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-18",
+      "status": "reaberto",
+      "fonte": "PCI",
+      "id": "3acc39ab-5987-42d8-9da9-f52c026fbf7e",
+      "data_coleta": "2026-09-18T12:56:58.022379+00:00"
     }
   ]
 }

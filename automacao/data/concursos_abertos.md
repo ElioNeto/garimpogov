@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 17/09/2026_
+_Atualizado em 18/09/2026_
 
-Total: **504** concursos encontrados.
+Total: **503** concursos encontrados.
 
 ---
 
@@ -399,7 +399,7 @@ Total: **504** concursos encontrados.
 
 ---
 
-## PCI (353)
+## PCI (352)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1847,13 +1847,6 @@ Total: **504** concursos encontrados.
 - **Cargos:** Auditor de Controle Externo
 - **Órgão/Local:** TCE-SP
 
-### CIMPS - Consórcio Intermunicipal de Políticas Sociais
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/cimps-sp-abre-concurso-publico-para-auxiliar-administrativo-e-gerente-administrativo)
-- **Cargos:** Auxiliar Administrativo, Gerente Administrativo
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 7.500,00
-- **Encerramento:** 18/09/2026
-
 ### Prefeitura de Santos - SP
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-santos-sp-divulga-retificacoes-de-concursos-)
 - **Órgão/Local:** Santos - SP
@@ -1874,13 +1867,6 @@ Total: **504** concursos encontrados.
 - **Órgão/Local:** NACIONAL
 - **Salário máx.:** R$ 10.302,00
 - **Encerramento:** 16/10/2026
-
-### AgSUS - Agência Brasileira de Apoio à Gestão do SUS
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/agsus-abre-selecao-para-psicologo-com-remuneracao-de-8800)
-- **Cargos:** Psicólogo
-- **Órgão/Local:** NACIONAL
-- **Salário máx.:** R$ 8.800,00
-- **Encerramento:** 18/09/2026
 
 ### AgSUS - Agência Brasileira de Apoio à Gestão do SUS
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/agsus-abre-processo-seletivo-para-formacao-de-c cadastro-de-reserva-no-projeto-sesmt)
@@ -2237,6 +2223,10 @@ Total: **504** concursos encontrados.
 
 ### DEPA - Diretoria de Educação Preparatória e Assistencial (Exército)
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/decex-brasil-divulga-retificacao-de-processo-seletivo-para-colegios-militares)
+
+### Funai
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/funai-retifica-processo-seletivo-para-especialistas-temporarios-em-protecao-territorial)
+- **Cargos:** Especialistas Temporários em Proteção Territorial
 
 ---
 
