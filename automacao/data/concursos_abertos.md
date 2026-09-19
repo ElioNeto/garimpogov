@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 18/09/2026_
+_Atualizado em 19/09/2026_
 
-Total: **503** concursos encontrados.
+Total: **505** concursos encontrados.
 
 ---
 
@@ -178,7 +178,7 @@ Total: **503** concursos encontrados.
 
 ---
 
-## FGV (63)
+## FGV (65)
 
 ### Concurso Público Nacional Unificado 2
 [🔗 Edital](https://conhecimento.fgv.br/cpnu2)
@@ -396,6 +396,15 @@ Total: **503** concursos encontrados.
 
 ### NAV Brasil Serviços de Navegação Aérea S.A.
 [🔗 Edital](https://conhecimento.fgv.br/concursos/navbrasil)
+
+### Prefeitura Municipal do Salvador
+[🔗 Edital](https://conhecimento.fgv.br/concursos/pmsguarda2026)
+- **Cargos:** Guarda Municipal
+- **Órgão/Local:** Salvador - BA
+
+### Controladoria-Geral do Estado de Santa Catarina
+[🔗 Edital](https://conhecimento.fgv.br/concursos/cges)
+- **Órgão/Local:** Santa Catarina
 
 ---
 

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-09-18T12:56:58.022499+00:00",
-    "total_concursos": 503
+    "ultima_coleta": "2026-09-19T12:23:39.016713+00:00",
+    "total_concursos": 505
   },
   "concursos": [
     {
@@ -7514,6 +7514,33 @@
       "fonte": "PCI",
       "id": "3acc39ab-5987-42d8-9da9-f52c026fbf7e",
       "data_coleta": "2026-09-18T12:56:58.022379+00:00"
+    },
+    {
+      "instituicao": "Prefeitura Municipal do Salvador",
+      "orgao": "Salvador - BA",
+      "cargos": [
+        "Guarda Municipal"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br/concursos/pmsguarda2026",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-19",
+      "status": "aberto",
+      "fonte": "FGV",
+      "id": "18f38f08-9248-44a9-8fa9-13cb39de0e23",
+      "data_coleta": "2026-09-19T12:23:39.016330+00:00"
+    },
+    {
+      "instituicao": "Controladoria-Geral do Estado de Santa Catarina",
+      "orgao": "Santa Catarina",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://conhecimento.fgv.br/concursos/cges",
+      "fonte": "FGV",
+      "status": "aberto",
+      "id": "da6b82b7-1336-4d91-abe0-514f88b26432",
+      "data_coleta": "2026-09-19T12:23:39.016478+00:00",
+      "data_publicacao": "2026-09-19"
     }
   ]
 }
