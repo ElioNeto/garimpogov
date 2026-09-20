@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-09-19T12:23:39.016713+00:00",
-    "total_concursos": 505
+    "ultima_coleta": "2026-09-20T13:00:56.111845+00:00",
+    "total_concursos": 506
   },
   "concursos": [
     {
@@ -7541,6 +7541,19 @@
       "id": "da6b82b7-1336-4d91-abe0-514f88b26432",
       "data_coleta": "2026-09-19T12:23:39.016478+00:00",
       "data_publicacao": "2026-09-19"
+    },
+    {
+      "instituicao": "EGBA - Empresa Gráfica da Bahia",
+      "orgao": "Bahia, Bahia",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.egba.ba.gov.br/egba/ouvidoria",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-20",
+      "status": null,
+      "fonte": "DOE-BA",
+      "id": "1337a9fe-7c14-4781-8367-9841635b0df3",
+      "data_coleta": "2026-09-20T13:00:56.111457+00:00"
     }
   ]
 }

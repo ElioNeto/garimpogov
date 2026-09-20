@@ -1,16 +1,20 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 19/09/2026_
+_Atualizado em 20/09/2026_
 
-Total: **505** concursos encontrados.
+Total: **506** concursos encontrados.
 
 ---
 
-## DOE-BA (1)
+## DOE-BA (2)
 
 ### EGBA - Empresa Gráfica da Bahia
 [🔗 Edital](https://www.ba.gov.br/egba/ouvidoria)
 - **Órgão/Local:** BA, Bahia - BA
+
+### EGBA - Empresa Gráfica da Bahia
+[🔗 Edital](https://www.egba.ba.gov.br/egba/ouvidoria)
+- **Órgão/Local:** Bahia, Bahia
 
 ---
 
