@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 20/09/2026_
+_Atualizado em 21/09/2026_
 
-Total: **506** concursos encontrados.
+Total: **514** concursos encontrados.
 
 ---
 
@@ -48,7 +48,7 @@ Total: **506** concursos encontrados.
 
 ---
 
-## FAURGS (28)
+## FAURGS (29)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -179,6 +179,11 @@ Total: **506** concursos encontrados.
 ### FAURGS
 [🔗 Edital](https://portalfaurgs.com.br/Portal/Acadêmico)
 - **Cargos:** Bolsista, Acadêmico, Coordenador
+
+### CPD/UFRGS
+[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1284-132026ufrgs)
+- **Cargos:** Programador de Redes
+- **Encerramento:** 12/10/2026
 
 ---
 
@@ -412,7 +417,7 @@ Total: **506** concursos encontrados.
 
 ---
 
-## PCI (352)
+## PCI (359)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1956,12 +1961,6 @@ Total: **506** concursos encontrados.
 - **Salário máx.:** R$ 7.825,00
 - **Encerramento:** 23/09/2026
 
-### CRECI - Conselho Regional de Corretores de Imóveis do Estado de São Paulo
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/creci-sp-anuncia-concurso-publico-com-salarios-de-ate-9940)
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 9.940,00
-- **Encerramento:** 21/09/2026
-
 ### EMDAEP - Empresa de Desenvolvimento, Água, Esgoto e Pavimentação de Dracena
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/emdaep-de-dracena-sp-abre-concurso-com-vagas-ime)
 - **Órgão/Local:** SP, Dracena - SP
@@ -2178,12 +2177,6 @@ Total: **506** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/ifpi-abre-concurso-publico-para-cargos-tecnico-administrativos-em-educacao)
 - **Órgão/Local:** PI
 
-### Transpetro
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/transpetro-publica-retificacoes-de-processos-seletivos-para-diversos-cargos)
-- **Órgão/Local:** NACIONAL
-- **Salário máx.:** R$ 15.034,81
-- **Encerramento:** 21/09/2026
-
 ### FAMESP
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-anuncia-processo)
 - **Cargos:** Médico Neurologista Clínico
@@ -2240,6 +2233,58 @@ Total: **506** concursos encontrados.
 ### Funai
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/funai-retifica-processo-seletivo-para-especialistas-temporarios-em-protecao-territorial)
 - **Cargos:** Especialistas Temporários em Proteção Territorial
+
+### Câmara de Barão de Antonina
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-barao-de-antonina-sp-abre-concurso-publico-para-o-cargo-de-advogado)
+- **Cargos:** Advogado
+- **Órgão/Local:** SP, Barão de Antonina - SP
+- **Salário máx.:** R$ 6.603,39
+- **Encerramento:** 21/10/2026
+
+### Câmara de Boituva
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-boituva-sp-abre-concursos-com-salarios-de-ate-8595)
+- **Cargos:** Não informado
+- **Órgão/Local:** SP, Boituva - SP
+- **Salário máx.:** R$ 8.595,15
+- **Encerramento:** 09/11/2026
+
+### Câmara de Dois Córregos
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-dois-corregos-sp-abre-concurso-publico-com-salarios-de-ate-7114)
+- **Cargos:** Não informado
+- **Órgão/Local:** SP, Dois Córregos - SP
+- **Salário máx.:** R$ 7.114,33
+- **Encerramento:** 22/10/2026
+
+### Câmara de Paulistânia
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-paulistania-sp-abre-concurso-publico-com-vagas-para-assistente-contabil-e-consultor-juridico)
+- **Cargos:** Assistente Contábil do Legislativo, Consultor Jurídico do Legislativo
+- **Órgão/Local:** SP, Paulistânia - SP
+- **Salário máx.:** R$ 5.700,14
+- **Encerramento:** 17/10/2026
+
+### CMDCA - Conselho Municipal dos Direitos da Criança e do Adolescente de Timburi
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/cmdca-de-timburi-sp-abre-processo-de-escolha-suplementar-para-conselheiro-tutelar)
+- **Cargos:** Conselheiro Tutelar
+- **Órgão/Local:** SP, Timburi - SP
+- **Salário máx.:** R$ 2.600,00
+- **Encerramento:** 05/10/2026
+
+### CRECI - Conselho Regional de Corretores de Imóveis do Estado de São Paulo
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/creci-sp-anuncia-concurso-)
+- **Cargos:** Não informado
+- **Órgão/Local:** SP, São Paulo - SP
+
+### SEPLAG
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/se)
+
+### Prefeitura de Caruaru - PE
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-caruaru-pe-retifica-concurso-publico-para-auditores-e-analistas-fiscais)
+- **Cargos:** Auditor Fiscal, Analista Fiscal
+- **Órgão/Local:** PE
+
+### Transpetro
+[🔗 Edital](https://www.pciconcursos.com.br/noticias/transpetro-publica-retificacoes-de-processos-seletivos-para-diversos-cargos)
+- **Órgão/Local:** Transpetro
 
 ---
 

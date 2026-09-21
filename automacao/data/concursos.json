@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-09-20T13:00:56.111845+00:00",
-    "total_concursos": 506
+    "ultima_coleta": "2026-09-21T15:06:33.132772+00:00",
+    "total_concursos": 514
   },
   "concursos": [
     {
@@ -6348,19 +6348,6 @@
       "data_coleta": "2026-08-25T08:55:02.143239+00:00"
     },
     {
-      "instituicao": "CRECI - Conselho Regional de Corretores de Imóveis do Estado de São Paulo",
-      "orgao": "SP",
-      "cargos": [],
-      "salario_maximo": "R$ 9.940,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/creci-sp-anuncia-concurso-publico-com-salarios-de-ate-9940",
-      "data_encerramento": "21/09/2026",
-      "data_publicacao": "2026-08-25",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "e57eeaeb-b990-43b4-bd59-7fa6737b17b5",
-      "data_coleta": "2026-08-25T08:55:02.143358+00:00"
-    },
-    {
       "instituicao": "EMDAEP - Empresa de Desenvolvimento, Água, Esgoto e Pavimentação de Dracena",
       "orgao": "SP, Dracena - SP",
       "cargos": [],
@@ -7299,19 +7286,6 @@
       "data_coleta": "2026-09-14T14:48:29.941057+00:00"
     },
     {
-      "instituicao": "Transpetro",
-      "orgao": "NACIONAL",
-      "cargos": [],
-      "salario_maximo": "R$ 15.034,81",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/transpetro-publica-retificacoes-de-processos-seletivos-para-diversos-cargos",
-      "data_encerramento": "21/09/2026",
-      "data_publicacao": "2026-09-14",
-      "status": "prorrogado",
-      "fonte": "PCI",
-      "id": "87d8a4e7-f65c-4c89-a337-d95567d91ec8",
-      "data_coleta": "2026-09-14T14:48:29.941100+00:00"
-    },
-    {
       "instituicao": "FAMESP",
       "orgao": "SP, Botucatu - SP",
       "cargos": [
@@ -7554,6 +7528,153 @@
       "fonte": "DOE-BA",
       "id": "1337a9fe-7c14-4781-8367-9841635b0df3",
       "data_coleta": "2026-09-20T13:00:56.111457+00:00"
+    },
+    {
+      "instituicao": "CPD/UFRGS",
+      "orgao": null,
+      "cargos": [
+        "Programador de Redes"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://portalfaurgs.com.br/concursosFaurgs/emandamento/1284-132026ufrgs",
+      "data_encerramento": "12/10/2026",
+      "data_publicacao": "2026-09-21",
+      "status": "aberto",
+      "fonte": "FAURGS",
+      "id": "c8a18a74-70e1-435e-a701-b8436dc562b8",
+      "data_coleta": "2026-09-21T15:06:33.132095+00:00"
+    },
+    {
+      "instituicao": "Câmara de Barão de Antonina",
+      "orgao": "SP, Barão de Antonina - SP",
+      "cargos": [
+        "Advogado"
+      ],
+      "salario_maximo": "R$ 6.603,39",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-barao-de-antonina-sp-abre-concurso-publico-para-o-cargo-de-advogado",
+      "data_encerramento": "21/10/2026",
+      "data_publicacao": "2026-09-21",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "aa46b8c0-2b14-4855-bc02-4da4082f0be6",
+      "data_coleta": "2026-09-21T15:06:33.132346+00:00"
+    },
+    {
+      "instituicao": "Câmara de Boituva",
+      "orgao": "SP, Boituva - SP",
+      "cargos": [
+        "Não informado"
+      ],
+      "salario_maximo": "R$ 8.595,15",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-boituva-sp-abre-concursos-com-salarios-de-ate-8595",
+      "data_encerramento": "09/11/2026",
+      "data_publicacao": "2026-09-21",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "3744be5d-8eeb-46f4-86fd-6bd3ced2e04c",
+      "data_coleta": "2026-09-21T15:06:33.132370+00:00"
+    },
+    {
+      "instituicao": "Câmara de Dois Córregos",
+      "orgao": "SP, Dois Córregos - SP",
+      "cargos": [
+        "Não informado"
+      ],
+      "salario_maximo": "R$ 7.114,33",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-dois-corregos-sp-abre-concurso-publico-com-salarios-de-ate-7114",
+      "data_encerramento": "22/10/2026",
+      "data_publicacao": "2026-09-21",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "d5bf1ba3-e542-465f-bdf4-198d103934af",
+      "data_coleta": "2026-09-21T15:06:33.132407+00:00"
+    },
+    {
+      "instituicao": "Câmara de Paulistânia",
+      "orgao": "SP, Paulistânia - SP",
+      "cargos": [
+        "Assistente Contábil do Legislativo",
+        "Consultor Jurídico do Legislativo"
+      ],
+      "salario_maximo": "R$ 5.700,14",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-paulistania-sp-abre-concurso-publico-com-vagas-para-assistente-contabil-e-consultor-juridico",
+      "data_encerramento": "17/10/2026",
+      "data_publicacao": "2026-09-21",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "61f56d7e-5f2b-44e8-a942-756c378090ea",
+      "data_coleta": "2026-09-21T15:06:33.132498+00:00"
+    },
+    {
+      "instituicao": "CMDCA - Conselho Municipal dos Direitos da Criança e do Adolescente de Timburi",
+      "orgao": "SP, Timburi - SP",
+      "cargos": [
+        "Conselheiro Tutelar"
+      ],
+      "salario_maximo": "R$ 2.600,00",
+      "link_edital": "https://www.pciconcursos.com.br/noticias/cmdca-de-timburi-sp-abre-processo-de-escolha-suplementar-para-conselheiro-tutelar",
+      "data_encerramento": "05/10/2026",
+      "data_publicacao": "2026-09-21",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "61ca86d3-505a-41ee-b240-0704e53159df",
+      "data_coleta": "2026-09-21T15:06:33.132542+00:00"
+    },
+    {
+      "instituicao": "CRECI - Conselho Regional de Corretores de Imóveis do Estado de São Paulo",
+      "orgao": "SP, São Paulo - SP",
+      "cargos": [
+        "Não informado"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/creci-sp-anuncia-concurso-",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-21",
+      "status": "aberto",
+      "fonte": "PCI",
+      "id": "e91dae69-d7a9-4d83-b106-e0a2c593047b",
+      "data_coleta": "2026-09-21T15:06:33.132569+00:00"
+    },
+    {
+      "instituicao": "SEPLAG",
+      "orgao": null,
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/se",
+      "fonte": "PCI",
+      "status": "aberto",
+      "id": "a0b1cc14-d13e-4adc-8944-437eb5367ab8",
+      "data_coleta": "2026-09-21T15:06:33.132595+00:00",
+      "data_publicacao": "2026-09-21"
+    },
+    {
+      "instituicao": "Prefeitura de Caruaru - PE",
+      "orgao": "PE",
+      "cargos": [
+        "Auditor Fiscal",
+        "Analista Fiscal"
+      ],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caruaru-pe-retifica-concurso-publico-para-auditores-e-analistas-fiscais",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-21",
+      "status": null,
+      "fonte": "PCI",
+      "id": "b4e437c9-8566-4192-aee5-df1c9b140d53",
+      "data_coleta": "2026-09-21T15:06:33.132680+00:00"
+    },
+    {
+      "instituicao": "Transpetro",
+      "orgao": "Transpetro",
+      "cargos": [],
+      "salario_maximo": null,
+      "link_edital": "https://www.pciconcursos.com.br/noticias/transpetro-publica-retificacoes-de-processos-seletivos-para-diversos-cargos",
+      "data_encerramento": null,
+      "data_publicacao": "2026-09-21",
+      "status": "retificado",
+      "fonte": "PCI",
+      "id": "42095f05-15a0-47b2-bf22-604757ffa9ed",
+      "data_coleta": "2026-09-21T15:06:33.132736+00:00"
     }
   ]
 }

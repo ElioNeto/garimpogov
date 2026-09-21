@@ -1,8 +1,8 @@
 # GarimpoGov — Concursos Filtrados (TI + Professor de Inglês)
 
-_Atualizado em 20/09/2026_
+_Atualizado em 21/09/2026_
 
-Total: **15** concursos encontrados.
+Total: **16** concursos encontrados.
 
 ---
 
@@ -17,7 +17,7 @@ Total: **15** concursos encontrados.
 
 ---
 
-## FAURGS (9)
+## FAURGS (10)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -60,6 +60,11 @@ Total: **15** concursos encontrados.
 [🔗 Edital](https://portalfaurgs.com.br/concursosfaurgs/emandamento/1277-012026ifsc)
 - **Cargos:** Analista I (Produção Audiovisual), Assistente I (Assistente de Pesquisa Clínica), Assistente I (Assistente de Pesquisa em Bioinformática), FONOAUDIOLOGO I (Disfagia), FONOAUDIOLOGO I (Fonoterapia), MÉDICO I (Alergia e Imunologia), MÉDICO I (Medicina Paliativa), MÉDICO I (Psiquiatria da Infância e Adolescência), MÉDICO I (Tratamento da Dor), RELAÇÕES PÚBLICAS I, TÉCNICO DE ENFERMAGEM (Cuidados Coronarianos), TÉCNICO DE MANUTENÇÃO III (Técnico de Manutenção Predial Obras e Pintura)
 - **Órgão/Local:** Portalfaurgs
+
+### CPD/UFRGS
+[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1284-132026ufrgs)
+- **Cargos:** Programador de Redes
+- **Encerramento:** 12/10/2026
 
 ---
 
