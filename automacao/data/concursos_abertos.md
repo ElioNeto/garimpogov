@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 21/09/2026_
+_Atualizado em 22/09/2026_
 
-Total: **514** concursos encontrados.
+Total: **513** concursos encontrados.
 
 ---
 
@@ -417,7 +417,7 @@ Total: **514** concursos encontrados.
 
 ---
 
-## PCI (359)
+## PCI (358)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -2133,12 +2133,6 @@ Total: **514** concursos encontrados.
 - **Órgão/Local:** SP
 - **Salário máx.:** R$ 3.627,34
 - **Encerramento:** 18/10/2026
-
-### AgSUS - Agência Brasileira de Apoio à Gestão do SUS
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/agsus-retifica-processo-seletivo-para-formacao-de-cnpj-de-reserva-no-projeto-sesmt)
-- **Órgão/Local:** Nacional
-- **Salário máx.:** R$ 10.302,00
-- **Encerramento:** 22/09/2026
 
 ### Prefeitura de Andradina
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-andradina-sp-retifica-concurso-publico-para-profissionais-da-educacao)
