@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-09-22T13:40:55.067229+00:00",
-    "total_concursos": 513
+    "ultima_coleta": "2026-09-23T13:56:28.307080+00:00",
+    "total_concursos": 510
   },
   "concursos": [
     {
@@ -6335,19 +6335,6 @@
       "data_coleta": "2026-08-25T08:55:02.143195+00:00"
     },
     {
-      "instituicao": "Câmara de Colômbia",
-      "orgao": "SP, Colômbia - SP",
-      "cargos": [],
-      "salario_maximo": "R$ 7.825,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-colombia-sp-abre-concurso-publico-com-salarios-de-ate-7825",
-      "data_encerramento": "23/09/2026",
-      "data_publicacao": "2026-08-25",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "73c4429a-7367-4395-b607-c8b29f7cc2fa",
-      "data_coleta": "2026-08-25T08:55:02.143239+00:00"
-    },
-    {
       "instituicao": "EMDAEP - Empresa de Desenvolvimento, Água, Esgoto e Pavimentação de Dracena",
       "orgao": "SP, Dracena - SP",
       "cargos": [],
@@ -6967,19 +6954,6 @@
       "data_coleta": "2026-09-05T11:45:53.473842+00:00"
     },
     {
-      "instituicao": "Câmara de Colômbia",
-      "orgao": "SP, São Paulo - SP",
-      "cargos": [],
-      "salario_maximo": "R$ 7.825,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-colombia-sp-publica-edital-retificado-de-concurso-publico",
-      "data_encerramento": "23/09/2026",
-      "data_publicacao": "2026-09-05",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "d79c74bc-c533-4ff5-94d2-fc3a020dee39",
-      "data_coleta": "2026-09-05T11:45:53.473884+00:00"
-    },
-    {
       "instituicao": "Câmara de Garça",
       "orgao": "SP, São Paulo - SP",
       "cargos": [
@@ -7123,19 +7097,6 @@
       "id": "edbb6ee7-c674-47a5-bf11-30aa8344513e",
       "data_coleta": "2026-09-13T13:17:09.530771+00:00",
       "data_publicacao": "2026-09-13"
-    },
-    {
-      "instituicao": "Prefeitura de Andradina",
-      "orgao": "São Paulo - SP",
-      "cargos": [],
-      "salario_maximo": "R$ 7.341,23",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/prefeitura-de-andradina-sp-retifica-concurso-publico-para-profissionais-da-educacao",
-      "data_encerramento": "23/09/2026",
-      "data_publicacao": "13/09/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "f9173d7a-a5c2-41ff-bca6-b0ac86f65742",
-      "data_coleta": "2026-09-13T13:17:09.530891+00:00"
     },
     {
       "instituicao": "SETEC - Serviços Técnicos Gerais de Campinas",

@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 22/09/2026_
+_Atualizado em 23/09/2026_
 
-Total: **513** concursos encontrados.
+Total: **510** concursos encontrados.
 
 ---
 
@@ -417,7 +417,7 @@ Total: **513** concursos encontrados.
 
 ---
 
-## PCI (358)
+## PCI (355)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1955,12 +1955,6 @@ Total: **513** concursos encontrados.
 - **Salário máx.:** R$ 8.510,00
 - **Encerramento:** 08/10/2026
 
-### Câmara de Colômbia
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-colombia-sp-abre-concurso-publico-com-salarios-de-ate-7825)
-- **Órgão/Local:** SP, Colômbia - SP
-- **Salário máx.:** R$ 7.825,00
-- **Encerramento:** 23/09/2026
-
 ### EMDAEP - Empresa de Desenvolvimento, Água, Esgoto e Pavimentação de Dracena
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/emdaep-de-dracena-sp-abre-concurso-com-vagas-ime)
 - **Órgão/Local:** SP, Dracena - SP
@@ -2088,12 +2082,6 @@ Total: **513** concursos encontrados.
 - **Salário máx.:** R$ 7.097,00
 - **Encerramento:** 14/09 a 19/10/2026
 
-### Câmara de Colômbia
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-colombia-sp-publica-edital-retificado-de-concurso-publico)
-- **Órgão/Local:** SP, São Paulo - SP
-- **Salário máx.:** R$ 7.825,00
-- **Encerramento:** 23/09/2026
-
 ### Câmara de Garça
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-garca-sp-abre-concurso-publico-para-tecnico-legislativo)
 - **Cargos:** Técnico Legislativo
@@ -2133,12 +2121,6 @@ Total: **513** concursos encontrados.
 - **Órgão/Local:** SP
 - **Salário máx.:** R$ 3.627,34
 - **Encerramento:** 18/10/2026
-
-### Prefeitura de Andradina
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-andradina-sp-retifica-concurso-publico-para-profissionais-da-educacao)
-- **Órgão/Local:** São Paulo - SP
-- **Salário máx.:** R$ 7.341,23
-- **Encerramento:** 23/09/2026
 
 ### SETEC - Serviços Técnicos Gerais de Campinas
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/setec-campinas-sp-abre-concurso-publico-com-salarios-de-ate-10428)
