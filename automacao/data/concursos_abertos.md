@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 24/09/2026_
+_Atualizado em 25/09/2026_
 
-Total: **510** concursos encontrados.
+Total: **507** concursos encontrados.
 
 ---
 
@@ -48,7 +48,7 @@ Total: **510** concursos encontrados.
 
 ---
 
-## FAURGS (29)
+## FAURGS (28)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -165,12 +165,6 @@ Total: **510** concursos encontrados.
 ### LAPAV
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1282-112026lapav)
 - **Cargos:** Técnico de Obras, Laboratorista
-
-### LACT
-[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1283-122026lact)
-- **Cargos:** COLETADOR I
-- **Órgão/Local:** LACT
-- **Encerramento:** 25/09/2026
 
 ### FAURGS
 [🔗 Edital](https://portalfaurgs.com.br/Portal/Aluno/Acesso)
@@ -417,7 +411,7 @@ Total: **510** concursos encontrados.
 
 ---
 
-## PCI (355)
+## PCI (353)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1966,13 +1960,6 @@ Total: **510** concursos encontrados.
 ### AgSUS
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/agsus-abre-processo-seletivo-para-formacao-de-cCadastro-de-reserva-no-projeto-sesmt)
 
-### Câmara de Itaju
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-itaju-sp-abre-concurso-publico-para-agente-administrativo)
-- **Cargos:** Agente Administrativo
-- **Órgão/Local:** SP, São Paulo - SP
-- **Salário máx.:** R$ 3.242,00
-- **Encerramento:** 25/09/2026
-
 ### SEAP - MA
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/seap-ma-abre-concurso-publico-com-vagas-imediatas-e-cada)
 - **Cargos:** Diversos Cargos
@@ -2172,12 +2159,6 @@ Total: **510** concursos encontrados.
 - **Órgão/Local:** SP, Sao Paulo - SP
 - **Salário máx.:** R$ 2.664,61
 - **Encerramento:** 12/10/2026
-
-### FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-sp-abre-quatro-processos-seletivos-com-vagas-para-botucatu)
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 6.077,09
-- **Encerramento:** 25/09/2026
 
 ### EMATER - MG
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/emater-mg-anuncia-retificacao-de-concurso-publico-com-salarios-de-ate-7321)

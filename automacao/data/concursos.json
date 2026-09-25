@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-09-23T13:56:28.307080+00:00",
-    "total_concursos": 510
+    "ultima_coleta": "2026-09-25T13:48:23.140129+00:00",
+    "total_concursos": 507
   },
   "concursos": [
     {
@@ -6420,21 +6420,6 @@
       "data_coleta": "2026-08-27T18:56:39.435445+00:00"
     },
     {
-      "instituicao": "Câmara de Itaju",
-      "orgao": "SP, São Paulo - SP",
-      "cargos": [
-        "Agente Administrativo"
-      ],
-      "salario_maximo": "R$ 3.242,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-itaju-sp-abre-concurso-publico-para-agente-administrativo",
-      "data_encerramento": "25/09/2026",
-      "data_publicacao": "2026-08-27",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "f4c2f496-d6e2-4bd7-9d64-f6b4f266c812",
-      "data_coleta": "2026-08-27T18:56:39.435674+00:00"
-    },
-    {
       "instituicao": "SEAP - MA",
       "orgao": "MA",
       "cargos": [
@@ -7248,21 +7233,6 @@
       "data_publicacao": "2026-09-14"
     },
     {
-      "instituicao": "LACT",
-      "orgao": "LACT",
-      "cargos": [
-        "COLETADOR I"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://portalfaurgs.com.br/concursosFaurgs/emandamento/1283-122026lact",
-      "data_encerramento": "25/09/2026",
-      "data_publicacao": "14/09/2026",
-      "status": "aberto",
-      "fonte": "FAURGS",
-      "id": "64381b2c-418b-4104-8074-0d6e22f4697c",
-      "data_coleta": "2026-09-15T13:18:12.004644+00:00"
-    },
-    {
       "instituicao": "FAURGS",
       "orgao": null,
       "cargos": [
@@ -7325,19 +7295,6 @@
       "fonte": "PCI",
       "id": "0ccaad27-5be8-4442-8b44-bd10d0e92fa1",
       "data_coleta": "2026-09-16T13:14:42.248148+00:00"
-    },
-    {
-      "instituicao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
-      "orgao": "SP, Sao Paulo - SP",
-      "cargos": [],
-      "salario_maximo": "R$ 6.077,09",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/famesp-sp-abre-quatro-processos-seletivos-com-vagas-para-botucatu",
-      "data_encerramento": "25/09/2026",
-      "data_publicacao": "2026-09-16",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "91c9900e-cc0e-42c3-ae35-8f3aace79d9b",
-      "data_coleta": "2026-09-16T13:14:42.248326+00:00"
     },
     {
       "instituicao": "EMATER - MG",
