@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 26/09/2026_
+_Atualizado em 27/09/2026_
 
-Total: **507** concursos encontrados.
+Total: **506** concursos encontrados.
 
 ---
 
@@ -411,7 +411,7 @@ Total: **507** concursos encontrados.
 
 ---
 
-## PCI (353)
+## PCI (352)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1827,12 +1827,6 @@ Total: **507** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-aracaju-se-reabre-inscricoes-do-concurso-para-guarda-municipal)
 - **Cargos:** Guarda Municipal
 - **Órgão/Local:** SE, Aracaju - SE
-
-### Câmara de Martinópolis
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-martinopolis-sp-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva)
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 5.995,65
-- **Encerramento:** 27/09/2026
 
 ### Prefeitura de Limeira - SP
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-limeira-sp-publica-edital-de-processo-seletivo-para-professores-substitutos)

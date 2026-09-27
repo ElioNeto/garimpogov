@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-09-25T13:48:23.140129+00:00",
-    "total_concursos": 507
+    "ultima_coleta": "2026-09-27T14:03:23.937833+00:00",
+    "total_concursos": 506
   },
   "concursos": [
     {
@@ -5833,19 +5833,6 @@
       "fonte": "PCI",
       "id": "e5fef0b0-94d4-43a0-ba4a-698d567adff2",
       "data_coleta": "2026-08-12T09:37:49.459929+00:00"
-    },
-    {
-      "instituicao": "Câmara de Martinópolis",
-      "orgao": "SP",
-      "cargos": [],
-      "salario_maximo": "R$ 5.995,65",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-martinopolis-sp-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
-      "data_encerramento": "27/09/2026",
-      "data_publicacao": "2026-08-13",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "089d698a-9750-4f9a-a26f-a8904de69b6e",
-      "data_coleta": "2026-08-13T09:31:10.140601+00:00"
     },
     {
       "instituicao": "LAMEF",
