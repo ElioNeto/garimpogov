@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 28/09/2026_
+_Atualizado em 29/09/2026_
 
-Total: **506** concursos encontrados.
+Total: **505** concursos encontrados.
 
 ---
 
@@ -411,7 +411,7 @@ Total: **506** concursos encontrados.
 
 ---
 
-## PCI (352)
+## PCI (351)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1767,12 +1767,6 @@ Total: **506** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos)
 - **Órgão/Local:** DATAPREV
 - **Salário máx.:** R$ 10.685,44
-
-### CaraguaPrev - Instituto de Previdência do Município de Caraguatatuba
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/caraguaprev-sp-abre-concurso-publico-com-salarios-de-ate-7104)
-- **Órgão/Local:** São Paulo - SP
-- **Salário máx.:** R$ 7.104,30
-- **Encerramento:** 29/09/2026
 
 ### SEPLAG
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/seplag-al-publica-edital-de-concurso-publico-para-agente-e-escrivao-na-policia-civil)

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-09-27T14:03:23.937833+00:00",
-    "total_concursos": 506
+    "ultima_coleta": "2026-09-29T15:06:07.212161+00:00",
+    "total_concursos": 505
   },
   "concursos": [
     {
@@ -5651,19 +5651,6 @@
       "id": "dcd3da3d-5f01-4df6-9582-f7090c9f057a",
       "data_coleta": "2026-08-09T08:58:09.910427+00:00",
       "data_publicacao": "2026-08-09"
-    },
-    {
-      "instituicao": "CaraguaPrev - Instituto de Previdência do Município de Caraguatatuba",
-      "orgao": "São Paulo - SP",
-      "cargos": [],
-      "salario_maximo": "R$ 7.104,30",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/caraguaprev-sp-abre-concurso-publico-com-salarios-de-ate-7104",
-      "data_encerramento": "29/09/2026",
-      "data_publicacao": "10/08/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "8e2701d5-e8a2-452c-8b4c-448686744d58",
-      "data_coleta": "2026-08-10T09:40:39.082413+00:00"
     },
     {
       "instituicao": "BANRISUL",
