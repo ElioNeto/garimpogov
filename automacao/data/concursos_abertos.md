@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 01/10/2026_
+_Atualizado em 02/10/2026_
 
-Total: **505** concursos encontrados.
+Total: **504** concursos encontrados.
 
 ---
 
@@ -411,7 +411,7 @@ Total: **505** concursos encontrados.
 
 ---
 
-## PCI (351)
+## PCI (350)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -2133,13 +2133,6 @@ Total: **505** concursos encontrados.
 - **Cargos:** Médico Neurologista Clínico
 - **Órgão/Local:** SP, Botucatu - SP
 - **Salário máx.:** R$ 6.077,09
-
-### Câmara de Itápolis
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-itapolis-sp-abre-concurso-publico-para-tecnico-de-som-e-imagem)
-- **Cargos:** Técnico de Som e Imagem
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 3.043,13
-- **Encerramento:** 02/10/2026
 
 ### Câmara de Jeriquara
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-jeriquara-sp-abre-concurso-para-o-cargo-de-controlador-interno)

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-09-29T15:06:07.212161+00:00",
-    "total_concursos": 505
+    "ultima_coleta": "2026-10-02T14:58:09.184841+00:00",
+    "total_concursos": 504
   },
   "concursos": [
     {
@@ -7239,21 +7239,6 @@
       "fonte": "FAURGS",
       "id": "b83dbc66-a17c-4f61-90d8-04af004cf90a",
       "data_coleta": "2026-09-15T13:18:12.004816+00:00"
-    },
-    {
-      "instituicao": "Câmara de Itápolis",
-      "orgao": "SP, Sao Paulo - SP",
-      "cargos": [
-        "Técnico de Som e Imagem"
-      ],
-      "salario_maximo": "R$ 3.043,13",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-itapolis-sp-abre-concurso-publico-para-tecnico-de-som-e-imagem",
-      "data_encerramento": "02/10/2026",
-      "data_publicacao": "2026-09-16",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "c375eba1-c951-48c3-a39e-a786cdc80d67",
-      "data_coleta": "2026-09-16T13:14:42.248093+00:00"
     },
     {
       "instituicao": "Câmara de Jeriquara",
