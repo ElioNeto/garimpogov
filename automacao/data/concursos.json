@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-10-02T14:58:09.184841+00:00",
-    "total_concursos": 504
+    "ultima_coleta": "2026-10-05T17:17:57.500837+00:00",
+    "total_concursos": 503
   },
   "concursos": [
     {
@@ -7468,21 +7468,6 @@
       "fonte": "PCI",
       "id": "61f56d7e-5f2b-44e8-a942-756c378090ea",
       "data_coleta": "2026-09-21T15:06:33.132498+00:00"
-    },
-    {
-      "instituicao": "CMDCA - Conselho Municipal dos Direitos da Criança e do Adolescente de Timburi",
-      "orgao": "SP, Timburi - SP",
-      "cargos": [
-        "Conselheiro Tutelar"
-      ],
-      "salario_maximo": "R$ 2.600,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/cmdca-de-timburi-sp-abre-processo-de-escolha-suplementar-para-conselheiro-tutelar",
-      "data_encerramento": "05/10/2026",
-      "data_publicacao": "2026-09-21",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "61ca86d3-505a-41ee-b240-0704e53159df",
-      "data_coleta": "2026-09-21T15:06:33.132542+00:00"
     },
     {
       "instituicao": "CRECI - Conselho Regional de Corretores de Imóveis do Estado de São Paulo",

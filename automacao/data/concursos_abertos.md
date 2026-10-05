@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 04/10/2026_
+_Atualizado em 05/10/2026_
 
-Total: **504** concursos encontrados.
+Total: **503** concursos encontrados.
 
 ---
 
@@ -411,7 +411,7 @@ Total: **504** concursos encontrados.
 
 ---
 
-## PCI (350)
+## PCI (349)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -2199,13 +2199,6 @@ Total: **504** concursos encontrados.
 - **Órgão/Local:** SP, Paulistânia - SP
 - **Salário máx.:** R$ 5.700,14
 - **Encerramento:** 17/10/2026
-
-### CMDCA - Conselho Municipal dos Direitos da Criança e do Adolescente de Timburi
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/cmdca-de-timburi-sp-abre-processo-de-escolha-suplementar-para-conselheiro-tutelar)
-- **Cargos:** Conselheiro Tutelar
-- **Órgão/Local:** SP, Timburi - SP
-- **Salário máx.:** R$ 2.600,00
-- **Encerramento:** 05/10/2026
 
 ### CRECI - Conselho Regional de Corretores de Imóveis do Estado de São Paulo
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/creci-sp-anuncia-concurso-)
