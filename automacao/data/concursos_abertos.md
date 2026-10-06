@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 05/10/2026_
+_Atualizado em 06/10/2026_
 
-Total: **503** concursos encontrados.
+Total: **502** concursos encontrados.
 
 ---
 
@@ -411,7 +411,7 @@ Total: **503** concursos encontrados.
 
 ---
 
-## PCI (349)
+## PCI (348)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -2063,12 +2063,6 @@ Total: **503** concursos encontrados.
 - **Órgão/Local:** SP, São Paulo - SP
 - **Salário máx.:** R$ 3.378,77
 - **Encerramento:** 07/10/2026
-
-### Câmara de Rio das Pedras
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-rio-das-pedras-sp-abre-concurso-com-salarios-de-ate-5856-50)
-- **Órgão/Local:** SP, São Paulo - SP
-- **Salário máx.:** R$ 5.856,50
-- **Encerramento:** 06/10/2026
 
 ### Prefeitura de Caruaru - PE
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-caruaru-pe-ab)

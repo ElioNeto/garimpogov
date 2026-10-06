@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-10-05T17:17:57.500837+00:00",
-    "total_concursos": 503
+    "ultima_coleta": "2026-10-06T15:13:51.589989+00:00",
+    "total_concursos": 502
   },
   "concursos": [
     {
@@ -6926,19 +6926,6 @@
       "fonte": "PCI",
       "id": "cf67c56e-224b-4136-9e7e-bf7cd04c4aba",
       "data_coleta": "2026-09-05T11:45:53.473910+00:00"
-    },
-    {
-      "instituicao": "Câmara de Rio das Pedras",
-      "orgao": "SP, São Paulo - SP",
-      "cargos": [],
-      "salario_maximo": "R$ 5.856,50",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-rio-das-pedras-sp-abre-concurso-com-salarios-de-ate-5856-50",
-      "data_encerramento": "06/10/2026",
-      "data_publicacao": "2026-09-05",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "74c22332-ee74-4ed3-b361-51e836ce263c",
-      "data_coleta": "2026-09-05T11:45:53.473974+00:00"
     },
     {
       "instituicao": "Prefeitura de Caruaru - PE",
