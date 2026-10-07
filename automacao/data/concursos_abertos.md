@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 06/10/2026_
+_Atualizado em 07/10/2026_
 
-Total: **502** concursos encontrados.
+Total: **500** concursos encontrados.
 
 ---
 
@@ -411,7 +411,7 @@ Total: **502** concursos encontrados.
 
 ---
 
-## PCI (348)
+## PCI (346)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -2057,13 +2057,6 @@ Total: **502** concursos encontrados.
 - **Salário máx.:** R$ 7.097,00
 - **Encerramento:** 14/09 a 19/10/2026
 
-### Câmara de Garça
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-garca-sp-abre-concurso-publico-para-tecnico-legislativo)
-- **Cargos:** Técnico Legislativo
-- **Órgão/Local:** SP, São Paulo - SP
-- **Salário máx.:** R$ 3.378,77
-- **Encerramento:** 07/10/2026
-
 ### Prefeitura de Caruaru - PE
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-caruaru-pe-ab)
 - **Cargos:** Auditor, Analista Fiscal
@@ -2102,13 +2095,6 @@ Total: **502** concursos encontrados.
 - **Órgão/Local:** São Paulo - SP
 - **Salário máx.:** R$ 4.567,06
 - **Encerramento:** 15/10/2026
-
-### DETRAN - Departamento Estadual de Trânsito de São Paulo
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/detran-sp-abre-concurso-com-145-vagas-para-agentes-estaduais-de-transito)
-- **Cargos:** Agente Estadual de Trânsito
-- **Órgão/Local:** São Paulo - SP
-- **Salário máx.:** R$ 5.702,18
-- **Encerramento:** 07/10/2026
 
 ### FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-anuncia-processo-seletivo-para-medic)

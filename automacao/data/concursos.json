@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-10-06T15:13:51.589989+00:00",
-    "total_concursos": 502
+    "ultima_coleta": "2026-10-07T15:33:37.943262+00:00",
+    "total_concursos": 500
   },
   "concursos": [
     {
@@ -6913,21 +6913,6 @@
       "data_coleta": "2026-09-05T11:45:53.473842+00:00"
     },
     {
-      "instituicao": "Câmara de Garça",
-      "orgao": "SP, São Paulo - SP",
-      "cargos": [
-        "Técnico Legislativo"
-      ],
-      "salario_maximo": "R$ 3.378,77",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-garca-sp-abre-concurso-publico-para-tecnico-legislativo",
-      "data_encerramento": "07/10/2026",
-      "data_publicacao": "2026-09-05",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "cf67c56e-224b-4136-9e7e-bf7cd04c4aba",
-      "data_coleta": "2026-09-05T11:45:53.473910+00:00"
-    },
-    {
       "instituicao": "Prefeitura de Caruaru - PE",
       "orgao": "Caruaru, PE",
       "cargos": [
@@ -7069,21 +7054,6 @@
       "fonte": "PCI",
       "id": "92b9477a-d886-49b8-a14e-5c15ffa6d28c",
       "data_coleta": "2026-09-13T13:17:09.531142+00:00"
-    },
-    {
-      "instituicao": "DETRAN - Departamento Estadual de Trânsito de São Paulo",
-      "orgao": "São Paulo - SP",
-      "cargos": [
-        "Agente Estadual de Trânsito"
-      ],
-      "salario_maximo": "R$ 5.702,18",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/detran-sp-abre-concurso-com-145-vagas-para-agentes-estaduais-de-transito",
-      "data_encerramento": "07/10/2026",
-      "data_publicacao": "13/09/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "028cf7ae-e28b-4358-9940-cc613923d512",
-      "data_coleta": "2026-09-13T13:17:09.531183+00:00"
     },
     {
       "instituicao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
