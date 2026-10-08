@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 07/10/2026_
+_Atualizado em 08/10/2026_
 
-Total: **500** concursos encontrados.
+Total: **499** concursos encontrados.
 
 ---
 
@@ -411,7 +411,7 @@ Total: **500** concursos encontrados.
 
 ---
 
-## PCI (346)
+## PCI (345)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1930,12 +1930,6 @@ Total: **500** concursos encontrados.
 
 ### UFPE
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/ufpe-publica-retificacao-do-concurso-para-cargos-tecnico-administrativos)
-
-### Câmara de Assis
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-assis-sp-abre-concurso-publico-com-salarios-de-ate-8510)
-- **Órgão/Local:** SP, Assis - SP
-- **Salário máx.:** R$ 8.510,00
-- **Encerramento:** 08/10/2026
 
 ### EMDAEP - Empresa de Desenvolvimento, Água, Esgoto e Pavimentação de Dracena
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/emdaep-de-dracena-sp-abre-concurso-com-vagas-ime)

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-10-07T15:33:37.943262+00:00",
-    "total_concursos": 500
+    "ultima_coleta": "2026-10-08T15:41:45.477562+00:00",
+    "total_concursos": 499
   },
   "concursos": [
     {
@@ -6294,19 +6294,6 @@
       "fonte": "PCI",
       "id": "e84b1451-4898-4d76-8fea-867bc07ba800",
       "data_coleta": "2026-08-23T08:46:33.531437+00:00"
-    },
-    {
-      "instituicao": "Câmara de Assis",
-      "orgao": "SP, Assis - SP",
-      "cargos": [],
-      "salario_maximo": "R$ 8.510,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-assis-sp-abre-concurso-publico-com-salarios-de-ate-8510",
-      "data_encerramento": "08/10/2026",
-      "data_publicacao": "2026-08-25",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "1df6bee9-cc37-4ec8-b09a-6d4318de32ee",
-      "data_coleta": "2026-08-25T08:55:02.143195+00:00"
     },
     {
       "instituicao": "EMDAEP - Empresa de Desenvolvimento, Água, Esgoto e Pavimentação de Dracena",
