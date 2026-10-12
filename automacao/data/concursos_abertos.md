@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 11/10/2026_
+_Atualizado em 12/10/2026_
 
-Total: **499** concursos encontrados.
+Total: **497** concursos encontrados.
 
 ---
 
@@ -48,7 +48,7 @@ Total: **499** concursos encontrados.
 
 ---
 
-## FAURGS (28)
+## FAURGS (27)
 
 ### HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
 [🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1267-012026hospitaldeclinicasdeportoalegre)
@@ -173,11 +173,6 @@ Total: **499** concursos encontrados.
 ### FAURGS
 [🔗 Edital](https://portalfaurgs.com.br/Portal/Acadêmico)
 - **Cargos:** Bolsista, Acadêmico, Coordenador
-
-### CPD/UFRGS
-[🔗 Edital](https://portalfaurgs.com.br/concursosFaurgs/emandamento/1284-132026ufrgs)
-- **Cargos:** Programador de Redes
-- **Encerramento:** 12/10/2026
 
 ---
 
@@ -411,7 +406,7 @@ Total: **499** concursos encontrados.
 
 ---
 
-## PCI (345)
+## PCI (344)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -2107,13 +2102,6 @@ Total: **499** concursos encontrados.
 - **Cargos:** Médico Neurologista Clínico
 - **Órgão/Local:** SP, Botucatu - SP
 - **Salário máx.:** R$ 6.077,09
-
-### Câmara de Jeriquara
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-jeriquara-sp-abre-concurso-para-o-cargo-de-controlador-interno)
-- **Cargos:** Controlador Interno
-- **Órgão/Local:** SP, Sao Paulo - SP
-- **Salário máx.:** R$ 2.664,61
-- **Encerramento:** 12/10/2026
 
 ### EMATER - MG
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/emater-mg-anuncia-retificacao-de-concurso-publico-com-salarios-de-ate-7321)

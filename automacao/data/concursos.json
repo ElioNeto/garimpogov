@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-10-08T15:41:45.477562+00:00",
-    "total_concursos": 499
+    "ultima_coleta": "2026-10-12T17:48:03.004483+00:00",
+    "total_concursos": 497
   },
   "concursos": [
     {
@@ -7185,21 +7185,6 @@
       "data_coleta": "2026-09-15T13:18:12.004816+00:00"
     },
     {
-      "instituicao": "Câmara de Jeriquara",
-      "orgao": "SP, Sao Paulo - SP",
-      "cargos": [
-        "Controlador Interno"
-      ],
-      "salario_maximo": "R$ 2.664,61",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-jeriquara-sp-abre-concurso-para-o-cargo-de-controlador-interno",
-      "data_encerramento": "12/10/2026",
-      "data_publicacao": "2026-09-16",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "0ccaad27-5be8-4442-8b44-bd10d0e92fa1",
-      "data_coleta": "2026-09-16T13:14:42.248148+00:00"
-    },
-    {
       "instituicao": "EMATER - MG",
       "orgao": "MG",
       "cargos": [],
@@ -7336,21 +7321,6 @@
       "fonte": "DOE-BA",
       "id": "1337a9fe-7c14-4781-8367-9841635b0df3",
       "data_coleta": "2026-09-20T13:00:56.111457+00:00"
-    },
-    {
-      "instituicao": "CPD/UFRGS",
-      "orgao": null,
-      "cargos": [
-        "Programador de Redes"
-      ],
-      "salario_maximo": null,
-      "link_edital": "https://portalfaurgs.com.br/concursosFaurgs/emandamento/1284-132026ufrgs",
-      "data_encerramento": "12/10/2026",
-      "data_publicacao": "2026-09-21",
-      "status": "aberto",
-      "fonte": "FAURGS",
-      "id": "c8a18a74-70e1-435e-a701-b8436dc562b8",
-      "data_coleta": "2026-09-21T15:06:33.132095+00:00"
     },
     {
       "instituicao": "Câmara de Barão de Antonina",
