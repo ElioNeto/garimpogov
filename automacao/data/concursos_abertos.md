@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 14/10/2026_
+_Atualizado em 15/10/2026_
 
-Total: **497** concursos encontrados.
+Total: **496** concursos encontrados.
 
 ---
 
@@ -406,7 +406,7 @@ Total: **497** concursos encontrados.
 
 ---
 
-## PCI (344)
+## PCI (343)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -2078,12 +2078,6 @@ Total: **497** concursos encontrados.
 - **Órgão/Local:** São Paulo - SP
 - **Salário máx.:** R$ 10.428,05
 - **Encerramento:** 04/12/2026
-
-### Consórcio Intermunicipal de Saúde "08 de Abril"
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/consorcio-intermunicipal-de-saude-08-de-abril-sp-abre-processo-seletivo-para-diversas-areas)
-- **Órgão/Local:** São Paulo - SP
-- **Salário máx.:** R$ 4.567,06
-- **Encerramento:** 15/10/2026
 
 ### FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/famesp-anuncia-processo-seletivo-para-medic)

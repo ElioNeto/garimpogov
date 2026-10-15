@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-10-12T17:48:03.004483+00:00",
-    "total_concursos": 497
+    "ultima_coleta": "2026-10-15T13:29:42.518407+00:00",
+    "total_concursos": 496
   },
   "concursos": [
     {
@@ -7028,19 +7028,6 @@
       "fonte": "PCI",
       "id": "601b60ca-27f7-4572-9252-73fcf0fa5127",
       "data_coleta": "2026-09-13T13:17:09.530919+00:00"
-    },
-    {
-      "instituicao": "Consórcio Intermunicipal de Saúde \"08 de Abril\"",
-      "orgao": "São Paulo - SP",
-      "cargos": [],
-      "salario_maximo": "R$ 4.567,06",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/consorcio-intermunicipal-de-saude-08-de-abril-sp-abre-processo-seletivo-para-diversas-areas",
-      "data_encerramento": "15/10/2026",
-      "data_publicacao": "13/09/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "92b9477a-d886-49b8-a14e-5c15ffa6d28c",
-      "data_coleta": "2026-09-13T13:17:09.531142+00:00"
     },
     {
       "instituicao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
