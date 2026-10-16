@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-10-15T13:29:42.518407+00:00",
-    "total_concursos": 496
+    "ultima_coleta": "2026-10-16T13:27:39.745438+00:00",
+    "total_concursos": 494
   },
   "concursos": [
     {
@@ -5994,35 +5994,6 @@
       "fonte": "PCI",
       "id": "766b70a1-4c4d-4614-8e78-f992c7e6921f",
       "data_coleta": "2026-08-18T09:10:30.516390+00:00"
-    },
-    {
-      "instituicao": "AgSUS - Agência Brasileira de Apoio à Gestão do SUS",
-      "orgao": "NACIONAL",
-      "cargos": [
-        "Técnico",
-        "Superior"
-      ],
-      "salario_maximo": "R$ 10.302,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/agsus-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva-no-projeto-sesmt",
-      "data_encerramento": "16/10/2026",
-      "data_publicacao": "19/08/2026",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "ff40cd3a-07b2-457c-a3d5-7daff36b43c5",
-      "data_coleta": "2026-08-19T08:53:48.300111+00:00"
-    },
-    {
-      "instituicao": "AgSUS - Agência Brasileira de Apoio à Gestão do SUS",
-      "orgao": null,
-      "cargos": [],
-      "salario_maximo": "R$ 10.302,00",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/agsus-abre-processo-seletivo-para-formacao-de-c cadastro-de-reserva-no-projeto-sesmt",
-      "data_encerramento": "16/10/2026",
-      "data_publicacao": "2026-08-19",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "3adb44e7-a60f-4e46-826d-995f207ebe09",
-      "data_coleta": "2026-08-19T08:53:48.300502+00:00"
     },
     {
       "instituicao": "Prefeitura de Marialva - PR",

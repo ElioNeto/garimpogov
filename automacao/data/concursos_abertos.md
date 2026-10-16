@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 15/10/2026_
+_Atualizado em 16/10/2026_
 
-Total: **496** concursos encontrados.
+Total: **494** concursos encontrados.
 
 ---
 
@@ -406,7 +406,7 @@ Total: **496** concursos encontrados.
 
 ---
 
-## PCI (343)
+## PCI (341)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -1855,18 +1855,6 @@ Total: **496** concursos encontrados.
 ### Prefeitura de Santos
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-santos-sp-divulga-retificacoes-de-concursos-publicus)
 - **Órgão/Local:** SP, Santos - SP
-
-### AgSUS - Agência Brasileira de Apoio à Gestão do SUS
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/agsus-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva-no-projeto-sesmt)
-- **Cargos:** Técnico, Superior
-- **Órgão/Local:** NACIONAL
-- **Salário máx.:** R$ 10.302,00
-- **Encerramento:** 16/10/2026
-
-### AgSUS - Agência Brasileira de Apoio à Gestão do SUS
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/agsus-abre-processo-seletivo-para-formacao-de-c cadastro-de-reserva-no-projeto-sesmt)
-- **Salário máx.:** R$ 10.302,00
-- **Encerramento:** 16/10/2026
 
 ### Prefeitura de Marialva - PR
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/prefeitura-de-marialva-pr-abre-concurso-publico-com-salarios-de-ate-6768)
