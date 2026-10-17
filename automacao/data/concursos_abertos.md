@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 16/10/2026_
+_Atualizado em 17/10/2026_
 
-Total: **494** concursos encontrados.
+Total: **493** concursos encontrados.
 
 ---
 
@@ -406,7 +406,7 @@ Total: **494** concursos encontrados.
 
 ---
 
-## PCI (341)
+## PCI (340)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -2136,13 +2136,6 @@ Total: **494** concursos encontrados.
 - **Órgão/Local:** SP, Dois Córregos - SP
 - **Salário máx.:** R$ 7.114,33
 - **Encerramento:** 22/10/2026
-
-### Câmara de Paulistânia
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-paulistania-sp-abre-concurso-publico-com-vagas-para-assistente-contabil-e-consultor-juridico)
-- **Cargos:** Assistente Contábil do Legislativo, Consultor Jurídico do Legislativo
-- **Órgão/Local:** SP, Paulistânia - SP
-- **Salário máx.:** R$ 5.700,14
-- **Encerramento:** 17/10/2026
 
 ### CRECI - Conselho Regional de Corretores de Imóveis do Estado de São Paulo
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/creci-sp-anuncia-concurso-)

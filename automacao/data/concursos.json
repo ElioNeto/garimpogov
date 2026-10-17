@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-10-16T13:27:39.745438+00:00",
-    "total_concursos": 494
+    "ultima_coleta": "2026-10-17T12:27:18.406502+00:00",
+    "total_concursos": 493
   },
   "concursos": [
     {
@@ -7324,22 +7324,6 @@
       "fonte": "PCI",
       "id": "d5bf1ba3-e542-465f-bdf4-198d103934af",
       "data_coleta": "2026-09-21T15:06:33.132407+00:00"
-    },
-    {
-      "instituicao": "Câmara de Paulistânia",
-      "orgao": "SP, Paulistânia - SP",
-      "cargos": [
-        "Assistente Contábil do Legislativo",
-        "Consultor Jurídico do Legislativo"
-      ],
-      "salario_maximo": "R$ 5.700,14",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-paulistania-sp-abre-concurso-publico-com-vagas-para-assistente-contabil-e-consultor-juridico",
-      "data_encerramento": "17/10/2026",
-      "data_publicacao": "2026-09-21",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "61f56d7e-5f2b-44e8-a942-756c378090ea",
-      "data_coleta": "2026-09-21T15:06:33.132498+00:00"
     },
     {
       "instituicao": "CRECI - Conselho Regional de Corretores de Imóveis do Estado de São Paulo",
