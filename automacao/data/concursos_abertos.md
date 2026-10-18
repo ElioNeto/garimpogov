@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 17/10/2026_
+_Atualizado em 18/10/2026_
 
-Total: **493** concursos encontrados.
+Total: **492** concursos encontrados.
 
 ---
 
@@ -406,7 +406,7 @@ Total: **493** concursos encontrados.
 
 ---
 
-## PCI (340)
+## PCI (339)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -2053,13 +2053,6 @@ Total: **493** concursos encontrados.
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-itanhaem-sp-abre-concurso-publico-com-salarios-de-ate-7)
 - **Órgão/Local:** SP, São Paulo - SP
 - **Salário máx.:** R$ 7.097,00
-
-### Câmara de Estrela do Norte
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-estrela-do-norte-sp-abre-concurso-publico-para-continuo-e-encarregado-administrativo)
-- **Cargos:** Encarregado Administrativo, Contínuo
-- **Órgão/Local:** SP
-- **Salário máx.:** R$ 3.627,34
-- **Encerramento:** 18/10/2026
 
 ### SETEC - Serviços Técnicos Gerais de Campinas
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/setec-campinas-sp-abre-concurso-publico-com-salarios-de-ate-10428)

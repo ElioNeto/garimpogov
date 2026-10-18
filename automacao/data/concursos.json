@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-10-17T12:27:18.406502+00:00",
-    "total_concursos": 493
+    "ultima_coleta": "2026-10-18T12:55:27.883812+00:00",
+    "total_concursos": 492
   },
   "concursos": [
     {
@@ -6955,22 +6955,6 @@
       "fonte": "DOE-BA",
       "id": "45ee1c35-a071-467f-bd2d-b27a9b5e6622",
       "data_coleta": "2026-09-11T12:44:45.451407+00:00"
-    },
-    {
-      "instituicao": "Câmara de Estrela do Norte",
-      "orgao": "SP",
-      "cargos": [
-        "Encarregado Administrativo",
-        "Contínuo"
-      ],
-      "salario_maximo": "R$ 3.627,34",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-estrela-do-norte-sp-abre-concurso-publico-para-continuo-e-encarregado-administrativo",
-      "data_encerramento": "18/10/2026",
-      "data_publicacao": "2026-09-11",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "c08a4a13-b35e-4e6e-bba3-e5e246dc2e76",
-      "data_coleta": "2026-09-11T12:44:45.451735+00:00"
     },
     {
       "instituicao": "Prefeitura de Blumenau",
