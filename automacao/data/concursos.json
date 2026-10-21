@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-10-18T12:55:27.883812+00:00",
-    "total_concursos": 492
+    "ultima_coleta": "2026-10-21T13:55:20.768293+00:00",
+    "total_concursos": 491
   },
   "concursos": [
     {
@@ -7263,21 +7263,6 @@
       "fonte": "DOE-BA",
       "id": "1337a9fe-7c14-4781-8367-9841635b0df3",
       "data_coleta": "2026-09-20T13:00:56.111457+00:00"
-    },
-    {
-      "instituicao": "Câmara de Barão de Antonina",
-      "orgao": "SP, Barão de Antonina - SP",
-      "cargos": [
-        "Advogado"
-      ],
-      "salario_maximo": "R$ 6.603,39",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-barao-de-antonina-sp-abre-concurso-publico-para-o-cargo-de-advogado",
-      "data_encerramento": "21/10/2026",
-      "data_publicacao": "2026-09-21",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "aa46b8c0-2b14-4855-bc02-4da4082f0be6",
-      "data_coleta": "2026-09-21T15:06:33.132346+00:00"
     },
     {
       "instituicao": "Câmara de Boituva",

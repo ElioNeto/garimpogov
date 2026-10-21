@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 20/10/2026_
+_Atualizado em 21/10/2026_
 
-Total: **492** concursos encontrados.
+Total: **491** concursos encontrados.
 
 ---
 
@@ -406,7 +406,7 @@ Total: **492** concursos encontrados.
 
 ---
 
-## PCI (339)
+## PCI (338)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -2108,13 +2108,6 @@ Total: **492** concursos encontrados.
 ### Funai
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/funai-retifica-processo-seletivo-para-especialistas-temporarios-em-protecao-territorial)
 - **Cargos:** Especialistas Temporários em Proteção Territorial
-
-### Câmara de Barão de Antonina
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-barao-de-antonina-sp-abre-concurso-publico-para-o-cargo-de-advogado)
-- **Cargos:** Advogado
-- **Órgão/Local:** SP, Barão de Antonina - SP
-- **Salário máx.:** R$ 6.603,39
-- **Encerramento:** 21/10/2026
 
 ### Câmara de Boituva
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-boituva-sp-abre-concursos-com-salarios-de-ate-8595)
