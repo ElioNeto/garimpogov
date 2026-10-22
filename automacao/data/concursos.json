@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-10-21T13:55:20.768293+00:00",
-    "total_concursos": 491
+    "ultima_coleta": "2026-10-22T13:55:32.626030+00:00",
+    "total_concursos": 490
   },
   "concursos": [
     {
@@ -7278,21 +7278,6 @@
       "fonte": "PCI",
       "id": "3744be5d-8eeb-46f4-86fd-6bd3ced2e04c",
       "data_coleta": "2026-09-21T15:06:33.132370+00:00"
-    },
-    {
-      "instituicao": "Câmara de Dois Córregos",
-      "orgao": "SP, Dois Córregos - SP",
-      "cargos": [
-        "Não informado"
-      ],
-      "salario_maximo": "R$ 7.114,33",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-dois-corregos-sp-abre-concurso-publico-com-salarios-de-ate-7114",
-      "data_encerramento": "22/10/2026",
-      "data_publicacao": "2026-09-21",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "d5bf1ba3-e542-465f-bdf4-198d103934af",
-      "data_coleta": "2026-09-21T15:06:33.132407+00:00"
     },
     {
       "instituicao": "CRECI - Conselho Regional de Corretores de Imóveis do Estado de São Paulo",

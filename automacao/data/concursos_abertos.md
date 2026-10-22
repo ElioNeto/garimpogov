@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 21/10/2026_
+_Atualizado em 22/10/2026_
 
-Total: **491** concursos encontrados.
+Total: **490** concursos encontrados.
 
 ---
 
@@ -406,7 +406,7 @@ Total: **491** concursos encontrados.
 
 ---
 
-## PCI (338)
+## PCI (337)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -2115,13 +2115,6 @@ Total: **491** concursos encontrados.
 - **Órgão/Local:** SP, Boituva - SP
 - **Salário máx.:** R$ 8.595,15
 - **Encerramento:** 09/11/2026
-
-### Câmara de Dois Córregos
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-dois-corregos-sp-abre-concurso-publico-com-salarios-de-ate-7114)
-- **Cargos:** Não informado
-- **Órgão/Local:** SP, Dois Córregos - SP
-- **Salário máx.:** R$ 7.114,33
-- **Encerramento:** 22/10/2026
 
 ### CRECI - Conselho Regional de Corretores de Imóveis do Estado de São Paulo
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/creci-sp-anuncia-concurso-)
