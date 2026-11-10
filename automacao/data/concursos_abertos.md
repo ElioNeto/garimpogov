@@ -1,8 +1,8 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 08/11/2026_
+_Atualizado em 10/11/2026_
 
-Total: **490** concursos encontrados.
+Total: **489** concursos encontrados.
 
 ---
 
@@ -406,7 +406,7 @@ Total: **490** concursos encontrados.
 
 ---
 
-## PCI (337)
+## PCI (336)
 
 ### Comando da Aeronáutica
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos)
@@ -2108,13 +2108,6 @@ Total: **490** concursos encontrados.
 ### Funai
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/funai-retifica-processo-seletivo-para-especialistas-temporarios-em-protecao-territorial)
 - **Cargos:** Especialistas Temporários em Proteção Territorial
-
-### Câmara de Boituva
-[🔗 Edital](https://www.pciconcursos.com.br/noticias/camara-de-boituva-sp-abre-concursos-com-salarios-de-ate-8595)
-- **Cargos:** Não informado
-- **Órgão/Local:** SP, Boituva - SP
-- **Salário máx.:** R$ 8.595,15
-- **Encerramento:** 09/11/2026
 
 ### CRECI - Conselho Regional de Corretores de Imóveis do Estado de São Paulo
 [🔗 Edital](https://www.pciconcursos.com.br/noticias/creci-sp-anuncia-concurso-)

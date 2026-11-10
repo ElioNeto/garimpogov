@@ -1,7 +1,7 @@
 {
   "meta": {
-    "ultima_coleta": "2026-10-22T13:55:32.626030+00:00",
-    "total_concursos": 490
+    "ultima_coleta": "2026-11-10T16:28:38.375267+00:00",
+    "total_concursos": 489
   },
   "concursos": [
     {
@@ -7263,21 +7263,6 @@
       "fonte": "DOE-BA",
       "id": "1337a9fe-7c14-4781-8367-9841635b0df3",
       "data_coleta": "2026-09-20T13:00:56.111457+00:00"
-    },
-    {
-      "instituicao": "Câmara de Boituva",
-      "orgao": "SP, Boituva - SP",
-      "cargos": [
-        "Não informado"
-      ],
-      "salario_maximo": "R$ 8.595,15",
-      "link_edital": "https://www.pciconcursos.com.br/noticias/camara-de-boituva-sp-abre-concursos-com-salarios-de-ate-8595",
-      "data_encerramento": "09/11/2026",
-      "data_publicacao": "2026-09-21",
-      "status": "aberto",
-      "fonte": "PCI",
-      "id": "3744be5d-8eeb-46f4-86fd-6bd3ced2e04c",
-      "data_coleta": "2026-09-21T15:06:33.132370+00:00"
     },
     {
       "instituicao": "CRECI - Conselho Regional de Corretores de Imóveis do Estado de São Paulo",
