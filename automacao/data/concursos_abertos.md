@@ -1,6 +1,6 @@
 # GarimpoGov — Todos os Concursos Abertos
 
-_Atualizado em 15/11/2026_
+_Atualizado em 16/11/2026_
 
 Total: **489** concursos encontrados.
 
